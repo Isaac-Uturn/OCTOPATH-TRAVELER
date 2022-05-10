@@ -1,0 +1,816 @@
+fileFormatVersion: 2
+guid: 82bbcddaa1317b84a87221db47397a12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7285187758665164490
+    second: Olberic_0
+  - first:
+      213: 4741015672354987961
+    second: Olberic_1
+  - first:
+      213: 1304081057350734166
+    second: Olberic_2
+  - first:
+      213: 7960071113585349978
+    second: Olberic_3
+  - first:
+      213: -5684409653545225822
+    second: Olberic_4
+  - first:
+      213: 322881348919685672
+    second: Olberic_5
+  - first:
+      213: -8770414428862829593
+    second: Olberic_6
+  - first:
+      213: -7444448792387754970
+    second: Olberic_7
+  - first:
+      213: -556124197216573704
+    second: Olberic_8
+  - first:
+      213: 2819270494613195356
+    second: Olberic_9
+  - first:
+      213: 8662491430261776414
+    second: Olberic_10
+  - first:
+      213: 2003356241537125689
+    second: Olberic_11
+  - first:
+      213: 845550138231323749
+    second: Olberic_12
+  - first:
+      213: 849246354444081643
+    second: Olberic_13
+  - first:
+      213: 6673598909670724486
+    second: Olberic_14
+  - first:
+      213: -1482881291170609804
+    second: Olberic_15
+  - first:
+      213: -8337964594648073564
+    second: Olberic_16
+  - first:
+      213: 7220017197886715759
+    second: Olberic_17
+  - first:
+      213: -7203634649987453225
+    second: Olberic_18
+  - first:
+      213: -6485156241197401283
+    second: Olberic_19
+  - first:
+      213: 6792731584095795134
+    second: Olberic_20
+  - first:
+      213: -3513702207007682852
+    second: Olberic_21
+  - first:
+      213: -5169454597350488320
+    second: Olberic_22
+  - first:
+      213: 9026389596425942286
+    second: Olberic_23
+  - first:
+      213: -161516570841740118
+    second: Olberic_24
+  - first:
+      213: -7160622474668774586
+    second: Olberic_25
+  - first:
+      213: -6468338806708252918
+    second: Olberic_26
+  - first:
+      213: 4963281284771306318
+    second: Olberic_27
+  - first:
+      213: 1196490519239398535
+    second: Olberic_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Olberic_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 390
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e24dfaaf2a1560800000000000000
+      internalID: 7285187758665164490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 390
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf574192a87bc140800000000000000
+      internalID: 4741015672354987961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 390
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651d4b5ffc6091210800000000000000
+      internalID: 1304081057350734166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 390
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555a18e08ad77e60800000000000000
+      internalID: 7960071113585349978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 390
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1b2a2998bec11b0800000000000000
+      internalID: -5684409653545225822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 390
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822f4fa40ea1b7400800000000000000
+      internalID: 322881348919685672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 390
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebabaa6b8a394680800000000000000
+      internalID: -8770414428862829593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 387
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6246425044100b890800000000000000
+      internalID: -7444448792387754970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 262
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f628e53dff3848f0800000000000000
+      internalID: -556124197216573704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 262
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac825e39f002720800000000000000
+      internalID: 2819270494613195356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 262
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e106e9a5f0a573870800000000000000
+      internalID: 8662491430261776414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 262
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93dc16f23e95dcb10800000000000000
+      internalID: 2003356241537125689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 262
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c7f0dee5ffbbb00800000000000000
+      internalID: 845550138231323749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 262
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be95f635f0129cb00800000000000000
+      internalID: 849246354444081643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_14
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 262
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6839b50a9d26d9c50800000000000000
+      internalID: 6673598909670724486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_15
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 262
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47504b3825fbb6be0800000000000000
+      internalID: -1482881291170609804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 134
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aab73aa069994c80800000000000000
+      internalID: -8337964594648073564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 134
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67bf306367a23460800000000000000
+      internalID: 7220017197886715759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 134
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de6dcbc37c870c90800000000000000
+      internalID: -7203634649987453225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 134
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b758a22c81006a0800000000000000
+      internalID: -6485156241197401283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 134
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb73b94e261a44e50800000000000000
+      internalID: 6792731584095795134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_21
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 134
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde0dc88572dc3fc0800000000000000
+      internalID: -3513702207007682852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_22
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 131
+        width: 70
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0070a62ce686248b0800000000000000
+      internalID: -5169454597350488320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_23
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 131
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05ff3b938d244d70800000000000000
+      internalID: 9026389596425942286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 6
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac83a9d88d22cdf0800000000000000
+      internalID: -161516570841740118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_25
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 6
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b60b24ccb50ac90800000000000000
+      internalID: -7160622474668774586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 6
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fc7434028db36a0800000000000000
+      internalID: -6468338806708252918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_27
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 6
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b532b280e11e440800000000000000
+      internalID: 4963281284771306318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Olberic_28
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 6
+        width: 68
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841368b9c9ca9010800000000000000
+      internalID: 1196490519239398535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

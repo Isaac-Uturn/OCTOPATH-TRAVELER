@@ -1,0 +1,7176 @@
+fileFormatVersion: 2
+guid: c2fd70d61bc261344bc09f59a3a9515b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8700600308379367081
+    second: Ophilia (Cleric)_0
+  - first:
+      213: -6427859809580854162
+    second: Ophilia (Cleric)_1
+  - first:
+      213: 5877682164072323904
+    second: Ophilia (Cleric)_2
+  - first:
+      213: -5303458938159409060
+    second: Ophilia (Cleric)_3
+  - first:
+      213: 1239825720649438077
+    second: Ophilia (Cleric)_4
+  - first:
+      213: 8457696050314488048
+    second: Ophilia (Cleric)_5
+  - first:
+      213: -7136449149254913207
+    second: Ophilia (Cleric)_6
+  - first:
+      213: -6359383505258084748
+    second: Ophilia (Cleric)_7
+  - first:
+      213: 2081942886960249846
+    second: Ophilia (Cleric)_8
+  - first:
+      213: 6561542034610842425
+    second: Ophilia (Cleric)_9
+  - first:
+      213: 3081029747966300738
+    second: Ophilia (Cleric)_10
+  - first:
+      213: 3267550208208464342
+    second: Ophilia (Cleric)_11
+  - first:
+      213: 4959139530104735372
+    second: Ophilia (Cleric)_12
+  - first:
+      213: -3348802506577838846
+    second: Ophilia (Cleric)_13
+  - first:
+      213: -1555938096143404489
+    second: Ophilia (Cleric)_14
+  - first:
+      213: -7934213733549978867
+    second: Ophilia (Cleric)_15
+  - first:
+      213: -3414620361298302339
+    second: Ophilia (Cleric)_16
+  - first:
+      213: 4762837757290770792
+    second: Ophilia (Cleric)_17
+  - first:
+      213: 1695000825314309686
+    second: Ophilia (Cleric)_18
+  - first:
+      213: -5951008590724122109
+    second: Ophilia (Cleric)_19
+  - first:
+      213: 4532725098717368904
+    second: Ophilia (Cleric)_20
+  - first:
+      213: -3932249258652091171
+    second: Ophilia (Cleric)_21
+  - first:
+      213: 1954265591391317117
+    second: Ophilia (Cleric)_22
+  - first:
+      213: -7427649519242496006
+    second: Ophilia (Cleric)_23
+  - first:
+      213: 8275735661886480674
+    second: Ophilia (Cleric)_24
+  - first:
+      213: -267005998025504698
+    second: Ophilia (Cleric)_25
+  - first:
+      213: 138511075636614450
+    second: Ophilia (Cleric)_26
+  - first:
+      213: -260837803584602554
+    second: Ophilia (Cleric)_27
+  - first:
+      213: -3910302967171910005
+    second: Ophilia (Cleric)_28
+  - first:
+      213: 7037949478841062520
+    second: Ophilia (Cleric)_29
+  - first:
+      213: -8139308833898663903
+    second: Ophilia (Cleric)_30
+  - first:
+      213: 5013347711700351557
+    second: Ophilia (Cleric)_31
+  - first:
+      213: 2437368267311904792
+    second: Ophilia (Cleric)_32
+  - first:
+      213: -414449644140568208
+    second: Ophilia (Cleric)_33
+  - first:
+      213: -315633797788159553
+    second: Ophilia (Cleric)_34
+  - first:
+      213: -4227007270583032267
+    second: Ophilia (Cleric)_35
+  - first:
+      213: -3425378762908914560
+    second: Ophilia (Cleric)_36
+  - first:
+      213: -4664542662289037491
+    second: Ophilia (Cleric)_37
+  - first:
+      213: 8956523051712640973
+    second: Ophilia (Cleric)_38
+  - first:
+      213: -3674265882303203268
+    second: Ophilia (Cleric)_39
+  - first:
+      213: -8358610593781837278
+    second: Ophilia (Cleric)_40
+  - first:
+      213: -6228958302628969217
+    second: Ophilia (Cleric)_41
+  - first:
+      213: 8404098333914792939
+    second: Ophilia (Cleric)_42
+  - first:
+      213: -3183894726074218227
+    second: Ophilia (Cleric)_43
+  - first:
+      213: 9014601097727070809
+    second: Ophilia (Cleric)_44
+  - first:
+      213: 6212398722671247199
+    second: Ophilia (Cleric)_45
+  - first:
+      213: -9018321175951722486
+    second: Ophilia (Cleric)_46
+  - first:
+      213: -3608068145958851149
+    second: Ophilia (Cleric)_47
+  - first:
+      213: 239904964923902770
+    second: Ophilia (Cleric)_48
+  - first:
+      213: -2530034463247343330
+    second: Ophilia (Cleric)_49
+  - first:
+      213: -8696160757091563889
+    second: Ophilia (Cleric)_50
+  - first:
+      213: 6585579243451451363
+    second: Ophilia (Cleric)_51
+  - first:
+      213: -569681264207180789
+    second: Ophilia (Cleric)_52
+  - first:
+      213: 6767413709360856186
+    second: Ophilia (Cleric)_53
+  - first:
+      213: 6790581477721495541
+    second: Ophilia (Cleric)_54
+  - first:
+      213: -1030429048478778373
+    second: Ophilia (Cleric)_55
+  - first:
+      213: 5068857462138889516
+    second: Ophilia (Cleric)_56
+  - first:
+      213: 4018227706953718908
+    second: Ophilia (Cleric)_57
+  - first:
+      213: -1077956654940217322
+    second: Ophilia (Cleric)_58
+  - first:
+      213: 7686340325297842357
+    second: Ophilia (Cleric)_59
+  - first:
+      213: -1738658132966918330
+    second: Ophilia (Cleric)_60
+  - first:
+      213: 7734798277956706098
+    second: Ophilia (Cleric)_61
+  - first:
+      213: -2424882186177296114
+    second: Ophilia (Cleric)_62
+  - first:
+      213: 7553988184893627211
+    second: Ophilia (Cleric)_63
+  - first:
+      213: 2091956365297993040
+    second: Ophilia (Cleric)_64
+  - first:
+      213: -7373520004951349692
+    second: Ophilia (Cleric)_65
+  - first:
+      213: 3413644671229760080
+    second: Ophilia (Cleric)_66
+  - first:
+      213: -5499707070696626521
+    second: Ophilia (Cleric)_67
+  - first:
+      213: -5200416880824335606
+    second: Ophilia (Cleric)_68
+  - first:
+      213: -1398397322553613747
+    second: Ophilia (Cleric)_69
+  - first:
+      213: -3097791022036854544
+    second: Ophilia (Cleric)_70
+  - first:
+      213: -6876551650391194435
+    second: Ophilia (Cleric)_71
+  - first:
+      213: -1459987222903480097
+    second: Ophilia (Cleric)_72
+  - first:
+      213: 1230917224777162405
+    second: Ophilia (Cleric)_73
+  - first:
+      213: -8709989447541448340
+    second: Ophilia (Cleric)_74
+  - first:
+      213: 6848456616045776863
+    second: Ophilia (Cleric)_75
+  - first:
+      213: 2366971873125701109
+    second: Ophilia (Cleric)_76
+  - first:
+      213: -8476422459502434533
+    second: Ophilia (Cleric)_77
+  - first:
+      213: -7148021607375841806
+    second: Ophilia (Cleric)_78
+  - first:
+      213: -3781598043024860619
+    second: Ophilia (Cleric)_79
+  - first:
+      213: -7393636835663519096
+    second: Ophilia (Cleric)_80
+  - first:
+      213: 7890976382367232011
+    second: Ophilia (Cleric)_81
+  - first:
+      213: 4160672259729664979
+    second: Ophilia (Cleric)_82
+  - first:
+      213: 5921496663320531570
+    second: Ophilia (Cleric)_83
+  - first:
+      213: -8568821839750029352
+    second: Ophilia (Cleric)_84
+  - first:
+      213: 824731215239284195
+    second: Ophilia (Cleric)_85
+  - first:
+      213: -6051437253826041688
+    second: Ophilia (Cleric)_86
+  - first:
+      213: 168815109138219738
+    second: Ophilia (Cleric)_87
+  - first:
+      213: 3975588481321607530
+    second: Ophilia (Cleric)_88
+  - first:
+      213: 4567182278304034224
+    second: Ophilia (Cleric)_89
+  - first:
+      213: -8932990638575288312
+    second: Ophilia (Cleric)_90
+  - first:
+      213: 7003036301049487359
+    second: Ophilia (Cleric)_91
+  - first:
+      213: -7047169539715569086
+    second: Ophilia (Cleric)_92
+  - first:
+      213: -2080667739238984932
+    second: Ophilia (Cleric)_93
+  - first:
+      213: -5085439849126743678
+    second: Ophilia (Cleric)_94
+  - first:
+      213: -7939040496778461139
+    second: Ophilia (Cleric)_95
+  - first:
+      213: -7469856807771603275
+    second: Ophilia (Cleric)_96
+  - first:
+      213: 3587087950241874549
+    second: Ophilia (Cleric)_97
+  - first:
+      213: 6368247433343371297
+    second: Ophilia (Cleric)_98
+  - first:
+      213: 6142414541302868400
+    second: Ophilia (Cleric)_99
+  - first:
+      213: 2426920484439158056
+    second: Ophilia (Cleric)_100
+  - first:
+      213: -3934735629402771908
+    second: Ophilia (Cleric)_101
+  - first:
+      213: 4753267774322232370
+    second: Ophilia (Cleric)_102
+  - first:
+      213: -1352204165387833908
+    second: Ophilia (Cleric)_103
+  - first:
+      213: 883683046990031879
+    second: Ophilia (Cleric)_104
+  - first:
+      213: -1527741512284600124
+    second: Ophilia (Cleric)_105
+  - first:
+      213: 5534129617355464638
+    second: Ophilia (Cleric)_106
+  - first:
+      213: -6944677005826644192
+    second: Ophilia (Cleric)_107
+  - first:
+      213: -3003549166140430621
+    second: Ophilia (Cleric)_108
+  - first:
+      213: 5459725249735027798
+    second: Ophilia (Cleric)_109
+  - first:
+      213: 7514479993621694255
+    second: Ophilia (Cleric)_110
+  - first:
+      213: 5523336547739159265
+    second: Ophilia (Cleric)_111
+  - first:
+      213: -9032085486606300558
+    second: Ophilia (Cleric)_112
+  - first:
+      213: -2637244656703147299
+    second: Ophilia (Cleric)_113
+  - first:
+      213: -7962917250610046898
+    second: Ophilia (Cleric)_114
+  - first:
+      213: 6318308094696162066
+    second: Ophilia (Cleric)_115
+  - first:
+      213: -4010424289583183060
+    second: Ophilia (Cleric)_116
+  - first:
+      213: -2798496055455715281
+    second: Ophilia (Cleric)_117
+  - first:
+      213: -8077089996838789075
+    second: Ophilia (Cleric)_118
+  - first:
+      213: 4197282297151030944
+    second: Ophilia (Cleric)_119
+  - first:
+      213: -1668178954228182688
+    second: Ophilia (Cleric)_120
+  - first:
+      213: -3923496139685791092
+    second: Ophilia (Cleric)_121
+  - first:
+      213: -9138254051357682909
+    second: Ophilia (Cleric)_122
+  - first:
+      213: -4153006625890388223
+    second: Ophilia (Cleric)_123
+  - first:
+      213: 2432196811099938827
+    second: Ophilia (Cleric)_124
+  - first:
+      213: 5746073476899861368
+    second: Ophilia (Cleric)_125
+  - first:
+      213: 3986148856354859777
+    second: Ophilia (Cleric)_126
+  - first:
+      213: 2778485735740329555
+    second: Ophilia (Cleric)_127
+  - first:
+      213: 157860475975172986
+    second: Ophilia (Cleric)_128
+  - first:
+      213: -4458869572245771202
+    second: Ophilia (Cleric)_129
+  - first:
+      213: -1204651071616002063
+    second: Ophilia (Cleric)_130
+  - first:
+      213: 5997843608001193366
+    second: Ophilia (Cleric)_131
+  - first:
+      213: 7278716353820981683
+    second: Ophilia (Cleric)_132
+  - first:
+      213: 468375648943329121
+    second: Ophilia (Cleric)_133
+  - first:
+      213: 5218682653532116912
+    second: Ophilia (Cleric)_134
+  - first:
+      213: -707061729027961730
+    second: Ophilia (Cleric)_135
+  - first:
+      213: -1842911899735142856
+    second: Ophilia (Cleric)_136
+  - first:
+      213: -7990896948382189655
+    second: Ophilia (Cleric)_137
+  - first:
+      213: 1873429580095079272
+    second: Ophilia (Cleric)_138
+  - first:
+      213: 3488736361043738753
+    second: Ophilia (Cleric)_139
+  - first:
+      213: -5276503575593965184
+    second: Ophilia (Cleric)_140
+  - first:
+      213: 2207155819176950573
+    second: Ophilia (Cleric)_141
+  - first:
+      213: 5232433376720521582
+    second: Ophilia (Cleric)_142
+  - first:
+      213: -3648531835437076945
+    second: Ophilia (Cleric)_143
+  - first:
+      213: 409880557415067301
+    second: Ophilia (Cleric)_144
+  - first:
+      213: 3881138907784583866
+    second: Ophilia (Cleric)_145
+  - first:
+      213: -8735493481129309934
+    second: Ophilia (Cleric)_146
+  - first:
+      213: 3536519770631598832
+    second: Ophilia (Cleric)_147
+  - first:
+      213: -7489155260900801761
+    second: Ophilia (Cleric)_148
+  - first:
+      213: 4818200327410411890
+    second: Ophilia (Cleric)_149
+  - first:
+      213: 3590403922344327332
+    second: Ophilia (Cleric)_150
+  - first:
+      213: -6077070378032507853
+    second: Ophilia (Cleric)_151
+  - first:
+      213: -4514257808383948866
+    second: Ophilia (Cleric)_152
+  - first:
+      213: -1059031131557568248
+    second: Ophilia (Cleric)_153
+  - first:
+      213: 3016875782689378130
+    second: Ophilia (Cleric)_154
+  - first:
+      213: -7791574069778552711
+    second: Ophilia (Cleric)_155
+  - first:
+      213: 1719431864475307572
+    second: Ophilia (Cleric)_156
+  - first:
+      213: -7940811949221168218
+    second: Ophilia (Cleric)_157
+  - first:
+      213: 1537216360894587446
+    second: Ophilia (Cleric)_158
+  - first:
+      213: -6499488225494818112
+    second: Ophilia (Cleric)_159
+  - first:
+      213: -1861620851863021236
+    second: Ophilia (Cleric)_160
+  - first:
+      213: 6075402019537779950
+    second: Ophilia (Cleric)_161
+  - first:
+      213: -6751203114272158762
+    second: Ophilia (Cleric)_162
+  - first:
+      213: 4190525874698615222
+    second: Ophilia (Cleric)_163
+  - first:
+      213: -1208060936211594201
+    second: Ophilia (Cleric)_164
+  - first:
+      213: -6321590421845988552
+    second: Ophilia (Cleric)_165
+  - first:
+      213: 1532407911339235791
+    second: Ophilia (Cleric)_166
+  - first:
+      213: 3927530088853854799
+    second: Ophilia (Cleric)_167
+  - first:
+      213: -7333168206440630494
+    second: Ophilia (Cleric)_168
+  - first:
+      213: -996380132193085614
+    second: Ophilia (Cleric)_169
+  - first:
+      213: -4149927410861882222
+    second: Ophilia (Cleric)_170
+  - first:
+      213: 1997134957068473397
+    second: Ophilia (Cleric)_171
+  - first:
+      213: 2664830479807989243
+    second: Ophilia (Cleric)_172
+  - first:
+      213: 4291509881236203591
+    second: Ophilia (Cleric)_173
+  - first:
+      213: -4573252329923882257
+    second: Ophilia (Cleric)_174
+  - first:
+      213: 2258896454035619122
+    second: Ophilia (Cleric)_175
+  - first:
+      213: -2391102409971539785
+    second: Ophilia (Cleric)_176
+  - first:
+      213: -3294840518136795933
+    second: Ophilia (Cleric)_177
+  - first:
+      213: -6413035109201683852
+    second: Ophilia (Cleric)_178
+  - first:
+      213: -6496792250409941466
+    second: Ophilia (Cleric)_179
+  - first:
+      213: -6800350095598549489
+    second: Ophilia (Cleric)_180
+  - first:
+      213: -6493496644607993085
+    second: Ophilia (Cleric)_181
+  - first:
+      213: -4352676413539566708
+    second: Ophilia (Cleric)_182
+  - first:
+      213: -2175971091118415851
+    second: Ophilia (Cleric)_183
+  - first:
+      213: 8829567466938087885
+    second: Ophilia (Cleric)_184
+  - first:
+      213: 383973888512362437
+    second: Ophilia (Cleric)_185
+  - first:
+      213: -8253007322174818089
+    second: Ophilia (Cleric)_186
+  - first:
+      213: 2853068708358041936
+    second: Ophilia (Cleric)_187
+  - first:
+      213: -1879976278034090957
+    second: Ophilia (Cleric)_188
+  - first:
+      213: 7619585161131309398
+    second: Ophilia (Cleric)_189
+  - first:
+      213: 2363486360594626627
+    second: Ophilia (Cleric)_190
+  - first:
+      213: 8044457265859846138
+    second: Ophilia (Cleric)_191
+  - first:
+      213: 81177275701205851
+    second: Ophilia (Cleric)_192
+  - first:
+      213: 7351727124038466895
+    second: Ophilia (Cleric)_193
+  - first:
+      213: 3279738892079396218
+    second: Ophilia (Cleric)_194
+  - first:
+      213: 7982564073066125228
+    second: Ophilia (Cleric)_195
+  - first:
+      213: -8813455165302393681
+    second: Ophilia (Cleric)_196
+  - first:
+      213: -13092835440423090
+    second: Ophilia (Cleric)_197
+  - first:
+      213: 1561144894332148241
+    second: Ophilia (Cleric)_198
+  - first:
+      213: 6727519805433304904
+    second: Ophilia (Cleric)_199
+  - first:
+      213: 1672158381916218720
+    second: Ophilia (Cleric)_200
+  - first:
+      213: 1580958031622322430
+    second: Ophilia (Cleric)_201
+  - first:
+      213: 3471874510199866879
+    second: Ophilia (Cleric)_202
+  - first:
+      213: -3249687628281746460
+    second: Ophilia (Cleric)_203
+  - first:
+      213: 6903667992550900820
+    second: Ophilia (Cleric)_204
+  - first:
+      213: 6851733385768792626
+    second: Ophilia (Cleric)_205
+  - first:
+      213: 5539590095539976591
+    second: Ophilia (Cleric)_206
+  - first:
+      213: -7531193288142183119
+    second: Ophilia (Cleric)_207
+  - first:
+      213: -7678241653022738898
+    second: Ophilia (Cleric)_208
+  - first:
+      213: -733289161003894752
+    second: Ophilia (Cleric)_209
+  - first:
+      213: 8278439335676090576
+    second: Ophilia (Cleric)_210
+  - first:
+      213: -8613324088288142471
+    second: Ophilia (Cleric)_211
+  - first:
+      213: -8076557355869391048
+    second: Ophilia (Cleric)_212
+  - first:
+      213: -5145469132786506093
+    second: Ophilia (Cleric)_213
+  - first:
+      213: 1948537665320874797
+    second: Ophilia (Cleric)_214
+  - first:
+      213: 543743819670995802
+    second: Ophilia (Cleric)_215
+  - first:
+      213: -7555875164930966457
+    second: Ophilia (Cleric)_216
+  - first:
+      213: 9083655648798921529
+    second: Ophilia (Cleric)_217
+  - first:
+      213: 2736933486417307932
+    second: Ophilia (Cleric)_218
+  - first:
+      213: 4163982293944749509
+    second: Ophilia (Cleric)_219
+  - first:
+      213: 4023777692955292389
+    second: Ophilia (Cleric)_220
+  - first:
+      213: 7326862825607294652
+    second: Ophilia (Cleric)_221
+  - first:
+      213: -316376439474764045
+    second: Ophilia (Cleric)_222
+  - first:
+      213: 5352910460418542311
+    second: Ophilia (Cleric)_223
+  - first:
+      213: 1923108873879182308
+    second: Ophilia (Cleric)_224
+  - first:
+      213: 6661263189742338710
+    second: Ophilia (Cleric)_225
+  - first:
+      213: 33946559917741418
+    second: Ophilia (Cleric)_226
+  - first:
+      213: 438354029076032124
+    second: Ophilia (Cleric)_227
+  - first:
+      213: -1051189399176308183
+    second: Ophilia (Cleric)_228
+  - first:
+      213: 6834845133913977661
+    second: Ophilia (Cleric)_229
+  - first:
+      213: 8103065938082238334
+    second: Ophilia (Cleric)_230
+  - first:
+      213: 2257546816898465165
+    second: Ophilia (Cleric)_231
+  - first:
+      213: 8886076225099831978
+    second: Ophilia (Cleric)_232
+  - first:
+      213: 4720654769602873757
+    second: Ophilia (Cleric)_233
+  - first:
+      213: -2575296255313669658
+    second: Ophilia (Cleric)_234
+  - first:
+      213: 5818876327290479056
+    second: Ophilia (Cleric)_235
+  - first:
+      213: -7737349972829276556
+    second: Ophilia (Cleric)_236
+  - first:
+      213: 6426867051218618359
+    second: Ophilia (Cleric)_237
+  - first:
+      213: 4083480190051832199
+    second: Ophilia (Cleric)_238
+  - first:
+      213: 1808452450232956268
+    second: Ophilia (Cleric)_239
+  - first:
+      213: -8997860859600275078
+    second: Ophilia (Cleric)_240
+  - first:
+      213: -3223651139807305689
+    second: Ophilia (Cleric)_241
+  - first:
+      213: -6423796487307965763
+    second: Ophilia (Cleric)_242
+  - first:
+      213: -6799212972033941383
+    second: Ophilia (Cleric)_243
+  - first:
+      213: 5695334829945798153
+    second: Ophilia (Cleric)_244
+  - first:
+      213: -4028235451320165688
+    second: Ophilia (Cleric)_245
+  - first:
+      213: -4487648818097786541
+    second: Ophilia (Cleric)_246
+  - first:
+      213: 8367311586964859905
+    second: Ophilia (Cleric)_247
+  - first:
+      213: -7933038666621385012
+    second: Ophilia (Cleric)_248
+  - first:
+      213: 2119528142274408085
+    second: Ophilia (Cleric)_249
+  - first:
+      213: 790807954502192775
+    second: Ophilia (Cleric)_250
+  - first:
+      213: 1080865257418856463
+    second: Ophilia (Cleric)_251
+  - first:
+      213: 7578714753275419150
+    second: Ophilia (Cleric)_252
+  - first:
+      213: 3743166015343131120
+    second: Ophilia (Cleric)_253
+  - first:
+      213: -3888432901734806924
+    second: Ophilia (Cleric)_254
+  - first:
+      213: -4816290630869308848
+    second: Ophilia (Cleric)_255
+  - first:
+      213: 732159438304190619
+    second: Ophilia (Cleric)_256
+  - first:
+      213: 4049191495693965564
+    second: Ophilia (Cleric)_257
+  - first:
+      213: -3206956359486880730
+    second: Ophilia (Cleric)_258
+  - first:
+      213: 3588950613252692657
+    second: Ophilia (Cleric)_259
+  - first:
+      213: 2763698638010957145
+    second: Ophilia (Cleric)_260
+  - first:
+      213: -6695398160807233048
+    second: Ophilia (Cleric)_261
+  - first:
+      213: 5491242113871268180
+    second: Ophilia (Cleric)_262
+  - first:
+      213: 3276542711717716989
+    second: Ophilia (Cleric)_263
+  - first:
+      213: -1405059730725269160
+    second: Ophilia (Cleric)_264
+  - first:
+      213: -3566327902815379414
+    second: Ophilia (Cleric)_265
+  - first:
+      213: -8099362127356618207
+    second: Ophilia (Cleric)_266
+  - first:
+      213: 1388430135612518063
+    second: Ophilia (Cleric)_267
+  - first:
+      213: -5102720070098450808
+    second: Ophilia (Cleric)_268
+  - first:
+      213: 5311065836552280691
+    second: Ophilia (Cleric)_269
+  - first:
+      213: -4388600246532867847
+    second: Ophilia (Cleric)_270
+  - first:
+      213: -8111838811161193525
+    second: Ophilia (Cleric)_271
+  - first:
+      213: 7380869313352338784
+    second: Ophilia (Cleric)_272
+  - first:
+      213: -4490045638124895373
+    second: Ophilia (Cleric)_273
+  - first:
+      213: 3894290609269987379
+    second: Ophilia (Cleric)_274
+  - first:
+      213: -4593700213886777659
+    second: Ophilia (Cleric)_275
+  - first:
+      213: -5192147316640237653
+    second: Ophilia (Cleric)_276
+  - first:
+      213: 2099344088961679342
+    second: Ophilia (Cleric)_277
+  - first:
+      213: -9108209487428608060
+    second: Ophilia (Cleric)_278
+  - first:
+      213: -2727419216817133530
+    second: Ophilia (Cleric)_279
+  - first:
+      213: 1739381145653831870
+    second: Ophilia (Cleric)_280
+  - first:
+      213: 9025656952616458699
+    second: Ophilia (Cleric)_281
+  - first:
+      213: 392449936230226651
+    second: Ophilia (Cleric)_282
+  - first:
+      213: -513127812070671860
+    second: Ophilia (Cleric)_283
+  - first:
+      213: -7813041785525064328
+    second: Ophilia (Cleric)_284
+  - first:
+      213: 3546373113595386593
+    second: Ophilia (Cleric)_285
+  - first:
+      213: -8784950960901729523
+    second: Ophilia (Cleric)_286
+  - first:
+      213: 6581148233591753737
+    second: Ophilia (Cleric)_287
+  - first:
+      213: 1449045149580865036
+    second: Ophilia (Cleric)_288
+  - first:
+      213: 168214904388547181
+    second: Ophilia (Cleric)_289
+  - first:
+      213: 6350555835319879825
+    second: Ophilia (Cleric)_290
+  - first:
+      213: 6891892041907768816
+    second: Ophilia (Cleric)_291
+  - first:
+      213: 8152267391366642288
+    second: Ophilia (Cleric)_292
+  - first:
+      213: 5309001090796192384
+    second: Ophilia (Cleric)_293
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 944
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759c4660e12414780800000000000000
+      internalID: -8700600308379367081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 943
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e645ce73f87abc6a0800000000000000
+      internalID: -6427859809580854162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 944
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b1e2479c8b19150800000000000000
+      internalID: 5877682164072323904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 944
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c585326d1345666b0800000000000000
+      internalID: -5303458938159409060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 944
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d3be8ceeb43110800000000000000
+      internalID: 1239825720649438077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 944
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f828393fb5cf5570800000000000000
+      internalID: 8457696050314488048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 944
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b50d2f4d36fc90800000000000000
+      internalID: -7136449149254913207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_7
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 944
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4760d9a356eeeb7a0800000000000000
+      internalID: -6359383505258084748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 943
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbbaeb660c84ec10800000000000000
+      internalID: 2081942886960249846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 948
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be5c747b74f0b50800000000000000
+      internalID: 6561542034610842425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_10
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 950
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24251f55b3402ca20800000000000000
+      internalID: 3081029747966300738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 951
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9e4062a9ba85d20800000000000000
+      internalID: 3267550208208464342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_12
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 954
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c868d73c02762d440800000000000000
+      internalID: 4959139530104735372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_13
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 953
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d7d7cecd9a681d0800000000000000
+      internalID: -3348802506577838846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_14
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 952
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ffd69b82386ae0800000000000000
+      internalID: -1555938096143404489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_15
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 951
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b4ab785a204e190800000000000000
+      internalID: -7934213733549978867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_16
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 946
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aaff17fd4dc90d0800000000000000
+      internalID: -3414620361298302339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_17
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 943
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8617226a4bff81240800000000000000
+      internalID: 4762837757290770792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_18
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 947
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6367ad6254ad58710800000000000000
+      internalID: 1695000825314309686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_19
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 952
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a379e6735c96da0800000000000000
+      internalID: -5951008590724122109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_20
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 952
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842db8d367977ee30800000000000000
+      internalID: 4532725098717368904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_21
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 952
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddcbfb91228dd69c0800000000000000
+      internalID: -3932249258652091171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_22
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 952
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce5a38332fe1b10800000000000000
+      internalID: 1954265591391317117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 885
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af733799d10bbe890800000000000000
+      internalID: -7427649519242496006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_24
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 884
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221a6cddcb159d270800000000000000
+      internalID: 8275735661886480674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 879
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6488ace95776b4cf0800000000000000
+      internalID: -267005998025504698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 882
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23517c4e6171ce100800000000000000
+      internalID: 138511075636614450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 882
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb85d4661516cf0800000000000000
+      internalID: -260837803584602554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_28
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 890
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86ff854b20dbb9c0800000000000000
+      internalID: -3910302967171910005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_29
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 892
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874977923c1dba160800000000000000
+      internalID: 7037949478841062520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_30
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 890
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120754e4dbd5b0f80800000000000000
+      internalID: -8139308833898663903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_31
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 892
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aba639e2df29540800000000000000
+      internalID: 5013347711700351557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_32
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 892
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8187fef768543d120800000000000000
+      internalID: 2437368267311904792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_33
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 892
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071e6b79e349f3af0800000000000000
+      internalID: -414449644140568208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_34
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 876
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1bab3bbb4ae9bf0800000000000000
+      internalID: -315633797788159553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_35
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 876
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536a7e57847a655c0800000000000000
+      internalID: -4227007270583032267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_36
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 876
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ca5afd92c9670d0800000000000000
+      internalID: -3425378762908914560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_37
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 875
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d476b969927344fb0800000000000000
+      internalID: -4664542662289037491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 890
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7fde70346fb4c70800000000000000
+      internalID: 8956523051712640973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_39
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 890
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38fafaa5a2620dc0800000000000000
+      internalID: -3674265882303203268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_40
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 890
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22211d563ff300c80800000000000000
+      internalID: -8358610593781837278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_41
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 890
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4841b1d6b4e89a0800000000000000
+      internalID: -6228958302628969217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_42
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 890
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3817a68ea51a470800000000000000
+      internalID: 8404098333914792939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_43
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 890
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d094b1a9d9880d3d0800000000000000
+      internalID: -3183894726074218227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_44
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 890
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9525edddfeb4a1d70800000000000000
+      internalID: 9014601097727070809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 822
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ff8eb39bfd63650800000000000000
+      internalID: 6212398722671247199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 806
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08b30debac78d280800000000000000
+      internalID: -9018321175951722486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 812
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd68ba33219dedc0800000000000000
+      internalID: -3608068145958851149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_48
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 794
+        width: 54
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b44266b40545300800000000000000
+      internalID: 239904964923902770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_49
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 816
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1165a47f0383ecd0800000000000000
+      internalID: -2530034463247343330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_50
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 817
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f868ddb9dd7015780800000000000000
+      internalID: -8696160757091563889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_51
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 817
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e70c161e6da46b50800000000000000
+      internalID: 6585579243451451363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_52
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 817
+        width: 73
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c4cb398e51818f0800000000000000
+      internalID: -569681264207180789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_53
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 815
+        width: 74
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cff82d9eeaaed50800000000000000
+      internalID: 6767413709360856186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_54
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 812
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7dfed30edfc3e50800000000000000
+      internalID: 6790581477721495541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_55
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 807
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbbd276d3e23b1f0800000000000000
+      internalID: -1030429048478778373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_56
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 811
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2560ef7103385640800000000000000
+      internalID: 5068857462138889516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_57
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 796
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cdb9b5fcc93c730800000000000000
+      internalID: 4018227706953718908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_58
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 814
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610250332245a01f0800000000000000
+      internalID: -1077956654940217322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_59
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 818
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b863284dcd5baa60800000000000000
+      internalID: 7686340325297842357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 738
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647b9aec3ab0fd7e0800000000000000
+      internalID: -1738658132966918330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_61
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 737
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f99e69d06875b60800000000000000
+      internalID: 7734798277956706098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_62
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 736
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09cabecf76195ed0800000000000000
+      internalID: -2424882186177296114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_63
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 732
+        width: 75
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b151e3b3825d860800000000000000
+      internalID: 7553988184893627211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 732
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05544370b3f180d10800000000000000
+      internalID: 2091956365297993040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_65
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 734
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44663a04f9efba990800000000000000
+      internalID: -7373520004951349692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_66
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 727
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0521e020eb3bf5f20800000000000000
+      internalID: 3413644671229760080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_67
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 728
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a66c62de8d1da3b0800000000000000
+      internalID: -5499707070696626521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_68
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 728
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03458e566864d7b0800000000000000
+      internalID: -5200416880824335606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_69
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 728
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42a55e4b05e79ce0800000000000000
+      internalID: -1398397322553613747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 726
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8591f6a7f6205d0800000000000000
+      internalID: -3097791022036854544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_71
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 728
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db48ece15b49190a0800000000000000
+      internalID: -6876551650391194435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_72
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 724
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0aa3a2b551dbbe0800000000000000
+      internalID: -1459987222903480097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_73
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 725
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae90cab1b8151110800000000000000
+      internalID: 1230917224777162405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_74
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 766
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6124e5beb6ef1780800000000000000
+      internalID: -8709989447541448340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_75
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 766
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf0513f10b9a0f50800000000000000
+      internalID: 6848456616045776863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_76
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 727
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f59ffab06c29d020800000000000000
+      internalID: 2366971873125701109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_77
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 727
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17e63fdea2bd5a80800000000000000
+      internalID: -8476422459502434533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_78
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 662
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5db8d48302dcc90800000000000000
+      internalID: -7148021607375841806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_79
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 660
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ad03a9d90158bc0800000000000000
+      internalID: -3781598043024860619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_80
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 660
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882680c9876846990800000000000000
+      internalID: -7393636835663519096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_81
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 662
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00fef92631628d60800000000000000
+      internalID: 7890976382367232011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_82
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 662
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db2204406dadb930800000000000000
+      internalID: 4160672259729664979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_83
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 662
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27291e387d16d2250800000000000000
+      internalID: 5921496663320531570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_84
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 656
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df1712bfed651980800000000000000
+      internalID: -8568821839750029352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_85
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 658
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5838faba8027b00800000000000000
+      internalID: 824731215239284195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_86
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 658
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8222921e9f40ca0800000000000000
+      internalID: -6051437253826041688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_87
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 658
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad207e48270c75200800000000000000
+      internalID: 168815109138219738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_88
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 656
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a612f4209a02c2730800000000000000
+      internalID: 3975588481321607530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_89
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 658
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd65ca8514e16f30800000000000000
+      internalID: 4567182278304034224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 656
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80084ddd754a70480800000000000000
+      internalID: -8932990638575288312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_91
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 658
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff58318968cf2160800000000000000
+      internalID: 7003036301049487359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_92
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 656
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aec4124ac633e90800000000000000
+      internalID: -7047169539715569086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_93
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 657
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c139b0b07bbff13e0800000000000000
+      internalID: -2080667739238984932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_94
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 657
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2813f2aa663ec69b0800000000000000
+      internalID: -5085439849126743678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_95
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 657
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2044142bbcd2d190800000000000000
+      internalID: -7939040496778461139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_96
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 658
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be7db17fccb55890800000000000000
+      internalID: -7469856807771603275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_97
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 656
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572404c4c75e7c130800000000000000
+      internalID: 3587087950241874549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_98
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 658
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128893adc4f806850800000000000000
+      internalID: 6368247433343371297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_99
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 657
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b92d8d3b7d3e3550800000000000000
+      internalID: 6142414541302868400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_100
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 656
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d6d1d72572ea120800000000000000
+      internalID: 2426920484439158056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_101
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 655
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eef5ccac20569c0800000000000000
+      internalID: -3934735629402771908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_102
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 646
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cc9ca5bdff6f140800000000000000
+      internalID: 4753267774322232370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_103
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 554
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd2142d9710c3de0800000000000000
+      internalID: -1352204165387833908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_104
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 552
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c20ed9c09734c00800000000000000
+      internalID: 883683046990031879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_105
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 554
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c888ab503f5ccae0800000000000000
+      internalID: -1527741512284600124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_106
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 578
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfd07fd09d2dcc40800000000000000
+      internalID: 5534129617355464638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_107
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02721e3ce0d8f9f90800000000000000
+      internalID: -6944677005826644192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_108
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 578
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e667c662ff3156d0800000000000000
+      internalID: -3003549166140430621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_109
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 576
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65cefa11037d4cb40800000000000000
+      internalID: 5459725249735027798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_110
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 578
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c993adbbc84860800000000000000
+      internalID: 7514479993621694255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_111
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 578
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eacce68355d6ac40800000000000000
+      internalID: 5523336547739159265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_112
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 578
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27acedd9a1697a280800000000000000
+      internalID: -9032085486606300558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_113
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 580
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2796b15ff966bd0800000000000000
+      internalID: -2637244656703147299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_114
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 576
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48de8d23f80e7190800000000000000
+      internalID: -7962917250610046898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_115
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 578
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21307dd7cb32fa750800000000000000
+      internalID: 6318308094696162066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_116
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 578
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bcbc45b5c1858c0800000000000000
+      internalID: -4010424289583183060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_117
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 576
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20fa352aaeb929d0800000000000000
+      internalID: -2798496055455715281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_118
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 578
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20209f217968ef80800000000000000
+      internalID: -8077089996838789075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_119
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 578
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a609b7d20ebf3a30800000000000000
+      internalID: 4197282297151030944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_120
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 576
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061527b541079d8e0800000000000000
+      internalID: -1668178954228182688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_121
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 576
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a796c6c01fc89c0800000000000000
+      internalID: -3923496139685791092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_122
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 614
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3231d895b566e2180800000000000000
+      internalID: -9138254051357682909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_123
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 614
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107b5f13a7e8d56c0800000000000000
+      internalID: -4153006625890388223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_124
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 576
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0023750d16e0c120800000000000000
+      internalID: 2432196811099938827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_125
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 483
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873f8eb12672ebf40800000000000000
+      internalID: 5746073476899861368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_126
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 482
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b6cdce345a15730800000000000000
+      internalID: 3986148856354859777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_127
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 482
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35eca4c3e0a2f8620800000000000000
+      internalID: 2778485735740329555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_128
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 482
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73039a3445d03200800000000000000
+      internalID: 157860475975172986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_129
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 484
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c2e768fb9ee12c0800000000000000
+      internalID: -4458869572245771202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_130
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 484
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7d80e9b38384fe0800000000000000
+      internalID: -1204651071616002063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_131
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 484
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6952249cbfe9c3350800000000000000
+      internalID: 5997843608001193366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_132
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 484
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b97352a5f1330560800000000000000
+      internalID: 7278716353820981683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_133
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 484
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fc5b0db21008600800000000000000
+      internalID: 468375648943329121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_134
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 484
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7564f393c7c6840800000000000000
+      internalID: 5218682653532116912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_135
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 484
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cc3078a130036f0800000000000000
+      internalID: -707061729027961730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_136
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 484
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e42ff2469ac66e0800000000000000
+      internalID: -1842911899735142856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_137
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 486
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73de22091aa1190800000000000000
+      internalID: -7990896948382189655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_138
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 486
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863c649f642cff910800000000000000
+      internalID: 1873429580095079272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_139
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 492
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180400b7c3b7a6030800000000000000
+      internalID: 3488736361043738753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_140
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 490
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089a4a044f716c6b0800000000000000
+      internalID: -5276503575593965184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_141
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 484
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b7af5068461ae10800000000000000
+      internalID: 2207155819176950573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_142
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 482
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69035afe665d9840800000000000000
+      internalID: 5232433376720521582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_143
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 484
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ea11d50afcd5dc0800000000000000
+      internalID: -3648531835437076945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_144
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 484
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae6011023030b500800000000000000
+      internalID: 409880557415067301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_145
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 484
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba927206439cd530800000000000000
+      internalID: 3881138907784583866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_146
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 483
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2190c8726fa45c680800000000000000
+      internalID: -8735493481129309934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_147
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 484
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f274ad7efd341130800000000000000
+      internalID: 3536519770631598832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_148
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 483
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13824e28fc211890800000000000000
+      internalID: -7489155260900801761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_149
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 416
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279e7fb7bafadd240800000000000000
+      internalID: 4818200327410411890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_150
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 420
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8b087385da3d130800000000000000
+      internalID: 3590403922344327332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_151
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 418
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334d25a50b8e9aba0800000000000000
+      internalID: -6077070378032507853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_152
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 415
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7cdbad0722a51c0800000000000000
+      internalID: -4514257808383948866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_153
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 420
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016e6dfbc09d41f0800000000000000
+      internalID: -1059031131557568248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_154
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 418
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fcdae4a881ed920800000000000000
+      internalID: 3016875782689378130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_155
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 416
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97864b14aa4ced390800000000000000
+      internalID: -7791574069778552711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_156
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 420
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ec989bb26acd710800000000000000
+      internalID: 1719431864475307572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_157
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 418
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abbe7aba919cc190800000000000000
+      internalID: -7940811949221168218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_158
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 416
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6326a0eb22a455510800000000000000
+      internalID: 1537216360894587446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_159
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 420
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c22c8905ed2dc5a0800000000000000
+      internalID: -6499488225494818112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_160
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 418
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499e32d2b13a26e0800000000000000
+      internalID: -1861620851863021236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_161
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 414
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec7d3aa2f9205450800000000000000
+      internalID: 6075402019537779950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_162
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 422
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db0c477988ee42a0800000000000000
+      internalID: -6751203114272158762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_163
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 419
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b97e77a41db72a30800000000000000
+      internalID: 4190525874698615222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_164
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 417
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7240516aafa1c3fe0800000000000000
+      internalID: -1208060936211594201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_165
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 420
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bab5a21033548a0800000000000000
+      internalID: -6321590421845988552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_166
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 420
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc99f5650e4344510800000000000000
+      internalID: 1532407911339235791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_167
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 417
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4adace8ec3618630800000000000000
+      internalID: 3927530088853854799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_168
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 420
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227fae87e5a5b3a90800000000000000
+      internalID: -7333168206440630494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_169
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 419
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257df5f7c852c22f0800000000000000
+      internalID: -996380132193085614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_170
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 417
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294cbefc10f7866c0800000000000000
+      internalID: -4149927410861882222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_171
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 421
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534d49489af37bb10800000000000000
+      internalID: 1997134957068473397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_172
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 420
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c697d3316bf420800000000000000
+      internalID: 2664830479807989243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_173
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 417
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a925ef718e8b30800000000000000
+      internalID: 4291509881236203591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_174
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 350
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d8ae6c3b8880c0800000000000000
+      internalID: -4573252329923882257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_175
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 348
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dbe275b56395f10800000000000000
+      internalID: 2258896454035619122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_176
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 346
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0e018d60911ded0800000000000000
+      internalID: -2391102409971539785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_177
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 351
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec64ec61006642d0800000000000000
+      internalID: -3294840518136795933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_178
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 350
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47adcefbb825007a0800000000000000
+      internalID: -6413035109201683852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_179
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 346
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6260ec6aed1c6d5a0800000000000000
+      internalID: -6496792250409941466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_180
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 350
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f060e8b2e9d40a1a0800000000000000
+      internalID: -6800350095598549489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_181
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 346
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b13fba43772e5a0800000000000000
+      internalID: -6493496644607993085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_182
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 346
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bb0c40ddf2893c0800000000000000
+      internalID: -4352676413539566708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_183
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 352
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5102e5842d56dc1e0800000000000000
+      internalID: -2175971091118415851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_184
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 350
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b03384dce88a70800000000000000
+      internalID: 8829567466938087885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_185
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 347
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c70ecb9736245500800000000000000
+      internalID: 383973888512362437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_186
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 350
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d87219119d677d80800000000000000
+      internalID: -8253007322174818089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_187
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 346
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051b671cfd2289720800000000000000
+      internalID: 2853068708358041936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_188
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 346
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334fd91298bf8e5e0800000000000000
+      internalID: -1879976278034090957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_189
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 352
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659b11175543eb960800000000000000
+      internalID: 7619585161131309398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_190
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 350
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34839ba925accc020800000000000000
+      internalID: 2363486360594626627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_191
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 348
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd26e0347a3af60800000000000000
+      internalID: 8044457265859846138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_192
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 349
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b110a5d46602100800000000000000
+      internalID: 81177275701205851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_193
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 347
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dbae14ed4960660800000000000000
+      internalID: 7351727124038466895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_194
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 275
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75fc624529f38d20800000000000000
+      internalID: 3279738892079396218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_195
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 282
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7d6e32bb3c7ce60800000000000000
+      internalID: 7982564073066125228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_196
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 280
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4b15c093150b580800000000000000
+      internalID: -8813455165302393681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_197
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 278
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f8872b22c71dff0800000000000000
+      internalID: -13092835440423090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_198
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 280
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a1595920d4aa510800000000000000
+      internalID: 1561144894332148241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_199
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 278
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847d14e7e93fc5d50800000000000000
+      internalID: 6727519805433304904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_200
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 276
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065ee4a5033b43710800000000000000
+      internalID: 1672158381916218720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_201
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 280
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef836a714f0b0f510800000000000000
+      internalID: 1580958031622322430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_202
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 277
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff54235e8739e2030800000000000000
+      internalID: 3471874510199866879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_203
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 276
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebe845d15ac6e2d0800000000000000
+      internalID: -3249687628281746460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_204
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 280
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4540b374671cecf50800000000000000
+      internalID: 6903667992550900820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_205
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 278
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232fe6a563f361f50800000000000000
+      internalID: 6851733385768792626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_206
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 276
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89bee587d390ec40800000000000000
+      internalID: 5539590095539976591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_207
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 280
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135aa7d3b93db7790800000000000000
+      internalID: -7531193288142183119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_208
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 277
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26b8fbc5e7617590800000000000000
+      internalID: -7678241653022738898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_209
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 275
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028f7b8a465d2d5f0800000000000000
+      internalID: -733289161003894752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_210
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 282
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d81899f6bce2e270800000000000000
+      internalID: 8278439335676090576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_211
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 279
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b15468063577880800000000000000
+      internalID: -8613324088288142471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_212
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 278
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837365350ed4aef80800000000000000
+      internalID: -8076557355869391048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_213
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 282
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396e589e51f9798b0800000000000000
+      internalID: -5145469132786506093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_214
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 280
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d237beccea89a0b10800000000000000
+      internalID: 1948537665320874797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_215
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 277
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53cd448f14cb8700800000000000000
+      internalID: 543743819670995802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_216
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 282
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cf71bf193242790800000000000000
+      internalID: -7555875164930966457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_217
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 279
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93351a07fa0af0e70800000000000000
+      internalID: 9083655648798921529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_218
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 207
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1966c7418a8bf520800000000000000
+      internalID: 2736933486417307932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_219
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 212
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdc799a5df69c930800000000000000
+      internalID: 4163982293944749509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_220
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 208
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2bdbb2e7457d730800000000000000
+      internalID: 4023777692955292389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_221
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 207
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe6656abee3ea560800000000000000
+      internalID: 7326862825607294652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_222
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 210
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6cdc5fd410c9bf0800000000000000
+      internalID: -316376439474764045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_223
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 207
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea48bbe3bb594a40800000000000000
+      internalID: 5352910460418542311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_224
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 206
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb58fbe45140ba10800000000000000
+      internalID: 1923108873879182308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_225
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 212
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924af3049f817c50800000000000000
+      internalID: 6661263189742338710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_226
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 210
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a655e35673a987000800000000000000
+      internalID: 33946559917741418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_227
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 207
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a20fcbaa8551600800000000000000
+      internalID: 438354029076032124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_228
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 209
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a90769fcc6961f0800000000000000
+      internalID: -1051189399176308183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_229
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 206
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33ffbdcf6f3ade50800000000000000
+      internalID: 6834845133913977661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_230
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 206
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f85fee98fd37070800000000000000
+      internalID: 8103065938082238334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_231
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 211
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dfb057eda645f10800000000000000
+      internalID: 2257546816898465165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_232
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 210
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa9e1c0f3fa15b70800000000000000
+      internalID: 8886076225099831978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_233
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 206
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99ce697082238140800000000000000
+      internalID: 4720654769602873757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_234
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 210
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e192a643b5b24cd0800000000000000
+      internalID: -2575296255313669658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_235
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 207
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12410a03dc0c050800000000000000
+      internalID: 5818876327290479056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_236
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 206
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476f1a6a1396f9490800000000000000
+      internalID: -7737349972829276556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_237
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 212
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f74c863881d03950800000000000000
+      internalID: 6426867051218618359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_238
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 210
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781526ff89f6ba830800000000000000
+      internalID: 4083480190051832199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_239
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 207
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65f1510ce9e81910800000000000000
+      internalID: 1808452450232956268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_240
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 139
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79722d883d212380800000000000000
+      internalID: -8997860859600275078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_241
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 135
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720a0043e5a4343d0800000000000000
+      internalID: -3223651139807305689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_242
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 135
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba4b9821271ad6a0800000000000000
+      internalID: -6423796487307965763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_243
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 142
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97060b163d754a1a0800000000000000
+      internalID: -6799212972033941383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_244
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 140
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e34d74ad4e90f40800000000000000
+      internalID: 5695334829945798153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_245
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 138
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca1d641335d818c0800000000000000
+      internalID: -4028235451320165688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_246
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 138
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35174903d2ba8b1c0800000000000000
+      internalID: -4487648818097786541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_247
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 138
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cec027e89ae1470800000000000000
+      internalID: 8367311586964859905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_248
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 138
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6089e1d5f28e190800000000000000
+      internalID: -7933038666621385012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_249
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 136
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea5bb9d931a6d10800000000000000
+      internalID: 2119528142274408085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_250
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 138
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e08ad05a389fa00800000000000000
+      internalID: 790807954502192775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_251
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 138
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0813869931000f00800000000000000
+      internalID: 1080865257418856463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_252
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 138
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a5ef21ae00d2960800000000000000
+      internalID: 7578714753275419150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_253
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 138
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f977d7a8a562f330800000000000000
+      internalID: 3743166015343131120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_254
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 138
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ac72fa0e2890ac0800000000000000
+      internalID: -3888432901734806924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_255
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 136
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a2ef36039192db0800000000000000
+      internalID: -4816290630869308848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_256
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 138
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9022174127292a00800000000000000
+      internalID: 732159438304190619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_257
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 136
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf81f58363e913830800000000000000
+      internalID: 4049191495693965564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_258
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 137
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624ca96ae2a9e73d0800000000000000
+      internalID: -3206956359486880730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_259
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 138
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bad85351938ec130800000000000000
+      internalID: 3588950613252692657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_260
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 138
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dbfd0c441aa5620800000000000000
+      internalID: 2763698638010957145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_261
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 138
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f743b8da2513a0800000000000000
+      internalID: -6695398160807233048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_262
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 138
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45946f4db9fc43c40800000000000000
+      internalID: 5491242113871268180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_263
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 138
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df364578c3e987d20800000000000000
+      internalID: 3276542711717716989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_264
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 67
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8511ae58e99308ce0800000000000000
+      internalID: -1405059730725269160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_265
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 67
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202028eaabd18ec0800000000000000
+      internalID: -3566327902815379414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_266
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 68
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a18a3be09499f80800000000000000
+      internalID: -8099362127356618207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_267
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 68
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faea1a42ad1b44310800000000000000
+      internalID: 1388430135612518063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_268
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 68
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868681b12f7f29b0800000000000000
+      internalID: -5102720070098450808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_269
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 67
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a59663d32b4b940800000000000000
+      internalID: 5311065836552280691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_270
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 68
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8773cd35f8813c0800000000000000
+      internalID: -4388600246532867847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_271
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 67
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc392816495fc6f80800000000000000
+      internalID: -8111838811161193525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_272
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 68
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d82f3f88d1e6660800000000000000
+      internalID: 7380869313352338784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_273
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 70
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373064a084720b1c0800000000000000
+      internalID: -4490045638124895373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_274
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 68
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3385da12dac4b0630800000000000000
+      internalID: 3894290609269987379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_275
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 68
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c684a27ef5ef30c0800000000000000
+      internalID: -4593700213886777659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_276
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 68
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba739225689c1f7b0800000000000000
+      internalID: -5192147316640237653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_277
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 67
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef70eb735e522d10800000000000000
+      internalID: 2099344088961679342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_278
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 68
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf99f18ab3299180800000000000000
+      internalID: -9108209487428608060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_279
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 69
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6286a0c3ca2462ad0800000000000000
+      internalID: -2727419216817133530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_280
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 67
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb865b3bfe5832810800000000000000
+      internalID: 1739381145653831870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_281
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 67
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc91d3dad23914d70800000000000000
+      internalID: 9025656952616458699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_282
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 70
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda90214323427500800000000000000
+      internalID: 392449936230226651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_283
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 65
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a772d39f001e8f0800000000000000
+      internalID: -513127812070671860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_284
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 67
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dae7e24ef729390800000000000000
+      internalID: -7813041785525064328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_285
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 68
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea59dcae8f373130800000000000000
+      internalID: 3546373113595386593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_286
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 67
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03d93e45a5951680800000000000000
+      internalID: -8784950960901729523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_287
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 68
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c0d65337fe45b50800000000000000
+      internalID: 6581148233591753737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_288
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 70
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e254cd2ea0c1410800000000000000
+      internalID: 1449045149580865036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_289
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 68
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d627106709e955200800000000000000
+      internalID: 168214904388547181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_290
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1988682b2e4b12850800000000000000
+      internalID: 6350555835319879825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_291
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd014c1c4be4af50800000000000000
+      internalID: 6891892041907768816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_292
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ab868fffba22170800000000000000
+      internalID: 8152267391366642288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ophilia (Cleric)_293
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08281112d5c5da940800000000000000
+      internalID: 5309001090796192384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c5d8a7f1835058349a2ccbd230fc9b72
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

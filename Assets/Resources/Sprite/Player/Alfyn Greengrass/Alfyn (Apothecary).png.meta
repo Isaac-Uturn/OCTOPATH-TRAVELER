@@ -1,0 +1,7200 @@
+fileFormatVersion: 2
+guid: 8602ff35a3dc44a458aaddc0120a663d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1687436496533036817
+    second: Alfyn (Apothecary)_0
+  - first:
+      213: -3544197296456917572
+    second: Alfyn (Apothecary)_1
+  - first:
+      213: 1165409927477206325
+    second: Alfyn (Apothecary)_2
+  - first:
+      213: -2135449378619153247
+    second: Alfyn (Apothecary)_3
+  - first:
+      213: -6707273336185658291
+    second: Alfyn (Apothecary)_4
+  - first:
+      213: -5948290595815784693
+    second: Alfyn (Apothecary)_5
+  - first:
+      213: 3051950834079284822
+    second: Alfyn (Apothecary)_6
+  - first:
+      213: 3061901540185339492
+    second: Alfyn (Apothecary)_7
+  - first:
+      213: -6797562408562782428
+    second: Alfyn (Apothecary)_8
+  - first:
+      213: -4624010268164957685
+    second: Alfyn (Apothecary)_9
+  - first:
+      213: -1361301346160373363
+    second: Alfyn (Apothecary)_10
+  - first:
+      213: -4000528893833441194
+    second: Alfyn (Apothecary)_11
+  - first:
+      213: 5827487063941974094
+    second: Alfyn (Apothecary)_12
+  - first:
+      213: -1047109742889000151
+    second: Alfyn (Apothecary)_13
+  - first:
+      213: 1292869374007059301
+    second: Alfyn (Apothecary)_14
+  - first:
+      213: 6083111967861310067
+    second: Alfyn (Apothecary)_15
+  - first:
+      213: -4847932991615023158
+    second: Alfyn (Apothecary)_16
+  - first:
+      213: -3750881809909999233
+    second: Alfyn (Apothecary)_17
+  - first:
+      213: -7496835204727748164
+    second: Alfyn (Apothecary)_18
+  - first:
+      213: 5984573074992636131
+    second: Alfyn (Apothecary)_19
+  - first:
+      213: -876465556384083638
+    second: Alfyn (Apothecary)_20
+  - first:
+      213: -391937140116944626
+    second: Alfyn (Apothecary)_21
+  - first:
+      213: 3685028547293458123
+    second: Alfyn (Apothecary)_22
+  - first:
+      213: 5947846738841452717
+    second: Alfyn (Apothecary)_23
+  - first:
+      213: -8169061623934080621
+    second: Alfyn (Apothecary)_24
+  - first:
+      213: 3148076721700538711
+    second: Alfyn (Apothecary)_25
+  - first:
+      213: 4974813126613941795
+    second: Alfyn (Apothecary)_26
+  - first:
+      213: 7466427469482646509
+    second: Alfyn (Apothecary)_27
+  - first:
+      213: -6905978746675037914
+    second: Alfyn (Apothecary)_28
+  - first:
+      213: 2073525025007131349
+    second: Alfyn (Apothecary)_29
+  - first:
+      213: 3204479564454063360
+    second: Alfyn (Apothecary)_30
+  - first:
+      213: 8387809991665039794
+    second: Alfyn (Apothecary)_31
+  - first:
+      213: -1701008771611752658
+    second: Alfyn (Apothecary)_32
+  - first:
+      213: -606657284935958668
+    second: Alfyn (Apothecary)_33
+  - first:
+      213: -7324189432238627853
+    second: Alfyn (Apothecary)_34
+  - first:
+      213: -3800631293274016616
+    second: Alfyn (Apothecary)_35
+  - first:
+      213: -6363716031979949914
+    second: Alfyn (Apothecary)_36
+  - first:
+      213: -2327877434394643000
+    second: Alfyn (Apothecary)_37
+  - first:
+      213: 7191599628232539613
+    second: Alfyn (Apothecary)_38
+  - first:
+      213: -1822479365765183126
+    second: Alfyn (Apothecary)_39
+  - first:
+      213: -3175461886424187614
+    second: Alfyn (Apothecary)_40
+  - first:
+      213: 7578894613062408223
+    second: Alfyn (Apothecary)_41
+  - first:
+      213: 8704772894886667529
+    second: Alfyn (Apothecary)_42
+  - first:
+      213: -7188974118526621262
+    second: Alfyn (Apothecary)_43
+  - first:
+      213: -2639751643599629688
+    second: Alfyn (Apothecary)_44
+  - first:
+      213: -284136125251157367
+    second: Alfyn (Apothecary)_45
+  - first:
+      213: -1433086866659552592
+    second: Alfyn (Apothecary)_46
+  - first:
+      213: -2904987923481253020
+    second: Alfyn (Apothecary)_47
+  - first:
+      213: 7933943794177560382
+    second: Alfyn (Apothecary)_48
+  - first:
+      213: -8776322375687918966
+    second: Alfyn (Apothecary)_49
+  - first:
+      213: 2718150574964506856
+    second: Alfyn (Apothecary)_50
+  - first:
+      213: -4364787121296853850
+    second: Alfyn (Apothecary)_51
+  - first:
+      213: 7461420055956771161
+    second: Alfyn (Apothecary)_52
+  - first:
+      213: -4869863323165493919
+    second: Alfyn (Apothecary)_53
+  - first:
+      213: 886826395884997758
+    second: Alfyn (Apothecary)_54
+  - first:
+      213: -4346327228647941513
+    second: Alfyn (Apothecary)_55
+  - first:
+      213: 1530162394625265188
+    second: Alfyn (Apothecary)_56
+  - first:
+      213: -5030612725145247812
+    second: Alfyn (Apothecary)_57
+  - first:
+      213: 6857135058688903615
+    second: Alfyn (Apothecary)_58
+  - first:
+      213: 378238643988610190
+    second: Alfyn (Apothecary)_59
+  - first:
+      213: -4258485303576214808
+    second: Alfyn (Apothecary)_60
+  - first:
+      213: -7371713616333326515
+    second: Alfyn (Apothecary)_61
+  - first:
+      213: -7007441409304595121
+    second: Alfyn (Apothecary)_62
+  - first:
+      213: -7584823922777066249
+    second: Alfyn (Apothecary)_63
+  - first:
+      213: -4064510787768845114
+    second: Alfyn (Apothecary)_64
+  - first:
+      213: 2805107780599141571
+    second: Alfyn (Apothecary)_65
+  - first:
+      213: 8219091588440952076
+    second: Alfyn (Apothecary)_66
+  - first:
+      213: -7934247994840690544
+    second: Alfyn (Apothecary)_67
+  - first:
+      213: 5436622121938318646
+    second: Alfyn (Apothecary)_68
+  - first:
+      213: 8341941175684658807
+    second: Alfyn (Apothecary)_69
+  - first:
+      213: -4526962346397981547
+    second: Alfyn (Apothecary)_70
+  - first:
+      213: 8639510357774408340
+    second: Alfyn (Apothecary)_71
+  - first:
+      213: -2802240864501641100
+    second: Alfyn (Apothecary)_72
+  - first:
+      213: 2446700997288826025
+    second: Alfyn (Apothecary)_73
+  - first:
+      213: 5956001049860464714
+    second: Alfyn (Apothecary)_74
+  - first:
+      213: 5657132981064433434
+    second: Alfyn (Apothecary)_75
+  - first:
+      213: -6800989503812774051
+    second: Alfyn (Apothecary)_76
+  - first:
+      213: 5105675843592667783
+    second: Alfyn (Apothecary)_77
+  - first:
+      213: -4066104782663583042
+    second: Alfyn (Apothecary)_78
+  - first:
+      213: -5177271750756697840
+    second: Alfyn (Apothecary)_79
+  - first:
+      213: -2857747143479964962
+    second: Alfyn (Apothecary)_80
+  - first:
+      213: -8107141909173602233
+    second: Alfyn (Apothecary)_81
+  - first:
+      213: 7646024107826620303
+    second: Alfyn (Apothecary)_82
+  - first:
+      213: 3658700443113051060
+    second: Alfyn (Apothecary)_83
+  - first:
+      213: -3114625325060103679
+    second: Alfyn (Apothecary)_84
+  - first:
+      213: -1492109430284757027
+    second: Alfyn (Apothecary)_85
+  - first:
+      213: -1352183571221377165
+    second: Alfyn (Apothecary)_86
+  - first:
+      213: -3722165699824631218
+    second: Alfyn (Apothecary)_87
+  - first:
+      213: 5532945885398133089
+    second: Alfyn (Apothecary)_88
+  - first:
+      213: -3526604660498608607
+    second: Alfyn (Apothecary)_89
+  - first:
+      213: 2060657234350215611
+    second: Alfyn (Apothecary)_90
+  - first:
+      213: 2540856079885874323
+    second: Alfyn (Apothecary)_91
+  - first:
+      213: 5355940436934676149
+    second: Alfyn (Apothecary)_92
+  - first:
+      213: -5776788035087582224
+    second: Alfyn (Apothecary)_93
+  - first:
+      213: -9052264520422862826
+    second: Alfyn (Apothecary)_94
+  - first:
+      213: 4842232637582633047
+    second: Alfyn (Apothecary)_95
+  - first:
+      213: -7327617360723967880
+    second: Alfyn (Apothecary)_96
+  - first:
+      213: -1672707324738799589
+    second: Alfyn (Apothecary)_97
+  - first:
+      213: 8669821478433147892
+    second: Alfyn (Apothecary)_98
+  - first:
+      213: -7074145324890244971
+    second: Alfyn (Apothecary)_99
+  - first:
+      213: 424232860263537288
+    second: Alfyn (Apothecary)_100
+  - first:
+      213: 1171427472835272081
+    second: Alfyn (Apothecary)_101
+  - first:
+      213: 7411427233475050620
+    second: Alfyn (Apothecary)_102
+  - first:
+      213: -9146388811714592147
+    second: Alfyn (Apothecary)_103
+  - first:
+      213: 352757175922609388
+    second: Alfyn (Apothecary)_104
+  - first:
+      213: 5034899281414243852
+    second: Alfyn (Apothecary)_105
+  - first:
+      213: -3054302196780362360
+    second: Alfyn (Apothecary)_106
+  - first:
+      213: -1001354567798571654
+    second: Alfyn (Apothecary)_107
+  - first:
+      213: 389620805657342435
+    second: Alfyn (Apothecary)_108
+  - first:
+      213: -3801844725784058754
+    second: Alfyn (Apothecary)_109
+  - first:
+      213: -8204034938562416561
+    second: Alfyn (Apothecary)_110
+  - first:
+      213: 2368337411348846707
+    second: Alfyn (Apothecary)_111
+  - first:
+      213: -1044424033116579239
+    second: Alfyn (Apothecary)_112
+  - first:
+      213: -9099948602864920445
+    second: Alfyn (Apothecary)_113
+  - first:
+      213: 6150449541595449850
+    second: Alfyn (Apothecary)_114
+  - first:
+      213: -1171086458432359479
+    second: Alfyn (Apothecary)_115
+  - first:
+      213: 3999215064463276984
+    second: Alfyn (Apothecary)_116
+  - first:
+      213: 6073972946004900629
+    second: Alfyn (Apothecary)_117
+  - first:
+      213: -4335190598057614629
+    second: Alfyn (Apothecary)_118
+  - first:
+      213: -2471241344476598077
+    second: Alfyn (Apothecary)_119
+  - first:
+      213: 9010795754664247033
+    second: Alfyn (Apothecary)_120
+  - first:
+      213: -7514027652547309893
+    second: Alfyn (Apothecary)_121
+  - first:
+      213: -8102651876506783409
+    second: Alfyn (Apothecary)_122
+  - first:
+      213: 1240629855796043849
+    second: Alfyn (Apothecary)_123
+  - first:
+      213: -3221489492029567443
+    second: Alfyn (Apothecary)_124
+  - first:
+      213: -4909967831358540326
+    second: Alfyn (Apothecary)_125
+  - first:
+      213: -1812207857227166770
+    second: Alfyn (Apothecary)_126
+  - first:
+      213: 7621312843806031183
+    second: Alfyn (Apothecary)_127
+  - first:
+      213: -7084352763941203108
+    second: Alfyn (Apothecary)_128
+  - first:
+      213: 5490126248150098720
+    second: Alfyn (Apothecary)_129
+  - first:
+      213: 3106198691552868821
+    second: Alfyn (Apothecary)_130
+  - first:
+      213: -1357822273034961852
+    second: Alfyn (Apothecary)_131
+  - first:
+      213: -1587747944776459992
+    second: Alfyn (Apothecary)_132
+  - first:
+      213: 8578141787144694464
+    second: Alfyn (Apothecary)_133
+  - first:
+      213: -5311099486051552519
+    second: Alfyn (Apothecary)_134
+  - first:
+      213: -2242917093916765465
+    second: Alfyn (Apothecary)_135
+  - first:
+      213: -2326988831154454298
+    second: Alfyn (Apothecary)_136
+  - first:
+      213: 6537526918296352397
+    second: Alfyn (Apothecary)_137
+  - first:
+      213: -2829363955559836961
+    second: Alfyn (Apothecary)_138
+  - first:
+      213: -1020636652370260541
+    second: Alfyn (Apothecary)_139
+  - first:
+      213: -4516879543563806057
+    second: Alfyn (Apothecary)_140
+  - first:
+      213: -5513942022873686881
+    second: Alfyn (Apothecary)_141
+  - first:
+      213: 4898562512062384900
+    second: Alfyn (Apothecary)_142
+  - first:
+      213: 8753638956046960987
+    second: Alfyn (Apothecary)_143
+  - first:
+      213: 1771667745740657068
+    second: Alfyn (Apothecary)_144
+  - first:
+      213: -38670625592237699
+    second: Alfyn (Apothecary)_145
+  - first:
+      213: 7414401252339571800
+    second: Alfyn (Apothecary)_146
+  - first:
+      213: 4618210008865904581
+    second: Alfyn (Apothecary)_147
+  - first:
+      213: 2073761426013241888
+    second: Alfyn (Apothecary)_148
+  - first:
+      213: -9050491195264342929
+    second: Alfyn (Apothecary)_149
+  - first:
+      213: 6314329544332448390
+    second: Alfyn (Apothecary)_150
+  - first:
+      213: -1707104919343751102
+    second: Alfyn (Apothecary)_151
+  - first:
+      213: -4081558083411664462
+    second: Alfyn (Apothecary)_152
+  - first:
+      213: 3541744473394347220
+    second: Alfyn (Apothecary)_153
+  - first:
+      213: 2802943939714017940
+    second: Alfyn (Apothecary)_154
+  - first:
+      213: -3017266840800525569
+    second: Alfyn (Apothecary)_155
+  - first:
+      213: -6630017598726284419
+    second: Alfyn (Apothecary)_156
+  - first:
+      213: 2525276247794557557
+    second: Alfyn (Apothecary)_157
+  - first:
+      213: -7526544298974495539
+    second: Alfyn (Apothecary)_158
+  - first:
+      213: 9067869639996969867
+    second: Alfyn (Apothecary)_159
+  - first:
+      213: -3939438938931277942
+    second: Alfyn (Apothecary)_160
+  - first:
+      213: 5872426804461310163
+    second: Alfyn (Apothecary)_161
+  - first:
+      213: 130382235095678607
+    second: Alfyn (Apothecary)_162
+  - first:
+      213: 2174241869713993783
+    second: Alfyn (Apothecary)_163
+  - first:
+      213: 1779140461155059159
+    second: Alfyn (Apothecary)_164
+  - first:
+      213: -4724499524011871676
+    second: Alfyn (Apothecary)_165
+  - first:
+      213: -6612900931847623819
+    second: Alfyn (Apothecary)_166
+  - first:
+      213: -2831802386867400331
+    second: Alfyn (Apothecary)_167
+  - first:
+      213: -7663144409471805500
+    second: Alfyn (Apothecary)_168
+  - first:
+      213: -3654697134995301815
+    second: Alfyn (Apothecary)_169
+  - first:
+      213: -4999860650322897968
+    second: Alfyn (Apothecary)_170
+  - first:
+      213: 4940649223961019679
+    second: Alfyn (Apothecary)_171
+  - first:
+      213: 5344897102226601034
+    second: Alfyn (Apothecary)_172
+  - first:
+      213: 3232823502874652852
+    second: Alfyn (Apothecary)_173
+  - first:
+      213: -3315179173926331551
+    second: Alfyn (Apothecary)_174
+  - first:
+      213: 7830212343310463234
+    second: Alfyn (Apothecary)_175
+  - first:
+      213: 3471240449189988674
+    second: Alfyn (Apothecary)_176
+  - first:
+      213: -3424313390823727994
+    second: Alfyn (Apothecary)_177
+  - first:
+      213: 2023673557104771785
+    second: Alfyn (Apothecary)_178
+  - first:
+      213: -8485186327060019013
+    second: Alfyn (Apothecary)_179
+  - first:
+      213: -7368797400071280012
+    second: Alfyn (Apothecary)_180
+  - first:
+      213: -6362639285268518870
+    second: Alfyn (Apothecary)_181
+  - first:
+      213: 4702603575600624440
+    second: Alfyn (Apothecary)_182
+  - first:
+      213: 9030590092869279861
+    second: Alfyn (Apothecary)_183
+  - first:
+      213: 867419136411172539
+    second: Alfyn (Apothecary)_184
+  - first:
+      213: -8135515448941398692
+    second: Alfyn (Apothecary)_185
+  - first:
+      213: -1263681648969190803
+    second: Alfyn (Apothecary)_186
+  - first:
+      213: -6425719625922633618
+    second: Alfyn (Apothecary)_187
+  - first:
+      213: 3001145127924660632
+    second: Alfyn (Apothecary)_188
+  - first:
+      213: 5259312290373504860
+    second: Alfyn (Apothecary)_189
+  - first:
+      213: 2833828441842030032
+    second: Alfyn (Apothecary)_190
+  - first:
+      213: -1826340401572583784
+    second: Alfyn (Apothecary)_191
+  - first:
+      213: -231537261634600727
+    second: Alfyn (Apothecary)_192
+  - first:
+      213: 8889234608182871460
+    second: Alfyn (Apothecary)_193
+  - first:
+      213: 996192940996700206
+    second: Alfyn (Apothecary)_194
+  - first:
+      213: 5915087687648378308
+    second: Alfyn (Apothecary)_195
+  - first:
+      213: -6114000983366697608
+    second: Alfyn (Apothecary)_196
+  - first:
+      213: -851914823874358757
+    second: Alfyn (Apothecary)_197
+  - first:
+      213: -952561288818234299
+    second: Alfyn (Apothecary)_198
+  - first:
+      213: 8450710707350991229
+    second: Alfyn (Apothecary)_199
+  - first:
+      213: 2226888932497328617
+    second: Alfyn (Apothecary)_200
+  - first:
+      213: -6154618057815679943
+    second: Alfyn (Apothecary)_201
+  - first:
+      213: -2833814788115353305
+    second: Alfyn (Apothecary)_202
+  - first:
+      213: 444181875583038529
+    second: Alfyn (Apothecary)_203
+  - first:
+      213: 5414101181534884219
+    second: Alfyn (Apothecary)_204
+  - first:
+      213: 4903940824067894238
+    second: Alfyn (Apothecary)_205
+  - first:
+      213: 8633998800327310673
+    second: Alfyn (Apothecary)_206
+  - first:
+      213: -6472093650308663626
+    second: Alfyn (Apothecary)_207
+  - first:
+      213: 1837923083852625216
+    second: Alfyn (Apothecary)_208
+  - first:
+      213: 694565978004136625
+    second: Alfyn (Apothecary)_209
+  - first:
+      213: 1348021494833772058
+    second: Alfyn (Apothecary)_210
+  - first:
+      213: 6144298085711694062
+    second: Alfyn (Apothecary)_211
+  - first:
+      213: 4116986334583064124
+    second: Alfyn (Apothecary)_212
+  - first:
+      213: 1782416237818350973
+    second: Alfyn (Apothecary)_213
+  - first:
+      213: -6905145397068408185
+    second: Alfyn (Apothecary)_214
+  - first:
+      213: 6203064094456313992
+    second: Alfyn (Apothecary)_215
+  - first:
+      213: -991467488544960748
+    second: Alfyn (Apothecary)_216
+  - first:
+      213: 1274463891288614379
+    second: Alfyn (Apothecary)_217
+  - first:
+      213: -4270490373050753772
+    second: Alfyn (Apothecary)_218
+  - first:
+      213: -2055059294387366065
+    second: Alfyn (Apothecary)_219
+  - first:
+      213: -3386834648550822464
+    second: Alfyn (Apothecary)_220
+  - first:
+      213: 1515807614898731969
+    second: Alfyn (Apothecary)_221
+  - first:
+      213: -3560111846335606044
+    second: Alfyn (Apothecary)_222
+  - first:
+      213: 8446627031522633981
+    second: Alfyn (Apothecary)_223
+  - first:
+      213: 5328753545459170485
+    second: Alfyn (Apothecary)_224
+  - first:
+      213: 863710257536420711
+    second: Alfyn (Apothecary)_225
+  - first:
+      213: 7774645484273399819
+    second: Alfyn (Apothecary)_226
+  - first:
+      213: 5412583398405250411
+    second: Alfyn (Apothecary)_227
+  - first:
+      213: -6182485346542053455
+    second: Alfyn (Apothecary)_228
+  - first:
+      213: 5956924123490221125
+    second: Alfyn (Apothecary)_229
+  - first:
+      213: 3438410210678042185
+    second: Alfyn (Apothecary)_230
+  - first:
+      213: -8926663004561150096
+    second: Alfyn (Apothecary)_231
+  - first:
+      213: 4634543713163715751
+    second: Alfyn (Apothecary)_232
+  - first:
+      213: -4387157854254782046
+    second: Alfyn (Apothecary)_233
+  - first:
+      213: -5010892284895616689
+    second: Alfyn (Apothecary)_234
+  - first:
+      213: 2919807375939076361
+    second: Alfyn (Apothecary)_235
+  - first:
+      213: 2531381303644852958
+    second: Alfyn (Apothecary)_236
+  - first:
+      213: -5206866252255495190
+    second: Alfyn (Apothecary)_237
+  - first:
+      213: 5177199356470117175
+    second: Alfyn (Apothecary)_238
+  - first:
+      213: 2854997163746568183
+    second: Alfyn (Apothecary)_239
+  - first:
+      213: 2305089878074814798
+    second: Alfyn (Apothecary)_240
+  - first:
+      213: 2754351992141715602
+    second: Alfyn (Apothecary)_241
+  - first:
+      213: 5497744702739705340
+    second: Alfyn (Apothecary)_242
+  - first:
+      213: -9035624409538015109
+    second: Alfyn (Apothecary)_243
+  - first:
+      213: 679517452488777921
+    second: Alfyn (Apothecary)_244
+  - first:
+      213: 688913376919986276
+    second: Alfyn (Apothecary)_245
+  - first:
+      213: 5915706471432518154
+    second: Alfyn (Apothecary)_246
+  - first:
+      213: -1308819867417786058
+    second: Alfyn (Apothecary)_247
+  - first:
+      213: 4941046797246643568
+    second: Alfyn (Apothecary)_248
+  - first:
+      213: 1184002455628401436
+    second: Alfyn (Apothecary)_249
+  - first:
+      213: 6537130916883551953
+    second: Alfyn (Apothecary)_250
+  - first:
+      213: 2118401621214520814
+    second: Alfyn (Apothecary)_251
+  - first:
+      213: 5765284719997686047
+    second: Alfyn (Apothecary)_252
+  - first:
+      213: 8878710526809149868
+    second: Alfyn (Apothecary)_253
+  - first:
+      213: -716752781862019037
+    second: Alfyn (Apothecary)_254
+  - first:
+      213: 6971594649724666929
+    second: Alfyn (Apothecary)_255
+  - first:
+      213: -6598010426757165945
+    second: Alfyn (Apothecary)_256
+  - first:
+      213: -655848616054946437
+    second: Alfyn (Apothecary)_257
+  - first:
+      213: -6783197006937523193
+    second: Alfyn (Apothecary)_258
+  - first:
+      213: -4652858419376429528
+    second: Alfyn (Apothecary)_259
+  - first:
+      213: 254193095350085471
+    second: Alfyn (Apothecary)_260
+  - first:
+      213: -8639047094317270140
+    second: Alfyn (Apothecary)_261
+  - first:
+      213: 3714869116274402199
+    second: Alfyn (Apothecary)_262
+  - first:
+      213: -8808068349095124948
+    second: Alfyn (Apothecary)_263
+  - first:
+      213: 5313663240574821825
+    second: Alfyn (Apothecary)_264
+  - first:
+      213: 5537550920049094520
+    second: Alfyn (Apothecary)_265
+  - first:
+      213: -7360547695533471105
+    second: Alfyn (Apothecary)_266
+  - first:
+      213: 5874664984735408402
+    second: Alfyn (Apothecary)_267
+  - first:
+      213: -3089845964050592115
+    second: Alfyn (Apothecary)_268
+  - first:
+      213: 7448834775748582545
+    second: Alfyn (Apothecary)_269
+  - first:
+      213: -2107011652774096244
+    second: Alfyn (Apothecary)_270
+  - first:
+      213: 4637852768227927965
+    second: Alfyn (Apothecary)_271
+  - first:
+      213: -2584787457865571691
+    second: Alfyn (Apothecary)_272
+  - first:
+      213: 4650837905278700930
+    second: Alfyn (Apothecary)_273
+  - first:
+      213: 6228334395645290806
+    second: Alfyn (Apothecary)_274
+  - first:
+      213: 5820809472271130512
+    second: Alfyn (Apothecary)_275
+  - first:
+      213: 7216865841127374642
+    second: Alfyn (Apothecary)_276
+  - first:
+      213: -7073085201057680156
+    second: Alfyn (Apothecary)_277
+  - first:
+      213: 7282190629708150049
+    second: Alfyn (Apothecary)_278
+  - first:
+      213: -8982580988845860771
+    second: Alfyn (Apothecary)_279
+  - first:
+      213: 2309318808782450827
+    second: Alfyn (Apothecary)_280
+  - first:
+      213: -1427974358757760374
+    second: Alfyn (Apothecary)_281
+  - first:
+      213: 4223956974700753409
+    second: Alfyn (Apothecary)_282
+  - first:
+      213: 1512158986783308417
+    second: Alfyn (Apothecary)_283
+  - first:
+      213: 2120522648944100628
+    second: Alfyn (Apothecary)_284
+  - first:
+      213: -3644408692193158125
+    second: Alfyn (Apothecary)_285
+  - first:
+      213: -1083291968721482968
+    second: Alfyn (Apothecary)_286
+  - first:
+      213: -1460077066845296486
+    second: Alfyn (Apothecary)_287
+  - first:
+      213: -2590397780386045622
+    second: Alfyn (Apothecary)_288
+  - first:
+      213: 93877331250204858
+    second: Alfyn (Apothecary)_289
+  - first:
+      213: -7577819241302283525
+    second: Alfyn (Apothecary)_290
+  - first:
+      213: -6389229950423571958
+    second: Alfyn (Apothecary)_291
+  - first:
+      213: -6647128568586170272
+    second: Alfyn (Apothecary)_292
+  - first:
+      213: 8607918190269506607
+    second: Alfyn (Apothecary)_293
+  - first:
+      213: 4509342530585330793
+    second: Alfyn (Apothecary)_294
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 954
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06e1362750598e0800000000000000
+      internalID: -1687436496533036817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 952
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd19ca365b70dec0800000000000000
+      internalID: -3544197296456917572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 954
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d1ef8872e5c2010800000000000000
+      internalID: 1165409927477206325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 952
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4a39faa1c5d52e0800000000000000
+      internalID: -2135449378619153247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 953
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d446439ff6afae2a0800000000000000
+      internalID: -6707273336185658291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 952
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f7a9fe73d637da0800000000000000
+      internalID: -5948290595815784693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 952
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb0491d15ba5a20800000000000000
+      internalID: 3051950834079284822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_7
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 955
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466f7f76a3f0e7a20800000000000000
+      internalID: 3061901540185339492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 958
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f011321053aa1a0800000000000000
+      internalID: -6797562408562782428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_9
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 958
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ad440092734dfb0800000000000000
+      internalID: -4624010268164957685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_10
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 960
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8199dd53afab1de0800000000000000
+      internalID: -1361301346160373363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_11
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 955
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6501f51ba244b78c0800000000000000
+      internalID: -4000528893833441194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_12
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 950
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48027bfb946fd050800000000000000
+      internalID: 5827487063941974094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 955
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92320469c3be771f0800000000000000
+      internalID: -1047109742889000151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_14
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 960
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5632ca288d131f110800000000000000
+      internalID: 1292869374007059301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_15
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 960
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3720d45ea1e8b6450800000000000000
+      internalID: 6083111967861310067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_16
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 961
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7c3eb21aea8bcb0800000000000000
+      internalID: -4847932991615023158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_17
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 955
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7917ddedd032fbc0800000000000000
+      internalID: -3750881809909999233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_18
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 956
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb94f8ae914e5f790800000000000000
+      internalID: -7496835204727748164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_19
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 956
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ad4b01897d0350800000000000000
+      internalID: 5984573074992636131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_20
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 952
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a419cdd583b26d3f0800000000000000
+      internalID: -876465556384083638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_21
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 952
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e090c056f3f8f8af0800000000000000
+      internalID: -391937140116944626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_22
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 952
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea99c80f9d32330800000000000000
+      internalID: 3685028547293458123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_23
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 951
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04c1f881ffa8250800000000000000
+      internalID: 5947846738841452717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_24
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 966
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399222d0cb9a1ae80800000000000000
+      internalID: -8169061623934080621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 894
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75903a2691730bb20800000000000000
+      internalID: 3148076721700538711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 894
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e36c35e261a0540800000000000000
+      internalID: 4974813126613941795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 894
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb5bb389341e9760800000000000000
+      internalID: 7466427469482646509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_28
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 880
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629790a5be80920a0800000000000000
+      internalID: -6905978746675037914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 882
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dade643604a6cc10800000000000000
+      internalID: 2073525025007131349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_30
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 866
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d68419f29987c20800000000000000
+      internalID: 3204479564454063360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 886
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9baa43fbc776470800000000000000
+      internalID: 8387809991665039794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_32
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 888
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e270248d88dc468e0800000000000000
+      internalID: -1701008771611752658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_33
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 882
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f3dfed968b497f0800000000000000
+      internalID: -606657284935958668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 882
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f32fbf34804b5a90800000000000000
+      internalID: -7324189432238627853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_35
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 864
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8943b22b9f1714bc0800000000000000
+      internalID: -3800631293274016616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_36
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 888
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0706e3cf98fa7a0800000000000000
+      internalID: -6363716031979949914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_37
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 888
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5724a9ec7b1bfd0800000000000000
+      internalID: -2327877434394643000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_38
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 882
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddb1a752c1bdc360800000000000000
+      internalID: 7191599628232539613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_39
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 886
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6946193ca045b6e0800000000000000
+      internalID: -1822479365765183126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_40
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 886
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22df4e51d3e7ee3d0800000000000000
+      internalID: -3175461886424187614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_41
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 886
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18d4b1fe74ad2960800000000000000
+      internalID: 7578894613062408223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_42
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 884
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9052b2af3d09dc870800000000000000
+      internalID: 8704772894886667529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 800
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b96eb5c022ab3c90800000000000000
+      internalID: -7188974118526621262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 800
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8829dfbbdd7bd5bd0800000000000000
+      internalID: -2639751643599629688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_45
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 800
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9828c8213bb8e0cf0800000000000000
+      internalID: -284136125251157367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_46
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 800
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2da7c6617ac1ce0800000000000000
+      internalID: -1433086866659552592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_47
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 800
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba918ffd86fa7d0800000000000000
+      internalID: -2904987923481253020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_48
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 799
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f4edf48d70b1e60800000000000000
+      internalID: 7933943794177560382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_49
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 800
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a2fca5c4d343680800000000000000
+      internalID: -8776322375687918966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_50
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 798
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e088caeb8fc8b520800000000000000
+      internalID: 2718150574964506856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_51
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 798
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4b6e22d392d63c0800000000000000
+      internalID: -4364787121296853850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 797
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9515743320a4c8760800000000000000
+      internalID: 7461420055956771161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_53
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 834
+        width: 66
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1657406fb15ca6cb0800000000000000
+      internalID: -4869863323165493919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_54
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 836
+        width: 65
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c4a2098e3ae4c00800000000000000
+      internalID: 886826395884997758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_55
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 799
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad4d2d96ebea3c0800000000000000
+      internalID: -4346327228647941513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_56
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 800
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ecc4c379a3c3510800000000000000
+      internalID: 1530162394625265188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_57
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 798
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf582b316caf2ab0800000000000000
+      internalID: -5030612725145247812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_58
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 797
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb987065100792f50800000000000000
+      internalID: 6857135058688903615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_59
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 797
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c344fea06cf3500800000000000000
+      internalID: 378238643988610190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_60
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 798
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e24e17cd22d6e4c0800000000000000
+      internalID: -4258485303576214808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_61
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 798
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ba80e58962b990800000000000000
+      internalID: -7371713616333326515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_62
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 797
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45790e4a2190ce90800000000000000
+      internalID: -7007441409304595121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_63
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 800
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4fcfe04da4db690800000000000000
+      internalID: -7584823922777066249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 732
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc7b4529f4f797c0800000000000000
+      internalID: -4064510787768845114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_65
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 731
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4db431aaebde620800000000000000
+      internalID: 2805107780599141571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 732
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d8c69c044101270800000000000000
+      internalID: 8219091588440952076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_67
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 731
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0905aa37c73e3e190800000000000000
+      internalID: -7934247994840690544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 732
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635f924f303c27b40800000000000000
+      internalID: 5436622121938318646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 726
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77673e14d4784c370800000000000000
+      internalID: 8341941175684658807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_70
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 724
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59421671bbffc21c0800000000000000
+      internalID: -4526962346397981547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_71
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 724
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a937475e4b5e770800000000000000
+      internalID: 8639510357774408340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_72
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 726
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470db48d7c07c19d0800000000000000
+      internalID: -2802240864501641100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_73
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 724
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a49ef6089d64f120800000000000000
+      internalID: 2446700997288826025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_74
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 725
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4069ca0667f7a250800000000000000
+      internalID: 5956001049860464714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_75
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 726
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ffd77397c228e40800000000000000
+      internalID: 5657132981064433434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_76
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 726
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57541854180e91a0800000000000000
+      internalID: -6800989503812774051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_77
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 726
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78242a3f0210bd640800000000000000
+      internalID: 5105675843592667783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_78
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 725
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaf1d94e3b4297c0800000000000000
+      internalID: -4066104782663583042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_79
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 725
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0197b76e5c2a628b0800000000000000
+      internalID: -5177271750756697840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_80
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 726
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda4dfe2d1e3758d0800000000000000
+      internalID: -2857747143479964962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_81
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 725
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74876081365ad7f80800000000000000
+      internalID: -8107141909173602233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_82
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 726
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87241b6a622c1a60800000000000000
+      internalID: 7646024107826620303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_83
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 724
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3515b1ba056c230800000000000000
+      internalID: 3658700443113051060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_84
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 726
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1026b53d4c0a6c4d0800000000000000
+      internalID: -3114625325060103679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_85
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 726
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ddd1f066fa4be0800000000000000
+      internalID: -1492109430284757027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_86
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 725
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f0b36c4341c3de0800000000000000
+      internalID: -1352183571221377165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_87
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 725
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e424fc25406385cc0800000000000000
+      internalID: -3722165699824631218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 654
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1696d9cc7f8f8cc40800000000000000
+      internalID: 5532945885398133089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 652
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e4ebbfebbfe0fc0800000000000000
+      internalID: -3526604660498608607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 652
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1984936dce89c10800000000000000
+      internalID: 2060657234350215611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 652
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3943df2842fe24320800000000000000
+      internalID: 2540856079885874323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 654
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be44ad437f145a40800000000000000
+      internalID: 5355940436934676149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_93
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 654
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbb0e983e9b4dfa0800000000000000
+      internalID: -5776788035087582224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_94
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 653
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610d25f2165ef5280800000000000000
+      internalID: -9052264520422862826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_95
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 654
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7586aeabde0133340800000000000000
+      internalID: 4842232637582633047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_96
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 652
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870001475d21f4a90800000000000000
+      internalID: -7327617360723967880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_97
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 654
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18ffbfec8959c8e0800000000000000
+      internalID: -1672707324738799589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_98
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 654
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb4f0033b4615870800000000000000
+      internalID: 8669821478433147892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_99
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 655
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5983d64be4693dd90800000000000000
+      internalID: -7074145324890244971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_100
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 653
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a5e0ae98d23e500800000000000000
+      internalID: 424232860263537288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_101
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 654
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dda7e741fb14010800000000000000
+      internalID: 1171427472835272081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_102
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 656
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7cbfe92dcdaad660800000000000000
+      internalID: 7411427233475050620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_103
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 656
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62052cd5df711180800000000000000
+      internalID: -9146388811714592147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_104
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 652
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec46d258ce35e400800000000000000
+      internalID: 352757175922609388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_105
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 653
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06c09c683e8fd540800000000000000
+      internalID: 5034899281414243852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_106
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 653
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885163c9550fc95d0800000000000000
+      internalID: -3054302196780362360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_107
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 652
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7db62473597a12f0800000000000000
+      internalID: -1001354567798571654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_108
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 654
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1be46fe06386500800000000000000
+      internalID: 389620805657342435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_109
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 653
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74e27c6d522d3bc0800000000000000
+      internalID: -3801844725784058754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_110
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 652
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40f712b0b9652e80800000000000000
+      internalID: -8204034938562416561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_111
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 652
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37857bfd3560ed020800000000000000
+      internalID: 2368337411348846707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_112
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 622
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a943f10e57181f0800000000000000
+      internalID: -1044424033116579239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_113
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 622
+        width: 68
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3889ce395fc76b180800000000000000
+      internalID: -9099948602864920445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_114
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 580
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9c2c78549ca5550800000000000000
+      internalID: 6150449541595449850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_115
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 580
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c37edb12177fbfe0800000000000000
+      internalID: -1171086458432359479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_116
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 582
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb79b199e0108730800000000000000
+      internalID: 3999215064463276984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_117
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 581
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b74fd86361b4450800000000000000
+      internalID: 6073972946004900629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_118
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 580
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2a921be1f46d3c0800000000000000
+      internalID: -4335190598057614629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_119
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 582
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0b634271364bdd0800000000000000
+      internalID: -2471241344476598077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_120
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 582
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3c546ff6cc0d70800000000000000
+      internalID: 9010795754664247033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_121
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 580
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe847939afc8b790800000000000000
+      internalID: -7514027652547309893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_122
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 582
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41392a4c099d8f80800000000000000
+      internalID: -8102651876506783409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_123
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 580
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940a77cd74a973110800000000000000
+      internalID: 1240629855796043849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_124
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 581
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e8ceb0068fa43d0800000000000000
+      internalID: -3221489492029567443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_125
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 580
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad57741854a4cdbb0800000000000000
+      internalID: -4909967831358540326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_126
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 582
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb8dca2e8eb9d6e0800000000000000
+      internalID: -1812207857227166770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_127
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 580
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d3e29e6a754c960800000000000000
+      internalID: 7621312843806031183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_128
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 591
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c535ab912b25fad90800000000000000
+      internalID: -7084352763941203108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_129
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 596
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e8091cb8d03c40800000000000000
+      internalID: 5490126248150098720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_130
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 596
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9bacba04f6b1b20800000000000000
+      internalID: 3106198691552868821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_131
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 581
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c33a336db082de0800000000000000
+      internalID: -1357822273034961852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_132
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 580
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291ebe08af27f9e0800000000000000
+      internalID: -1587747944776459992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_133
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 582
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caa1b7a18eab0770800000000000000
+      internalID: 8578141787144694464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_134
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 584
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f23327282f2b46b0800000000000000
+      internalID: -5311099486051552519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_135
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 584
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2907c59ce8fd0e0800000000000000
+      internalID: -2242917093916765465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_136
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 511
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0ccbaacffd4bfd0800000000000000
+      internalID: -2326988831154454298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_137
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 511
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86bb9a4816f9ba50800000000000000
+      internalID: 6537526918296352397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_138
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 508
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2df8819741cb8d0800000000000000
+      internalID: -2829363955559836961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_139
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 510
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0aba4f58f5d1f0800000000000000
+      internalID: -1020636652370260541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_140
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 508
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a96a09cf1d051c0800000000000000
+      internalID: -4516879543563806057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_141
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 510
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cd38eb1fa8a73b0800000000000000
+      internalID: -5513942022873686881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_142
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 510
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b0689a6a03bf340800000000000000
+      internalID: 4898562512062384900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_143
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 510
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b594333704c2b7970800000000000000
+      internalID: 8753638956046960987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_144
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 508
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca193e49d6a369810800000000000000
+      internalID: 1771667745740657068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_145
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 510
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71255a554d967ff0800000000000000
+      internalID: -38670625592237699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_146
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 510
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c59e3e7ae35e660800000000000000
+      internalID: 7414401252339571800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_147
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 515
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c71b94e88d271040800000000000000
+      internalID: 4618210008865904581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_148
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 513
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0224d6a970b77cc10800000000000000
+      internalID: 2073761426013241888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_149
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 510
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64e77f9532366280800000000000000
+      internalID: -9050491195264342929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_150
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 515
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68290bc044101a750800000000000000
+      internalID: 6314329544332448390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_151
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 514
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240a138de152f48e0800000000000000
+      internalID: -1707104919343751102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_152
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 510
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1af145c846b57c0800000000000000
+      internalID: -4081558083411664462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_153
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 516
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc7fd565ddc62130800000000000000
+      internalID: 3541744473394347220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_154
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 512
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49aecfb99ae06e620800000000000000
+      internalID: 2802943939714017940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_155
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 510
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff205816bc38026d0800000000000000
+      internalID: -3017266840800525569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_156
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 515
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bd45d0f127df3a0800000000000000
+      internalID: -6630017598726284419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_157
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 512
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572a68d2e559b0320800000000000000
+      internalID: 2525276247794557557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_158
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 510
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc326166d75c8790800000000000000
+      internalID: -7526544298974495539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_159
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 516
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b839199d46b87dd70800000000000000
+      internalID: 9067869639996969867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_160
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 515
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fc8a6382d4459c0800000000000000
+      internalID: -3939438938931277942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_161
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 511
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d01661b01d0f7150800000000000000
+      internalID: 5872426804461310163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_162
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 443
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e36e7b3f53fc100800000000000000
+      internalID: 130382235095678607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_163
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 442
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730751cf5757c2e10800000000000000
+      internalID: 2174241869713993783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_164
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 439
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d50ca8b2d6c0b810800000000000000
+      internalID: 1779140461155059159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_165
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 444
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44235c1e6b43f6eb0800000000000000
+      internalID: -4724499524011871676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_166
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 442
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b6f5e93a14a34a0800000000000000
+      internalID: -6612900931847623819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_167
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 440
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5715aa09bba63b8d0800000000000000
+      internalID: -2831802386867400331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_168
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 443
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c799eab2ca07a590800000000000000
+      internalID: -7663144409471805500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_169
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 444
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a97f2b158e74dc0800000000000000
+      internalID: -3654697134995301815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_170
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 439
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3dc0b9a3dec9ab0800000000000000
+      internalID: -4999860650322897968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_171
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 440
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f158102ea46b09440800000000000000
+      internalID: 4940649223961019679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_172
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 438
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a443b339893ec2a40800000000000000
+      internalID: 5344897102226601034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_173
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 435
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0b06ef8db4ddc20800000000000000
+      internalID: 3232823502874652852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_174
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 442
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b195b1b1e1ef1d0800000000000000
+      internalID: -3315179173926331551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_175
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 439
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20136e6d3a08aac60800000000000000
+      internalID: 7830212343310463234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_176
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 437
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249cfef0cc25c2030800000000000000
+      internalID: 3471240449189988674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_177
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 439
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c96542d156a70d0800000000000000
+      internalID: -3424313390823727994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_178
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 436
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2c498d068851c10800000000000000
+      internalID: 2023673557104771785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_179
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 436
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb80692fdff8e3a80800000000000000
+      internalID: -8485186327060019013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_180
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 442
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aede26ec5ccb990800000000000000
+      internalID: -7368797400071280012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_181
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 438
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28ef9fd74d53b7a0800000000000000
+      internalID: -6362639285268518870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_182
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 436
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833382b5901034140800000000000000
+      internalID: 4702603575600624440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_183
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 440
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570a2a5e7d9135d70800000000000000
+      internalID: 9030590092869279861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_184
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 437
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbef929db11b90c00800000000000000
+      internalID: 867419136411172539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_185
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 435
+        width: 38
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5535219dc7d81f80800000000000000
+      internalID: -8135515448941398692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_186
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 442
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62f20c4c30867ee0800000000000000
+      internalID: -1263681648969190803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_187
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6020ae8b0243d6a0800000000000000
+      internalID: -6425719625922633618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_188
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 363
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899f755d79536a920800000000000000
+      internalID: 3001145127924660632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_189
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 365
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f0f8eb9a4dcf840800000000000000
+      internalID: 5259312290373504860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_190
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 364
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5946e14f7c35720800000000000000
+      internalID: 2833828441842030032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_191
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 362
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8966255c41987a6e0800000000000000
+      internalID: -1826340401572583784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_192
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 367
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0c008561a69ccf0800000000000000
+      internalID: -231537261634600727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_193
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 364
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a549d967c7ec5b70800000000000000
+      internalID: 8889234608182871460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_194
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 363
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282cd7a33033dd00800000000000000
+      internalID: 996192940996700206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_195
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 368
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd719599ec961250800000000000000
+      internalID: 5915087687648378308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_196
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 366
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87df90ebf74b62ba0800000000000000
+      internalID: -6114000983366697608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_197
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 362
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1254183bf36d24f0800000000000000
+      internalID: -851914823874358757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_198
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 368
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c63310e82d7c2f0800000000000000
+      internalID: -952561288818234299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_199
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 364
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71fe335d94f64570800000000000000
+      internalID: 8450710707350991229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_200
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 360
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e980cf7faf77ee10800000000000000
+      internalID: 2226888932497328617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_201
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 367
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c11b72c77669aa0800000000000000
+      internalID: -6154618057815679943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_202
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 366
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721b223e6744ca8d0800000000000000
+      internalID: -2833814788115353305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_203
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 360
+        width: 35
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1443bcdff0d0a2600800000000000000
+      internalID: 444181875583038529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_204
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 368
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71d867e650c22b40800000000000000
+      internalID: 5414101181534884219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_205
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 366
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb6a12823c4e0440800000000000000
+      internalID: 4903940824067894238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_206
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 360
+        width: 34
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d78acf92022d770800000000000000
+      internalID: 8633998800327310673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_207
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 366
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67a4c9d118e26a0800000000000000
+      internalID: -6472093650308663626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_208
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 366
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b6899e4d918910800000000000000
+      internalID: 1837923083852625216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_209
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 364
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b22208b31893a900800000000000000
+      internalID: 694565978004136625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_210
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 367
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16782d486225b210800000000000000
+      internalID: 1348021494833772058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_211
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 367
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee845f81e8ee44550800000000000000
+      internalID: 6144298085711694062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_212
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 363
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3606f13249722930800000000000000
+      internalID: 4116986334583064124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_213
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 294
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d0d09ef1a6cb810800000000000000
+      internalID: 1782416237818350973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_214
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 292
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a505da8defb20a0800000000000000
+      internalID: -6905145397068408185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_215
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 289
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8887c0dbde5b51650800000000000000
+      internalID: 6203064094456313992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_216
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 293
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fcdea72999d32f0800000000000000
+      internalID: -991467488544960748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_217
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 294
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5e15f182ecfa110800000000000000
+      internalID: 1274463891288614379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_218
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 289
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9599b1ab2cb4c0800000000000000
+      internalID: -4270490373050753772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_219
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 292
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f471dadb576fa73e0800000000000000
+      internalID: -2055059294387366065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_220
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 288
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cda424d4db8ff0d0800000000000000
+      internalID: -3386834648550822464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_221
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 287
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbfed1aefa390510800000000000000
+      internalID: 1515807614898731969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_222
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 294
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e291865321f79ec0800000000000000
+      internalID: -3560111846335606044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_223
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 291
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df86e147882783570800000000000000
+      internalID: 8446627031522633981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_224
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 289
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc72bcdd1983f940800000000000000
+      internalID: 5328753545459170485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_225
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 291
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76bc15137e38cfb00800000000000000
+      internalID: 863710257536420711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_226
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 290
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08f5b840e615eb60800000000000000
+      internalID: 7774645484273399819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_227
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 287
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d1f1b7ceb5d1b40800000000000000
+      internalID: 5412583398405250411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_228
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 294
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b79d426556633aa0800000000000000
+      internalID: -6182485346542053455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_229
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 290
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf69eddee3ba250800000000000000
+      internalID: 5956924123490221125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_230
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 289
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e6a8f7edfa7bf20800000000000000
+      internalID: 3438410210678042185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_231
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 292
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fe287fa4f1e1480800000000000000
+      internalID: -8926663004561150096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_232
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 289
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4a427c3f4315040800000000000000
+      internalID: 4634543713163715751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_233
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 287
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9249bfc2fad13c0800000000000000
+      internalID: -4387157854254782046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_234
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 294
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f412d07040cb57ab0800000000000000
+      internalID: -5010892284895616689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_235
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 292
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9010a6fa65d358820800000000000000
+      internalID: 2919807375939076361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_236
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 289
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed211d242e5412320800000000000000
+      internalID: 2531381303644852958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_237
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 292
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb77511bbe7db7b0800000000000000
+      internalID: -5206866252255495190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_238
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 214
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73348cd726b19d740800000000000000
+      internalID: 5177199356470117175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_239
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 213
+        width: 41
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7acd34bccfe9720800000000000000
+      internalID: 2854997163746568183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_240
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 220
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417ffdf7035dff10800000000000000
+      internalID: 2305089878074814798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_241
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 217
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2981ffd2b8c693620800000000000000
+      internalID: 2754351992141715602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_242
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 215
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde598cda9eb4c40800000000000000
+      internalID: 5497744702739705340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_243
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 214
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7053a9e8730b9280800000000000000
+      internalID: -9035624409538015109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_244
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 215
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0a546d5812e6900800000000000000
+      internalID: 679517452488777921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_245
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 214
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460a458f0138f8900800000000000000
+      internalID: 688913376919986276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_246
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 216
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af63961bfc81250800000000000000
+      internalID: 5915706471432518154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_247
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 215
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639c697d34326dde0800000000000000
+      internalID: -1308819867417786058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_248
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 215
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db77022ef129440800000000000000
+      internalID: 4941046797246643568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_249
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 215
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bcbe4d5fb6e6010800000000000000
+      internalID: 1184002455628401436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_250
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 214
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d651170fed88ba50800000000000000
+      internalID: 6537130916883551953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_251
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 216
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee56a1cfc03166d10800000000000000
+      internalID: 2118401621214520814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_252
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 215
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11137438e7620050800000000000000
+      internalID: 5765284719997686047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_253
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 216
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca11bf5ce24873b70800000000000000
+      internalID: 8878710526809149868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_254
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 215
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320675574259d06f0800000000000000
+      internalID: -716752781862019037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_255
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 215
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1344ad6956410c060800000000000000
+      internalID: 6971594649724666929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_256
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 216
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cc0d089782f64a0800000000000000
+      internalID: -6598010426757165945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_257
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 214
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b750d959825f5e6f0800000000000000
+      internalID: -655848616054946437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_258
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 215
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cfef7d24e3dd1a0800000000000000
+      internalID: -6783197006937523193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_259
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 214
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826e1e26be9bd6fb0800000000000000
+      internalID: -4652858419376429528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_260
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 215
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57e2b00643178300800000000000000
+      internalID: 254193095350085471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_261
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 215
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b39597070fb1880800000000000000
+      internalID: -8639047094317270140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_262
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 215
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793ea9e67cddd8330800000000000000
+      internalID: 3714869116274402199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_263
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 216
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e2dee08473c580800000000000000
+      internalID: -8808068349095124948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_264
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 142
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c56386709cedb940800000000000000
+      internalID: 5313663240574821825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_265
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 142
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fe92bf83559dc40800000000000000
+      internalID: 5537550920049094520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_266
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 142
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a48676ed41ad990800000000000000
+      internalID: -7360547695533471105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_267
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 142
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2116495ada0078150800000000000000
+      internalID: 5874664984735408402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_268
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 141
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e07166779ae15d0800000000000000
+      internalID: -3089845964050592115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_269
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 142
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c121f43c39f5760800000000000000
+      internalID: 7448834775748582545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_270
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 142
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c829ac2b01462c2e0800000000000000
+      internalID: -2107011652774096244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_271
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 142
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97a9c23586fc5040800000000000000
+      internalID: 4637852768227927965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_272
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 140
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592a90a708df02cd0800000000000000
+      internalID: -2584787457865571691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_273
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 142
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d0f040f681b8040800000000000000
+      internalID: 4650837905278700930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_274
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 141
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e8ca322d7f6650800000000000000
+      internalID: 6228334395645290806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_275
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 142
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f13f3006ba7c050800000000000000
+      internalID: 5820809472271130512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_276
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 142
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f3c04fe35772460800000000000000
+      internalID: 7216865841127374642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_277
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 142
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e472e40c7a57dd90800000000000000
+      internalID: -7073085201057680156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_278
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 141
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125be668bc98f0560800000000000000
+      internalID: 7282190629708150049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_279
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 144
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d585aa1be26775380800000000000000
+      internalID: -8982580988845860771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_280
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 142
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b803b96a8395c0020800000000000000
+      internalID: 2309318808782450827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_281
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 140
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82a0ede2e0de2ce0800000000000000
+      internalID: -1427974358757760374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_282
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 142
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102729f2d728e9a30800000000000000
+      internalID: 4223956974700753409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_283
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 141
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a322336944cf410800000000000000
+      internalID: 1512158986783308417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_284
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 142
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415cb7c3d1c9d6d10800000000000000
+      internalID: 2120522648944100628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_285
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 142
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c1b757a957c6dc0800000000000000
+      internalID: -3644408692193158125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_286
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 142
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b8258a1bf57f0f0800000000000000
+      internalID: -1083291968721482968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_287
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 140
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98edfdb4a3ccbbe0800000000000000
+      internalID: -1460077066845296486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_288
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 142
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41212971fe0d0cd0800000000000000
+      internalID: -2590397780386045622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_289
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 141
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab051a57fe48d4100800000000000000
+      internalID: 93877331250204858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_290
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 142
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaae0e8c8d26d690800000000000000
+      internalID: -7577819241302283525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_291
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0267b03635e457a0800000000000000
+      internalID: -6389229950423571958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_292
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060121de8c7a0c3a0800000000000000
+      internalID: -6647128568586170272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_293
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 70
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2423a2ccf7757770800000000000000
+      internalID: 8607918190269506607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Apothecary)_294
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 68
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964891ad327649e30800000000000000
+      internalID: 4509342530585330793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

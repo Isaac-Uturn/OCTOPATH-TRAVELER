@@ -1,0 +1,864 @@
+fileFormatVersion: 2
+guid: 8ff3f8244fb6c4241ac5aecfb5c1ef24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1275438738835642799
+    second: Tressa_0
+  - first:
+      213: -8545925595149372054
+    second: Tressa_1
+  - first:
+      213: -5371510106490038158
+    second: Tressa_2
+  - first:
+      213: -8899377387934163477
+    second: Tressa_3
+  - first:
+      213: 2748967884973930618
+    second: Tressa_4
+  - first:
+      213: -183650713779412072
+    second: Tressa_5
+  - first:
+      213: -4787638552721208637
+    second: Tressa_6
+  - first:
+      213: -578818701089814589
+    second: Tressa_7
+  - first:
+      213: 4151336772457654650
+    second: Tressa_8
+  - first:
+      213: 6353739621232693272
+    second: Tressa_9
+  - first:
+      213: 5384675595235092830
+    second: Tressa_10
+  - first:
+      213: -3001593665538943505
+    second: Tressa_11
+  - first:
+      213: 7652773362413805642
+    second: Tressa_12
+  - first:
+      213: -8262519477174261696
+    second: Tressa_13
+  - first:
+      213: -7751349655162920878
+    second: Tressa_14
+  - first:
+      213: 6237047147247262117
+    second: Tressa_15
+  - first:
+      213: 8812767120413338033
+    second: Tressa_16
+  - first:
+      213: -7020254452243828144
+    second: Tressa_17
+  - first:
+      213: -2851671437952887283
+    second: Tressa_18
+  - first:
+      213: 3976034054116580046
+    second: Tressa_19
+  - first:
+      213: -2957445951188647441
+    second: Tressa_20
+  - first:
+      213: 3156140432886859408
+    second: Tressa_21
+  - first:
+      213: 3642496013157280595
+    second: Tressa_22
+  - first:
+      213: 5900444268589953211
+    second: Tressa_23
+  - first:
+      213: -8698620955608748590
+    second: Tressa_24
+  - first:
+      213: 6261974210290864932
+    second: Tressa_25
+  - first:
+      213: 5600720775984647163
+    second: Tressa_26
+  - first:
+      213: 4949619178314088929
+    second: Tressa_27
+  - first:
+      213: 9124058190225618590
+    second: Tressa_28
+  - first:
+      213: 1524822103237971145
+    second: Tressa_29
+  - first:
+      213: 7489521011586605032
+    second: Tressa_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tressa_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 390
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9121186c443b110800000000000000
+      internalID: 1275438738835642799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 390
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65f33013f5c66980800000000000000
+      internalID: -8545925595149372054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 390
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2789d3384009475b0800000000000000
+      internalID: -5371510106490038158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 390
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed5a06aa6f0f7480800000000000000
+      internalID: -8899377387934163477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 390
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78f3da0abb462620800000000000000
+      internalID: 2748967884973930618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 390
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8936e6a16aa837df0800000000000000
+      internalID: -183650713779412072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 390
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca46103a14ee8db0800000000000000
+      internalID: -4787638552721208637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_7
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 390
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c74034457f97f7f0800000000000000
+      internalID: -578818701089814589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 262
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79ea51ccc28c9930800000000000000
+      internalID: 4151336772457654650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 262
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81056ee95840d2850800000000000000
+      internalID: 6353739621232693272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 262
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59e3b4bce53aba40800000000000000
+      internalID: 5384675595235092830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_11
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 262
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe51d7dd6723856d0800000000000000
+      internalID: -3001593665538943505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_12
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 262
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a402f35b3dc143a60800000000000000
+      internalID: 7652773362413805642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_13
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 262
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048284def42a55d80800000000000000
+      internalID: -8262519477174261696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_14
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 262
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250ea2a9e8cad6490800000000000000
+      internalID: -7751349655162920878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_15
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 259
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9590bc5517e8650800000000000000
+      internalID: 6237047147247262117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 134
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9aa74010d3d4a70800000000000000
+      internalID: 8812767120413338033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_17
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 134
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052f62545cb039e90800000000000000
+      internalID: -7020254452243828144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 134
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06d0bc9fe3dc68d0800000000000000
+      internalID: -2851671437952887283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_19
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 134
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca997208e5bd2730800000000000000
+      internalID: 3976034054116580046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 134
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1cbfc939a05f6d0800000000000000
+      internalID: -2957445951188647441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_21
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 134
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0960873700ddccb20800000000000000
+      internalID: 3156140432886859408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_22
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 134
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b240043debc8230800000000000000
+      internalID: 3642496013157280595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_23
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 131
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03b46ecc692e150800000000000000
+      internalID: 5900444268589953211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddeb21045a484780800000000000000
+      internalID: -8698620955608748590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 6
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4235b0ded5007e650800000000000000
+      internalID: 6261974210290864932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_26
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 6
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb07b23fd1c9bd40800000000000000
+      internalID: 5600720775984647163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_27
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3
+        width: 68
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e14fd02b6490b440800000000000000
+      internalID: 4949619178314088929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_28
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 6
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96346a259a2f9e70800000000000000
+      internalID: 9124058190225618590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 6
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccc921cf91492510800000000000000
+      internalID: 1524822103237971145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa_30
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 6
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef9179cdaf10f760800000000000000
+      internalID: 7489521011586605032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: be882d20e1935214ab648867233f4ccf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

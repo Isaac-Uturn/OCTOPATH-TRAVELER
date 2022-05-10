@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: 67ade8a37d4e6b144a16261732f94ab8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3238222516247335816
+    second: H'aanit_0
+  - first:
+      213: 1953905724859215288
+    second: H'aanit_1
+  - first:
+      213: 7547145674085684791
+    second: H'aanit_2
+  - first:
+      213: 6315657261348869299
+    second: H'aanit_3
+  - first:
+      213: -2369700891291238432
+    second: H'aanit_4
+  - first:
+      213: -5614305856196163816
+    second: H'aanit_5
+  - first:
+      213: -1429846414161194535
+    second: H'aanit_6
+  - first:
+      213: -8328225210967210036
+    second: H'aanit_7
+  - first:
+      213: -3296675186711526714
+    second: H'aanit_8
+  - first:
+      213: 1251671937143326143
+    second: H'aanit_9
+  - first:
+      213: -4620554240798038082
+    second: H'aanit_10
+  - first:
+      213: 7868069802145748224
+    second: H'aanit_11
+  - first:
+      213: 1928185682095715708
+    second: H'aanit_12
+  - first:
+      213: -8191470461830541673
+    second: H'aanit_13
+  - first:
+      213: 6186499285149362911
+    second: H'aanit_14
+  - first:
+      213: 3571567502934955305
+    second: H'aanit_15
+  - first:
+      213: -7965077435419613518
+    second: H'aanit_16
+  - first:
+      213: -8244067315802583522
+    second: H'aanit_17
+  - first:
+      213: -3124452390930462503
+    second: H'aanit_18
+  - first:
+      213: -3321529993874759739
+    second: H'aanit_19
+  - first:
+      213: 8073587038639358814
+    second: H'aanit_20
+  - first:
+      213: 3730808913062919776
+    second: H'aanit_21
+  - first:
+      213: -5392193680978672152
+    second: H'aanit_22
+  - first:
+      213: 2787840056757368063
+    second: H'aanit_23
+  - first:
+      213: 3976668482494171876
+    second: H'aanit_24
+  - first:
+      213: -6189075776217281437
+    second: H'aanit_25
+  - first:
+      213: -7619979741200468106
+    second: H'aanit_26
+  - first:
+      213: -4295332254273883968
+    second: H'aanit_27
+  - first:
+      213: 5354779325210863671
+    second: H'aanit_28
+  - first:
+      213: -212930803796413085
+    second: H'aanit_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: H'aanit_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 390
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ce76f37c58f03d0800000000000000
+      internalID: -3238222516247335816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_1
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 390
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bde5de87eaad1b10800000000000000
+      internalID: 1953905724859215288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_2
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 390
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736d00c0109dcb860800000000000000
+      internalID: 7547145674085684791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 390
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4d0d141d8b5a750800000000000000
+      internalID: 6315657261348869299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 390
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efb8a638912d1fd0800000000000000
+      internalID: -2369700891291238432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_5
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 390
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8174805d19af512b0800000000000000
+      internalID: -5614305856196163816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 390
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d15e80134a282ce0800000000000000
+      internalID: -1429846414161194535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_7
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 390
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c8d2ab433c6c80800000000000000
+      internalID: -8328225210967210036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 262
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2073c526bdf32d0800000000000000
+      internalID: -3296675186711526714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 262
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5c0c4cef4de5110800000000000000
+      internalID: 1251671937143326143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 262
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7eec3166e70efb0800000000000000
+      internalID: -4620554240798038082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 262
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00510e85ccff03d60800000000000000
+      internalID: 7868069802145748224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_12
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 262
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c753f4279aa42ca10800000000000000
+      internalID: 1928185682095715708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 262
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e4c76e30d025e80800000000000000
+      internalID: -8191470461830541673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_14
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 262
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda2986825cdad550800000000000000
+      internalID: 6186499285149362911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 262
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92554cf88b1c09130800000000000000
+      internalID: 3571567502934955305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 134
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a555f54c567190800000000000000
+      internalID: -7965077435419613518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 134
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ecd298470379d80800000000000000
+      internalID: -8244067315802583522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_18
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 134
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d848f0ca17b3a4d0800000000000000
+      internalID: -3124452390930462503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_19
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 134
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf1a4c911e87e1d0800000000000000
+      internalID: -3321529993874759739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 134
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e530c4dc2a42b0070800000000000000
+      internalID: 8073587038639358814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_21
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 134
+        width: 72
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ef9f390fe76c330800000000000000
+      internalID: 3730808913062919776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_22
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 131
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5092d8a641b25b0800000000000000
+      internalID: -5392193680978672152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_23
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 131
+        width: 72
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4b0a1d2c560b620800000000000000
+      internalID: 2787840056757368063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 6
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea8e806ae6ff2730800000000000000
+      internalID: 3976668482494171876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c08966f5cfb1aa0800000000000000
+      internalID: -6189075776217281437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_26
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 6
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677b21a3cc4604690800000000000000
+      internalID: -7619979741200468106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 6
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c03ab7821ae364c0800000000000000
+      internalID: -4295332254273883968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 6
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738acc9ec6fff4a40800000000000000
+      internalID: 5354779325210863671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 6
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365f9f5ef848b0df0800000000000000
+      internalID: -212930803796413085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2a5012003c2fbdf429c92ac070a0cab0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

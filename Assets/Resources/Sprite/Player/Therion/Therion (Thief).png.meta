@@ -1,0 +1,6744 @@
+fileFormatVersion: 2
+guid: 74d424cee84dc1d4d929ab01b76deb8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5033563974560982822
+    second: Therion (Thief)_0
+  - first:
+      213: -6591238565269687502
+    second: Therion (Thief)_1
+  - first:
+      213: -4298601310500006634
+    second: Therion (Thief)_2
+  - first:
+      213: -983966067337550817
+    second: Therion (Thief)_3
+  - first:
+      213: 4858673354938278080
+    second: Therion (Thief)_4
+  - first:
+      213: -6711011539799261356
+    second: Therion (Thief)_5
+  - first:
+      213: -6749714099405237051
+    second: Therion (Thief)_6
+  - first:
+      213: -7106557540479450964
+    second: Therion (Thief)_7
+  - first:
+      213: 7614410957727051455
+    second: Therion (Thief)_8
+  - first:
+      213: 8965021347846509106
+    second: Therion (Thief)_9
+  - first:
+      213: 2027524798629738564
+    second: Therion (Thief)_10
+  - first:
+      213: 7060241579861876753
+    second: Therion (Thief)_11
+  - first:
+      213: -7990796022263348095
+    second: Therion (Thief)_12
+  - first:
+      213: -808889486249789613
+    second: Therion (Thief)_13
+  - first:
+      213: 8965977806129381360
+    second: Therion (Thief)_14
+  - first:
+      213: 903684638719713121
+    second: Therion (Thief)_15
+  - first:
+      213: -4867096034740920608
+    second: Therion (Thief)_16
+  - first:
+      213: -1290580545854745065
+    second: Therion (Thief)_17
+  - first:
+      213: 9062703652917915095
+    second: Therion (Thief)_18
+  - first:
+      213: -2480677214745149378
+    second: Therion (Thief)_19
+  - first:
+      213: -7617340612299759490
+    second: Therion (Thief)_20
+  - first:
+      213: -7629574918937424613
+    second: Therion (Thief)_21
+  - first:
+      213: -3744610445698429211
+    second: Therion (Thief)_22
+  - first:
+      213: 2424539021665159213
+    second: Therion (Thief)_23
+  - first:
+      213: -7753980760055038338
+    second: Therion (Thief)_24
+  - first:
+      213: -3484635033268125703
+    second: Therion (Thief)_25
+  - first:
+      213: 3185166376875122750
+    second: Therion (Thief)_26
+  - first:
+      213: 8312379803766823459
+    second: Therion (Thief)_27
+  - first:
+      213: -966964696086628777
+    second: Therion (Thief)_28
+  - first:
+      213: -926047251205947268
+    second: Therion (Thief)_29
+  - first:
+      213: -890455307333157070
+    second: Therion (Thief)_30
+  - first:
+      213: -6405127601528251431
+    second: Therion (Thief)_31
+  - first:
+      213: 6500880537344889780
+    second: Therion (Thief)_32
+  - first:
+      213: 2129639402709210534
+    second: Therion (Thief)_33
+  - first:
+      213: 3441834360683227599
+    second: Therion (Thief)_34
+  - first:
+      213: -2829608301692207931
+    second: Therion (Thief)_35
+  - first:
+      213: 4384213407802773858
+    second: Therion (Thief)_36
+  - first:
+      213: -7727454390665798953
+    second: Therion (Thief)_37
+  - first:
+      213: -707466277553133920
+    second: Therion (Thief)_38
+  - first:
+      213: -5056412764514536093
+    second: Therion (Thief)_39
+  - first:
+      213: -3998006978466746789
+    second: Therion (Thief)_40
+  - first:
+      213: -696041966010155708
+    second: Therion (Thief)_41
+  - first:
+      213: 8945347635938451147
+    second: Therion (Thief)_42
+  - first:
+      213: 4955207229481170810
+    second: Therion (Thief)_43
+  - first:
+      213: 7132756159181795783
+    second: Therion (Thief)_44
+  - first:
+      213: 6206231012568568889
+    second: Therion (Thief)_45
+  - first:
+      213: 1474173094136572637
+    second: Therion (Thief)_46
+  - first:
+      213: 925384443351939724
+    second: Therion (Thief)_47
+  - first:
+      213: -6082830837009092794
+    second: Therion (Thief)_48
+  - first:
+      213: -40066183678680521
+    second: Therion (Thief)_49
+  - first:
+      213: 1819451405139926657
+    second: Therion (Thief)_50
+  - first:
+      213: 6354656421040914855
+    second: Therion (Thief)_51
+  - first:
+      213: -323643210316778472
+    second: Therion (Thief)_52
+  - first:
+      213: -3240061216907951036
+    second: Therion (Thief)_53
+  - first:
+      213: 6112245647993808128
+    second: Therion (Thief)_54
+  - first:
+      213: 6213171137643225338
+    second: Therion (Thief)_55
+  - first:
+      213: -2451828084726730429
+    second: Therion (Thief)_56
+  - first:
+      213: -7699710750700199472
+    second: Therion (Thief)_57
+  - first:
+      213: 6877496478359523681
+    second: Therion (Thief)_58
+  - first:
+      213: 9172768840339020008
+    second: Therion (Thief)_59
+  - first:
+      213: 4319859075124027481
+    second: Therion (Thief)_60
+  - first:
+      213: 6220905692748548998
+    second: Therion (Thief)_61
+  - first:
+      213: -7539907694296231377
+    second: Therion (Thief)_62
+  - first:
+      213: -3166890553723091784
+    second: Therion (Thief)_63
+  - first:
+      213: 1352338079317719193
+    second: Therion (Thief)_64
+  - first:
+      213: 1192126891117172362
+    second: Therion (Thief)_65
+  - first:
+      213: 5553279939242901483
+    second: Therion (Thief)_66
+  - first:
+      213: 5308163489402122261
+    second: Therion (Thief)_67
+  - first:
+      213: -5769992784284121887
+    second: Therion (Thief)_68
+  - first:
+      213: 1997603282298556286
+    second: Therion (Thief)_69
+  - first:
+      213: -3583606989671587115
+    second: Therion (Thief)_70
+  - first:
+      213: -6264319926600927744
+    second: Therion (Thief)_71
+  - first:
+      213: -1389128638365670238
+    second: Therion (Thief)_72
+  - first:
+      213: 5860635140870778034
+    second: Therion (Thief)_73
+  - first:
+      213: -6822037260856311974
+    second: Therion (Thief)_74
+  - first:
+      213: 6907558066560873508
+    second: Therion (Thief)_75
+  - first:
+      213: 8442117276765190238
+    second: Therion (Thief)_76
+  - first:
+      213: 1021587285430749033
+    second: Therion (Thief)_77
+  - first:
+      213: -784356100837241062
+    second: Therion (Thief)_78
+  - first:
+      213: 4971687130604708821
+    second: Therion (Thief)_79
+  - first:
+      213: -1895956845476584825
+    second: Therion (Thief)_80
+  - first:
+      213: 6047206640142345387
+    second: Therion (Thief)_81
+  - first:
+      213: 852574527256062979
+    second: Therion (Thief)_82
+  - first:
+      213: 2203285778266787710
+    second: Therion (Thief)_83
+  - first:
+      213: 4682934874582261946
+    second: Therion (Thief)_84
+  - first:
+      213: -2282798381018664964
+    second: Therion (Thief)_85
+  - first:
+      213: -195302013725952567
+    second: Therion (Thief)_86
+  - first:
+      213: 5533630147508570375
+    second: Therion (Thief)_87
+  - first:
+      213: 5497857118140134693
+    second: Therion (Thief)_88
+  - first:
+      213: -8289211401990205397
+    second: Therion (Thief)_89
+  - first:
+      213: 8136140096888291205
+    second: Therion (Thief)_90
+  - first:
+      213: -798952637543386138
+    second: Therion (Thief)_91
+  - first:
+      213: -4722112589110993020
+    second: Therion (Thief)_92
+  - first:
+      213: 3514525198991448900
+    second: Therion (Thief)_93
+  - first:
+      213: -7016915404218710792
+    second: Therion (Thief)_94
+  - first:
+      213: 8834556280122598970
+    second: Therion (Thief)_95
+  - first:
+      213: -5593183998524832748
+    second: Therion (Thief)_96
+  - first:
+      213: -4667459189957411870
+    second: Therion (Thief)_97
+  - first:
+      213: 4378316079560673130
+    second: Therion (Thief)_98
+  - first:
+      213: -8145930400620475806
+    second: Therion (Thief)_99
+  - first:
+      213: -4280669765823867121
+    second: Therion (Thief)_100
+  - first:
+      213: -1282471613546437183
+    second: Therion (Thief)_101
+  - first:
+      213: 61653062627667560
+    second: Therion (Thief)_102
+  - first:
+      213: 5290522900672568110
+    second: Therion (Thief)_103
+  - first:
+      213: 5738480987499487507
+    second: Therion (Thief)_104
+  - first:
+      213: 8464887224470078941
+    second: Therion (Thief)_105
+  - first:
+      213: -5459937829250835082
+    second: Therion (Thief)_106
+  - first:
+      213: 3639060410834930997
+    second: Therion (Thief)_107
+  - first:
+      213: -2292358463774819427
+    second: Therion (Thief)_108
+  - first:
+      213: -1171821251985145658
+    second: Therion (Thief)_109
+  - first:
+      213: -678157175629811090
+    second: Therion (Thief)_110
+  - first:
+      213: 1187952991329805016
+    second: Therion (Thief)_111
+  - first:
+      213: 2749659695814279019
+    second: Therion (Thief)_112
+  - first:
+      213: 2710574127404096056
+    second: Therion (Thief)_113
+  - first:
+      213: -1049529831767757387
+    second: Therion (Thief)_114
+  - first:
+      213: 1506998018521511623
+    second: Therion (Thief)_115
+  - first:
+      213: -3959428393390322270
+    second: Therion (Thief)_116
+  - first:
+      213: 3529925382192679226
+    second: Therion (Thief)_117
+  - first:
+      213: -2215725971221167638
+    second: Therion (Thief)_118
+  - first:
+      213: 213603442558234348
+    second: Therion (Thief)_119
+  - first:
+      213: 42907445468546698
+    second: Therion (Thief)_120
+  - first:
+      213: -1964282935103387545
+    second: Therion (Thief)_121
+  - first:
+      213: -8804368541544019856
+    second: Therion (Thief)_122
+  - first:
+      213: -4841673246414772905
+    second: Therion (Thief)_123
+  - first:
+      213: 2398991697450975239
+    second: Therion (Thief)_124
+  - first:
+      213: 6299228323401564486
+    second: Therion (Thief)_125
+  - first:
+      213: -9105883276086641022
+    second: Therion (Thief)_126
+  - first:
+      213: -7077189812601155411
+    second: Therion (Thief)_127
+  - first:
+      213: -4627353291992492013
+    second: Therion (Thief)_128
+  - first:
+      213: -3603684824848152440
+    second: Therion (Thief)_129
+  - first:
+      213: 569311103791194966
+    second: Therion (Thief)_130
+  - first:
+      213: 7412423324003637915
+    second: Therion (Thief)_131
+  - first:
+      213: -6288081022966191587
+    second: Therion (Thief)_132
+  - first:
+      213: 5019763722083938948
+    second: Therion (Thief)_133
+  - first:
+      213: -980858526387955828
+    second: Therion (Thief)_134
+  - first:
+      213: -2570401780795684489
+    second: Therion (Thief)_135
+  - first:
+      213: 8942314913617115509
+    second: Therion (Thief)_136
+  - first:
+      213: -4174706338948406672
+    second: Therion (Thief)_137
+  - first:
+      213: 8889272888089301386
+    second: Therion (Thief)_138
+  - first:
+      213: -2484219612036503262
+    second: Therion (Thief)_139
+  - first:
+      213: -3763519480148376496
+    second: Therion (Thief)_140
+  - first:
+      213: 5487743274526215640
+    second: Therion (Thief)_141
+  - first:
+      213: -1852096271582508072
+    second: Therion (Thief)_142
+  - first:
+      213: 8561025515072309013
+    second: Therion (Thief)_143
+  - first:
+      213: -1239287674277508604
+    second: Therion (Thief)_144
+  - first:
+      213: 2154707012340068412
+    second: Therion (Thief)_145
+  - first:
+      213: -5968149478550762346
+    second: Therion (Thief)_146
+  - first:
+      213: 4610856197627122464
+    second: Therion (Thief)_147
+  - first:
+      213: 8449674633650513170
+    second: Therion (Thief)_148
+  - first:
+      213: 15607655459805895
+    second: Therion (Thief)_149
+  - first:
+      213: 5565221917565167144
+    second: Therion (Thief)_150
+  - first:
+      213: 915694979438854365
+    second: Therion (Thief)_151
+  - first:
+      213: 4755420678272289100
+    second: Therion (Thief)_152
+  - first:
+      213: -5630119535428746913
+    second: Therion (Thief)_153
+  - first:
+      213: -2302275070266373072
+    second: Therion (Thief)_154
+  - first:
+      213: -5812478772812224124
+    second: Therion (Thief)_155
+  - first:
+      213: -3838348571954726524
+    second: Therion (Thief)_156
+  - first:
+      213: -1411063362811615596
+    second: Therion (Thief)_157
+  - first:
+      213: -6112684906737341342
+    second: Therion (Thief)_158
+  - first:
+      213: -7566915864264746791
+    second: Therion (Thief)_159
+  - first:
+      213: -1635774994333088985
+    second: Therion (Thief)_160
+  - first:
+      213: 8584844847736239685
+    second: Therion (Thief)_161
+  - first:
+      213: -5491514309717053117
+    second: Therion (Thief)_162
+  - first:
+      213: 8066479044156790680
+    second: Therion (Thief)_163
+  - first:
+      213: -4475745714112452262
+    second: Therion (Thief)_164
+  - first:
+      213: 7659702153194952806
+    second: Therion (Thief)_165
+  - first:
+      213: 7911392197002294379
+    second: Therion (Thief)_166
+  - first:
+      213: -1473911388998089729
+    second: Therion (Thief)_167
+  - first:
+      213: -1627594029946539933
+    second: Therion (Thief)_168
+  - first:
+      213: 7084283077598501156
+    second: Therion (Thief)_169
+  - first:
+      213: 4462302074667881053
+    second: Therion (Thief)_170
+  - first:
+      213: 8099032579062443480
+    second: Therion (Thief)_171
+  - first:
+      213: 5548795320305541211
+    second: Therion (Thief)_172
+  - first:
+      213: 5268919009614479010
+    second: Therion (Thief)_173
+  - first:
+      213: 1279539558734396721
+    second: Therion (Thief)_174
+  - first:
+      213: 1318283044114347963
+    second: Therion (Thief)_175
+  - first:
+      213: -762019584779438244
+    second: Therion (Thief)_176
+  - first:
+      213: 6477719372260234276
+    second: Therion (Thief)_177
+  - first:
+      213: 1892253890282325937
+    second: Therion (Thief)_178
+  - first:
+      213: 8658704724169505739
+    second: Therion (Thief)_179
+  - first:
+      213: -1878625658527935395
+    second: Therion (Thief)_180
+  - first:
+      213: 5687958552433082586
+    second: Therion (Thief)_181
+  - first:
+      213: 1290458508609727593
+    second: Therion (Thief)_182
+  - first:
+      213: 5799711483911186503
+    second: Therion (Thief)_183
+  - first:
+      213: 1259597771611711416
+    second: Therion (Thief)_184
+  - first:
+      213: -2311193561371460966
+    second: Therion (Thief)_185
+  - first:
+      213: 928573616451078415
+    second: Therion (Thief)_186
+  - first:
+      213: 7460408548822849149
+    second: Therion (Thief)_187
+  - first:
+      213: 2619468948460576719
+    second: Therion (Thief)_188
+  - first:
+      213: -5737855904533097607
+    second: Therion (Thief)_189
+  - first:
+      213: -9002482157211418717
+    second: Therion (Thief)_190
+  - first:
+      213: 7037900259986085059
+    second: Therion (Thief)_191
+  - first:
+      213: 5047078585149609418
+    second: Therion (Thief)_192
+  - first:
+      213: 509875836143591373
+    second: Therion (Thief)_193
+  - first:
+      213: 5815096148431190466
+    second: Therion (Thief)_194
+  - first:
+      213: 5657156601907451298
+    second: Therion (Thief)_195
+  - first:
+      213: 8901486997955950734
+    second: Therion (Thief)_196
+  - first:
+      213: -7874351163726787858
+    second: Therion (Thief)_197
+  - first:
+      213: 6284642867664286712
+    second: Therion (Thief)_198
+  - first:
+      213: 5243591473511900283
+    second: Therion (Thief)_199
+  - first:
+      213: 8620645669620402377
+    second: Therion (Thief)_200
+  - first:
+      213: -6480610905150437622
+    second: Therion (Thief)_201
+  - first:
+      213: -6573566492771371542
+    second: Therion (Thief)_202
+  - first:
+      213: -6481874945463233894
+    second: Therion (Thief)_203
+  - first:
+      213: -6579321100921161628
+    second: Therion (Thief)_204
+  - first:
+      213: -7566578014120926517
+    second: Therion (Thief)_205
+  - first:
+      213: 7466065685306915839
+    second: Therion (Thief)_206
+  - first:
+      213: -6620342652864161515
+    second: Therion (Thief)_207
+  - first:
+      213: -7281014772287377962
+    second: Therion (Thief)_208
+  - first:
+      213: -8303767608329501670
+    second: Therion (Thief)_209
+  - first:
+      213: -6999421380888033500
+    second: Therion (Thief)_210
+  - first:
+      213: -3872419362701280602
+    second: Therion (Thief)_211
+  - first:
+      213: 1025859432555556685
+    second: Therion (Thief)_212
+  - first:
+      213: 824902272489263928
+    second: Therion (Thief)_213
+  - first:
+      213: 2666029633698918028
+    second: Therion (Thief)_214
+  - first:
+      213: 7173194048677239775
+    second: Therion (Thief)_215
+  - first:
+      213: -4710606731034031564
+    second: Therion (Thief)_216
+  - first:
+      213: 7646411598656913174
+    second: Therion (Thief)_217
+  - first:
+      213: 2382854911371714092
+    second: Therion (Thief)_218
+  - first:
+      213: -175413908019031103
+    second: Therion (Thief)_219
+  - first:
+      213: 2932565277864214274
+    second: Therion (Thief)_220
+  - first:
+      213: -2492175817909855960
+    second: Therion (Thief)_221
+  - first:
+      213: -5791645879208932093
+    second: Therion (Thief)_222
+  - first:
+      213: -2595083023886030104
+    second: Therion (Thief)_223
+  - first:
+      213: 7284158337511888605
+    second: Therion (Thief)_224
+  - first:
+      213: -887337946543193412
+    second: Therion (Thief)_225
+  - first:
+      213: -910850379819400547
+    second: Therion (Thief)_226
+  - first:
+      213: 6060528053626864793
+    second: Therion (Thief)_227
+  - first:
+      213: 5215290692374558044
+    second: Therion (Thief)_228
+  - first:
+      213: -1448248886721942603
+    second: Therion (Thief)_229
+  - first:
+      213: -2951225526232483032
+    second: Therion (Thief)_230
+  - first:
+      213: 2173470595101211953
+    second: Therion (Thief)_231
+  - first:
+      213: 5265517293489708476
+    second: Therion (Thief)_232
+  - first:
+      213: -8942283477705404667
+    second: Therion (Thief)_233
+  - first:
+      213: -939230064243728248
+    second: Therion (Thief)_234
+  - first:
+      213: 4357800099248837097
+    second: Therion (Thief)_235
+  - first:
+      213: -5122561362688002208
+    second: Therion (Thief)_236
+  - first:
+      213: 8032217222143666479
+    second: Therion (Thief)_237
+  - first:
+      213: -8913963687134309083
+    second: Therion (Thief)_238
+  - first:
+      213: -3291674098839464620
+    second: Therion (Thief)_239
+  - first:
+      213: 5220862508460798646
+    second: Therion (Thief)_240
+  - first:
+      213: -8108366786755987558
+    second: Therion (Thief)_241
+  - first:
+      213: 6970751344333005877
+    second: Therion (Thief)_242
+  - first:
+      213: 4343176272604177627
+    second: Therion (Thief)_243
+  - first:
+      213: -6103416040716575869
+    second: Therion (Thief)_244
+  - first:
+      213: -7784314803104749299
+    second: Therion (Thief)_245
+  - first:
+      213: -2543836550096601230
+    second: Therion (Thief)_246
+  - first:
+      213: 7915197703339544797
+    second: Therion (Thief)_247
+  - first:
+      213: 8114442788716240809
+    second: Therion (Thief)_248
+  - first:
+      213: -5870874068638909982
+    second: Therion (Thief)_249
+  - first:
+      213: -4043862646597023057
+    second: Therion (Thief)_250
+  - first:
+      213: -6810346194984519677
+    second: Therion (Thief)_251
+  - first:
+      213: 1682715247031049203
+    second: Therion (Thief)_252
+  - first:
+      213: 6368749862075210377
+    second: Therion (Thief)_253
+  - first:
+      213: 8660786114575495377
+    second: Therion (Thief)_254
+  - first:
+      213: 8498722493277108051
+    second: Therion (Thief)_255
+  - first:
+      213: -8074334620373391874
+    second: Therion (Thief)_256
+  - first:
+      213: -4516353753949429709
+    second: Therion (Thief)_257
+  - first:
+      213: 3023999234735653715
+    second: Therion (Thief)_258
+  - first:
+      213: 8362509048154809758
+    second: Therion (Thief)_259
+  - first:
+      213: -6348047096520711369
+    second: Therion (Thief)_260
+  - first:
+      213: 4302808154991582757
+    second: Therion (Thief)_261
+  - first:
+      213: -1736601807801200519
+    second: Therion (Thief)_262
+  - first:
+      213: -344101696081922527
+    second: Therion (Thief)_263
+  - first:
+      213: -1025756462436804726
+    second: Therion (Thief)_264
+  - first:
+      213: -6702027826070627515
+    second: Therion (Thief)_265
+  - first:
+      213: -1522033080623114557
+    second: Therion (Thief)_266
+  - first:
+      213: -8277629686578031594
+    second: Therion (Thief)_267
+  - first:
+      213: -8636916047118646970
+    second: Therion (Thief)_268
+  - first:
+      213: -2765898384286256025
+    second: Therion (Thief)_269
+  - first:
+      213: 7646099086023398022
+    second: Therion (Thief)_270
+  - first:
+      213: -8152102086642418545
+    second: Therion (Thief)_271
+  - first:
+      213: -6026648937351977978
+    second: Therion (Thief)_272
+  - first:
+      213: -6338744502828822659
+    second: Therion (Thief)_273
+  - first:
+      213: 4622432835756917948
+    second: Therion (Thief)_274
+  - first:
+      213: 3092313257471856835
+    second: Therion (Thief)_275
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Therion (Thief)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 954
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62729e114cfcad540800000000000000
+      internalID: 5033563974560982822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 967
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233be3f52773784a0800000000000000
+      internalID: -6591238565269687502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 961
+        width: 55
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6155e9012ec4854c0800000000000000
+      internalID: -4298601310500006634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 962
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14ae4533104852f0800000000000000
+      internalID: -983966067337550817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 955
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c060c88ca97d6340800000000000000
+      internalID: 4858673354938278080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 953
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb7be9f82bdd2a0800000000000000
+      internalID: -6711011539799261356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 967
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c45181c9c23452a0800000000000000
+      internalID: -6749714099405237051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_7
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 962
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca049dfa19f606d90800000000000000
+      internalID: -7106557540479450964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 963
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbea9255c62dba960800000000000000
+      internalID: 7614410957727051455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 956
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2325f2aca672a6c70800000000000000
+      internalID: 8965021347846509106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_10
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 952
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448fe93ef07332c10800000000000000
+      internalID: 2027524798629738564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 953
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1102c146f440bf160800000000000000
+      internalID: 7060241579861876753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_12
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 954
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1848364da5dfa1190800000000000000
+      internalID: -7990796022263348095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 956
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35778854c4f36c4f0800000000000000
+      internalID: -808889486249789613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_14
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 960
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffb0669f4d8d6c70800000000000000
+      internalID: 8965977806129381360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_15
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 960
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f9dd714688a8c00800000000000000
+      internalID: 903684638719713121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_16
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 962
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee1e8181f9947cb0800000000000000
+      internalID: -4867096034740920608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_17
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 962
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7165c42d4dfe61ee0800000000000000
+      internalID: -1290580545854745065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_18
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 962
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddaec0c4f035cd70800000000000000
+      internalID: 9062703652917915095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_19
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 961
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30c5b4673dd29dd0800000000000000
+      internalID: -2480677214745149378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 888
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7067be4215c94690800000000000000
+      internalID: -7617340612299759490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 882
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d4181d80e4e1690800000000000000
+      internalID: -7629574918937424613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_22
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 888
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee8de1b3a8780cc0800000000000000
+      internalID: -3744610445698429211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 892
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28cc6af461b5a120800000000000000
+      internalID: 2424539021665159213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 892
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7eb4b1c493546490800000000000000
+      internalID: -7753980760055038338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 892
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fffb2e46e614afc0800000000000000
+      internalID: -3484635033268125703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 892
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30e82ca1fbf33c20800000000000000
+      internalID: 3185166376875122750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_27
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 892
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a17a104618b5370800000000000000
+      internalID: 8312379803766823459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_28
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 892
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756b96b6bb6a492f0800000000000000
+      internalID: -966964696086628777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 887
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7084a27ee40623f0800000000000000
+      internalID: -926047251205947268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_30
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 888
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fbb06ad9774a3f0800000000000000
+      internalID: -890455307333157070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_31
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 889
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dbdbd9d16a6c17a0800000000000000
+      internalID: -6405127601528251431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_32
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 884
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b351b3d764c73a50800000000000000
+      internalID: 6500880537344889780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_33
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 884
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55822e0cffd8d10800000000000000
+      internalID: 2129639402709210534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_34
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 902
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9e14c8d1ad3cf20800000000000000
+      internalID: 3441834360683227599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_35
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 901
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccb324dd363bb8d0800000000000000
+      internalID: -2829608301692207931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_36
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 902
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261d697addad7dc30800000000000000
+      internalID: 4384213407802773858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_37
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 902
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da155a6c2192c490800000000000000
+      internalID: -7727454390665798953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 902
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6a0eb3b239e26f0800000000000000
+      internalID: -707466277553133920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_39
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 902
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3653c55716304d9b0800000000000000
+      internalID: -5056412764514536093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_40
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 889
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ee4fed5d93488c0800000000000000
+      internalID: -3998006978466746789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_41
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 890
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d333b05892756f0800000000000000
+      internalID: -696041966010155708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 812
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcedd78c742442c70800000000000000
+      internalID: 8945347635938451147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_43
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 813
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a773cada8be64c440800000000000000
+      internalID: 4955207229481170810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_44
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 812
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1b2819fe3acf260800000000000000
+      internalID: 7132756159181795783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_45
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 813
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93499225936f02650800000000000000
+      internalID: 6206231012568568889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_46
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 812
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddae27d5e90557410800000000000000
+      internalID: 1474173094136572637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_47
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 812
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a3aa29f30a7dc00800000000000000
+      internalID: 925384443351939724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_48
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 812
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fe74bf491759ba0800000000000000
+      internalID: -6082830837009092794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_49
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 812
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732a35aa408a17ff0800000000000000
+      internalID: -40066183678680521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_50
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 814
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e5371c96dff3910800000000000000
+      internalID: 1819451405139926657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_51
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 815
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a18cc5b856403850800000000000000
+      internalID: 6354656421040914855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_52
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 814
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814f9170730328bf0800000000000000
+      internalID: -323643210316778472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_53
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 814
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4448ea36d7df803d0800000000000000
+      internalID: -3240061216907951036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_54
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 856
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0052994680f03d450800000000000000
+      internalID: 6112245647993808128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_55
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 856
+        width: 65
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af02feb1b3e993650800000000000000
+      internalID: 6213171137643225338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_56
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 817
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3417987e85b59fdd0800000000000000
+      internalID: -2451828084726730429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_57
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 818
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d12247fdd1252590800000000000000
+      internalID: -7699710750700199472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_58
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 818
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1619e98cb96c17f50800000000000000
+      internalID: 6877496478359523681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_59
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 816
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8dd2f29a83c4f70800000000000000
+      internalID: 9172768840339020008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_60
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 816
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e384f0f833fb30800000000000000
+      internalID: 4319859075124027481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_61
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 817
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b8b7d84c8155650800000000000000
+      internalID: 6220905692748548998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_62
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 817
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f221d3276eddc5790800000000000000
+      internalID: -7539907694296231377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 747
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b48bcef1d1fc04d0800000000000000
+      internalID: -3166890553723091784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 744
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99877f1715874c210800000000000000
+      internalID: 1352338079317719193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_65
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 744
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86da3067194b8010800000000000000
+      internalID: 1192126891117172362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 744
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef30e4aea6311d40800000000000000
+      internalID: 5553279939242901483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_67
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 744
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510f28bd1926aa940800000000000000
+      internalID: 5308163489402122261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_68
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 743
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e48d28222edcefa0800000000000000
+      internalID: -5769992784284121887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_69
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 746
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f4f8bf999e8bb10800000000000000
+      internalID: 1997603282298556286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 748
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2a40efd68744ec0800000000000000
+      internalID: -3583606989671587115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_71
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 753
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006fc8f673aa019a0800000000000000
+      internalID: -6264319926600927744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_72
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 752
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a464e20dd2d8bce0800000000000000
+      internalID: -1389128638365670238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_73
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 742
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc26c11c98255150800000000000000
+      internalID: 5860635140870778034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_74
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 744
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f3e2681414351a0800000000000000
+      internalID: -6822037260856311974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_75
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 743
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424beb6b6739cdf50800000000000000
+      internalID: 6907558066560873508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_76
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 743
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58f6c95fec682570800000000000000
+      internalID: 8442117276765190238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_77
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 744
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967c72739386d2e00800000000000000
+      internalID: 1021587285430749033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_78
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 744
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f8f2038486d15f0800000000000000
+      internalID: -784356100837241062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_79
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 743
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3231aaa1bfef440800000000000000
+      internalID: 4971687130604708821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_80
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 743
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782e5e35b4530b5e0800000000000000
+      internalID: -1895956845476584825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_81
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 744
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba46115566efbe350800000000000000
+      internalID: 6047206640142345387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_82
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 744
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ce4a1f304f4db00800000000000000
+      internalID: 852574527256062979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_83
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 744
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f0348edb4a39e10800000000000000
+      internalID: 2203285778266787710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_84
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 673
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0a3c905702df040800000000000000
+      internalID: 4682934874582261946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_85
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 674
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffab8d97fed150e0800000000000000
+      internalID: -2282798381018664964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_86
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 674
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c532ff6ad52a4df0800000000000000
+      internalID: -195302013725952567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_87
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 673
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70904acfc476bcc40800000000000000
+      internalID: 5533630147508570375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_88
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 674
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52578988bef4c4c40800000000000000
+      internalID: 5497857118140134693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_89
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 672
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b209144e52ec6fc80800000000000000
+      internalID: -8289211401990205397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_90
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 674
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fb6dd9f4069e070800000000000000
+      internalID: 8136140096888291205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_91
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 672
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e37dd62fcc89e4f0800000000000000
+      internalID: -798952637543386138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_92
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 674
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f93a87e9fa77eb0800000000000000
+      internalID: -4722112589110993020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 674
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5b083c0a16c030800000000000000
+      internalID: 3514525198991448900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_94
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 675
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4c398fd98ee9e90800000000000000
+      internalID: -7016915404218710792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_95
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 672
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3667e81126aa9a70800000000000000
+      internalID: 8834556280122598970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_96
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 675
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414478c89c40162b0800000000000000
+      internalID: -5593183998524832748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_97
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 672
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb4f2989ad93fb0800000000000000
+      internalID: -4667459189957411870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_98
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 676
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67489ce647e2cc30800000000000000
+      internalID: 4378316079560673130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_99
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 675
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a06f9a577d3fe80800000000000000
+      internalID: -8145930400620475806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_100
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 672
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07505727810894c0800000000000000
+      internalID: -4280669765823867121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_101
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 673
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5ea00ccdeb33ee0800000000000000
+      internalID: -1282471613546437183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_102
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 672
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eac3142290bd000800000000000000
+      internalID: 61653062627667560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_103
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 673
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b58aa3c86bb6940800000000000000
+      internalID: 5290522900672568110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_104
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 674
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3116d3aed0e23af40800000000000000
+      internalID: 5738480987499487507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_105
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 674
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5084ee412597570800000000000000
+      internalID: 8464887224470078941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_106
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 672
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d59c7e8776a34b0800000000000000
+      internalID: -5459937829250835082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_107
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 603
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dc000c92a808230800000000000000
+      internalID: 3639060410834930997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_108
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 603
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b77d46f18ef20e0800000000000000
+      internalID: -2292358463774819427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_109
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 604
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c00c27a7cadcbfe0800000000000000
+      internalID: -1171821251985145658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_110
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 640
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62f3bc44a3b696f0800000000000000
+      internalID: -678157175629811090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 639
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2631a93f47c7010800000000000000
+      internalID: 1187952991329805016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_112
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 603
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ff73ecce0c82620800000000000000
+      internalID: 2749659695814279019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_113
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 603
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a1941cec4ed9520800000000000000
+      internalID: 2710574127404096056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_114
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 603
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bdae4cbd225f61f0800000000000000
+      internalID: -1049529831767757387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_115
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 604
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c63133a6bee9e410800000000000000
+      internalID: 1506998018521511623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_116
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 602
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adcf5aaad84d09c0800000000000000
+      internalID: -3959428393390322270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_117
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 620
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39ca39ce60dcf030800000000000000
+      internalID: 3529925382192679226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_118
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 620
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae141c5f7f82041e0800000000000000
+      internalID: -2215725971221167638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_119
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 603
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeeb74033fd6f200800000000000000
+      internalID: 213603442558234348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_120
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 603
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864f552810789000800000000000000
+      internalID: 42907445468546698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_121
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 604
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7680dc6e3177db4e0800000000000000
+      internalID: -1964282935103387545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_122
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 604
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07805a1857990d580800000000000000
+      internalID: -8804368541544019856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_123
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 604
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7556feca5dbeeccb0800000000000000
+      internalID: -4841673246414772905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_124
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 602
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004da90d3eea4120800000000000000
+      internalID: 2398991697450975239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_125
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 603
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6410e6f09ca5b6750800000000000000
+      internalID: 6299228323401564486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_126
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 603
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7faac76761a180800000000000000
+      internalID: -9105883276086641022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_127
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 604
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da015ebac55c8cd90800000000000000
+      internalID: -7077189812601155411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_128
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 604
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3189d8c92b658cfb0800000000000000
+      internalID: -4627353291992492013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_129
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 534
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c574beb32dfdc0800000000000000
+      internalID: -3603684824848152440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_130
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 533
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653e82cbe6996e700800000000000000
+      internalID: 569311103791194966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_131
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 540
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a9e009db73ed660800000000000000
+      internalID: 7412423324003637915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_132
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 536
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa93310af3cb8a0800000000000000
+      internalID: -6288081022966191587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_133
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 534
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482b4376288c9a540800000000000000
+      internalID: 5019763722083938948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_134
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 539
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c879bb7fd5a4362f0800000000000000
+      internalID: -980858526387955828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_135
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 536
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77944ade239145cd0800000000000000
+      internalID: -2570401780795684489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_136
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 533
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57973d7190c791c70800000000000000
+      internalID: 8942314913617115509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_137
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 539
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a86904b67016c0800000000000000
+      internalID: -4174706338948406672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_138
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 534
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81d216289a0d5b70800000000000000
+      internalID: 8889272888089301386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 532
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2296180cc67468dd0800000000000000
+      internalID: -2484219612036503262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_140
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 540
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0544e7809fa45cbc0800000000000000
+      internalID: -3763519480148376496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_141
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 535
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd8ca0de61682c40800000000000000
+      internalID: 5487743274526215640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_142
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 532
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbcf7af0480c46e0800000000000000
+      internalID: -1852096271582508072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_143
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 539
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517c0f2095fdec670800000000000000
+      internalID: 8561025515072309013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_144
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 538
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a4b202d6a2dcee0800000000000000
+      internalID: -1239287674277508604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_145
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 536
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30b2919c9e07ed10800000000000000
+      internalID: 2154707012340068412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_146
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 538
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c8c8c7bafdc2da0800000000000000
+      internalID: -5968149478550762346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_147
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 536
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02319f9484d0dff30800000000000000
+      internalID: 4610856197627122464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_148
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 535
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2152e5e9f46434570800000000000000
+      internalID: 8449674633650513170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_149
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 539
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca55777413773000800000000000000
+      internalID: 15607655459805895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_150
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 536
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826a0b429d3ab3d40800000000000000
+      internalID: 5565221917565167144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_151
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 535
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0cf047bb335bc00800000000000000
+      internalID: 915694979438854365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_152
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 538
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4987fd59e5aef140800000000000000
+      internalID: 4755420678272289100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_153
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 537
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5148c7bc1ccdd1b0800000000000000
+      internalID: -5630119535428746913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_154
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 536
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c0985850dac00e0800000000000000
+      internalID: -2302275070266373072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_155
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 466
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489670a1a5de55fa0800000000000000
+      internalID: -5812478772812224124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_156
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 463
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489b28c6f427bbac0800000000000000
+      internalID: -3838348571954726524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_157
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 460
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496ab000955ea6ce0800000000000000
+      internalID: -1411063362811615596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_158
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 468
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c6706b6716b2ba0800000000000000
+      internalID: -6112684906737341342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_159
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 464
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d85b39dc1aecf690800000000000000
+      internalID: -7566915864264746791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_160
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 462
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7234f423f4f8c49e0800000000000000
+      internalID: -1635774994333088985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_161
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 466
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546392197ee732770800000000000000
+      internalID: 8584844847736239685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_162
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 463
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3413752a4d83ac3b0800000000000000
+      internalID: -5491514309717053117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_163
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 462
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897191fd3f3e1ff60800000000000000
+      internalID: 8066479044156790680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_164
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 468
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59a95d8cf4f2e1c0800000000000000
+      internalID: -4475745714112452262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_165
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 466
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668da76868abc4a60800000000000000
+      internalID: 7659702153194952806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_166
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 462
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b647e1d6949eacd60800000000000000
+      internalID: 7911392197002294379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_167
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 466
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3cd5c966d9b8be0800000000000000
+      internalID: -1473911388998089729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_168
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 463
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3607d766adf9969e0800000000000000
+      internalID: -1627594029946539933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_169
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 462
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429d198cced605260800000000000000
+      internalID: 7084283077598501156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_170
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 468
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52511938184ded30800000000000000
+      internalID: 4462302074667881053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_171
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 465
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd255b583b856070800000000000000
+      internalID: 8099032579062443480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_172
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 464
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50692ee1f7410d40800000000000000
+      internalID: 5548795320305541211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_173
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 466
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aebf5e5ce5fe1940800000000000000
+      internalID: 5268919009614479010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_174
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 464
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d7c6a0376d1c110800000000000000
+      internalID: 1279539558734396721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_175
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 462
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb73bdda17b7b4210800000000000000
+      internalID: 1318283044114347963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_176
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 468
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57b4599933cc65f0800000000000000
+      internalID: -762019584779438244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_177
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 393
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424dc3ad27b75e950800000000000000
+      internalID: 6477719372260234276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_178
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 392
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7012b33e2a24a10800000000000000
+      internalID: 1892253890282325937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_179
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 395
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbbe132216e92870800000000000000
+      internalID: 8658704724169505739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_180
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 392
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54128dbae7cde5e0800000000000000
+      internalID: -1878625658527935395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_181
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 388
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad04be6da20bfee40800000000000000
+      internalID: 5687958552433082586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_182
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 395
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c201b2d21a8e110800000000000000
+      internalID: 1290458508609727593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_183
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 390
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748a74ecdd6bc7050800000000000000
+      internalID: 5799711483911186503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_184
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 390
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b72ac8ef7dfa7110800000000000000
+      internalID: 1259597771611711416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_185
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 396
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ab84f73bdfcefd0800000000000000
+      internalID: -2311193561371460966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_186
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 392
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09cd5cc8c4f2ec00800000000000000
+      internalID: 928573616451078415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_187
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 388
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d769fd75c02b88760800000000000000
+      internalID: 7460408548822849149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_188
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 395
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf982d41293a5420800000000000000
+      internalID: 2619468948460576719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_189
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 392
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9735ded847a0f50b0800000000000000
+      internalID: -5737855904533097607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_190
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 390
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3affe9adc22c01380800000000000000
+      internalID: -9002482157211418717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_191
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 396
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c499118ff4aba160800000000000000
+      internalID: 7037900259986085059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_192
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 394
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d25d8b33da0640800000000000000
+      internalID: 5047078585149609418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_193
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 392
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfd4ec1f51731700800000000000000
+      internalID: 509875836143591373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_194
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 395
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9bbf5232f53b050800000000000000
+      internalID: 5815096148431190466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_195
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 393
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5137fd4f1428e40800000000000000
+      internalID: 5657156601907451298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_196
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 391
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e883ce5334f688b70800000000000000
+      internalID: 8901486997955950734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_197
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 396
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea8161365fa8b290800000000000000
+      internalID: -7874351163726787858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_198
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 394
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f372530469873750800000000000000
+      internalID: 6284642867664286712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_199
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 392
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a1f5d9aaf4c840800000000000000
+      internalID: 5243591473511900283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_200
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 395
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8cb38ff8fa2a770800000000000000
+      internalID: 8620645669620402377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_201
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 392
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a074cfea7be3016a0800000000000000
+      internalID: -6480610905150437622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_202
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 392
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5b3f26a1006c4a0800000000000000
+      internalID: -6573566492771371542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_203
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 393
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92d82d5411cb06a0800000000000000
+      internalID: -6481874945463233894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_204
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468bc54415e81b4a0800000000000000
+      internalID: -6579321100921161628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_205
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 318
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2aa07b26d1ef690800000000000000
+      internalID: -7566578014120926517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_206
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 323
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbb3721f2bcc9760800000000000000
+      internalID: 7466065685306915839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_207
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5191aacee61df14a0800000000000000
+      internalID: -6620342652864161515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_208
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 319
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd607d14a3a4fa90800000000000000
+      internalID: -7281014772287377962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_209
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 322
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1400200b5713cc80800000000000000
+      internalID: -8303767608329501670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_210
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 318
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42705eea65f0dde90800000000000000
+      internalID: -6999421380888033500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_211
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 318
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa78d84b17624ac0800000000000000
+      internalID: -3872419362701280602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_212
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 324
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f25faf7b59c3e00800000000000000
+      internalID: 1025859432555556685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_213
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 322
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833922e0f34a27b00800000000000000
+      internalID: 824902272489263928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_214
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 319
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ee94d93d3aff420800000000000000
+      internalID: 2666029633698918028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_215
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 322
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb5a586bfd4c8360800000000000000
+      internalID: 7173194048677239775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_216
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 320
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a0720d22090aeb0800000000000000
+      internalID: -4710606731034031564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_217
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 318
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f3f5826d28d1a60800000000000000
+      internalID: 7646411598656913174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_218
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 323
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e1b9fbae9911120800000000000000
+      internalID: 2382854911371714092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_219
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 321
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3dcd3eafdc09df0800000000000000
+      internalID: -175413908019031103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_220
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 319
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20fbdb3359092b820800000000000000
+      internalID: 2932565277864214274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_221
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 322
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291aa73c430a6dd0800000000000000
+      internalID: -2492175817909855960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_222
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 320
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d85e022c0ff9fa0800000000000000
+      internalID: -5791645879208932093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_223
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 318
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea60a63db96cfbd0800000000000000
+      internalID: -2595083023886030104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_224
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 324
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd698133a67861560800000000000000
+      internalID: 7284158337511888605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_225
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 321
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb28194c6da8fa3f0800000000000000
+      internalID: -887337946543193412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_226
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 318
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c55bc7620c53f0800000000000000
+      internalID: -910850379819400547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_227
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 248
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99408bb97225b1450800000000000000
+      internalID: 6060528053626864793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_228
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 247
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55f26fb04f606840800000000000000
+      internalID: 5215290692374558044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_229
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 248
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb65988f49c6ebe0800000000000000
+      internalID: -1448248886721942603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_230
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 248
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bf8d825042b07d0800000000000000
+      internalID: -2951225526232483032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_231
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 248
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13db3ce9df7b92e10800000000000000
+      internalID: 2173470595101211953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_232
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 247
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd512d9410e21940800000000000000
+      internalID: 5265517293489708476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_233
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 247
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f46862e80a6e380800000000000000
+      internalID: -8942283477705404667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_234
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 248
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a26a9b3f27f2f0800000000000000
+      internalID: -939230064243728248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_235
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 248
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e193e50a140a7c30800000000000000
+      internalID: 4357800099248837097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_236
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 248
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06737d4c49109e8b0800000000000000
+      internalID: -5122561362688002208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_237
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 248
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29e5acc10b287f60800000000000000
+      internalID: 8032217222143666479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_238
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 248
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525d0a7314d3b4480800000000000000
+      internalID: -8913963687134309083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_239
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 248
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d15ed8df9152d0800000000000000
+      internalID: -3291674098839464620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_240
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 248
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2f5f54aca347840800000000000000
+      internalID: 5220862508460798646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_241
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 248
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9775de0e5b497f80800000000000000
+      internalID: -8108366786755987558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_242
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 248
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534ab804a651db060800000000000000
+      internalID: 6970751344333005877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_243
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 248
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42a7d0fcf064c30800000000000000
+      internalID: 4343176272604177627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_244
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 248
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bdaa0c27f4c4ba0800000000000000
+      internalID: -6103416040716575869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_245
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 247
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09602dfdee88f390800000000000000
+      internalID: -7784314803104749299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_246
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 246
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f36d0b22a72bcd0800000000000000
+      internalID: -2543836550096601230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_247
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 248
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd09a8aef5e68dd60800000000000000
+      internalID: 7915197703339544797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_248
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 248
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af59a369ba4c9070800000000000000
+      internalID: 8114442788716240809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_249
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 248
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9b9b9c327768ea0800000000000000
+      internalID: -5870874068638909982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_250
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 246
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa0d15295051e7c0800000000000000
+      internalID: -4043862646597023057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_251
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 250
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308b38ae73acc71a0800000000000000
+      internalID: -6810346194984519677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_252
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 246
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5b6d0a943a5710800000000000000
+      internalID: 1682715247031049203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_253
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 178
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a9f48a148526850800000000000000
+      internalID: 6368749862075210377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_254
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 178
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d078ea951b413870800000000000000
+      internalID: 8660786114575495377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_255
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 178
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3577768541781f570800000000000000
+      internalID: 8498722493277108051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_256
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef56103417332ff80800000000000000
+      internalID: -8074334620373391874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_257
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 179
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a7df7030b251c0800000000000000
+      internalID: -4516353753949429709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_258
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 177
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353c87b384767f920800000000000000
+      internalID: 3023999234735653715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_259
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 178
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95e14e3ca99d0470800000000000000
+      internalID: 8362509048154809758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_260
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 178
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733ee629cc437e7a0800000000000000
+      internalID: -6348047096520711369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_261
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 178
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e5dee3835a6bb30800000000000000
+      internalID: 4302808154991582757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_262
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 177
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97055b15bd956e7e0800000000000000
+      internalID: -1736601807801200519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_263
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 180
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1267d6e9451893bf0800000000000000
+      internalID: -344101696081922527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_264
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 178
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87946e9ee7c3c1f0800000000000000
+      internalID: -1025756462436804726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_265
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 177
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bd648733d9df2a0800000000000000
+      internalID: -6702027826070627515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_266
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 180
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d01d2af6a0eae0800000000000000
+      internalID: -1522033080623114557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_267
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 178
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614d94528a3ff1d80800000000000000
+      internalID: -8277629686578031594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_268
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 178
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6414f909d92832880800000000000000
+      internalID: -8636916047118646970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_269
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 178
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7647ac7e21e8d99d0800000000000000
+      internalID: -2765898384286256025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_270
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 178
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6821dd3ab966c1a60800000000000000
+      internalID: 7646099086023398022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_271
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 176
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c35f8085aedde80800000000000000
+      internalID: -8152102086642418545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_272
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 178
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6046627d8ba0d5ca0800000000000000
+      internalID: -6026648937351977978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_273
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 178
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f8de275714808a0800000000000000
+      internalID: -6338744502828822659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_274
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 178
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb484656c2e262040800000000000000
+      internalID: 4622432835756917948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Thief)_275
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 178
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c057dd168a1aea20800000000000000
+      internalID: 3092313257471856835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d6078f941908c4f4ea0f8f5accefea06
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

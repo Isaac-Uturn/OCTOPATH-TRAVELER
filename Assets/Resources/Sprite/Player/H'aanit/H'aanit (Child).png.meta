@@ -1,0 +1,2112 @@
+fileFormatVersion: 2
+guid: 47c6157ca7dd34f47b7b2cc0c22163fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3920378471875117829
+    second: H'aanit (Child)_0
+  - first:
+      213: 252312784781011588
+    second: H'aanit (Child)_1
+  - first:
+      213: -2767937630005139443
+    second: H'aanit (Child)_2
+  - first:
+      213: 4796293264012693334
+    second: H'aanit (Child)_3
+  - first:
+      213: -3408390782237175961
+    second: H'aanit (Child)_4
+  - first:
+      213: -3285206662289111964
+    second: H'aanit (Child)_5
+  - first:
+      213: 257099902147602276
+    second: H'aanit (Child)_6
+  - first:
+      213: -2785614350331353553
+    second: H'aanit (Child)_7
+  - first:
+      213: -153287140521648602
+    second: H'aanit (Child)_8
+  - first:
+      213: -8066980833511640361
+    second: H'aanit (Child)_9
+  - first:
+      213: -4676622842341683677
+    second: H'aanit (Child)_10
+  - first:
+      213: 2147620599747983090
+    second: H'aanit (Child)_11
+  - first:
+      213: 5789956792282209571
+    second: H'aanit (Child)_12
+  - first:
+      213: 4477312794633388216
+    second: H'aanit (Child)_13
+  - first:
+      213: -1881272950238369771
+    second: H'aanit (Child)_14
+  - first:
+      213: 1683761263579125693
+    second: H'aanit (Child)_15
+  - first:
+      213: -8676623343389216141
+    second: H'aanit (Child)_16
+  - first:
+      213: 6638893976426606892
+    second: H'aanit (Child)_17
+  - first:
+      213: -5467471276645521012
+    second: H'aanit (Child)_18
+  - first:
+      213: 2810231094960882314
+    second: H'aanit (Child)_19
+  - first:
+      213: -7268795314631667893
+    second: H'aanit (Child)_20
+  - first:
+      213: -4134891963010946902
+    second: H'aanit (Child)_21
+  - first:
+      213: -1271949272564110759
+    second: H'aanit (Child)_22
+  - first:
+      213: 772483054726872511
+    second: H'aanit (Child)_23
+  - first:
+      213: -3444095557739367550
+    second: H'aanit (Child)_24
+  - first:
+      213: 3956651667459674869
+    second: H'aanit (Child)_25
+  - first:
+      213: 8466558895849362681
+    second: H'aanit (Child)_26
+  - first:
+      213: 3189300694596306155
+    second: H'aanit (Child)_27
+  - first:
+      213: -8586427185893513903
+    second: H'aanit (Child)_28
+  - first:
+      213: -3333133385564611117
+    second: H'aanit (Child)_29
+  - first:
+      213: -8331017669714803709
+    second: H'aanit (Child)_30
+  - first:
+      213: 1504510511470469544
+    second: H'aanit (Child)_31
+  - first:
+      213: 1129446138813442196
+    second: H'aanit (Child)_32
+  - first:
+      213: -5773915089325909951
+    second: H'aanit (Child)_33
+  - first:
+      213: 2949907399990877630
+    second: H'aanit (Child)_34
+  - first:
+      213: -8007949817977128630
+    second: H'aanit (Child)_35
+  - first:
+      213: 3014708640557954893
+    second: H'aanit (Child)_36
+  - first:
+      213: -3755731568347494288
+    second: H'aanit (Child)_37
+  - first:
+      213: -4765915654109902371
+    second: H'aanit (Child)_38
+  - first:
+      213: 5391698849576032738
+    second: H'aanit (Child)_39
+  - first:
+      213: 7396888356574050382
+    second: H'aanit (Child)_40
+  - first:
+      213: 7007366436484626890
+    second: H'aanit (Child)_41
+  - first:
+      213: -7046613746593554863
+    second: H'aanit (Child)_42
+  - first:
+      213: -8610048910317123148
+    second: H'aanit (Child)_43
+  - first:
+      213: 4120057359184214446
+    second: H'aanit (Child)_44
+  - first:
+      213: 7666713088064521207
+    second: H'aanit (Child)_45
+  - first:
+      213: 1843858504621580971
+    second: H'aanit (Child)_46
+  - first:
+      213: 3014894872776734061
+    second: H'aanit (Child)_47
+  - first:
+      213: 2354450425088289287
+    second: H'aanit (Child)_48
+  - first:
+      213: -5385661271545934095
+    second: H'aanit (Child)_49
+  - first:
+      213: 745509277677135900
+    second: H'aanit (Child)_50
+  - first:
+      213: -7977362970800595005
+    second: H'aanit (Child)_51
+  - first:
+      213: 6183136661939058310
+    second: H'aanit (Child)_52
+  - first:
+      213: -8917639531584891879
+    second: H'aanit (Child)_53
+  - first:
+      213: -8275524071327973995
+    second: H'aanit (Child)_54
+  - first:
+      213: 5221389466191567763
+    second: H'aanit (Child)_55
+  - first:
+      213: -2887863319149151678
+    second: H'aanit (Child)_56
+  - first:
+      213: -1335084839018168150
+    second: H'aanit (Child)_57
+  - first:
+      213: -5367771158830177828
+    second: H'aanit (Child)_58
+  - first:
+      213: -6763315905818599480
+    second: H'aanit (Child)_59
+  - first:
+      213: 3149420421043275857
+    second: H'aanit (Child)_60
+  - first:
+      213: -753523115814474136
+    second: H'aanit (Child)_61
+  - first:
+      213: 694743585465076784
+    second: H'aanit (Child)_62
+  - first:
+      213: 2986313686841376098
+    second: H'aanit (Child)_63
+  - first:
+      213: 1282464965686681341
+    second: H'aanit (Child)_64
+  - first:
+      213: 1693575367178918501
+    second: H'aanit (Child)_65
+  - first:
+      213: 6807555251329730945
+    second: H'aanit (Child)_66
+  - first:
+      213: -2486006035450160664
+    second: H'aanit (Child)_67
+  - first:
+      213: -1975174869881974084
+    second: H'aanit (Child)_68
+  - first:
+      213: 7285424820658830250
+    second: H'aanit (Child)_69
+  - first:
+      213: 9085587766032947303
+    second: H'aanit (Child)_70
+  - first:
+      213: -4873080675870244638
+    second: H'aanit (Child)_71
+  - first:
+      213: 6638726000488500574
+    second: H'aanit (Child)_72
+  - first:
+      213: -4444991551286008264
+    second: H'aanit (Child)_73
+  - first:
+      213: 8836856656186088868
+    second: H'aanit (Child)_74
+  - first:
+      213: -1498868131072112450
+    second: H'aanit (Child)_75
+  - first:
+      213: -3058840123897168925
+    second: H'aanit (Child)_76
+  - first:
+      213: 4975760810150353236
+    second: H'aanit (Child)_77
+  - first:
+      213: -8879740072930665636
+    second: H'aanit (Child)_78
+  - first:
+      213: 9074622572701075664
+    second: H'aanit (Child)_79
+  - first:
+      213: -7642344919235410781
+    second: H'aanit (Child)_80
+  - first:
+      213: -369135757146479748
+    second: H'aanit (Child)_81
+  - first:
+      213: -4402893298549904105
+    second: H'aanit (Child)_82
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: H'aanit (Child)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 122
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc7bc60d840899c0800000000000000
+      internalID: -3920378471875117829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 122
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a69251425608300800000000000000
+      internalID: 252312784781011588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 120
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d086b13046f4699d0800000000000000
+      internalID: -2767937630005139443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 122
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f4310df4bdf8240800000000000000
+      internalID: 4796293264012693334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f890954a6f2b0d0800000000000000
+      internalID: -3408390782237175961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 122
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464c28842f99862d0800000000000000
+      internalID: -3285206662289111964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 122
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ab43bff6619300800000000000000
+      internalID: 257099902147602276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 122
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e447d1828759d0800000000000000
+      internalID: -2785614350331353553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 122
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e5298682a6fddf0800000000000000
+      internalID: -153287140521648602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 122
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d277a03ca35c0090800000000000000
+      internalID: -8066980833511640361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_10
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 121
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e0fbd7d4c491fb0800000000000000
+      internalID: -4676622842341683677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 121
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63a409e81edcd10800000000000000
+      internalID: 2147620599747983090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 122
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d57dca60f0a5050800000000000000
+      internalID: 5789956792282209571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_13
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 122
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b04f60d34c922e30800000000000000
+      internalID: 4477312794633388216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_14
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 122
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518ad7b183064e5e0800000000000000
+      internalID: -1881272950238369771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 120
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db75232c2fbed5710800000000000000
+      internalID: 1683761263579125693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_16
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 123
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3727c673a01769780800000000000000
+      internalID: -8676623343389216141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 123
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21736ea5e6122c50800000000000000
+      internalID: 6638893976426606892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_18
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 124
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8964ef77d3af14b0800000000000000
+      internalID: -5467471276645521012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_19
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 122
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8286e7aa42fff620800000000000000
+      internalID: 2810231094960882314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 122
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f0b5e4c2d002b90800000000000000
+      internalID: -7268795314631667893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_21
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 120
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa86d10daa9ed96c0800000000000000
+      internalID: -4134891963010946902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_22
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 122
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aef7c20e0295ee0800000000000000
+      internalID: -1271949272564110759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_23
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 120
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdf008de3968ba00800000000000000
+      internalID: 772483054726872511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_24
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 122
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b17c765d1430d0800000000000000
+      internalID: -3444095557739367550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_25
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 122
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f214e27ab9d8e630800000000000000
+      internalID: 3956651667459674869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_26
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 148
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4560145724f7570800000000000000
+      internalID: 8466558895849362681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_27
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 147
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4c157851ca24c20800000000000000
+      internalID: 3189300694596306155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1556f0f97f1e6d880800000000000000
+      internalID: -8586427185893513903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd1d6478d45eb1d0800000000000000
+      internalID: -3333133385564611117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304852ba197426c80800000000000000
+      internalID: -8331017669714803709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 63
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e905c65811e410800000000000000
+      internalID: 1504510511470469544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_32
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 62
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49869e877499caf00800000000000000
+      internalID: 1129446138813442196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_33
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 64
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148167951deeedfa0800000000000000
+      internalID: -5773915089325909951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 63
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd90c8a62d20f820800000000000000
+      internalID: 2949907399990877630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_35
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 64
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49b158811c0ed090800000000000000
+      internalID: -8007949817977128630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_36
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 67
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47f1c5398566d920800000000000000
+      internalID: 3014708640557954893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 65
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0784dec8906f0ebc0800000000000000
+      internalID: -3755731568347494288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_38
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 61
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd94e47a6f01cddb0800000000000000
+      internalID: -4765915654109902371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_39
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 67
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e99cd8898923da40800000000000000
+      internalID: 5391698849576032738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_40
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 65
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48b1d815c607a660800000000000000
+      internalID: 7396888356574050382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_41
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 62
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac939a9b5aa2f3160800000000000000
+      internalID: 7007366436484626890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_42
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 68
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e18ecc126653e90800000000000000
+      internalID: -7046613746593554863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_43
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 67
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b90fc15226f28880800000000000000
+      internalID: -8610048910317123148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_44
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 63
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9b864d6526d2930800000000000000
+      internalID: 4120057359184214446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_45
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 67
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f38ce00fe2a56a60800000000000000
+      internalID: 7666713088064521207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_46
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 67
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba26d007a83b69910800000000000000
+      internalID: 1843858504621580971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_47
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 63
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65f007c9ee07d920800000000000000
+      internalID: 3014894872776734061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_48
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 64
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa7acef20bca020800000000000000
+      internalID: 2354450425088289287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_49
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 62
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe0de4ab994245b0800000000000000
+      internalID: -5385661271545934095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_50
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 62
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1824b8fcb4985a00800000000000000
+      internalID: 745509277677135900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_51
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 68
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf5319d4a6ba4190800000000000000
+      internalID: -7977362970800595005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_52
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 66
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686729cc80aeec550800000000000000
+      internalID: 6183136661939058310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_53
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 62
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914d6ecf71e2e3480800000000000000
+      internalID: -8917639531584891879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d3d46e3be672d80800000000000000
+      internalID: -8275524071327973995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b905e2e0a167840800000000000000
+      internalID: 5221389466191567763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_56
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 0
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24afb3e9c9f3ce7d0800000000000000
+      internalID: -2887863319149151678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_57
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 6
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa000599963d87de0800000000000000
+      internalID: -1335084839018168150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_58
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1275a1298d185b0800000000000000
+      internalID: -5367771158830177828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_59
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfdee96400e322a0800000000000000
+      internalID: -6763315905818599480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_60
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 3
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15845a4cf2df4bb20800000000000000
+      internalID: 3149420421043275857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_61
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e25dfe7b2fa85f0800000000000000
+      internalID: -753523115814474136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_62
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 4
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c80ad2c9934a900800000000000000
+      internalID: 694743585465076784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 4
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d311cd974817920800000000000000
+      internalID: 2986313686841376098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_64
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 4
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe53ac671b3cc110800000000000000
+      internalID: 1282464965686681341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_65
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a1d01d2d9c08710800000000000000
+      internalID: 1693575367178918501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1898a50ee6b497e50800000000000000
+      internalID: 6807555251329730945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_67
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91483aeaeef7dd0800000000000000
+      internalID: -2486006035450160664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_68
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 4
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb21867bbe4c694e0800000000000000
+      internalID: -1975174869881974084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_69
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabfe2946470b1560800000000000000
+      internalID: 7285424820658830250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_70
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768570a8fed761e70800000000000000
+      internalID: 9085587766032947303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_71
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 4
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e00fe8a1f65f5cb0800000000000000
+      internalID: -4873080675870244638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_72
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 3
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d444cbf1e712c50800000000000000
+      internalID: 6638726000488500574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_73
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8362cf31cb73052c0800000000000000
+      internalID: -4444991551286008264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_74
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 6
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad94032f42d2aa70800000000000000
+      internalID: 8836856656186088868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_75
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 4
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb80b4a4063f23be0800000000000000
+      internalID: -1498868131072112450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_76
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb56e1d11dc85d0800000000000000
+      internalID: -3058840123897168925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_77
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 6
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459525818147d0540800000000000000
+      internalID: 4975760810150353236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_78
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b9a275373d4c480800000000000000
+      internalID: -8879740072930665636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_79
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8c69486298fed70800000000000000
+      internalID: 9074622572701075664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_80
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 5
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a446fd69cfe0f590800000000000000
+      internalID: -7642344919235410781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_81
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 4
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c73a3611cf090eaf0800000000000000
+      internalID: -369135757146479748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Child)_82
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 4
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d2cfb5fd7c5e2c0800000000000000
+      internalID: -4402893298549904105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51a45c277e058f840b015e1baab5cd55
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

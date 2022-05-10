@@ -1,0 +1,2040 @@
+fileFormatVersion: 2
+guid: e516104e7b8f8ae4d9732e4f9a973787
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2541891447574702701
+    second: Alfyn (Child)_0
+  - first:
+      213: 8419865187426620886
+    second: Alfyn (Child)_1
+  - first:
+      213: 5439016532540169571
+    second: Alfyn (Child)_2
+  - first:
+      213: -2128461787315275102
+    second: Alfyn (Child)_3
+  - first:
+      213: -1459318740054033239
+    second: Alfyn (Child)_4
+  - first:
+      213: -4445537135104555876
+    second: Alfyn (Child)_5
+  - first:
+      213: -6911396846067565104
+    second: Alfyn (Child)_6
+  - first:
+      213: 4932265543412450627
+    second: Alfyn (Child)_7
+  - first:
+      213: 2553608630453516599
+    second: Alfyn (Child)_8
+  - first:
+      213: 8554731505865020843
+    second: Alfyn (Child)_9
+  - first:
+      213: -5851562156480919882
+    second: Alfyn (Child)_10
+  - first:
+      213: 3869788784989488470
+    second: Alfyn (Child)_11
+  - first:
+      213: 4679762988897703968
+    second: Alfyn (Child)_12
+  - first:
+      213: -5370084103242048749
+    second: Alfyn (Child)_13
+  - first:
+      213: -5610313777269324024
+    second: Alfyn (Child)_14
+  - first:
+      213: 4031142699011197026
+    second: Alfyn (Child)_15
+  - first:
+      213: 3681401674301529244
+    second: Alfyn (Child)_16
+  - first:
+      213: 5915009407735817030
+    second: Alfyn (Child)_17
+  - first:
+      213: -4408243791043114347
+    second: Alfyn (Child)_18
+  - first:
+      213: -8837453001864711160
+    second: Alfyn (Child)_19
+  - first:
+      213: 9113563463297199515
+    second: Alfyn (Child)_20
+  - first:
+      213: -287914302706490437
+    second: Alfyn (Child)_21
+  - first:
+      213: 8644263725671854795
+    second: Alfyn (Child)_22
+  - first:
+      213: 271075007920494447
+    second: Alfyn (Child)_23
+  - first:
+      213: -176315060802865866
+    second: Alfyn (Child)_24
+  - first:
+      213: -8172685516798529152
+    second: Alfyn (Child)_25
+  - first:
+      213: -6117110887522794883
+    second: Alfyn (Child)_26
+  - first:
+      213: 6920389171512741136
+    second: Alfyn (Child)_27
+  - first:
+      213: 2210132645419908824
+    second: Alfyn (Child)_28
+  - first:
+      213: 8016604588719637384
+    second: Alfyn (Child)_29
+  - first:
+      213: 2304288230385935113
+    second: Alfyn (Child)_30
+  - first:
+      213: 4999133598698511479
+    second: Alfyn (Child)_31
+  - first:
+      213: 7140492981550330693
+    second: Alfyn (Child)_32
+  - first:
+      213: -3837562948644783241
+    second: Alfyn (Child)_33
+  - first:
+      213: -3646986136989067178
+    second: Alfyn (Child)_34
+  - first:
+      213: 8589253233374081872
+    second: Alfyn (Child)_35
+  - first:
+      213: -883452615831780137
+    second: Alfyn (Child)_36
+  - first:
+      213: -354329985994927060
+    second: Alfyn (Child)_37
+  - first:
+      213: 7994114212790778958
+    second: Alfyn (Child)_38
+  - first:
+      213: -510126773675891976
+    second: Alfyn (Child)_39
+  - first:
+      213: 4051838093857133005
+    second: Alfyn (Child)_40
+  - first:
+      213: 9019123217046761860
+    second: Alfyn (Child)_41
+  - first:
+      213: 7240069634676537257
+    second: Alfyn (Child)_42
+  - first:
+      213: 433140906688664351
+    second: Alfyn (Child)_43
+  - first:
+      213: 902616054057937552
+    second: Alfyn (Child)_44
+  - first:
+      213: -8863796853854252355
+    second: Alfyn (Child)_45
+  - first:
+      213: -2707978804489954362
+    second: Alfyn (Child)_46
+  - first:
+      213: -6089892891174665988
+    second: Alfyn (Child)_47
+  - first:
+      213: -1409705795650283853
+    second: Alfyn (Child)_48
+  - first:
+      213: 8547055145068001438
+    second: Alfyn (Child)_49
+  - first:
+      213: -8172449889841976725
+    second: Alfyn (Child)_50
+  - first:
+      213: 8147877335692111457
+    second: Alfyn (Child)_51
+  - first:
+      213: -8079123374145559580
+    second: Alfyn (Child)_52
+  - first:
+      213: 5996695586568198865
+    second: Alfyn (Child)_53
+  - first:
+      213: -2111752677278266488
+    second: Alfyn (Child)_54
+  - first:
+      213: 5270446701897854005
+    second: Alfyn (Child)_55
+  - first:
+      213: 7074754283543920394
+    second: Alfyn (Child)_56
+  - first:
+      213: 8303883289025456926
+    second: Alfyn (Child)_57
+  - first:
+      213: 8838899174073214735
+    second: Alfyn (Child)_58
+  - first:
+      213: 8641039355457005273
+    second: Alfyn (Child)_59
+  - first:
+      213: -6303416191687134644
+    second: Alfyn (Child)_60
+  - first:
+      213: -5005868161332331667
+    second: Alfyn (Child)_61
+  - first:
+      213: 735637771615850105
+    second: Alfyn (Child)_62
+  - first:
+      213: -8172198666736175906
+    second: Alfyn (Child)_63
+  - first:
+      213: -1976244767088358401
+    second: Alfyn (Child)_64
+  - first:
+      213: -3277080479614103677
+    second: Alfyn (Child)_65
+  - first:
+      213: 4149313762147701224
+    second: Alfyn (Child)_66
+  - first:
+      213: 5298852414137522168
+    second: Alfyn (Child)_67
+  - first:
+      213: -6211436582543538324
+    second: Alfyn (Child)_68
+  - first:
+      213: -5407179468108046508
+    second: Alfyn (Child)_69
+  - first:
+      213: -5643254007210830453
+    second: Alfyn (Child)_70
+  - first:
+      213: -1590509644888177267
+    second: Alfyn (Child)_71
+  - first:
+      213: -332863810447069761
+    second: Alfyn (Child)_72
+  - first:
+      213: -8460780167275778049
+    second: Alfyn (Child)_73
+  - first:
+      213: -1475286465785277889
+    second: Alfyn (Child)_74
+  - first:
+      213: -1981114226368786444
+    second: Alfyn (Child)_75
+  - first:
+      213: -2422666328312495496
+    second: Alfyn (Child)_76
+  - first:
+      213: 3920182876196902233
+    second: Alfyn (Child)_77
+  - first:
+      213: 4165070144392926590
+    second: Alfyn (Child)_78
+  - first:
+      213: 1078551270702835833
+    second: Alfyn (Child)_79
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alfyn (Child)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 196
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395d4b9223369bcd0800000000000000
+      internalID: -2541891447574702701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 195
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5dd3117ce59d470800000000000000
+      internalID: 8419865187426620886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 194
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d988d18b44b7b40800000000000000
+      internalID: 5439016532540169571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 196
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa7411184f2672e0800000000000000
+      internalID: -2128461787315275102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 196
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac320576557fbbe0800000000000000
+      internalID: -1459318740054033239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 196
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94094277874e42c0800000000000000
+      internalID: -4445537135104555876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 196
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd3368cf29c510a0800000000000000
+      internalID: -6911396846067565104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 196
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3458ff4216de27440800000000000000
+      internalID: 4932265543412450627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 195
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739bd81158d307320800000000000000
+      internalID: 2553608630453516599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 195
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba55debcaf288b670800000000000000
+      internalID: 8554731505865020843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_10
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 195
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b606d9b8331bcea0800000000000000
+      internalID: -5851562156480919882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_11
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 195
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655c61d956044b530800000000000000
+      internalID: 3869788784989488470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 194
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028944ad4abd1f040800000000000000
+      internalID: 4679762988897703968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 196
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b1944c5f0a975b0800000000000000
+      internalID: -5370084103242048749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 196
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807c16328592422b0800000000000000
+      internalID: -5610313777269324024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_15
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 197
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268c8754dee71f730800000000000000
+      internalID: 4031142699011197026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 197
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c55406157f61330800000000000000
+      internalID: 3681401674301529244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_17
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 196
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ef2f97b5561250800000000000000
+      internalID: 5915009407735817030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 198
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59acd8fb0a5c2d2c0800000000000000
+      internalID: -4408243791043114347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_19
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 196
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f4a0515f0b5580800000000000000
+      internalID: -8837453001864711160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_20
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 196
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9deec32fa1e97e70800000000000000
+      internalID: 9113563463297199515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_21
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 196
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3ec65977f110cf0800000000000000
+      internalID: -287914302706490437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_22
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 196
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc237792f0896f770800000000000000
+      internalID: 8644263725671854795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_23
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 196
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f675692984d03c300800000000000000
+      internalID: 271075007920494447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_24
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 196
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6353b48e26a9d8df0800000000000000
+      internalID: -176315060802865866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_25
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 223
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0817e3eb2d9c49e80800000000000000
+      internalID: -8172685516798529152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_26
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 223
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d728781ce08ab1ba0800000000000000
+      internalID: -6117110887522794883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_27
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 195
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0a7329492a0060800000000000000
+      internalID: 6920389171512741136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 136
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de7fb46ee7fbae10800000000000000
+      internalID: 2210132645419908824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 163
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883866f4663b04f60800000000000000
+      internalID: 8016604588719637384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 164
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036448dfe97aff10800000000000000
+      internalID: 2304288230385935113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 163
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c152f758d706540800000000000000
+      internalID: 4999133598698511479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 164
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5433a76e880281360800000000000000
+      internalID: 7140492981550330693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 139
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bb3da94dc3ebac0800000000000000
+      internalID: -3837562948644783241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 137
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6581ef35e6d436dc0800000000000000
+      internalID: -3646986136989067178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 133
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0533325de48233770800000000000000
+      internalID: 8589253233374081872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_36
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 139
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d40571d6885db3f0800000000000000
+      internalID: -883452615831780137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 136
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24d08b41ca251bf0800000000000000
+      internalID: -354329985994927060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 133
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4cbb4b958cc0fe60800000000000000
+      internalID: 7994114212790778958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 139
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e1a0f66aabe8f0800000000000000
+      internalID: -510126773675891976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_40
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 140
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc110cf57450b3830800000000000000
+      internalID: 4051838093857133005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_41
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 136
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481fc81d7cc5a2d70800000000000000
+      internalID: 9019123217046761860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_42
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 139
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7bcf329f4e97460800000000000000
+      internalID: 7240069634676537257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_43
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 139
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f135ed81c53d20600800000000000000
+      internalID: 433140906688664351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_44
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 135
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a20b6d48cb68c00800000000000000
+      internalID: 902616054057937552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_45
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 138
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2dacc49b77df480800000000000000
+      internalID: -8863796853854252355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_46
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 135
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbd613ff935b6ad0800000000000000
+      internalID: -2707978804489954362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_47
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 134
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf08b5d5eaa5c7ba0800000000000000
+      internalID: -6089892891174665988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_48
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 140
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6947c3c08bf6ce0800000000000000
+      internalID: -1409705795650283853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_49
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 138
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f375ce5d3d9670800000000000000
+      internalID: 8547055145068001438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_50
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 134
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ae94bef10a59e80800000000000000
+      internalID: -8172449889841976725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_51
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 138
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e626b7443131170800000000000000
+      internalID: 8147877335692111457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_52
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 135
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3af73a81031ef80800000000000000
+      internalID: -8079123374145559580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_53
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 132
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dadc873dda883350800000000000000
+      internalID: 5996695586568198865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b4959e02c81b2e0800000000000000
+      internalID: -2111752677278266488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_55
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 75
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c2042f953642940800000000000000
+      internalID: 5270446701897854005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 73
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ffec789839e2260800000000000000
+      internalID: 7074754283543920394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_57
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 73
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b2aa20bd15d3370800000000000000
+      internalID: 8303883289025456926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_58
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 73
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a024e7f31aaa70800000000000000
+      internalID: 8838899174073214735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 74
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d66f28f2832be770800000000000000
+      internalID: 8641039355457005273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 66
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42fa0fde54c588a0800000000000000
+      internalID: -6303416191687134644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_61
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 73
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b3953fd65978ab0800000000000000
+      internalID: -5005868161332331667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_62
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 71
+        width: 24
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ec58cd7a2853a00800000000000000
+      internalID: 735637771615850105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_63
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 73
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4f44b5c94869e80800000000000000
+      internalID: -8172198666736175906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 74
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb497cdad7f294e0800000000000000
+      internalID: -1976244767088358401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_65
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 70
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f0c30aaa87582d0800000000000000
+      internalID: -3277080479614103677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_66
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 74
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e11476f1e2559930800000000000000
+      internalID: 4149313762147701224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_67
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 73
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f753e5323e498940800000000000000
+      internalID: 5298852414137522168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_68
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 74
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6740a8765b8cc9a0800000000000000
+      internalID: -6211436582543538324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_69
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 73
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f52a61ce6d5f4b0800000000000000
+      internalID: -5407179468108046508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_70
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 72
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8516e231622fa1b0800000000000000
+      internalID: -5643254007210830453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_71
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 74
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d858b94a7ef5de9e0800000000000000
+      internalID: -1590509644888177267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_72
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 74
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd28b3c02e616bf0800000000000000
+      internalID: -332863810447069761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_73
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 73
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff6bd6d345459a80800000000000000
+      internalID: -8460780167275778049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_74
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 76
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f325de896cab68be0800000000000000
+      internalID: -1475286465785277889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_75
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 73
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffc0d58b1ba184e0800000000000000
+      internalID: -1981114226368786444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_76
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 74
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87242ab6fc5f06ed0800000000000000
+      internalID: -2422666328312495496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_77
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 74
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955194e4e89476630800000000000000
+      internalID: 3920182876196902233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_78
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 73
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7510259a3d4dc930800000000000000
+      internalID: 4165070144392926590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfyn (Child)_79
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 74
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978e9429aa8c7fe00800000000000000
+      internalID: 1078551270702835833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

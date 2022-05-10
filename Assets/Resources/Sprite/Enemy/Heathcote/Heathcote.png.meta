@@ -1,0 +1,3216 @@
+fileFormatVersion: 2
+guid: de446b8d4ec2c79409889fe7e9a8009e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5923597724661101848
+    second: Heathcote_0
+  - first:
+      213: -2398331358848253519
+    second: Heathcote_1
+  - first:
+      213: -2603505496702313863
+    second: Heathcote_2
+  - first:
+      213: 7364358488147538220
+    second: Heathcote_3
+  - first:
+      213: -5236677975381046647
+    second: Heathcote_4
+  - first:
+      213: 635014338277042598
+    second: Heathcote_5
+  - first:
+      213: 6632851666975411187
+    second: Heathcote_6
+  - first:
+      213: 2173208566983452947
+    second: Heathcote_7
+  - first:
+      213: -7134283994071433474
+    second: Heathcote_8
+  - first:
+      213: -5323335868510098243
+    second: Heathcote_9
+  - first:
+      213: -4895480643771941822
+    second: Heathcote_10
+  - first:
+      213: 5427648673709074397
+    second: Heathcote_11
+  - first:
+      213: 8693153265080201343
+    second: Heathcote_12
+  - first:
+      213: 4901607340287726842
+    second: Heathcote_13
+  - first:
+      213: -8002191146157783990
+    second: Heathcote_14
+  - first:
+      213: 6658100322325295933
+    second: Heathcote_15
+  - first:
+      213: 4659090831100461007
+    second: Heathcote_16
+  - first:
+      213: -7074707883630463605
+    second: Heathcote_17
+  - first:
+      213: 7125820475599422555
+    second: Heathcote_18
+  - first:
+      213: -957264981395062871
+    second: Heathcote_19
+  - first:
+      213: -6943520550916517464
+    second: Heathcote_20
+  - first:
+      213: -6442439181801547516
+    second: Heathcote_21
+  - first:
+      213: 800474712703177351
+    second: Heathcote_22
+  - first:
+      213: -1850137386539388886
+    second: Heathcote_23
+  - first:
+      213: -5242455095031449319
+    second: Heathcote_24
+  - first:
+      213: 1529928511636103541
+    second: Heathcote_25
+  - first:
+      213: 8087208047777675952
+    second: Heathcote_26
+  - first:
+      213: -3995525577672812741
+    second: Heathcote_27
+  - first:
+      213: 4428137241964546093
+    second: Heathcote_28
+  - first:
+      213: -5425381352447385984
+    second: Heathcote_29
+  - first:
+      213: -7826257596535568811
+    second: Heathcote_30
+  - first:
+      213: 5485832659150793782
+    second: Heathcote_31
+  - first:
+      213: -1172626255628656928
+    second: Heathcote_32
+  - first:
+      213: 4375757516036953439
+    second: Heathcote_33
+  - first:
+      213: 3589259938927555387
+    second: Heathcote_34
+  - first:
+      213: 1147552873104873916
+    second: Heathcote_35
+  - first:
+      213: 4553827113959681564
+    second: Heathcote_36
+  - first:
+      213: -4414593471270462226
+    second: Heathcote_37
+  - first:
+      213: -8066223544075914538
+    second: Heathcote_38
+  - first:
+      213: -2137377424248853520
+    second: Heathcote_39
+  - first:
+      213: 6331714994290482719
+    second: Heathcote_40
+  - first:
+      213: 3724843361059499590
+    second: Heathcote_41
+  - first:
+      213: -2358513237356924979
+    second: Heathcote_42
+  - first:
+      213: 4077897676802231008
+    second: Heathcote_43
+  - first:
+      213: -6505103260941852012
+    second: Heathcote_44
+  - first:
+      213: 8174251238029335340
+    second: Heathcote_45
+  - first:
+      213: -5471434225033756664
+    second: Heathcote_46
+  - first:
+      213: -2612188327217559757
+    second: Heathcote_47
+  - first:
+      213: -8482249256575753851
+    second: Heathcote_48
+  - first:
+      213: 3626535132431123106
+    second: Heathcote_49
+  - first:
+      213: -7363221338090220461
+    second: Heathcote_50
+  - first:
+      213: 1592414772383840490
+    second: Heathcote_51
+  - first:
+      213: -3908325759803637559
+    second: Heathcote_52
+  - first:
+      213: 7602657103025701035
+    second: Heathcote_53
+  - first:
+      213: 3355346086169305091
+    second: Heathcote_54
+  - first:
+      213: -8519088993161729556
+    second: Heathcote_55
+  - first:
+      213: 6385569327669709777
+    second: Heathcote_56
+  - first:
+      213: 557854148489411770
+    second: Heathcote_57
+  - first:
+      213: -7653237001599955255
+    second: Heathcote_58
+  - first:
+      213: -4431964489744751549
+    second: Heathcote_59
+  - first:
+      213: -3185260678332208207
+    second: Heathcote_60
+  - first:
+      213: -8223725030584188534
+    second: Heathcote_61
+  - first:
+      213: 4691216338774638562
+    second: Heathcote_62
+  - first:
+      213: -1639059762069667597
+    second: Heathcote_63
+  - first:
+      213: -5884410509190209698
+    second: Heathcote_64
+  - first:
+      213: -2951730131015388837
+    second: Heathcote_65
+  - first:
+      213: 5864655810122957129
+    second: Heathcote_66
+  - first:
+      213: -516275164383203419
+    second: Heathcote_67
+  - first:
+      213: 6101724467755378819
+    second: Heathcote_68
+  - first:
+      213: 7118574187981445575
+    second: Heathcote_69
+  - first:
+      213: -1489745325496694246
+    second: Heathcote_70
+  - first:
+      213: 4745652238095224771
+    second: Heathcote_71
+  - first:
+      213: -7902071146884369683
+    second: Heathcote_72
+  - first:
+      213: 4712303484291601595
+    second: Heathcote_73
+  - first:
+      213: 1980634218798308875
+    second: Heathcote_74
+  - first:
+      213: -2994916066830371241
+    second: Heathcote_75
+  - first:
+      213: 372406386646543122
+    second: Heathcote_76
+  - first:
+      213: 7673338770912023540
+    second: Heathcote_77
+  - first:
+      213: -7566370410092674122
+    second: Heathcote_78
+  - first:
+      213: -788777262957956703
+    second: Heathcote_79
+  - first:
+      213: 2354077921453431773
+    second: Heathcote_80
+  - first:
+      213: -7137846553195816507
+    second: Heathcote_81
+  - first:
+      213: -5060899776351946417
+    second: Heathcote_82
+  - first:
+      213: -6508955318577620673
+    second: Heathcote_83
+  - first:
+      213: 1788009615543225434
+    second: Heathcote_84
+  - first:
+      213: -6710037861491198164
+    second: Heathcote_85
+  - first:
+      213: -6523576652614443360
+    second: Heathcote_86
+  - first:
+      213: 1617869710383439900
+    second: Heathcote_87
+  - first:
+      213: 3883064381896936070
+    second: Heathcote_88
+  - first:
+      213: -4636770849115180704
+    second: Heathcote_89
+  - first:
+      213: 3878635253124351831
+    second: Heathcote_90
+  - first:
+      213: 7389649712390792901
+    second: Heathcote_91
+  - first:
+      213: -2527000236365021841
+    second: Heathcote_92
+  - first:
+      213: -6932072495852516060
+    second: Heathcote_93
+  - first:
+      213: 4511817265947960019
+    second: Heathcote_94
+  - first:
+      213: -1221139591639224185
+    second: Heathcote_95
+  - first:
+      213: 1172737800546499470
+    second: Heathcote_96
+  - first:
+      213: -3835654304193947785
+    second: Heathcote_97
+  - first:
+      213: 4672468494872690602
+    second: Heathcote_98
+  - first:
+      213: 4701083116932216576
+    second: Heathcote_99
+  - first:
+      213: -8479553562324152159
+    second: Heathcote_100
+  - first:
+      213: -3871989359260340135
+    second: Heathcote_101
+  - first:
+      213: 3011145870469930946
+    second: Heathcote_102
+  - first:
+      213: 8563298117523669943
+    second: Heathcote_103
+  - first:
+      213: 1822403272373689389
+    second: Heathcote_104
+  - first:
+      213: 720227591906375500
+    second: Heathcote_105
+  - first:
+      213: -4871548900552071260
+    second: Heathcote_106
+  - first:
+      213: -299565944197623377
+    second: Heathcote_107
+  - first:
+      213: -4991877166117102159
+    second: Heathcote_108
+  - first:
+      213: -2947234175225487587
+    second: Heathcote_109
+  - first:
+      213: -3603332059406037577
+    second: Heathcote_110
+  - first:
+      213: -6214346040567295991
+    second: Heathcote_111
+  - first:
+      213: -2100818500855440756
+    second: Heathcote_112
+  - first:
+      213: -2574295612750862266
+    second: Heathcote_113
+  - first:
+      213: 2744498255061580040
+    second: Heathcote_114
+  - first:
+      213: 3614990740746533722
+    second: Heathcote_115
+  - first:
+      213: 4624194611120447231
+    second: Heathcote_116
+  - first:
+      213: -1248684328548633126
+    second: Heathcote_117
+  - first:
+      213: 7775931873139321131
+    second: Heathcote_118
+  - first:
+      213: 7089071262190451537
+    second: Heathcote_119
+  - first:
+      213: 3412083921282380027
+    second: Heathcote_120
+  - first:
+      213: -3967218641699025782
+    second: Heathcote_121
+  - first:
+      213: -236580067758298373
+    second: Heathcote_122
+  - first:
+      213: 5450519543965097386
+    second: Heathcote_123
+  - first:
+      213: -7493709908385755068
+    second: Heathcote_124
+  - first:
+      213: -1331965665467438826
+    second: Heathcote_125
+  - first:
+      213: 4900719408121591155
+    second: Heathcote_126
+  - first:
+      213: 6945946411949987543
+    second: Heathcote_127
+  - first:
+      213: -2538746177468212768
+    second: Heathcote_128
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Heathcote_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 442
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815bcbafeb8d43250800000000000000
+      internalID: 5923597724661101848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 440
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b18b26065a67bed0800000000000000
+      internalID: -2398331358848253519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 440
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a18427b8d7edbd0800000000000000
+      internalID: -2603505496702313863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 441
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21baa4e605733660800000000000000
+      internalID: 7364358488147538220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 456
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a0d4260259357b0800000000000000
+      internalID: -5236677975381046647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 456
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9684c1d2600d800800000000000000
+      internalID: 635014338277042598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 456
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb4de1e27f9c0c50800000000000000
+      internalID: 6632851666975411187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 456
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31962e17da9c82e10800000000000000
+      internalID: 2173208566983452947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 442
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efefd96a18eedfc90800000000000000
+      internalID: -7134283994071433474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 444
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc2c595b36bf16b0800000000000000
+      internalID: -5323335868510098243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 448
+        width: 37
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c3c27ba42cf0cb0800000000000000
+      internalID: -4895480643771941822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_11
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 448
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7ac0a36b1e25b40800000000000000
+      internalID: 5427648673709074397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 450
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70f12716d844a870800000000000000
+      internalID: 8693153265080201343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_13
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 450
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af41c4af7e1060440800000000000000
+      internalID: 4901607340287726842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_14
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 450
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a444d7ccc8182f090800000000000000
+      internalID: -8002191146157783990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 448
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33fc1f87f2566c50800000000000000
+      internalID: 6658100322325295933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 445
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfb50c0d6a68a040800000000000000
+      internalID: 4659090831100461007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_17
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 442
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85fc8ac9a691dd90800000000000000
+      internalID: -7074707883630463605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_18
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 445
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b540f45e7fff3e260800000000000000
+      internalID: 7125820475599422555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_19
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 448
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afb60c329c17b2f0800000000000000
+      internalID: -957264981395062871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 448
+        width: 34
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a11ff7e8d8a3af90800000000000000
+      internalID: -6943520550916517464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_21
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 451
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40919a992bbd796a0800000000000000
+      internalID: -6442439181801547516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 451
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7821b56928bdb1b00800000000000000
+      internalID: 800474712703177351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_23
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 451
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2076a179ddf256e0800000000000000
+      internalID: -1850137386539388886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_24
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 448
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919b6b5edde0f37b0800000000000000
+      internalID: -5242455095031449319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_25
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 445
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571efcb10e56b3510800000000000000
+      internalID: 1529928511636103541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_26
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 444
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf7702fd88b3070800000000000000
+      internalID: 8087208047777675952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 376
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3713d308aa0d88c0800000000000000
+      internalID: -3995525577672812741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 376
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2889fb3c57e37d30800000000000000
+      internalID: 4428137241964546093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 372
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e5854a76c25b4b0800000000000000
+      internalID: -5425381352447385984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_30
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 375
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5568bc56e2c836390800000000000000
+      internalID: -7826257596535568811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 374
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c6be10db7912c40800000000000000
+      internalID: 5485832659150793782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 372
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee15f222aef9bfe0800000000000000
+      internalID: -1172626255628656928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 374
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d0aee640d9bc30800000000000000
+      internalID: 4375757516036953439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 376
+        width: 38
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b333152d5ec9fc130800000000000000
+      internalID: 3589259938927555387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_35
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 376
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91562124decef00800000000000000
+      internalID: 1147552873104873916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_36
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 376
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eeb1802a1723f30800000000000000
+      internalID: 4553827113959681564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 376
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec5a2d90a63cb2c0800000000000000
+      internalID: -4414593471270462226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_38
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 374
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d276706c640f0090800000000000000
+      internalID: -8066223544075914538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_39
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 372
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb25b49e828652e0800000000000000
+      internalID: -2137377424248853520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_40
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 372
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ed2bd8d35ced750800000000000000
+      internalID: 6331714994290482719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_41
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 376
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e6ce34d4d41b330800000000000000
+      internalID: 3724843361059499590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_42
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 376
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfa841e4b0e44fd0800000000000000
+      internalID: -2358513237356924979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_43
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 375
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea0038d45a979830800000000000000
+      internalID: 4077897676802231008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_44
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 375
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4926358bc0b39b5a0800000000000000
+      internalID: -6505103260941852012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_45
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 374
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b19832136c07170800000000000000
+      internalID: 8174251238029335340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_46
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 378
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800c2fcaf8f8114b0800000000000000
+      internalID: -5471434225033756664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_47
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 378
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33786cd6e84afbbd0800000000000000
+      internalID: -2612188327217559757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_48
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 376
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5812b75fd3ff84a80800000000000000
+      internalID: -8482249256575753851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_49
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 378
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2080e1d7a045230800000000000000
+      internalID: 3626535132431123106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_50
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 376
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3545e8c743590d990800000000000000
+      internalID: -7363221338090220461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 307
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f50b6cc4691610800000000000000
+      internalID: 1592414772383840490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 308
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0456cbd66d2c9c0800000000000000
+      internalID: -3908325759803637559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_53
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 307
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba082f6ca50128960800000000000000
+      internalID: 7602657103025701035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_54
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 302
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3006e9cec75909e20800000000000000
+      internalID: 3355346086169305091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_55
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 301
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9a7a062bd16c980800000000000000
+      internalID: -8519088993161729556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_56
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 301
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db0268a8791e9850800000000000000
+      internalID: 6385569327669709777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_57
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 302
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc70357465edb700800000000000000
+      internalID: 557854148489411770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_58
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 300
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce42c1ee7d3ac590800000000000000
+      internalID: -7653237001599955255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_59
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 302
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3446e9337cf7e72c0800000000000000
+      internalID: -4431964489744751549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_60
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 302
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb2dfe0a4eabc3d0800000000000000
+      internalID: -3185260678332208207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_61
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 302
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818a85e7a57fdd80800000000000000
+      internalID: -8223725030584188534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_62
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 300
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efbb2da76c8a1140800000000000000
+      internalID: 4691216338774638562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_63
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 302
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0833c94d3e049e0800000000000000
+      internalID: -1639059762069667597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_64
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 300
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f542f91df565ea0800000000000000
+      internalID: -5884410509190209698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_65
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 302
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51b204b5195907d0800000000000000
+      internalID: -2951730131015388837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_66
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 302
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9414f441361736150800000000000000
+      internalID: 5864655810122957129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_67
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 302
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af259c2972d5d8f0800000000000000
+      internalID: -516275164383203419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_68
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 304
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3886ed9331eada450800000000000000
+      internalID: 6101724467755378819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_69
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 302
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c916e512814ac260800000000000000
+      internalID: 7118574187981445575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_70
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 302
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a88fbf48c535be0800000000000000
+      internalID: -1489745325496694246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_71
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 300
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf04372191fbd140800000000000000
+      internalID: 4745652238095224771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_72
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 300
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2f71ca824365290800000000000000
+      internalID: -7902071146884369683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_73
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 302
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb459075d07756140800000000000000
+      internalID: 4712303484291601595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ed4710450ac7b10800000000000000
+      internalID: 1980634218798308875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_75
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 232
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756377874bbef66d0800000000000000
+      internalID: -2994916066830371241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_76
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 232
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b6724b2ad0b2500800000000000000
+      internalID: 372406386646543122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_77
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 276
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3917105fc2d7a60800000000000000
+      internalID: 7673338770912023540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_78
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 275
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3466b433adef690800000000000000
+      internalID: -7566370410092674122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_79
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 230
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a17c7a2243bd05f0800000000000000
+      internalID: -788777262957956703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_80
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 232
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb52d9a56d5ba020800000000000000
+      internalID: 2354077921453431773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_81
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 235
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c95487b06641fc90800000000000000
+      internalID: -7137846553195816507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_82
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 230
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4930ba977214c9b0800000000000000
+      internalID: -5060899776351946417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_83
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 230
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f399a49af9b8ba5a0800000000000000
+      internalID: -6508955318577620673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_84
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 235
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ccf65a54940d810800000000000000
+      internalID: 1788009615543225434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_85
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 232
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c273564cd1821e2a0800000000000000
+      internalID: -6710037861491198164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_86
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 230
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae52eb09999775a0800000000000000
+      internalID: -6523576652614443360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 235
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10e4440ee3d37610800000000000000
+      internalID: 1617869710383439900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_88
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 234
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a40f26b7a63e530800000000000000
+      internalID: 3883064381896936070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_89
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 232
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0617a99ba71e6afb0800000000000000
+      internalID: -4636770849115180704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_90
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 235
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757c8cb763ea3d530800000000000000
+      internalID: 3878635253124351831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_91
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 232
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6ee99e24f4d8660800000000000000
+      internalID: 7389649712390792901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_92
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 231
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d72247caa4eecd0800000000000000
+      internalID: -2527000236365021841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_93
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 234
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d847feac45ccf90800000000000000
+      internalID: -6932072495852516060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_94
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 231
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d26d4416e13d9e30800000000000000
+      internalID: 4511817265947960019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_95
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 230
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780bd23e204ad0fe0800000000000000
+      internalID: -1221139591639224185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_96
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 236
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b3f30f0d6664010800000000000000
+      internalID: 1172737800546499470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_97
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 233
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77752558bb405cac0800000000000000
+      internalID: -3835654304193947785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_98
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 231
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf371d1751f7d040800000000000000
+      internalID: 4672468494872690602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 161
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007b45cff2a9d3140800000000000000
+      internalID: 4701083116932216576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a055cf26f2925a80800000000000000
+      internalID: -8479553562324152159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_101
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 157
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950f133413ee34ac0800000000000000
+      internalID: -3871989359260340135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_102
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 164
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf9e38273db9c920800000000000000
+      internalID: 3011145870469930946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_103
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 161
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b305c08442f6d670800000000000000
+      internalID: 8563298117523669943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_104
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 158
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd757ee1a7a4910800000000000000
+      internalID: 1822403272373689389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_105
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 159
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47b30dcd23cef900800000000000000
+      internalID: 720227591906375500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_106
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 158
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a726a4e518c46cb0800000000000000
+      internalID: -4871548900552071260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_107
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 160
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1db456c5ab7dbf0800000000000000
+      internalID: -299565944197623377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_108
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 158
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdd43f5a2a49bab0800000000000000
+      internalID: -4991877166117102159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_109
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 160
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f1bcbf1225917d0800000000000000
+      internalID: -2947234175225487587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_110
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 159
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd835f45946efdc0800000000000000
+      internalID: -3603332059406037577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_111
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 159
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90091ac733532c9a0800000000000000
+      internalID: -6214346040567295991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_112
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 158
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a51fe34b468d2e0800000000000000
+      internalID: -2100818500855440756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_113
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 160
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648632787c3464cd0800000000000000
+      internalID: -2574295612750862266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_114
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 158
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809ff9b3f9a661620800000000000000
+      internalID: 2744498255061580040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_115
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 160
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf588fce60b2230800000000000000
+      internalID: 3614990740746533722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_116
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 158
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe1c10bf707c2040800000000000000
+      internalID: 4624194611120447231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_117
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 160
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5f2401838cbaee0800000000000000
+      internalID: -1248684328548633126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_118
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 158
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b296b1807d8a9eb60800000000000000
+      internalID: 7775931873139321131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_119
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 158
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bba42e0c0716260800000000000000
+      internalID: 7089071262190451537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_120
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 160
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0bbd79f382a5f20800000000000000
+      internalID: 3412083921282380027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_121
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 160
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cc8332aab91f8c0800000000000000
+      internalID: -3967218641699025782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_122
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 159
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa245c8eaf77bcf0800000000000000
+      internalID: -236580067758298373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_123
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 162
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad1d5ba5a224ab40800000000000000
+      internalID: 5450519543965097386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_124
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 160
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44097dcaa8ef00890800000000000000
+      internalID: -7493709908385755068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_125
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 158
+        width: 24
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ebc8c848e38de0800000000000000
+      internalID: -1331965665467438826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_126
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 160
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37533f8265ad20440800000000000000
+      internalID: 4900719408121591155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_127
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 87
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d69d21e575f46060800000000000000
+      internalID: 6945946411949987543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Heathcote_128
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9502d6dcf84ccd0800000000000000
+      internalID: -2538746177468212768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c183ed87d53a43f40ab3b6167dc7fabd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

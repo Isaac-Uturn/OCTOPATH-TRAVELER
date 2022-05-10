@@ -1,0 +1,7200 @@
+fileFormatVersion: 2
+guid: 4bbdf03f8ac8ad44fb9f2718b33314b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 180795139742849271
+    second: Therion (Chapter 1)_0
+  - first:
+      213: -8232059810437964192
+    second: Therion (Chapter 1)_1
+  - first:
+      213: 2949776442982737845
+    second: Therion (Chapter 1)_2
+  - first:
+      213: 76546427202777534
+    second: Therion (Chapter 1)_3
+  - first:
+      213: -5386837140351916023
+    second: Therion (Chapter 1)_4
+  - first:
+      213: 9081135429776420799
+    second: Therion (Chapter 1)_5
+  - first:
+      213: -6717582235983560121
+    second: Therion (Chapter 1)_6
+  - first:
+      213: 1637043912967519112
+    second: Therion (Chapter 1)_7
+  - first:
+      213: -6493742497191960941
+    second: Therion (Chapter 1)_8
+  - first:
+      213: -6344389961999853750
+    second: Therion (Chapter 1)_9
+  - first:
+      213: -7088595550525153339
+    second: Therion (Chapter 1)_10
+  - first:
+      213: 2712874478968254124
+    second: Therion (Chapter 1)_11
+  - first:
+      213: 3197093221653981683
+    second: Therion (Chapter 1)_12
+  - first:
+      213: 3873539322453110145
+    second: Therion (Chapter 1)_13
+  - first:
+      213: 685889748851585681
+    second: Therion (Chapter 1)_14
+  - first:
+      213: 8856534705884138593
+    second: Therion (Chapter 1)_15
+  - first:
+      213: -450748491050934424
+    second: Therion (Chapter 1)_16
+  - first:
+      213: 7419537860878406617
+    second: Therion (Chapter 1)_17
+  - first:
+      213: 3609332090790465536
+    second: Therion (Chapter 1)_18
+  - first:
+      213: -2027646223235530881
+    second: Therion (Chapter 1)_19
+  - first:
+      213: 179495172861240352
+    second: Therion (Chapter 1)_20
+  - first:
+      213: -3989660396938739397
+    second: Therion (Chapter 1)_21
+  - first:
+      213: 6320795443290276525
+    second: Therion (Chapter 1)_22
+  - first:
+      213: 219188338289559773
+    second: Therion (Chapter 1)_23
+  - first:
+      213: 9114670717149695529
+    second: Therion (Chapter 1)_24
+  - first:
+      213: -4738601811873114221
+    second: Therion (Chapter 1)_25
+  - first:
+      213: 6713864871884921120
+    second: Therion (Chapter 1)_26
+  - first:
+      213: -5975988499801987287
+    second: Therion (Chapter 1)_27
+  - first:
+      213: 3619924370813593607
+    second: Therion (Chapter 1)_28
+  - first:
+      213: 6867677170337403827
+    second: Therion (Chapter 1)_29
+  - first:
+      213: -6672527362492608025
+    second: Therion (Chapter 1)_30
+  - first:
+      213: -5830080585336542287
+    second: Therion (Chapter 1)_31
+  - first:
+      213: 2287120375953982334
+    second: Therion (Chapter 1)_32
+  - first:
+      213: 1171134045111690404
+    second: Therion (Chapter 1)_33
+  - first:
+      213: -4527708297560035302
+    second: Therion (Chapter 1)_34
+  - first:
+      213: -5621370793738362493
+    second: Therion (Chapter 1)_35
+  - first:
+      213: -2314943445732612796
+    second: Therion (Chapter 1)_36
+  - first:
+      213: 3365238538342527131
+    second: Therion (Chapter 1)_37
+  - first:
+      213: -3558754863900138100
+    second: Therion (Chapter 1)_38
+  - first:
+      213: 2448896841914027769
+    second: Therion (Chapter 1)_39
+  - first:
+      213: 1789421758818766020
+    second: Therion (Chapter 1)_40
+  - first:
+      213: -5726393361693449653
+    second: Therion (Chapter 1)_41
+  - first:
+      213: 197294759909077411
+    second: Therion (Chapter 1)_42
+  - first:
+      213: -4457734924128145471
+    second: Therion (Chapter 1)_43
+  - first:
+      213: -215725301520253513
+    second: Therion (Chapter 1)_44
+  - first:
+      213: -8774119628328127915
+    second: Therion (Chapter 1)_45
+  - first:
+      213: 2388322138733455728
+    second: Therion (Chapter 1)_46
+  - first:
+      213: -7777612993885710515
+    second: Therion (Chapter 1)_47
+  - first:
+      213: 6424970410319933964
+    second: Therion (Chapter 1)_48
+  - first:
+      213: 6971342474456035074
+    second: Therion (Chapter 1)_49
+  - first:
+      213: -1500627893696446596
+    second: Therion (Chapter 1)_50
+  - first:
+      213: -6589508157174421336
+    second: Therion (Chapter 1)_51
+  - first:
+      213: 1353946480898467427
+    second: Therion (Chapter 1)_52
+  - first:
+      213: 371490188581458923
+    second: Therion (Chapter 1)_53
+  - first:
+      213: 6808490306089680235
+    second: Therion (Chapter 1)_54
+  - first:
+      213: 7708579147637580492
+    second: Therion (Chapter 1)_55
+  - first:
+      213: 973515834082865
+    second: Therion (Chapter 1)_56
+  - first:
+      213: -7245080153117317779
+    second: Therion (Chapter 1)_57
+  - first:
+      213: 6199640757091420385
+    second: Therion (Chapter 1)_58
+  - first:
+      213: 5033298900209133156
+    second: Therion (Chapter 1)_59
+  - first:
+      213: 6575411097434006288
+    second: Therion (Chapter 1)_60
+  - first:
+      213: -559249625203161518
+    second: Therion (Chapter 1)_61
+  - first:
+      213: 3419347318957829219
+    second: Therion (Chapter 1)_62
+  - first:
+      213: -247632728953717467
+    second: Therion (Chapter 1)_63
+  - first:
+      213: -3149653323918087194
+    second: Therion (Chapter 1)_64
+  - first:
+      213: 1216349370325749986
+    second: Therion (Chapter 1)_65
+  - first:
+      213: 1103170494581573078
+    second: Therion (Chapter 1)_66
+  - first:
+      213: -1974440362221714593
+    second: Therion (Chapter 1)_67
+  - first:
+      213: -6771551650632763592
+    second: Therion (Chapter 1)_68
+  - first:
+      213: 1415080655630322750
+    second: Therion (Chapter 1)_69
+  - first:
+      213: -4073538304359067507
+    second: Therion (Chapter 1)_70
+  - first:
+      213: -6916214661415269781
+    second: Therion (Chapter 1)_71
+  - first:
+      213: -2903386894478540242
+    second: Therion (Chapter 1)_72
+  - first:
+      213: -539521656180745045
+    second: Therion (Chapter 1)_73
+  - first:
+      213: -4120956437302649179
+    second: Therion (Chapter 1)_74
+  - first:
+      213: -4093227929894764516
+    second: Therion (Chapter 1)_75
+  - first:
+      213: 8595675912953381923
+    second: Therion (Chapter 1)_76
+  - first:
+      213: -2731202741330468072
+    second: Therion (Chapter 1)_77
+  - first:
+      213: 8599929815167966240
+    second: Therion (Chapter 1)_78
+  - first:
+      213: 6665997903633871454
+    second: Therion (Chapter 1)_79
+  - first:
+      213: 7533648213310603855
+    second: Therion (Chapter 1)_80
+  - first:
+      213: -3522447495411962002
+    second: Therion (Chapter 1)_81
+  - first:
+      213: -5916090658368217113
+    second: Therion (Chapter 1)_82
+  - first:
+      213: -1309430226195169959
+    second: Therion (Chapter 1)_83
+  - first:
+      213: 4112696050205298067
+    second: Therion (Chapter 1)_84
+  - first:
+      213: -6559505755024278236
+    second: Therion (Chapter 1)_85
+  - first:
+      213: 4171080631953127103
+    second: Therion (Chapter 1)_86
+  - first:
+      213: 7359774083155338685
+    second: Therion (Chapter 1)_87
+  - first:
+      213: 7609031421829401751
+    second: Therion (Chapter 1)_88
+  - first:
+      213: 7283323997785207579
+    second: Therion (Chapter 1)_89
+  - first:
+      213: 5908323295286196993
+    second: Therion (Chapter 1)_90
+  - first:
+      213: 2313269420558779682
+    second: Therion (Chapter 1)_91
+  - first:
+      213: 6372699628592737840
+    second: Therion (Chapter 1)_92
+  - first:
+      213: 3234392188377050380
+    second: Therion (Chapter 1)_93
+  - first:
+      213: 6439412833662688175
+    second: Therion (Chapter 1)_94
+  - first:
+      213: -6943858927723635978
+    second: Therion (Chapter 1)_95
+  - first:
+      213: -5768151615809247627
+    second: Therion (Chapter 1)_96
+  - first:
+      213: 5068270839181314620
+    second: Therion (Chapter 1)_97
+  - first:
+      213: -6311676396891526771
+    second: Therion (Chapter 1)_98
+  - first:
+      213: -1924819717794217517
+    second: Therion (Chapter 1)_99
+  - first:
+      213: 8797351469188980442
+    second: Therion (Chapter 1)_100
+  - first:
+      213: -6155163363776673626
+    second: Therion (Chapter 1)_101
+  - first:
+      213: -4471333851803474283
+    second: Therion (Chapter 1)_102
+  - first:
+      213: -1587806527372246429
+    second: Therion (Chapter 1)_103
+  - first:
+      213: 1949568968045417040
+    second: Therion (Chapter 1)_104
+  - first:
+      213: 445247964966199667
+    second: Therion (Chapter 1)_105
+  - first:
+      213: 2912469519465284958
+    second: Therion (Chapter 1)_106
+  - first:
+      213: -6774237360990044646
+    second: Therion (Chapter 1)_107
+  - first:
+      213: 7551746254846864443
+    second: Therion (Chapter 1)_108
+  - first:
+      213: 2763066758652227464
+    second: Therion (Chapter 1)_109
+  - first:
+      213: 3725588969578923295
+    second: Therion (Chapter 1)_110
+  - first:
+      213: -5352590309298103188
+    second: Therion (Chapter 1)_111
+  - first:
+      213: 51606926474235057
+    second: Therion (Chapter 1)_112
+  - first:
+      213: -8321792763897508105
+    second: Therion (Chapter 1)_113
+  - first:
+      213: 5047562113440759762
+    second: Therion (Chapter 1)_114
+  - first:
+      213: -2424621800788599268
+    second: Therion (Chapter 1)_115
+  - first:
+      213: -7716142642586462427
+    second: Therion (Chapter 1)_116
+  - first:
+      213: 8233000568355276312
+    second: Therion (Chapter 1)_117
+  - first:
+      213: -3734486282398283595
+    second: Therion (Chapter 1)_118
+  - first:
+      213: 4878841415149739194
+    second: Therion (Chapter 1)_119
+  - first:
+      213: -7018058543616178158
+    second: Therion (Chapter 1)_120
+  - first:
+      213: 3709253881028372496
+    second: Therion (Chapter 1)_121
+  - first:
+      213: -6473094803705188392
+    second: Therion (Chapter 1)_122
+  - first:
+      213: -3355766665949929778
+    second: Therion (Chapter 1)_123
+  - first:
+      213: -7308451132478406204
+    second: Therion (Chapter 1)_124
+  - first:
+      213: -9067098471327342073
+    second: Therion (Chapter 1)_125
+  - first:
+      213: -8772781652456261390
+    second: Therion (Chapter 1)_126
+  - first:
+      213: -2320672163882938882
+    second: Therion (Chapter 1)_127
+  - first:
+      213: -5266602644684996568
+    second: Therion (Chapter 1)_128
+  - first:
+      213: -3080894887161368984
+    second: Therion (Chapter 1)_129
+  - first:
+      213: -3546410925639658937
+    second: Therion (Chapter 1)_130
+  - first:
+      213: 2646174620193453651
+    second: Therion (Chapter 1)_131
+  - first:
+      213: 6048438868089303967
+    second: Therion (Chapter 1)_132
+  - first:
+      213: -198947370603714448
+    second: Therion (Chapter 1)_133
+  - first:
+      213: -8955470433111241056
+    second: Therion (Chapter 1)_134
+  - first:
+      213: -8879083327373588616
+    second: Therion (Chapter 1)_135
+  - first:
+      213: 2694865041354537630
+    second: Therion (Chapter 1)_136
+  - first:
+      213: 3194657056561390631
+    second: Therion (Chapter 1)_137
+  - first:
+      213: 2878542484216860763
+    second: Therion (Chapter 1)_138
+  - first:
+      213: 3002899848780110976
+    second: Therion (Chapter 1)_139
+  - first:
+      213: 1510708677319581646
+    second: Therion (Chapter 1)_140
+  - first:
+      213: -2720446304281424906
+    second: Therion (Chapter 1)_141
+  - first:
+      213: 2107043141432637980
+    second: Therion (Chapter 1)_142
+  - first:
+      213: -1906404789588178800
+    second: Therion (Chapter 1)_143
+  - first:
+      213: 6534171631372202674
+    second: Therion (Chapter 1)_144
+  - first:
+      213: 5393446623458679703
+    second: Therion (Chapter 1)_145
+  - first:
+      213: -5568157261756849828
+    second: Therion (Chapter 1)_146
+  - first:
+      213: -7002753533311182949
+    second: Therion (Chapter 1)_147
+  - first:
+      213: -6716699418659814320
+    second: Therion (Chapter 1)_148
+  - first:
+      213: 1366944077703233889
+    second: Therion (Chapter 1)_149
+  - first:
+      213: -5806937160097125378
+    second: Therion (Chapter 1)_150
+  - first:
+      213: 6390214083709285586
+    second: Therion (Chapter 1)_151
+  - first:
+      213: -1530315585889524984
+    second: Therion (Chapter 1)_152
+  - first:
+      213: -2965603432357848851
+    second: Therion (Chapter 1)_153
+  - first:
+      213: -9091397654219192669
+    second: Therion (Chapter 1)_154
+  - first:
+      213: -6143734812451656275
+    second: Therion (Chapter 1)_155
+  - first:
+      213: -4245749552727892949
+    second: Therion (Chapter 1)_156
+  - first:
+      213: -3874934517247790904
+    second: Therion (Chapter 1)_157
+  - first:
+      213: -4527501883110352637
+    second: Therion (Chapter 1)_158
+  - first:
+      213: -9031652359842952075
+    second: Therion (Chapter 1)_159
+  - first:
+      213: -2520181856910438020
+    second: Therion (Chapter 1)_160
+  - first:
+      213: -744868989068672715
+    second: Therion (Chapter 1)_161
+  - first:
+      213: -8834883536755208465
+    second: Therion (Chapter 1)_162
+  - first:
+      213: 141138092942422674
+    second: Therion (Chapter 1)_163
+  - first:
+      213: 7986942009808043488
+    second: Therion (Chapter 1)_164
+  - first:
+      213: -6690793995742294618
+    second: Therion (Chapter 1)_165
+  - first:
+      213: -2144358968628423052
+    second: Therion (Chapter 1)_166
+  - first:
+      213: 4221726348753930162
+    second: Therion (Chapter 1)_167
+  - first:
+      213: 8989807248010378208
+    second: Therion (Chapter 1)_168
+  - first:
+      213: 4417379353348482357
+    second: Therion (Chapter 1)_169
+  - first:
+      213: 4334425325595561108
+    second: Therion (Chapter 1)_170
+  - first:
+      213: -3398087949054676809
+    second: Therion (Chapter 1)_171
+  - first:
+      213: -7339274596712919092
+    second: Therion (Chapter 1)_172
+  - first:
+      213: 8347616808061952704
+    second: Therion (Chapter 1)_173
+  - first:
+      213: -6025169213690958061
+    second: Therion (Chapter 1)_174
+  - first:
+      213: 4094753522516176690
+    second: Therion (Chapter 1)_175
+  - first:
+      213: 2093354399025555183
+    second: Therion (Chapter 1)_176
+  - first:
+      213: -8978334033619247534
+    second: Therion (Chapter 1)_177
+  - first:
+      213: 1628659933352831965
+    second: Therion (Chapter 1)_178
+  - first:
+      213: -6542161115557804521
+    second: Therion (Chapter 1)_179
+  - first:
+      213: 561963940303780270
+    second: Therion (Chapter 1)_180
+  - first:
+      213: 3371645096226382242
+    second: Therion (Chapter 1)_181
+  - first:
+      213: -5007776406402268145
+    second: Therion (Chapter 1)_182
+  - first:
+      213: -7134847350929389438
+    second: Therion (Chapter 1)_183
+  - first:
+      213: 4592559570992351084
+    second: Therion (Chapter 1)_184
+  - first:
+      213: -2711778551083067733
+    second: Therion (Chapter 1)_185
+  - first:
+      213: 7555764886198411197
+    second: Therion (Chapter 1)_186
+  - first:
+      213: 2626416592861688365
+    second: Therion (Chapter 1)_187
+  - first:
+      213: 4467664303909587649
+    second: Therion (Chapter 1)_188
+  - first:
+      213: -4139623844828728219
+    second: Therion (Chapter 1)_189
+  - first:
+      213: 2717454739792961982
+    second: Therion (Chapter 1)_190
+  - first:
+      213: 7252046167547933656
+    second: Therion (Chapter 1)_191
+  - first:
+      213: -6750499445584396176
+    second: Therion (Chapter 1)_192
+  - first:
+      213: 2697807250306497461
+    second: Therion (Chapter 1)_193
+  - first:
+      213: -3061732341866896794
+    second: Therion (Chapter 1)_194
+  - first:
+      213: 2008092361113004597
+    second: Therion (Chapter 1)_195
+  - first:
+      213: 2778320395551285049
+    second: Therion (Chapter 1)_196
+  - first:
+      213: -7371079988098586339
+    second: Therion (Chapter 1)_197
+  - first:
+      213: 5200607684602972179
+    second: Therion (Chapter 1)_198
+  - first:
+      213: -4073256800777619969
+    second: Therion (Chapter 1)_199
+  - first:
+      213: 6791884265208182297
+    second: Therion (Chapter 1)_200
+  - first:
+      213: 5946930271387962906
+    second: Therion (Chapter 1)_201
+  - first:
+      213: -2442140874550866358
+    second: Therion (Chapter 1)_202
+  - first:
+      213: -2315954848243208114
+    second: Therion (Chapter 1)_203
+  - first:
+      213: -5147167155718075762
+    second: Therion (Chapter 1)_204
+  - first:
+      213: 1798598632352110951
+    second: Therion (Chapter 1)_205
+  - first:
+      213: 2032035202189926872
+    second: Therion (Chapter 1)_206
+  - first:
+      213: 5707810728115972281
+    second: Therion (Chapter 1)_207
+  - first:
+      213: 5902259160626283412
+    second: Therion (Chapter 1)_208
+  - first:
+      213: 6411727735771411666
+    second: Therion (Chapter 1)_209
+  - first:
+      213: 5569401372379562575
+    second: Therion (Chapter 1)_210
+  - first:
+      213: 9137289404063429895
+    second: Therion (Chapter 1)_211
+  - first:
+      213: 4557920284633632758
+    second: Therion (Chapter 1)_212
+  - first:
+      213: -2926446740120071526
+    second: Therion (Chapter 1)_213
+  - first:
+      213: -1515533638126954888
+    second: Therion (Chapter 1)_214
+  - first:
+      213: 2563373043405879638
+    second: Therion (Chapter 1)_215
+  - first:
+      213: -7231292095346868690
+    second: Therion (Chapter 1)_216
+  - first:
+      213: -9153110994141866696
+    second: Therion (Chapter 1)_217
+  - first:
+      213: 6364539553798365036
+    second: Therion (Chapter 1)_218
+  - first:
+      213: -1068247570046608925
+    second: Therion (Chapter 1)_219
+  - first:
+      213: 3045413524478513153
+    second: Therion (Chapter 1)_220
+  - first:
+      213: 160805307903472437
+    second: Therion (Chapter 1)_221
+  - first:
+      213: 4273711501661346469
+    second: Therion (Chapter 1)_222
+  - first:
+      213: 1748432603972167488
+    second: Therion (Chapter 1)_223
+  - first:
+      213: -7112899889890963554
+    second: Therion (Chapter 1)_224
+  - first:
+      213: 3648666126134167734
+    second: Therion (Chapter 1)_225
+  - first:
+      213: 5173750684588713807
+    second: Therion (Chapter 1)_226
+  - first:
+      213: 7024826525462086135
+    second: Therion (Chapter 1)_227
+  - first:
+      213: 6150754190117956967
+    second: Therion (Chapter 1)_228
+  - first:
+      213: 7686627998847818865
+    second: Therion (Chapter 1)_229
+  - first:
+      213: -3724534935241945558
+    second: Therion (Chapter 1)_230
+  - first:
+      213: 370456722722226123
+    second: Therion (Chapter 1)_231
+  - first:
+      213: 1547437410843550799
+    second: Therion (Chapter 1)_232
+  - first:
+      213: -726347720876522413
+    second: Therion (Chapter 1)_233
+  - first:
+      213: -6739732609985178235
+    second: Therion (Chapter 1)_234
+  - first:
+      213: 7615676690401185310
+    second: Therion (Chapter 1)_235
+  - first:
+      213: -3284265402932806818
+    second: Therion (Chapter 1)_236
+  - first:
+      213: 7881981951504550236
+    second: Therion (Chapter 1)_237
+  - first:
+      213: 679024058494952905
+    second: Therion (Chapter 1)_238
+  - first:
+      213: -804066087646220957
+    second: Therion (Chapter 1)_239
+  - first:
+      213: 2260507797641936486
+    second: Therion (Chapter 1)_240
+  - first:
+      213: -5145584225063932186
+    second: Therion (Chapter 1)_241
+  - first:
+      213: 7523005991278426134
+    second: Therion (Chapter 1)_242
+  - first:
+      213: -2444302381098395602
+    second: Therion (Chapter 1)_243
+  - first:
+      213: 6557240320832871365
+    second: Therion (Chapter 1)_244
+  - first:
+      213: -6784017288272528672
+    second: Therion (Chapter 1)_245
+  - first:
+      213: -2390251871915307019
+    second: Therion (Chapter 1)_246
+  - first:
+      213: -619703816454208687
+    second: Therion (Chapter 1)_247
+  - first:
+      213: -365373096605075300
+    second: Therion (Chapter 1)_248
+  - first:
+      213: 756470569984480282
+    second: Therion (Chapter 1)_249
+  - first:
+      213: 6374906557088311794
+    second: Therion (Chapter 1)_250
+  - first:
+      213: -6061462402521077101
+    second: Therion (Chapter 1)_251
+  - first:
+      213: 8898427104857918884
+    second: Therion (Chapter 1)_252
+  - first:
+      213: 6786663744661492243
+    second: Therion (Chapter 1)_253
+  - first:
+      213: 1630084588523358298
+    second: Therion (Chapter 1)_254
+  - first:
+      213: -9197918499784546313
+    second: Therion (Chapter 1)_255
+  - first:
+      213: 3516529610708421135
+    second: Therion (Chapter 1)_256
+  - first:
+      213: 8171656751402926953
+    second: Therion (Chapter 1)_257
+  - first:
+      213: -17469312616876113
+    second: Therion (Chapter 1)_258
+  - first:
+      213: -3863195677998687941
+    second: Therion (Chapter 1)_259
+  - first:
+      213: -4032945046096319900
+    second: Therion (Chapter 1)_260
+  - first:
+      213: -281780170963553071
+    second: Therion (Chapter 1)_261
+  - first:
+      213: 7907871242283361335
+    second: Therion (Chapter 1)_262
+  - first:
+      213: 2184547780002868420
+    second: Therion (Chapter 1)_263
+  - first:
+      213: 1045692103164335446
+    second: Therion (Chapter 1)_264
+  - first:
+      213: 5812688169656850732
+    second: Therion (Chapter 1)_265
+  - first:
+      213: 8557198813071078570
+    second: Therion (Chapter 1)_266
+  - first:
+      213: 1335999914581555739
+    second: Therion (Chapter 1)_267
+  - first:
+      213: 8260781664410507516
+    second: Therion (Chapter 1)_268
+  - first:
+      213: -3372028347263043867
+    second: Therion (Chapter 1)_269
+  - first:
+      213: -1766120470461709828
+    second: Therion (Chapter 1)_270
+  - first:
+      213: 1117057867126271924
+    second: Therion (Chapter 1)_271
+  - first:
+      213: -7065114412033938642
+    second: Therion (Chapter 1)_272
+  - first:
+      213: -731801313560931738
+    second: Therion (Chapter 1)_273
+  - first:
+      213: -1799179446910078914
+    second: Therion (Chapter 1)_274
+  - first:
+      213: -266508838887592543
+    second: Therion (Chapter 1)_275
+  - first:
+      213: -4155455114550872462
+    second: Therion (Chapter 1)_276
+  - first:
+      213: -1364453660058711730
+    second: Therion (Chapter 1)_277
+  - first:
+      213: -7844266928294949439
+    second: Therion (Chapter 1)_278
+  - first:
+      213: 4291482800651793487
+    second: Therion (Chapter 1)_279
+  - first:
+      213: -567516502719985999
+    second: Therion (Chapter 1)_280
+  - first:
+      213: -5791086591762905318
+    second: Therion (Chapter 1)_281
+  - first:
+      213: -3862719618001936873
+    second: Therion (Chapter 1)_282
+  - first:
+      213: -1505982114781279910
+    second: Therion (Chapter 1)_283
+  - first:
+      213: -4261015416854270743
+    second: Therion (Chapter 1)_284
+  - first:
+      213: 1839075053537974690
+    second: Therion (Chapter 1)_285
+  - first:
+      213: -2033012334394085133
+    second: Therion (Chapter 1)_286
+  - first:
+      213: -9139653415083961989
+    second: Therion (Chapter 1)_287
+  - first:
+      213: 1191382313363577923
+    second: Therion (Chapter 1)_288
+  - first:
+      213: -3266697525229151826
+    second: Therion (Chapter 1)_289
+  - first:
+      213: 5463011797991919144
+    second: Therion (Chapter 1)_290
+  - first:
+      213: -1437255676855126704
+    second: Therion (Chapter 1)_291
+  - first:
+      213: -1455315733100774061
+    second: Therion (Chapter 1)_292
+  - first:
+      213: 4323510152692882274
+    second: Therion (Chapter 1)_293
+  - first:
+      213: -2617858079091807905
+    second: Therion (Chapter 1)_294
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 952
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f85d71c830528200800000000000000
+      internalID: 180795139742849271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 967
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e531db739d1cd80800000000000000
+      internalID: -8232059810437964192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 960
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b72dcadb06bfe820800000000000000
+      internalID: 2949776442982737845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 962
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb13f3ae192ff0100800000000000000
+      internalID: 76546427202777534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_4
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 954
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908617a592c1e35b0800000000000000
+      internalID: -5386837140351916023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 954
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfa9093f8ca60e70800000000000000
+      internalID: 9081135429776420799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 967
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742c9b23c8a56c2a0800000000000000
+      internalID: -6717582235983560121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 962
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bf422f3c2f7b610800000000000000
+      internalID: 1637043912967519112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 963
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed308aa9791e5a0800000000000000
+      internalID: -6493742497191960941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_9
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 956
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d17e81f234f7a0800000000000000
+      internalID: -6344389961999853750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_10
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 954
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf988e57ef30ad90800000000000000
+      internalID: -7088595550525153339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_11
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 956
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae202717f016a520800000000000000
+      internalID: 2712874478968254124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 960
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9ae7e985b5e5c20800000000000000
+      internalID: 3197093221653981683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_13
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 960
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d235aad7391c530800000000000000
+      internalID: 3873539322453110145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_14
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 962
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1927163b715c48900800000000000000
+      internalID: 685889748851585681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_15
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 962
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c842d146bb8ea70800000000000000
+      internalID: 8856534705884138593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_16
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 962
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f9dd3b2ae9eb9f0800000000000000
+      internalID: -450748491050934424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_17
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 961
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d31833cf5e77f660800000000000000
+      internalID: 7419537860878406617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 957
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000dbfbd96ce61230800000000000000
+      internalID: 3609332090790465536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_19
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 952
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f32edb08a5cd3e0800000000000000
+      internalID: -2027646223235530881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 886
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024aa41a8e1bd7200800000000000000
+      internalID: 179495172861240352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 890
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31c502d101e1a8c0800000000000000
+      internalID: -3989660396938739397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 890
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2893777f9f7b750800000000000000
+      internalID: 6320795443290276525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 892
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd848a2e1a6ba0300800000000000000
+      internalID: 219188338289559773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 892
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ecc54c9b0dd7e70800000000000000
+      internalID: 9114670717149695529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_25
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 892
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397d74f12ca1d3eb0800000000000000
+      internalID: -4738601811873114221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_26
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 890
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0299ca687807c2d50800000000000000
+      internalID: 6713864871884921120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 886
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ab7f1f16011da0800000000000000
+      internalID: -5975988499801987287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_28
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 888
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708af1c390e8c3230800000000000000
+      internalID: 3619924370813593607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 888
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3550afff3ee4f50800000000000000
+      internalID: 6867677170337403827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 884
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1dd8467bb6663a0800000000000000
+      internalID: -6672527362492608025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 882
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb2d13c894671fa0800000000000000
+      internalID: -5830080585336542287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_32
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 901
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e738b4f3ddb7dbf10800000000000000
+      internalID: 2287120375953982334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_33
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 902
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4af378534b04010800000000000000
+      internalID: 1171134045111690404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_34
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 901
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10785dca495a21c0800000000000000
+      internalID: -4527708297560035302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_35
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 902
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3812870eb01ecf1b0800000000000000
+      internalID: -5621370793738362493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_36
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 902
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4452df1833bafdfd0800000000000000
+      internalID: -2314943445732612796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_37
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 902
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b907c5eee9ab3be20800000000000000
+      internalID: 3365238538342527131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_38
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 886
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85e98e6e43cc9ec0800000000000000
+      internalID: -3558754863900138100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_39
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 876
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe8cd1f3ba3cf120800000000000000
+      internalID: 2448896841914027769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_40
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 892
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4fbfdb9d45d810800000000000000
+      internalID: 1789421758818766020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 814
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b426b18c393c780b0800000000000000
+      internalID: -5726393361693449653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 814
+        width: 74
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a13d60f98eecb200800000000000000
+      internalID: 197294759909077411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_43
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 814
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf2d7064b1f222c0800000000000000
+      internalID: -4457734924128145471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 812
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd32d13bf6910df0800000000000000
+      internalID: -215725301520253513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_45
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 808
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55238b07fa01c3680800000000000000
+      internalID: -8774119628328127915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_46
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 805
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079a860d456052120800000000000000
+      internalID: 2388322138733455728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_47
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 808
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47dafa803e501490800000000000000
+      internalID: -7777612993885710515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_48
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 796
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02f3871c841a2950800000000000000
+      internalID: 6424970410319933964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 812
+        width: 78
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f6b857b0f2fb060800000000000000
+      internalID: 6971342474456035074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_50
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 814
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f3e20a1e2bc2be0800000000000000
+      internalID: -1500627893696446596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_51
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 816
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a864176e3d5d84a0800000000000000
+      internalID: -6589508157174421336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_52
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 814
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366e7de962f2ac210800000000000000
+      internalID: 1353946480898467427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_53
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 812
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3d0f7bb5cc72500800000000000000
+      internalID: 371490188581458923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_54
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 810
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d7a274cdd9c7e50800000000000000
+      internalID: 6808490306089680235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 728
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2ebe994ef5afa60800000000000000
+      internalID: 7708579147637580492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_56
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 730
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13649715865730000800000000000000
+      internalID: 973515834082865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_57
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 732
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65a530acfd447b90800000000000000
+      internalID: -7245080153117317779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 730
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8c775eb6c890650800000000000000
+      internalID: 6199640757091420385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_59
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 730
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4666453aeaed9d540800000000000000
+      internalID: 5033298900209133156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_60
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 728
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01327ba1e8d804b50800000000000000
+      internalID: 6575411097434006288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_61
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 728
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256cefccd652d38f0800000000000000
+      internalID: -559249625203161518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_62
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 731
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c6a262546f37f20800000000000000
+      internalID: 3419347318957829219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_63
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 730
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52df3f3585b309cf0800000000000000
+      internalID: -247632728953717467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_64
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 728
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebeb3e4dfe2a44d0800000000000000
+      internalID: -3149653323918087194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_65
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 734
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0590dce4751e010800000000000000
+      internalID: 1216349370325749986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_66
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 734
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d50a3058bf3f4f00800000000000000
+      internalID: 1103170494581573078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_67
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 727
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53c49b93f06994e0800000000000000
+      internalID: -1974440362221714593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_68
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 726
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837f2d5a6ad9602a0800000000000000
+      internalID: -6771551650632763592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_69
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 727
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c4f5fdb5063a310800000000000000
+      internalID: 1415080655630322750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_70
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 727
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d801bb5ae72e777c0800000000000000
+      internalID: -4073538304359067507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_71
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 728
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a8efbb86ba400a0800000000000000
+      internalID: -6916214661415269781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_72
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 726
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e220515900915b7d0800000000000000
+      internalID: -2903386894478540242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_73
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 728
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac57b689eb3388f0800000000000000
+      internalID: -539521656180745045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_74
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 728
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae57bb34fb6fc6c0800000000000000
+      internalID: -4120956437302649179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 660
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c104ae572eee137c0800000000000000
+      internalID: -4093227929894764516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_76
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 659
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324c7f373b9f94770800000000000000
+      internalID: 8595675912953381923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_77
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 658
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813ac69c391d81ad0800000000000000
+      internalID: -2731202741330468072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_78
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 656
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c906e3a96195770800000000000000
+      internalID: 8599929815167966240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_79
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 700
+        width: 64
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52789f76c1628c50800000000000000
+      internalID: 6665997903633871454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_80
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 700
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4282219225ec8860800000000000000
+      internalID: 7533648213310603855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_81
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 661
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f61086aa0cd1fc0800000000000000
+      internalID: -3522447495411962002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_82
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 662
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef94f814e2d5eda0800000000000000
+      internalID: -5916090658368217113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_83
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 662
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d3a7d9528f3dde0800000000000000
+      internalID: -1309430226195169959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_84
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 660
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d83a5844b331930800000000000000
+      internalID: 4112696050205298067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_85
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 660
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42db5a10544f7f4a0800000000000000
+      internalID: -6559505755024278236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_86
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 660
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f3154cb7a2e930800000000000000
+      internalID: 4171080631953127103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_87
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 661
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5a99de88b232660800000000000000
+      internalID: 7359774083155338685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_88
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 660
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c4de683c5b89960800000000000000
+      internalID: 7609031421829401751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_89
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 656
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13b0185690931560800000000000000
+      internalID: 7283323997785207579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_90
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 658
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bf2b1cbb49ef150800000000000000
+      internalID: 5908323295286196993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_91
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 656
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2250e2228426a1020800000000000000
+      internalID: 2313269420558779682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_92
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 657
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ea8865c80607850800000000000000
+      internalID: 6372699628592737840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_93
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 656
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d238c0f8ed2ec20800000000000000
+      internalID: 3234392188377050380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_94
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 657
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab5e80dad36d5950800000000000000
+      internalID: 6439412833662688175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_95
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 657
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa9b9a681572af90800000000000000
+      internalID: -6943858927723635978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_96
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 588
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57628199aa863ffa0800000000000000
+      internalID: -5768151615809247627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_97
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 588
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a8fd2b97d165640800000000000000
+      internalID: 5068270839181314620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_98
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 587
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89201af1cb6868a0800000000000000
+      internalID: -6311676396891526771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 586
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d145303aaaa945e0800000000000000
+      internalID: -1924819717794217517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_100
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 586
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade15450d88761a70800000000000000
+      internalID: 8797351469188980442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_101
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 588
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8c7973887749aa0800000000000000
+      internalID: -6155163363776673626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_102
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 588
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596231b4d81a2f1c0800000000000000
+      internalID: -4471333851803474283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_103
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 588
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3624eeb306af6f9e0800000000000000
+      internalID: -1587806527372246429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_104
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 588
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052d87da5a24e0b10800000000000000
+      internalID: 1949568968045417040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_105
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 588
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a6c44aa6dd2600800000000000000
+      internalID: 445247964966199667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_106
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 588
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5581e6d89b2b6820800000000000000
+      internalID: 2912469519465284958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_107
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 588
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e320af2031df1a0800000000000000
+      internalID: -6774237360990044646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_108
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 588
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca80a35313dc860800000000000000
+      internalID: 7551746254846864443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_109
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 586
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe720e392685620800000000000000
+      internalID: 2763066758652227464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_110
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 588
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f158dd6cd63f3b330800000000000000
+      internalID: 3725588969578923295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_111
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 588
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c96121977c7b5b0800000000000000
+      internalID: -5352590309298103188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_112
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 588
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc4278e93857b000800000000000000
+      internalID: 51606926474235057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_113
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 588
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe097d629d038c80800000000000000
+      internalID: -8321792763897508105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_114
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 588
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3b51cffa8c0640800000000000000
+      internalID: 5047562113440759762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_115
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 587
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed35181530a5ed0800000000000000
+      internalID: -2424621800788599268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_116
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 588
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527d3600621cae490800000000000000
+      internalID: -7716142642586462427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_117
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 588
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816c768856e714270800000000000000
+      internalID: 8233000568355276312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_118
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 589
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8c41723807c2cc0800000000000000
+      internalID: -3734486282398283595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_119
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 587
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd679fa6025b340800000000000000
+      internalID: 4878841415149739194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 520
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218ccd610f8da9e90800000000000000
+      internalID: -7018058543616178158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_121
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 519
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0186f6890cae97330800000000000000
+      internalID: 3709253881028372496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_122
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 516
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa9bb6292fa26a0800000000000000
+      internalID: -6473094803705188392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_123
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 518
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece15f63ffbed61d0800000000000000
+      internalID: -3355766665949929778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_124
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 518
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1c256ba6a239a90800000000000000
+      internalID: -7308451132478406204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_125
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 517
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702eb09daf13b2280800000000000000
+      internalID: -9067098471327342073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_126
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 517
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8b7493191d04680800000000000000
+      internalID: -8772781652456261390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_127
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 518
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdce9f56f05bcfd0800000000000000
+      internalID: -2320672163882938882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_128
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 517
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8200b6e5cc449e6b0800000000000000
+      internalID: -5266602644684996568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_129
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 516
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86eed646c667e35d0800000000000000
+      internalID: -3080894887161368984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_130
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 516
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7421fa58d0e98cec0800000000000000
+      internalID: -3546410925639658937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_131
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 516
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356f84a0cc919b420800000000000000
+      internalID: 2646174620193453651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_132
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 553
+        width: 68
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93f022ca1f50f350800000000000000
+      internalID: 6048438868089303967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_133
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 553
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078ea26ab623d3df0800000000000000
+      internalID: -198947370603714448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_134
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 516
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae04e5d617c7b380800000000000000
+      internalID: -8955470433111241056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_135
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 518
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877cdc4d1c827c480800000000000000
+      internalID: -8879083327373588616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_136
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 518
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a3e832a75166520800000000000000
+      internalID: 2694865041354537630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_137
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 518
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724698bbaa3b55c20800000000000000
+      internalID: 3194657056561390631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_138
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 533
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50dd926323a2f720800000000000000
+      internalID: 2878542484216860763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_139
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 534
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cdc9e90817ca920800000000000000
+      internalID: 3002899848780110976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_140
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 532
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfdbb6b98d17f410800000000000000
+      internalID: 1510708677319581646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_141
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 532
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb08c2ff780f3ad0800000000000000
+      internalID: -2720446304281424906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_142
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 447
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1af383d298bd3d10800000000000000
+      internalID: 2107043141432637980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_143
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 448
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0984e76c1f61b85e0800000000000000
+      internalID: -1906404789588178800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_144
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 448
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2ff5daa7a0eaa50800000000000000
+      internalID: 6534171631372202674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_145
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 448
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bd84ad02f59da40800000000000000
+      internalID: 5393446623458679703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_146
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 448
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51a877c87ee9b2b0800000000000000
+      internalID: -5568157261756849828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_147
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 448
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97106d73c831de90800000000000000
+      internalID: -7002753533311182949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 446
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05485bf177d79c2a0800000000000000
+      internalID: -6716699418659814320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_149
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 448
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1614353756c58f210800000000000000
+      internalID: 1366944077703233889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_150
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 454
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb256b5b6d996fa0800000000000000
+      internalID: -5806937160097125378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_151
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 448
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4b0323ad99ea850800000000000000
+      internalID: 6390214083709285586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_152
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 448
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803afc4251a33cae0800000000000000
+      internalID: -1530315585889524984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_153
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 453
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de891a5046f08d6d0800000000000000
+      internalID: -2965603432357848851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_154
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 449
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a60274700ed4d180800000000000000
+      internalID: -9091397654219192669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_155
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 446
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad2e9d2db11dbaa0800000000000000
+      internalID: -6143734812451656275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_156
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 452
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c5168d6411415c0800000000000000
+      internalID: -4245749552727892949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_157
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 448
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0bb8b3697793ac0800000000000000
+      internalID: -3874934517247790904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_158
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 448
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3099b4966051b21c0800000000000000
+      internalID: -4527501883110352637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_159
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 454
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c0ebcc70029a280800000000000000
+      internalID: -9031652359842952075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_160
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 448
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71187124f3860dd0800000000000000
+      internalID: -2520181856910438020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_161
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 447
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318b56d991b9a5f0800000000000000
+      internalID: -744868989068672715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_162
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 452
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee42c78b30346580800000000000000
+      internalID: -8834883536755208465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_163
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 451
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292fb16095c65f100800000000000000
+      internalID: 141138092942422674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_164
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 449
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edb048f07157de60800000000000000
+      internalID: 7986942009808043488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_165
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 452
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc67a6f468523a0800000000000000
+      internalID: -6690793995742294618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_166
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 451
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476dafb11e4bd32e0800000000000000
+      internalID: -2144358968628423052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_167
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 448
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7826c1fb5969a30800000000000000
+      internalID: 4221726348753930162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_168
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebf3e0ef0632cc70800000000000000
+      internalID: 8989807248010378208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_169
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 380
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5352b7a1e1fad4d30800000000000000
+      internalID: 4417379353348482357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_170
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 379
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c849d6ed8f62c30800000000000000
+      internalID: 4334425325595561108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_171
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 382
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b07f01a30197d0d0800000000000000
+      internalID: -3398087949054676809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_172
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 381
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfc0e1b3a8a52a90800000000000000
+      internalID: -7339274596712919092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_173
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 379
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2ec956241b8d370800000000000000
+      internalID: 8347616808061952704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_174
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 379
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fa45ad58c426ca0800000000000000
+      internalID: -6025169213690958061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_175
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 376
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2b5042ac73d830800000000000000
+      internalID: 4094753522516176690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_176
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 376
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe66bee1cb61d0d10800000000000000
+      internalID: 2093354399025555183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_177
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 382
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e135304cc866380800000000000000
+      internalID: -8978334033619247534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_178
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 378
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb286394992a9610800000000000000
+      internalID: 1628659933352831965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_179
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 377
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716cdc390239535a0800000000000000
+      internalID: -6542161115557804521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_180
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 379
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9b26ee93f7cc700800000000000000
+      internalID: 561963940303780270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_181
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 378
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1e24de95d7ace20800000000000000
+      internalID: 3371645096226382242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_182
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 376
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f048fc504edc08ab0800000000000000
+      internalID: -5007776406402268145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_183
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 382
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2888739e22eebfc90800000000000000
+      internalID: -7134847350929389438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_184
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 378
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67c1dee89c0cbf30800000000000000
+      internalID: 4592559570992351084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_185
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 378
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba69b2186c3dd5ad0800000000000000
+      internalID: -2711778551083067733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_186
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 379
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfd930c1287bd860800000000000000
+      internalID: 7555764886198411197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_187
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 376
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2276b1d9f7e27420800000000000000
+      internalID: 2626416592861688365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_188
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 375
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca49328305500e30800000000000000
+      internalID: 4467664303909587649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_189
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 382
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643f39bb0a1d86c0800000000000000
+      internalID: -4139623844828728219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_190
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 379
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1af8a20b656b520800000000000000
+      internalID: 2717454739792961982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_191
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 306
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d37d6ff09174a460800000000000000
+      internalID: 7252046167547933656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_192
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 308
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070887915886152a0800000000000000
+      internalID: -6750499445584396176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_193
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 305
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbfdfa8669807520800000000000000
+      internalID: 2697807250306497461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_194
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 304
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662e2b528aa8285d0800000000000000
+      internalID: -3061732341866896794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_195
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 310
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ae054fc5d2edb10800000000000000
+      internalID: 2008092361113004597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_196
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 308
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f9e09fda39e8620800000000000000
+      internalID: 2778320395551285049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_197
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 306
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19a462fdc9a4b990800000000000000
+      internalID: -7371079988098586339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_198
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 308
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3184de892254c2840800000000000000
+      internalID: 5200607684602972179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_199
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 306
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5b4be4582e877c0800000000000000
+      internalID: -4073256800777619969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_200
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 304
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9167c4711ce914e50800000000000000
+      internalID: 6791884265208182297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_201
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 308
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec81ad29db78250800000000000000
+      internalID: 5946930271387962906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_202
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 304
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0fe840d5cb1ed0800000000000000
+      internalID: -2442140874550866358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_203
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 304
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40be9206531cdfd0800000000000000
+      internalID: -2315954848243208114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_204
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 309
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8acdd32eb69198b0800000000000000
+      internalID: -5147167155718075762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_205
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 306
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769d9de3de7e5f810800000000000000
+      internalID: 1798598632352110951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_206
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 304
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ae9d004d333c10800000000000000
+      internalID: 2032035202189926872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_207
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 308
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8248ead97363f40800000000000000
+      internalID: 5707810728115972281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_208
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 306
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493cc616f6909e150800000000000000
+      internalID: 5902259160626283412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_209
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 304
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4bc27a7680bf850800000000000000
+      internalID: 6411727735771411666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_210
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 310
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c14c4a0d7a4d40800000000000000
+      internalID: 5569401372379562575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_211
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 308
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70534233d4c2ece70800000000000000
+      internalID: 9137289404063429895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_212
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 305
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff8228995cf04f30800000000000000
+      internalID: 4557920284633632758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_213
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 309
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a921b01e13c2367d0800000000000000
+      internalID: -2926446740120071526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_214
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 308
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876994e8f2eb7fae0800000000000000
+      internalID: -1515533638126954888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_215
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 305
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f40f933ee29320800000000000000
+      internalID: 2563373043405879638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_216
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 310
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e72cdf62a45ab90800000000000000
+      internalID: -7231292095346868690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_217
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 235
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835937ccb0e99f080800000000000000
+      internalID: -9153110994141866696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_218
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 234
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f131fd003635850800000000000000
+      internalID: 6364539553798365036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_219
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 236
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9923fae72dc21f0800000000000000
+      internalID: -1068247570046608925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_220
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 235
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10056b8177b734a20800000000000000
+      internalID: 3045413524478513153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_221
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 233
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5337597539b4b3200800000000000000
+      internalID: 160805307903472437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_222
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 235
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa9609b7f54f4b30800000000000000
+      internalID: 4273711501661346469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_223
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 234
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047e871903ea34810800000000000000
+      internalID: 1748432603972167488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_224
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 231
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f42246c37e94d90800000000000000
+      internalID: -7112899889890963554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_225
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 238
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b84a30a28aa2a230800000000000000
+      internalID: 3648666126134167734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_226
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 235
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47285ff5dadcc740800000000000000
+      internalID: 5173750684588713807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_227
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 234
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1c8ea71823d7160800000000000000
+      internalID: 7024826525462086135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_228
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 236
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76de9ba095edb5550800000000000000
+      internalID: 6150754190117956967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_229
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 234
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c55ef70736caa60800000000000000
+      internalID: 7686627998847818865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_230
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 232
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e0f57b53bcf4cc0800000000000000
+      internalID: -3724534935241945558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_231
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 238
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf73823d60242500800000000000000
+      internalID: 370456722722226123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_232
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 235
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44ea71602a997510800000000000000
+      internalID: 1547437410843550799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_233
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 232
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3548db1a89e7be5f0800000000000000
+      internalID: -726347720876522413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_234
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 236
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58597bc56e8a772a0800000000000000
+      internalID: -6739732609985178235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_235
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 232
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ec59fa99150b960800000000000000
+      internalID: 7615676690401185310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_236
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 231
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bb51e4402fb62d0800000000000000
+      internalID: -3284265402932806818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_237
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 238
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59087903dc626d60800000000000000
+      internalID: 7881981951504550236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_238
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 236
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5298898c06c6900800000000000000
+      internalID: 679024058494952905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_239
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 233
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36da8e5472267d4f0800000000000000
+      internalID: -804066087646220957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_240
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 235
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eb2728ddfee5f10800000000000000
+      internalID: 2260507797641936486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_241
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eee537e8663798b0800000000000000
+      internalID: -5145584225063932186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_242
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 159
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61839492716176860800000000000000
+      internalID: 7523005991278426134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_243
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 165
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e281df25fe7141ed0800000000000000
+      internalID: -2444302381098395602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_244
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 164
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb9c1e745ffffa50800000000000000
+      internalID: 6557240320832871365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_245
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea386638345ad1a0800000000000000
+      internalID: -6784017288272528672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_246
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 161
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff86ca269e14ded0800000000000000
+      internalID: -2390251871915307019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_247
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 160
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1530b4a89ae5667f0800000000000000
+      internalID: -619703816454208687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_248
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 162
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98be5eba1fedeaf0800000000000000
+      internalID: -365373096605075300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_249
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 160
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1456f6b9f58f7a00800000000000000
+      internalID: 756470569984480282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_250
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 162
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ae8becb7387850800000000000000
+      internalID: 6374906557088311794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_251
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 160
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a68565f0c51eba0800000000000000
+      internalID: -6061462402521077101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_252
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 161
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad83c45e409d7b70800000000000000
+      internalID: 8898427104857918884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_253
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 162
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312129ee7b21f2e50800000000000000
+      internalID: 6786663744661492243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_254
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 162
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5806c4fb493f9610800000000000000
+      internalID: 1630084588523358298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_255
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 162
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7295b6bdd6a5080800000000000000
+      internalID: -9197918499784546313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_256
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 162
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a0b60bc093dc030800000000000000
+      internalID: 3516529610708421135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_257
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 162
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634bc5258e876170800000000000000
+      internalID: 8171656751402926953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_258
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 161
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa73003b0cfe1cff0800000000000000
+      internalID: -17469312616876113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_259
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 162
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39501bbffb236ac0800000000000000
+      internalID: -3863195677998687941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_260
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 162
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae1c819d91808c0800000000000000
+      internalID: -4032945046096319900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_261
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 162
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f7fc6d6ae61cf0800000000000000
+      internalID: -281780170963553071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_262
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 162
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a3d54ff66ebd60800000000000000
+      internalID: 7907871242283361335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_263
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 162
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc60f5b1a2115e10800000000000000
+      internalID: 2184547780002868420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_264
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 162
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6559a817d6b038e00800000000000000
+      internalID: 1045692103164335446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_265
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 161
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c291386e711daa050800000000000000
+      internalID: 5812688169656850732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_266
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 162
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4fe758bf641c670800000000000000
+      internalID: 8557198813071078570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_267
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1af59808dc6a8210800000000000000
+      internalID: 1335999914581555739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_268
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 90
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf89f32082134a270800000000000000
+      internalID: 8260781664410507516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_269
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 90
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b6dc75162431d0800000000000000
+      internalID: -3372028347263043867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_270
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 91
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf185971aca7d77e0800000000000000
+      internalID: -1766120470461709828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_271
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 89
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfed933636908f00800000000000000
+      internalID: 1117057867126271924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_272
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 90
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b6935ffdba3fd90800000000000000
+      internalID: -7065114412033938642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_273
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 92
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6625903259e18d5f0800000000000000
+      internalID: -731801313560931738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_274
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 90
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30bdb353d70807e0800000000000000
+      internalID: -1799179446910078914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_275
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 88
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad6a908f9b2d4cf0800000000000000
+      internalID: -266508838887592543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_276
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 90
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767d11079bd456c0800000000000000
+      internalID: -4155455114550872462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_277
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 90
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4908b710ac701de0800000000000000
+      internalID: -1364453660058711730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_278
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 90
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd82a71ac0932390800000000000000
+      internalID: -7844266928294949439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_279
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 90
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f447c84bed86e8b30800000000000000
+      internalID: 4291482800651793487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_280
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 89
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b604336fb6cf18f0800000000000000
+      internalID: -567516502719985999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_281
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 88
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17c1726d6de1afa0800000000000000
+      internalID: -5791086591762905318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_282
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 91
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71edf0619fcd46ac0800000000000000
+      internalID: -3862719618001936873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_283
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 90
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59ce52ee3da91be0800000000000000
+      internalID: -1505982114781279910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_284
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 89
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec20ffdd05ddd4c0800000000000000
+      internalID: -4261015416854270743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_285
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 90
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d9617405b58910800000000000000
+      internalID: 1839075053537974690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_286
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 89
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f370ad0a49c3e0800000000000000
+      internalID: -2033012334394085133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_287
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 90
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b711cb794ad692180800000000000000
+      internalID: -9139653415083961989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_288
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 92
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c18bbd6e3a88010800000000000000
+      internalID: 1191382313363577923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_289
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 90
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9911498eb5aa2d0800000000000000
+      internalID: -3266697525229151826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_290
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 88
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e8317394480db40800000000000000
+      internalID: 5463011797991919144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_291
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 90
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055f2a9a397dd0ce0800000000000000
+      internalID: -1437255676855126704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_292
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 20
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dbd742d0eadcbe0800000000000000
+      internalID: -1455315733100774061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_293
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bdd02b391300c30800000000000000
+      internalID: 4323510152692882274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Therion (Chapter 1)_294
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59a85372ff7babd0800000000000000
+      internalID: -2617858079091807905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 67e15b1e8ba5b53488cbd4ca1f553e46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

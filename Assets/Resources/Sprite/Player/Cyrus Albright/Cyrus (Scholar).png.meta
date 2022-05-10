@@ -1,0 +1,7128 @@
+fileFormatVersion: 2
+guid: d4e5f510d1f086a4c8208de30bf9102f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1387838114386975494
+    second: Cyrus (Scholar)_0
+  - first:
+      213: 5526256082897264056
+    second: Cyrus (Scholar)_1
+  - first:
+      213: 3475110649991109444
+    second: Cyrus (Scholar)_2
+  - first:
+      213: 2501013894121825716
+    second: Cyrus (Scholar)_3
+  - first:
+      213: 2069193326157299854
+    second: Cyrus (Scholar)_4
+  - first:
+      213: 4403134955025502231
+    second: Cyrus (Scholar)_5
+  - first:
+      213: 5046918485861795343
+    second: Cyrus (Scholar)_6
+  - first:
+      213: -5235234725471952124
+    second: Cyrus (Scholar)_7
+  - first:
+      213: 6879347657842949140
+    second: Cyrus (Scholar)_8
+  - first:
+      213: 131699210016291990
+    second: Cyrus (Scholar)_9
+  - first:
+      213: 7884139619347203674
+    second: Cyrus (Scholar)_10
+  - first:
+      213: 6297202495903596911
+    second: Cyrus (Scholar)_11
+  - first:
+      213: -2682496137875615426
+    second: Cyrus (Scholar)_12
+  - first:
+      213: 8987058049817966548
+    second: Cyrus (Scholar)_13
+  - first:
+      213: -8386297390302533005
+    second: Cyrus (Scholar)_14
+  - first:
+      213: -4798713103436266235
+    second: Cyrus (Scholar)_15
+  - first:
+      213: -8306611920002672979
+    second: Cyrus (Scholar)_16
+  - first:
+      213: 6580371720209292455
+    second: Cyrus (Scholar)_17
+  - first:
+      213: 6708037686208377584
+    second: Cyrus (Scholar)_18
+  - first:
+      213: -5962121787802936395
+    second: Cyrus (Scholar)_19
+  - first:
+      213: 3094518329659881101
+    second: Cyrus (Scholar)_20
+  - first:
+      213: 3527865990446942289
+    second: Cyrus (Scholar)_21
+  - first:
+      213: -4210701391665524171
+    second: Cyrus (Scholar)_22
+  - first:
+      213: -3874587470652996111
+    second: Cyrus (Scholar)_23
+  - first:
+      213: 6217019215348131169
+    second: Cyrus (Scholar)_24
+  - first:
+      213: 7591521606551070908
+    second: Cyrus (Scholar)_25
+  - first:
+      213: 2130777696823903394
+    second: Cyrus (Scholar)_26
+  - first:
+      213: -5865032543900693041
+    second: Cyrus (Scholar)_27
+  - first:
+      213: -5248081245147485029
+    second: Cyrus (Scholar)_28
+  - first:
+      213: -1277544995335868760
+    second: Cyrus (Scholar)_29
+  - first:
+      213: 1344668105027440014
+    second: Cyrus (Scholar)_30
+  - first:
+      213: -1142608081360519412
+    second: Cyrus (Scholar)_31
+  - first:
+      213: 6819929683395396268
+    second: Cyrus (Scholar)_32
+  - first:
+      213: 5971591189448372778
+    second: Cyrus (Scholar)_33
+  - first:
+      213: 7617537473500901258
+    second: Cyrus (Scholar)_34
+  - first:
+      213: 8422021560493704835
+    second: Cyrus (Scholar)_35
+  - first:
+      213: -1187618199165947665
+    second: Cyrus (Scholar)_36
+  - first:
+      213: 1996107767527931118
+    second: Cyrus (Scholar)_37
+  - first:
+      213: 9034813143349646403
+    second: Cyrus (Scholar)_38
+  - first:
+      213: 73951307074795465
+    second: Cyrus (Scholar)_39
+  - first:
+      213: -7752380137621559115
+    second: Cyrus (Scholar)_40
+  - first:
+      213: 7244245691628970981
+    second: Cyrus (Scholar)_41
+  - first:
+      213: 9013790948523714543
+    second: Cyrus (Scholar)_42
+  - first:
+      213: 802670961393042133
+    second: Cyrus (Scholar)_43
+  - first:
+      213: -1281782971610909132
+    second: Cyrus (Scholar)_44
+  - first:
+      213: -4702310120224366367
+    second: Cyrus (Scholar)_45
+  - first:
+      213: -4934589552710773008
+    second: Cyrus (Scholar)_46
+  - first:
+      213: -3860482731264522568
+    second: Cyrus (Scholar)_47
+  - first:
+      213: 4890376060064597158
+    second: Cyrus (Scholar)_48
+  - first:
+      213: -307249275037495487
+    second: Cyrus (Scholar)_49
+  - first:
+      213: 1807836589119280628
+    second: Cyrus (Scholar)_50
+  - first:
+      213: -1522974289309825885
+    second: Cyrus (Scholar)_51
+  - first:
+      213: 7236872135393749974
+    second: Cyrus (Scholar)_52
+  - first:
+      213: -3854647683666727503
+    second: Cyrus (Scholar)_53
+  - first:
+      213: 3264051432372866251
+    second: Cyrus (Scholar)_54
+  - first:
+      213: 327763835192614394
+    second: Cyrus (Scholar)_55
+  - first:
+      213: 1998066438081789276
+    second: Cyrus (Scholar)_56
+  - first:
+      213: 3899764042263357578
+    second: Cyrus (Scholar)_57
+  - first:
+      213: -7755653840563649687
+    second: Cyrus (Scholar)_58
+  - first:
+      213: -8685590333165816956
+    second: Cyrus (Scholar)_59
+  - first:
+      213: 739641909872077679
+    second: Cyrus (Scholar)_60
+  - first:
+      213: 5961332460670948208
+    second: Cyrus (Scholar)_61
+  - first:
+      213: 587734451702789177
+    second: Cyrus (Scholar)_62
+  - first:
+      213: 8748746674335585735
+    second: Cyrus (Scholar)_63
+  - first:
+      213: -109004931172083023
+    second: Cyrus (Scholar)_64
+  - first:
+      213: -94130929341925101
+    second: Cyrus (Scholar)_65
+  - first:
+      213: 5730327901245356124
+    second: Cyrus (Scholar)_66
+  - first:
+      213: -5060599167131340890
+    second: Cyrus (Scholar)_67
+  - first:
+      213: 5912922775963288953
+    second: Cyrus (Scholar)_68
+  - first:
+      213: 63694769243487405
+    second: Cyrus (Scholar)_69
+  - first:
+      213: 5302330067480026695
+    second: Cyrus (Scholar)_70
+  - first:
+      213: -2837929193215540926
+    second: Cyrus (Scholar)_71
+  - first:
+      213: 197436282876056976
+    second: Cyrus (Scholar)_72
+  - first:
+      213: 720153540562595138
+    second: Cyrus (Scholar)_73
+  - first:
+      213: -3333373350638781887
+    second: Cyrus (Scholar)_74
+  - first:
+      213: 8249341638655476398
+    second: Cyrus (Scholar)_75
+  - first:
+      213: 5980877535100724271
+    second: Cyrus (Scholar)_76
+  - first:
+      213: -1846915235980201466
+    second: Cyrus (Scholar)_77
+  - first:
+      213: 4599923826612981535
+    second: Cyrus (Scholar)_78
+  - first:
+      213: -6894026286897510635
+    second: Cyrus (Scholar)_79
+  - first:
+      213: -8544553652457837232
+    second: Cyrus (Scholar)_80
+  - first:
+      213: -8841475314215091556
+    second: Cyrus (Scholar)_81
+  - first:
+      213: -820446914238724933
+    second: Cyrus (Scholar)_82
+  - first:
+      213: 5608401581719508110
+    second: Cyrus (Scholar)_83
+  - first:
+      213: 2035615003581890207
+    second: Cyrus (Scholar)_84
+  - first:
+      213: -288228275291955292
+    second: Cyrus (Scholar)_85
+  - first:
+      213: 3526460388681771989
+    second: Cyrus (Scholar)_86
+  - first:
+      213: 2116322920152476175
+    second: Cyrus (Scholar)_87
+  - first:
+      213: 7637930416819768530
+    second: Cyrus (Scholar)_88
+  - first:
+      213: 5280938428825150035
+    second: Cyrus (Scholar)_89
+  - first:
+      213: 1642802530760803055
+    second: Cyrus (Scholar)_90
+  - first:
+      213: -5405157720567781479
+    second: Cyrus (Scholar)_91
+  - first:
+      213: 6478943163313748156
+    second: Cyrus (Scholar)_92
+  - first:
+      213: 4434700392286007993
+    second: Cyrus (Scholar)_93
+  - first:
+      213: -8253945948927640891
+    second: Cyrus (Scholar)_94
+  - first:
+      213: -5338506690316353709
+    second: Cyrus (Scholar)_95
+  - first:
+      213: 6242281600943935213
+    second: Cyrus (Scholar)_96
+  - first:
+      213: 5819885662048759863
+    second: Cyrus (Scholar)_97
+  - first:
+      213: 4523377983621527069
+    second: Cyrus (Scholar)_98
+  - first:
+      213: 7692089714198873652
+    second: Cyrus (Scholar)_99
+  - first:
+      213: -1073279740717972045
+    second: Cyrus (Scholar)_100
+  - first:
+      213: -1119554171694739729
+    second: Cyrus (Scholar)_101
+  - first:
+      213: 5979106970376568557
+    second: Cyrus (Scholar)_102
+  - first:
+      213: -6354881876655305024
+    second: Cyrus (Scholar)_103
+  - first:
+      213: -3358849576005207824
+    second: Cyrus (Scholar)_104
+  - first:
+      213: 2073623398465013528
+    second: Cyrus (Scholar)_105
+  - first:
+      213: -8824454559100611820
+    second: Cyrus (Scholar)_106
+  - first:
+      213: 7980174566911912259
+    second: Cyrus (Scholar)_107
+  - first:
+      213: 1986739369527612691
+    second: Cyrus (Scholar)_108
+  - first:
+      213: 7830103583850537357
+    second: Cyrus (Scholar)_109
+  - first:
+      213: -5598318813801445468
+    second: Cyrus (Scholar)_110
+  - first:
+      213: 1154242524120257660
+    second: Cyrus (Scholar)_111
+  - first:
+      213: 8270176411918026590
+    second: Cyrus (Scholar)_112
+  - first:
+      213: 4446906650401919227
+    second: Cyrus (Scholar)_113
+  - first:
+      213: -4782033227244602756
+    second: Cyrus (Scholar)_114
+  - first:
+      213: -33055050129417177
+    second: Cyrus (Scholar)_115
+  - first:
+      213: 7835583792455020247
+    second: Cyrus (Scholar)_116
+  - first:
+      213: 4570934034630256764
+    second: Cyrus (Scholar)_117
+  - first:
+      213: 3670627125113573466
+    second: Cyrus (Scholar)_118
+  - first:
+      213: -8111769422141452851
+    second: Cyrus (Scholar)_119
+  - first:
+      213: -4848907685221245242
+    second: Cyrus (Scholar)_120
+  - first:
+      213: 6467900319560820684
+    second: Cyrus (Scholar)_121
+  - first:
+      213: 6825437505040156928
+    second: Cyrus (Scholar)_122
+  - first:
+      213: 837839662557820953
+    second: Cyrus (Scholar)_123
+  - first:
+      213: -3193373133829175259
+    second: Cyrus (Scholar)_124
+  - first:
+      213: -5715130015217820551
+    second: Cyrus (Scholar)_125
+  - first:
+      213: 5712209826168345342
+    second: Cyrus (Scholar)_126
+  - first:
+      213: -624590880939441866
+    second: Cyrus (Scholar)_127
+  - first:
+      213: 2056916515122521753
+    second: Cyrus (Scholar)_128
+  - first:
+      213: 7787531871408755221
+    second: Cyrus (Scholar)_129
+  - first:
+      213: 2170799770346455961
+    second: Cyrus (Scholar)_130
+  - first:
+      213: -974131551476485896
+    second: Cyrus (Scholar)_131
+  - first:
+      213: 7858947879132088535
+    second: Cyrus (Scholar)_132
+  - first:
+      213: -2172135380987088526
+    second: Cyrus (Scholar)_133
+  - first:
+      213: 3092311178337742524
+    second: Cyrus (Scholar)_134
+  - first:
+      213: 7511042030407809899
+    second: Cyrus (Scholar)_135
+  - first:
+      213: -22621670526063564
+    second: Cyrus (Scholar)_136
+  - first:
+      213: -4955089587906199957
+    second: Cyrus (Scholar)_137
+  - first:
+      213: 1448409741698838750
+    second: Cyrus (Scholar)_138
+  - first:
+      213: -5894644015646567108
+    second: Cyrus (Scholar)_139
+  - first:
+      213: 5727140619768608662
+    second: Cyrus (Scholar)_140
+  - first:
+      213: 8593412645369696017
+    second: Cyrus (Scholar)_141
+  - first:
+      213: -8718088438858630028
+    second: Cyrus (Scholar)_142
+  - first:
+      213: -1095252186588349085
+    second: Cyrus (Scholar)_143
+  - first:
+      213: 5380967231855666285
+    second: Cyrus (Scholar)_144
+  - first:
+      213: 9110273096313908823
+    second: Cyrus (Scholar)_145
+  - first:
+      213: -9021942059742211163
+    second: Cyrus (Scholar)_146
+  - first:
+      213: -5523925493803026269
+    second: Cyrus (Scholar)_147
+  - first:
+      213: -7881394943489753053
+    second: Cyrus (Scholar)_148
+  - first:
+      213: 3530789441345681644
+    second: Cyrus (Scholar)_149
+  - first:
+      213: -5047559576762179236
+    second: Cyrus (Scholar)_150
+  - first:
+      213: -7302173706619996498
+    second: Cyrus (Scholar)_151
+  - first:
+      213: -1940499304504835575
+    second: Cyrus (Scholar)_152
+  - first:
+      213: 5275886415256288859
+    second: Cyrus (Scholar)_153
+  - first:
+      213: 5387215350376009593
+    second: Cyrus (Scholar)_154
+  - first:
+      213: -8510654631130499641
+    second: Cyrus (Scholar)_155
+  - first:
+      213: -5738060642074619860
+    second: Cyrus (Scholar)_156
+  - first:
+      213: -7927491931027237042
+    second: Cyrus (Scholar)_157
+  - first:
+      213: 8344429303647203740
+    second: Cyrus (Scholar)_158
+  - first:
+      213: -7368860829885189448
+    second: Cyrus (Scholar)_159
+  - first:
+      213: 482329002087810156
+    second: Cyrus (Scholar)_160
+  - first:
+      213: -852179642600314972
+    second: Cyrus (Scholar)_161
+  - first:
+      213: 6717910786841778808
+    second: Cyrus (Scholar)_162
+  - first:
+      213: 3141486178851610870
+    second: Cyrus (Scholar)_163
+  - first:
+      213: -6156661796812586176
+    second: Cyrus (Scholar)_164
+  - first:
+      213: 4103897582861968662
+    second: Cyrus (Scholar)_165
+  - first:
+      213: 5528168932625623070
+    second: Cyrus (Scholar)_166
+  - first:
+      213: -4749456296603563229
+    second: Cyrus (Scholar)_167
+  - first:
+      213: 1095232104205361872
+    second: Cyrus (Scholar)_168
+  - first:
+      213: -2759860883056114254
+    second: Cyrus (Scholar)_169
+  - first:
+      213: -2069406940941599805
+    second: Cyrus (Scholar)_170
+  - first:
+      213: -6823093467502607304
+    second: Cyrus (Scholar)_171
+  - first:
+      213: -86923126383949613
+    second: Cyrus (Scholar)_172
+  - first:
+      213: 146632284489739856
+    second: Cyrus (Scholar)_173
+  - first:
+      213: 8887022352138355813
+    second: Cyrus (Scholar)_174
+  - first:
+      213: 2233872770604076510
+    second: Cyrus (Scholar)_175
+  - first:
+      213: 2657001298750494801
+    second: Cyrus (Scholar)_176
+  - first:
+      213: -1726625675332187214
+    second: Cyrus (Scholar)_177
+  - first:
+      213: 581290760843433487
+    second: Cyrus (Scholar)_178
+  - first:
+      213: -1442376706907330495
+    second: Cyrus (Scholar)_179
+  - first:
+      213: 8610950157912149018
+    second: Cyrus (Scholar)_180
+  - first:
+      213: -8912743474897601151
+    second: Cyrus (Scholar)_181
+  - first:
+      213: 5598369623881966902
+    second: Cyrus (Scholar)_182
+  - first:
+      213: -5020470538945879230
+    second: Cyrus (Scholar)_183
+  - first:
+      213: -6148171073540999058
+    second: Cyrus (Scholar)_184
+  - first:
+      213: -2185734955079148447
+    second: Cyrus (Scholar)_185
+  - first:
+      213: 806440246352174586
+    second: Cyrus (Scholar)_186
+  - first:
+      213: -8450152568055679208
+    second: Cyrus (Scholar)_187
+  - first:
+      213: -674443072647452669
+    second: Cyrus (Scholar)_188
+  - first:
+      213: 8545006287524451718
+    second: Cyrus (Scholar)_189
+  - first:
+      213: -4468933697358582911
+    second: Cyrus (Scholar)_190
+  - first:
+      213: -4010850933975883125
+    second: Cyrus (Scholar)_191
+  - first:
+      213: -6760812782646005045
+    second: Cyrus (Scholar)_192
+  - first:
+      213: 3202815672623982243
+    second: Cyrus (Scholar)_193
+  - first:
+      213: -5584268191290522465
+    second: Cyrus (Scholar)_194
+  - first:
+      213: -5718328856371538545
+    second: Cyrus (Scholar)_195
+  - first:
+      213: 4572524395694735512
+    second: Cyrus (Scholar)_196
+  - first:
+      213: 7622488995143168204
+    second: Cyrus (Scholar)_197
+  - first:
+      213: 3257709222796603284
+    second: Cyrus (Scholar)_198
+  - first:
+      213: 330544358838926270
+    second: Cyrus (Scholar)_199
+  - first:
+      213: 6845646345896752693
+    second: Cyrus (Scholar)_200
+  - first:
+      213: -6728532112495353749
+    second: Cyrus (Scholar)_201
+  - first:
+      213: 9020280688804135255
+    second: Cyrus (Scholar)_202
+  - first:
+      213: -7986611231392109582
+    second: Cyrus (Scholar)_203
+  - first:
+      213: 1504901153140629502
+    second: Cyrus (Scholar)_204
+  - first:
+      213: -8943236517977483978
+    second: Cyrus (Scholar)_205
+  - first:
+      213: 4024622233807240453
+    second: Cyrus (Scholar)_206
+  - first:
+      213: 8917319392008484942
+    second: Cyrus (Scholar)_207
+  - first:
+      213: -1558074426785240534
+    second: Cyrus (Scholar)_208
+  - first:
+      213: 7793472121573598529
+    second: Cyrus (Scholar)_209
+  - first:
+      213: -461274111472345946
+    second: Cyrus (Scholar)_210
+  - first:
+      213: 4169804532116489912
+    second: Cyrus (Scholar)_211
+  - first:
+      213: -5948472566131168295
+    second: Cyrus (Scholar)_212
+  - first:
+      213: -4777280964030303020
+    second: Cyrus (Scholar)_213
+  - first:
+      213: 576861324564084455
+    second: Cyrus (Scholar)_214
+  - first:
+      213: 7024210906588695583
+    second: Cyrus (Scholar)_215
+  - first:
+      213: 8694149975841699135
+    second: Cyrus (Scholar)_216
+  - first:
+      213: 6978635209230746962
+    second: Cyrus (Scholar)_217
+  - first:
+      213: -8818046772689662853
+    second: Cyrus (Scholar)_218
+  - first:
+      213: 3381243212131970297
+    second: Cyrus (Scholar)_219
+  - first:
+      213: -6148004361396935415
+    second: Cyrus (Scholar)_220
+  - first:
+      213: -6083121467570164041
+    second: Cyrus (Scholar)_221
+  - first:
+      213: -234201948385986112
+    second: Cyrus (Scholar)_222
+  - first:
+      213: -476560581532870667
+    second: Cyrus (Scholar)_223
+  - first:
+      213: 5977442890171944092
+    second: Cyrus (Scholar)_224
+  - first:
+      213: -1361070550636194082
+    second: Cyrus (Scholar)_225
+  - first:
+      213: 3471532451298517215
+    second: Cyrus (Scholar)_226
+  - first:
+      213: -3926434310922353309
+    second: Cyrus (Scholar)_227
+  - first:
+      213: -58694074736284733
+    second: Cyrus (Scholar)_228
+  - first:
+      213: -5923915353820431925
+    second: Cyrus (Scholar)_229
+  - first:
+      213: -6933424698317026015
+    second: Cyrus (Scholar)_230
+  - first:
+      213: -5461537507640702527
+    second: Cyrus (Scholar)_231
+  - first:
+      213: -3303609237655938957
+    second: Cyrus (Scholar)_232
+  - first:
+      213: 3323365874250837347
+    second: Cyrus (Scholar)_233
+  - first:
+      213: 8240966782682604223
+    second: Cyrus (Scholar)_234
+  - first:
+      213: 2392370948444015560
+    second: Cyrus (Scholar)_235
+  - first:
+      213: 2971874567502593107
+    second: Cyrus (Scholar)_236
+  - first:
+      213: -3023335250190719725
+    second: Cyrus (Scholar)_237
+  - first:
+      213: 7137095654570385570
+    second: Cyrus (Scholar)_238
+  - first:
+      213: -3058166263521970724
+    second: Cyrus (Scholar)_239
+  - first:
+      213: 702404077643627316
+    second: Cyrus (Scholar)_240
+  - first:
+      213: -5187926411168221278
+    second: Cyrus (Scholar)_241
+  - first:
+      213: 7560792407546114076
+    second: Cyrus (Scholar)_242
+  - first:
+      213: -8577595590667408643
+    second: Cyrus (Scholar)_243
+  - first:
+      213: 9149999844068970660
+    second: Cyrus (Scholar)_244
+  - first:
+      213: -6567468869755879454
+    second: Cyrus (Scholar)_245
+  - first:
+      213: -1092516962301120838
+    second: Cyrus (Scholar)_246
+  - first:
+      213: -9050834052468115839
+    second: Cyrus (Scholar)_247
+  - first:
+      213: 935420427588498050
+    second: Cyrus (Scholar)_248
+  - first:
+      213: 5397967750557587004
+    second: Cyrus (Scholar)_249
+  - first:
+      213: -8252390974596887461
+    second: Cyrus (Scholar)_250
+  - first:
+      213: -5739748512233209850
+    second: Cyrus (Scholar)_251
+  - first:
+      213: -5705351366459947851
+    second: Cyrus (Scholar)_252
+  - first:
+      213: 7277199667439224474
+    second: Cyrus (Scholar)_253
+  - first:
+      213: 7816631206252145286
+    second: Cyrus (Scholar)_254
+  - first:
+      213: -3679776778744588512
+    second: Cyrus (Scholar)_255
+  - first:
+      213: 8386822060331366139
+    second: Cyrus (Scholar)_256
+  - first:
+      213: -8261447943914821937
+    second: Cyrus (Scholar)_257
+  - first:
+      213: -4997774334335535943
+    second: Cyrus (Scholar)_258
+  - first:
+      213: 7486042977845010717
+    second: Cyrus (Scholar)_259
+  - first:
+      213: -308377340519623625
+    second: Cyrus (Scholar)_260
+  - first:
+      213: -24107791969088180
+    second: Cyrus (Scholar)_261
+  - first:
+      213: 890093316377585355
+    second: Cyrus (Scholar)_262
+  - first:
+      213: -8508892676975354726
+    second: Cyrus (Scholar)_263
+  - first:
+      213: 5037248400847394104
+    second: Cyrus (Scholar)_264
+  - first:
+      213: -95396062459572012
+    second: Cyrus (Scholar)_265
+  - first:
+      213: 8194065019373826593
+    second: Cyrus (Scholar)_266
+  - first:
+      213: 46147540973823321
+    second: Cyrus (Scholar)_267
+  - first:
+      213: -1448674033074156408
+    second: Cyrus (Scholar)_268
+  - first:
+      213: -8643856500332321245
+    second: Cyrus (Scholar)_269
+  - first:
+      213: 6697209481908229980
+    second: Cyrus (Scholar)_270
+  - first:
+      213: 6488534335874404062
+    second: Cyrus (Scholar)_271
+  - first:
+      213: 4900359517981503238
+    second: Cyrus (Scholar)_272
+  - first:
+      213: -4118707356050899932
+    second: Cyrus (Scholar)_273
+  - first:
+      213: 2549229637273317434
+    second: Cyrus (Scholar)_274
+  - first:
+      213: -6075403659070852504
+    second: Cyrus (Scholar)_275
+  - first:
+      213: 6392697799870612819
+    second: Cyrus (Scholar)_276
+  - first:
+      213: 7219749460204927781
+    second: Cyrus (Scholar)_277
+  - first:
+      213: -6279894349484217604
+    second: Cyrus (Scholar)_278
+  - first:
+      213: 4481307738268630394
+    second: Cyrus (Scholar)_279
+  - first:
+      213: 1550510378288077404
+    second: Cyrus (Scholar)_280
+  - first:
+      213: 2822426092524063400
+    second: Cyrus (Scholar)_281
+  - first:
+      213: 8594062869440758433
+    second: Cyrus (Scholar)_282
+  - first:
+      213: 8894896503150694837
+    second: Cyrus (Scholar)_283
+  - first:
+      213: 4719949890356672008
+    second: Cyrus (Scholar)_284
+  - first:
+      213: 1204080567937011130
+    second: Cyrus (Scholar)_285
+  - first:
+      213: 5386495837163540195
+    second: Cyrus (Scholar)_286
+  - first:
+      213: 6576672523698768169
+    second: Cyrus (Scholar)_287
+  - first:
+      213: -569315081491175514
+    second: Cyrus (Scholar)_288
+  - first:
+      213: -8189079867426592439
+    second: Cyrus (Scholar)_289
+  - first:
+      213: 5351843881176556064
+    second: Cyrus (Scholar)_290
+  - first:
+      213: -8652082345498701967
+    second: Cyrus (Scholar)_291
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 950
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4673a86986dbce0800000000000000
+      internalID: -1387838114386975494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 951
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bddee6c0a431bc40800000000000000
+      internalID: 5526256082897264056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 951
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b95e769b21a3030800000000000000
+      internalID: 3475110649991109444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 952
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5a271c2e265b220800000000000000
+      internalID: 2501013894121825716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 952
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e800739fd5047bc10800000000000000
+      internalID: 2069193326157299854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 951
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710966ca9e31b1d30800000000000000
+      internalID: 4403134955025502231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_6
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 952
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0605288f914a0640800000000000000
+      internalID: 5046918485861795343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 953
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403647031c5b857b0800000000000000
+      internalID: -5235234725471952124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 958
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cf4281f3a587f50800000000000000
+      internalID: 6879347657842949140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_9
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 958
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c7836dbb3e3d100800000000000000
+      internalID: 131699210016291990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_10
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 961
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5606ca36371a6d60800000000000000
+      internalID: 7884139619347203674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_11
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 960
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6189075e48246750800000000000000
+      internalID: 6297202495903596911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 961
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31119e99fbd5cad0800000000000000
+      internalID: -2682496137875615426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_13
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 960
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7f63b4ea178bc70800000000000000
+      internalID: 8987058049817966548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 955
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a6b3eb4f2ed9b80800000000000000
+      internalID: -8386297390302533005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_15
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 951
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5054baa6bdb876db0800000000000000
+      internalID: -4798713103436266235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_16
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 954
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da61735187cf8bc80800000000000000
+      internalID: -8306611920002672979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 958
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acd919173d225b50800000000000000
+      internalID: 6580371720209292455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_18
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 960
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f232622cbcb71d50800000000000000
+      internalID: 6708037686208377584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_19
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 961
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb936a92d9424da0800000000000000
+      internalID: -5962121787802936395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 890
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ff4e7600f1fa20800000000000000
+      internalID: 3094518329659881101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 890
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15885c74d6f75f030800000000000000
+      internalID: 3527865990446942289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 886
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532988eb4659095c0800000000000000
+      internalID: -4210701391665524171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 884
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f58c805933ba3ac0800000000000000
+      internalID: -3874587470652996111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 884
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656a94890a474650800000000000000
+      internalID: 6217019215348131169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 884
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8ed27fda08a5960800000000000000
+      internalID: 7591521606551070908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_26
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 895
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a48382a60b029d10800000000000000
+      internalID: 2130777696823903394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 895
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd81b0c9f73b9ea0800000000000000
+      internalID: -5865032543900693041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_28
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 895
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c289eb9e11b27b0800000000000000
+      internalID: -5248081245147485029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 896
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae6d60789f354ee0800000000000000
+      internalID: -1277544995335868760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_30
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 896
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d45f4648839a210800000000000000
+      internalID: 1344668105027440014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_31
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 896
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff309f004a420f0800000000000000
+      internalID: -1142608081360519412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_32
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 880
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2ccebd9e145ae50800000000000000
+      internalID: 6819929683395396268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_33
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 880
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a223ce64c8a5fd250800000000000000
+      internalID: 5971591189448372778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_34
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 894
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f6f3309fde6b960800000000000000
+      internalID: 7617537473500901258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_35
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 893
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38688ebccf701e470800000000000000
+      internalID: 8422021560493704835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_36
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 892
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0bce54a8bb48fe0800000000000000
+      internalID: -1187618199165947665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_37
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 890
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec76e0507993bb10800000000000000
+      internalID: 1996107767527931118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_38
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 894
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344d2657faa126d70800000000000000
+      internalID: 9034813143349646403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_39
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 894
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c77edc625ab60100800000000000000
+      internalID: 73951307074795465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_40
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 892
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e545b6530a6490800000000000000
+      internalID: -7752380137621559115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_41
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 892
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3e23b231bb88460800000000000000
+      internalID: 7244245691628970981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 814
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7236e4c1b671d70800000000000000
+      internalID: 9013790948523714543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_43
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 814
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d28a559cf8a32b00800000000000000
+      internalID: 802670961393042133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_44
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 808
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436bcf1bd21363ee0800000000000000
+      internalID: -1281782971610909132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_45
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 808
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e06d4c0cd90ebeb0800000000000000
+      internalID: -4702310120224366367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_46
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 808
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6125642f0d48bb0800000000000000
+      internalID: -4934589552710773008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_47
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 806
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c27dd86fcc6ac0800000000000000
+      internalID: -3860482731264522568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 808
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a48936cd1b1ed340800000000000000
+      internalID: 4890376060064597158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_49
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 808
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fc4e7896e6cbbf0800000000000000
+      internalID: -307249275037495487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_50
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 808
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5986aacc9b61910800000000000000
+      internalID: 1807836589119280628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_51
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 808
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a482a3f3fe4ddae0800000000000000
+      internalID: -1522974289309825885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_52
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 848
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db21135dd88e6460800000000000000
+      internalID: 7236872135393749974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 848
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd23c0ca5a818ac0800000000000000
+      internalID: -3854647683666727503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_54
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 810
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc803beb7d3c4d20800000000000000
+      internalID: 3264051432372866251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_55
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 810
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd10e6b8737c8400800000000000000
+      internalID: 327763835192614394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 811
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dbe77d6de8abb10800000000000000
+      internalID: 1998066438081789276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_57
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 812
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88e2fe0cbebe1630800000000000000
+      internalID: 3899764042263357578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_58
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 811
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9634f485ce16e5490800000000000000
+      internalID: -7755653840563649687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_59
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 812
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b5173c95967780800000000000000
+      internalID: -8685590333165816956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_60
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 810
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6baae2f56cb34a00800000000000000
+      internalID: 739641909872077679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_61
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 811
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0731c4ad948eab250800000000000000
+      internalID: 5961332460670948208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_62
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 808
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934f000be5d082800800000000000000
+      internalID: 587734451702789177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_63
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 734
+        width: 45
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c517a95fbac96970800000000000000
+      internalID: 8748746674335585735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_64
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 735
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bad8b6b79cbc7ef0800000000000000
+      internalID: -109004931172083023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_65
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 745
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31972322b6491bef0800000000000000
+      internalID: -94130929341925101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_66
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 746
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c583d389dd6368f40800000000000000
+      internalID: 5730327901245356124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_67
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 735
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afaf74aed325c9b0800000000000000
+      internalID: -5060599167131340890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_68
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 736
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975cb9dcfebee0250800000000000000
+      internalID: 5912922775963288953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_69
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 734
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacfece1e0a42e000800000000000000
+      internalID: 63694769243487405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_70
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 735
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e150a7a19a59940800000000000000
+      internalID: 5302330067480026695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_71
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 735
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414dac4f66ad98d0800000000000000
+      internalID: -2837929193215540926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_72
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 736
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d992d04f6db200800000000000000
+      internalID: 197436282876056976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_73
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 735
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d29f064df7ef900800000000000000
+      internalID: 720153540562595138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_74
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 736
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14afb6b399a7db1d0800000000000000
+      internalID: -3333373350638781887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_75
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 735
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea206e2738c8b7270800000000000000
+      internalID: 8249341638655476398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_76
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 735
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24eacc1e68500350800000000000000
+      internalID: 5980877535100724271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_77
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 735
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602b425d0607e56e0800000000000000
+      internalID: -1846915235980201466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_78
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 735
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f4f1f495636df30800000000000000
+      internalID: 4599923826612981535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_79
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 735
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517c4414e9f7350a0800000000000000
+      internalID: -6894026286897510635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_80
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 736
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05debfc59b5ab6980800000000000000
+      internalID: -8544553652457837232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_81
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 734
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9203ddbb05cc4580800000000000000
+      internalID: -8841475314215091556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_82
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 735
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb44cbfd0ef2d94f0800000000000000
+      internalID: -820446914238724933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_83
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 736
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e845124268b05dd40800000000000000
+      internalID: 5608401581719508110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_84
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 736
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e34f38f05ff3c10800000000000000
+      internalID: 2035615003581890207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 664
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afdff429e1000cf0800000000000000
+      internalID: -288228275291955292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_86
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 664
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbecdd1a0180f030800000000000000
+      internalID: 3526460388681771989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_87
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 664
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa4bdab70be5d10800000000000000
+      internalID: 2116322920152476175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_88
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 664
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc81b12f316ff960800000000000000
+      internalID: 7637930416819768530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 662
+        width: 32
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35225da7589a94940800000000000000
+      internalID: 5280938428825150035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_90
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 666
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe24c12a2386cc610800000000000000
+      internalID: 1642802530760803055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 666
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e89ed0b50df4b0800000000000000
+      internalID: -5405157720567781479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_92
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 664
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f249ea74d9e950800000000000000
+      internalID: 6478943163313748156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_93
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 666
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b23e7fb2883b8d30800000000000000
+      internalID: 4434700392286007993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_94
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 664
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab4e604e7147d80800000000000000
+      internalID: -8253945948927640891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_95
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 664
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fb5a42370d9e5b0800000000000000
+      internalID: -5338506690316353709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_96
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 664
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee48340b0a01a650800000000000000
+      internalID: 6242281600943935213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_97
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 664
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7303ecfac2364c050800000000000000
+      internalID: 5819885662048759863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_98
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 664
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16759a6f4446ce30800000000000000
+      internalID: 4523377983621527069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_99
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 662
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436824337dacfba60800000000000000
+      internalID: 7692089714198873652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_100
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 664
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5c1e523c1fa11f0800000000000000
+      internalID: -1073279740717972045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_101
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 664
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee0459996b8670f0800000000000000
+      internalID: -1119554171694739729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_102
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 664
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee7b536c1e0af250800000000000000
+      internalID: 5979106970376568557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_103
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 664
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce84605a9ceec7a0800000000000000
+      internalID: -6354881876655305024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_104
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 702
+        width: 70
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8fc384b18f261d0800000000000000
+      internalID: -3358849576005207824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_105
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 702
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817027f8e7df6cc10800000000000000
+      internalID: 2073623398465013528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_106
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 662
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4135b3c155d398580800000000000000
+      internalID: -8824454559100611820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_107
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 592
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3492462ec764fbe60800000000000000
+      internalID: 7980174566911912259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_108
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 592
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151afd2ee0529b10800000000000000
+      internalID: 1986739369527612691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_109
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 594
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81aced49bd1aac60800000000000000
+      internalID: 7830103583850537357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_110
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 594
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a78af333b6ce42b0800000000000000
+      internalID: -5598318813801445468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_111
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 594
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7496d2d571b40010800000000000000
+      internalID: 1154242524120257660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_112
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 590
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57403e11a195c270800000000000000
+      internalID: 8270176411918026590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_113
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 591
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0578ea90696bd30800000000000000
+      internalID: 4446906650401919227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_114
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 592
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a78f9bd1ec2adb0800000000000000
+      internalID: -4782033227244602756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_115
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 591
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cd0076b909a8ff0800000000000000
+      internalID: -33055050129417177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_116
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 591
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dee61dc1f59dbc60800000000000000
+      internalID: 7835583792455020247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_117
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 591
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7821e169483f6f30800000000000000
+      internalID: 4570934034630256764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_118
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 591
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50de472cefa0f230800000000000000
+      internalID: 3670627125113573466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_119
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 591
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd026540b43d6f80800000000000000
+      internalID: -8111769422141452851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_120
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 591
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ced9b1a62835bcb0800000000000000
+      internalID: -4848907685221245242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_121
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 591
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7ee0e721992c950800000000000000
+      internalID: 6467900319560820684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_122
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 591
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0090c848f33d8be50800000000000000
+      internalID: 6825437505040156928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_123
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 590
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918fd79ebba90ab00800000000000000
+      internalID: 837839662557820953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_124
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 589
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52806d2dd0cdea3d0800000000000000
+      internalID: -3193373133829175259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_125
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 591
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cd4cdf787cfa0b0800000000000000
+      internalID: -5715130015217820551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_126
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 592
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef292438298d54f40800000000000000
+      internalID: 5712209826168345342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_127
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 592
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63108ab27e10557f0800000000000000
+      internalID: -624590880939441866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_128
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 592
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99623882ca2ab8c10800000000000000
+      internalID: 2056916515122521753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_129
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 592
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5121a581afed21c60800000000000000
+      internalID: 7787531871408755221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_130
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 598
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9930006c3ea302e10800000000000000
+      internalID: 2170799770346455961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_131
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 523
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07ebdd3803b72f0800000000000000
+      internalID: -974131551476485896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_132
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 520
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d84af32577901d60800000000000000
+      internalID: 7858947879132088535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_133
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 525
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271f43421660bd1e0800000000000000
+      internalID: -2172135380987088526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_134
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 524
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe6ac702a81aea20800000000000000
+      internalID: 3092311178337742524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_135
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 519
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b7c737ee49c3860800000000000000
+      internalID: 7511042030407809899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_136
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 525
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6114e5b1afaff0800000000000000
+      internalID: -22621670526063564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_137
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 522
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e3d92e54cfb3bb0800000000000000
+      internalID: -4955089587906199957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_138
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 520
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0bc2f6cf8c91410800000000000000
+      internalID: 1448409741698838750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_139
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 524
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35110abf74023ea0800000000000000
+      internalID: -5894644015646567108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_140
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 524
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b40ccc04ea7f40800000000000000
+      internalID: 5727140619768608662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_141
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 518
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f4c97654fe14770800000000000000
+      internalID: 8593412645369696017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_142
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 526
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c346951c0230780800000000000000
+      internalID: -8718088438858630028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_143
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 524
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d7eee60f1ecc0f0800000000000000
+      internalID: -1095252186588349085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_144
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 521
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6426c210390daa40800000000000000
+      internalID: 5380967231855666285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_145
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 524
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ea690ec113e6e70800000000000000
+      internalID: 9110273096313908823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_146
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 525
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3d8e83f7f9bc280800000000000000
+      internalID: -9021942059742211163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_147
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 521
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a87528c7031753b0800000000000000
+      internalID: -5523925493803026269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_148
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 524
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320cbba6e09af9290800000000000000
+      internalID: -7881394943489753053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_149
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 524
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8fb1c3a42eff030800000000000000
+      internalID: 3530789441345681644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_150
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 521
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51287cde4773f9b0800000000000000
+      internalID: -5047559576762179236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_151
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 526
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6b7b0d3b779aa90800000000000000
+      internalID: -7302173706619996498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_152
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 526
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902c81ce926f115e0800000000000000
+      internalID: -1940499304504835575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_153
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 521
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ef8a8edb6b73940800000000000000
+      internalID: 5275886415256288859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_154
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 518
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f81b781db33ca40800000000000000
+      internalID: 5387215350376009593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_155
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 520
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5fe6154b414e980800000000000000
+      internalID: -8510654631130499641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_156
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 518
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c201e716f305e50b0800000000000000
+      internalID: -5738060642074619860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_157
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 448
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4798532714ebf190800000000000000
+      internalID: -7927491931027237042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_158
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 446
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c917041bd3e5dc370800000000000000
+      internalID: 8344429303647203740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_159
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 444
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2376bfd1c8cb990800000000000000
+      internalID: -7368860829885189448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_160
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 443
+        width: 52
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6400520ca391b600800000000000000
+      internalID: 482329002087810156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_161
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 446
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a72dfd41237c24f0800000000000000
+      internalID: -852179642600314972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_162
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 444
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a18728440da3d50800000000000000
+      internalID: 6717910786841778808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_163
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 447
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0ef3d090dc89b20800000000000000
+      internalID: 3141486178851610870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_164
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 446
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04384c617b42f8aa0800000000000000
+      internalID: -6156661796812586176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_165
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 445
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6156215bb19f3f830800000000000000
+      internalID: 4103897582861968662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_166
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 443
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18208fca5008bc40800000000000000
+      internalID: 5528168932625623070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 445
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bc3b479aa861eb0800000000000000
+      internalID: -4749456296603563229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_168
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 444
+        width: 43
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2a3c5cbcb033f00800000000000000
+      internalID: 1095232104205361872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_169
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 447
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c1f3362103b9d0800000000000000
+      internalID: -2759860883056114254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_170
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 447
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbb275f95df743e0800000000000000
+      internalID: -2069406940941599805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_171
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 446
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834083044a08f41a0800000000000000
+      internalID: -6823093467502607304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_172
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 444
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d84e1980ef2bcef0800000000000000
+      internalID: -86923126383949613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_173
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 445
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e6d9d2941f80200800000000000000
+      internalID: 146632284489739856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_174
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 444
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564c92a6ebb055b70800000000000000
+      internalID: 8887022352138355813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_175
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 448
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd0645037f400f10800000000000000
+      internalID: 2233872770604076510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_176
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 446
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15856c39a909fd420800000000000000
+      internalID: 2657001298750494801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_177
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb81c9a81bc908e0800000000000000
+      internalID: -1726625675332187214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_178
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 376
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f061a4ffdd8211800800000000000000
+      internalID: 581290760843433487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_179
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 372
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148ad70f606abfbe0800000000000000
+      internalID: -1442376706907330495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_180
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 368
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c82fcbb8d308770800000000000000
+      internalID: 8610950157912149018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_181
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 375
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d3c8408039f4480800000000000000
+      internalID: -8912743474897601151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_182
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 372
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63562d0f28761bd40800000000000000
+      internalID: 5598369623881966902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_183
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 370
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24321d8f4a4b35ab0800000000000000
+      internalID: -5020470538945879230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_184
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 375
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68b147abfe4daaa0800000000000000
+      internalID: -6148171073540999058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_185
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 374
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c5a5d83a5baa1e0800000000000000
+      internalID: -2185734955079148447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_186
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 367
+        width: 35
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd5660a12d013b00800000000000000
+      internalID: 806440246352174586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_187
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 376
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817bf2b92070bba80800000000000000
+      internalID: -8450152568055679208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_188
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 374
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30820a94995e3a6f0800000000000000
+      internalID: -674443072647452669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_189
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 370
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685df53f1f5f59670800000000000000
+      internalID: 8545006287524451718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_190
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 374
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b2b2cca782bf1c0800000000000000
+      internalID: -4468933697358582911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_191
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 375
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e25173589658c0800000000000000
+      internalID: -4010850933975883125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_192
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 371
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2f6713894cc22a0800000000000000
+      internalID: -6760812782646005045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_193
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 375
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a66ecf82efa27c20800000000000000
+      internalID: 3202815672623982243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_194
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 374
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f948d9faaa1b082b0800000000000000
+      internalID: -5584268191290522465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_195
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 371
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85db1fb33a64a0b0800000000000000
+      internalID: -5718328856371538545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_196
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 376
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890413c26bed47f30800000000000000
+      internalID: 4572524395694735512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_197
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 375
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc035dbfa5588c960800000000000000
+      internalID: 7622488995143168204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_198
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 371
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f2e4e2745b53d20800000000000000
+      internalID: 3257709222796603284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_199
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 375
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb7a13d754569400800000000000000
+      internalID: 330544358838926270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_200
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 374
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5367021f41f900f50800000000000000
+      internalID: 6845646345896752693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_201
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 371
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60e7e661b37f92a0800000000000000
+      internalID: -6728532112495353749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_202
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 370
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7518c76be797e2d70800000000000000
+      internalID: 9020280688804135255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_203
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 298
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb6ab1666bd92190800000000000000
+      internalID: -7986611231392109582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_204
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 296
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effd50f10ab72e410800000000000000
+      internalID: 1504901153140629502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_205
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 300
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63596ab25cd33e380800000000000000
+      internalID: -8943236517977483978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_206
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 298
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d383929945ad730800000000000000
+      internalID: 4024622233807240453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_207
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 296
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483e55bdbea0cb70800000000000000
+      internalID: 8917319392008484942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_208
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 296
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a68d9509b906ae0800000000000000
+      internalID: -1558074426785240534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_209
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 296
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145ed4d5a99f72c60800000000000000
+      internalID: 7793472121573598529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_210
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 295
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac5b99b3a93999f0800000000000000
+      internalID: -461274111472345946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_211
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 299
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b60e9f112f1ed930800000000000000
+      internalID: 4169804532116489912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_212
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 299
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db689ba7b7c27da0800000000000000
+      internalID: -5948472566131168295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_213
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 298
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4fcba3640b3bdb0800000000000000
+      internalID: -4777280964030303020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_214
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 294
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6bd4f715c610800800000000000000
+      internalID: 576861324564084455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_215
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 297
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cc4aa8a920b7160800000000000000
+      internalID: 7024210906588695583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_216
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 295
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35f306e653d7a870800000000000000
+      internalID: 8694149975841699135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_217
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 299
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2558b379fb719d060800000000000000
+      internalID: 6978635209230746962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_218
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 299
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c8d052e2100a580800000000000000
+      internalID: -8818046772689662853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_219
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 298
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fca35e69c69cee20800000000000000
+      internalID: 3381243212131970297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_220
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 296
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90522695b96edaaa0800000000000000
+      internalID: -6148004361396935415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_221
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 298
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6de74149649ba0800000000000000
+      internalID: -6083121467570164041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_222
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 295
+        width: 43
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9bfbc9192ffbcf0800000000000000
+      internalID: -234201948385986112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_223
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 300
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f797cf0daae269f0800000000000000
+      internalID: -476560581532870667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_224
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c02e583a424f250800000000000000
+      internalID: 5977442890171944092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_225
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 222
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69513ab818c1de0800000000000000
+      internalID: -1361070550636194082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_226
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0a3e91f5c5d2030800000000000000
+      internalID: 3471532451298517215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_227
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 224
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365419f1cc08289c0800000000000000
+      internalID: -3926434310922353309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_228
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 222
+        width: 36
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb6ceccc0a7f2ff0800000000000000
+      internalID: -58694074736284733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_229
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 224
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9fc083f560acda0800000000000000
+      internalID: -5923915353820431925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_230
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 223
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12dc4e3c8f687cf90800000000000000
+      internalID: -6933424698317026015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_231
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c98a91c298b434b0800000000000000
+      internalID: -5461537507640702527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_232
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 222
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37891d0d6e83722d0800000000000000
+      internalID: -3303609237655938957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_233
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 222
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d606997a7fe1e20800000000000000
+      internalID: 3323365874250837347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_234
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 222
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2279750abcd5270800000000000000
+      internalID: 8240966782682604223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_235
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 224
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb48f8c3b8633120800000000000000
+      internalID: 2392370948444015560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_236
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 224
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c72096c283e3920800000000000000
+      internalID: 2971874567502593107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_237
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 224
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152777bb94fa06d0800000000000000
+      internalID: -3023335250190719725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_238
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 224
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0e6a21fae0c0360800000000000000
+      internalID: 7137095654570385570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_239
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 224
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd570b67cf53f85d0800000000000000
+      internalID: -3058166263521970724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_240
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 222
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bfbb089c07fb900800000000000000
+      internalID: 702404077643627316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_241
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 224
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a773757a68c008b0800000000000000
+      internalID: -5187926411168221278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_242
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 222
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10b148c2a45de860800000000000000
+      internalID: 7560792407546114076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_243
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 224
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfaef4f914246f880800000000000000
+      internalID: -8577595590667408643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_244
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 224
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a05c9021645bfe70800000000000000
+      internalID: 9149999844068970660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_245
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 224
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efb3c0ebd9abd4a0800000000000000
+      internalID: -6567468869755879454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_246
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 223
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abee3f67c9996d0f0800000000000000
+      internalID: -1092516962301120838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_247
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 222
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186f0a5f16af46280800000000000000
+      internalID: -9050834052468115839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_248
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 224
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2827e0e3ce74bfc00800000000000000
+      internalID: 935420427588498050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_249
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 224
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36dff8c11f69ea40800000000000000
+      internalID: 5397967750557587004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_250
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 152
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c4383b12e997d80800000000000000
+      internalID: -8252390974596887461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_251
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 152
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600434c73215850b0800000000000000
+      internalID: -5739748512233209850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_252
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 152
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b48d53192582d0b0800000000000000
+      internalID: -5705351366459947851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_253
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 151
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a964e419a8ecdf460800000000000000
+      internalID: 7277199667439224474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_254
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 152
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a64e4faa04a7c60800000000000000
+      internalID: 7816631206252145286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_255
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 151
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027923a148eceecc0800000000000000
+      internalID: -3679776778744588512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_256
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 152
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f5748a3af36470800000000000000
+      internalID: 8386822060331366139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_257
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 153
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc66394bdd0795d80800000000000000
+      internalID: -8261447943914821937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_258
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 152
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4bd56e8b654aab0800000000000000
+      internalID: -4997774334335535943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_259
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 152
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1162c3fc64c3e760800000000000000
+      internalID: 7486042977845010717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_260
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 154
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7345c81517c68bbf0800000000000000
+      internalID: -308377340519623625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_261
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 152
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d0d57471a5aaff0800000000000000
+      internalID: -24107791969088180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_262
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 150
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6a2a3c72f3a5c00800000000000000
+      internalID: 890093316377585355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_263
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 152
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c16fc31375ae980800000000000000
+      internalID: -8508892676975354726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_264
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 152
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835d9e96bb6e7e540800000000000000
+      internalID: 5037248400847394104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_265
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 152
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0502069c51daef0800000000000000
+      internalID: -95396062459572012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_266
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 154
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1223b3a98ba27b170800000000000000
+      internalID: 8194065019373826593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_267
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 150
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955a00ba1f2f3a000800000000000000
+      internalID: 46147540973823321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_268
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 152
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c484f64a645ebe0800000000000000
+      internalID: -1448674033074156408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_269
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 152
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ad306f4ada0880800000000000000
+      internalID: -8643856500332321245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_270
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 151
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57948b5a8441fc50800000000000000
+      internalID: 6697209481908229980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_271
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 152
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede08bac997eb0a50800000000000000
+      internalID: 6488534335874404062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_272
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 152
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fedf4b403910440800000000000000
+      internalID: 4900359517981503238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_273
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 151
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c3cc44b7967d6c0800000000000000
+      internalID: -4118707356050899932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_274
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 76
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30f29449dea06320800000000000000
+      internalID: 2549229637273317434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_275
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 79
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86239f99f84dfaba0800000000000000
+      internalID: -6075403659070852504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_276
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 72
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35585bd67cc67b850800000000000000
+      internalID: 6392697799870612819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_277
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 84
+        width: 87
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b35d6d1e3b13460800000000000000
+      internalID: 7219749460204927781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_278
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 88
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaa2088c5559d8a0800000000000000
+      internalID: -6279894349484217604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_279
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 86
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7df5bc15adc03e30800000000000000
+      internalID: 4481307738268630394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_280
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 86
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ada6e59f4848510800000000000000
+      internalID: 1550510378288077404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_281
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 84
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aac0b9c3954b2720800000000000000
+      internalID: 2822426092524063400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_282
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 80
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2046e75ae344770800000000000000
+      internalID: 8594062869440758433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_283
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 78
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b159201e35017b70800000000000000
+      internalID: 8894896503150694837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_284
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 79
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067a5cfa61a08140800000000000000
+      internalID: 4719949890356672008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_285
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 72
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd06d4a5e0c5b010800000000000000
+      internalID: 1204080567937011130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_286
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 85
+        width: 84
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eec04ecc6da0ca40800000000000000
+      internalID: 5386495837163540195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_287
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 85
+        width: 86
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929032bc0d8054b50800000000000000
+      internalID: 6576672523698768169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_288
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 76
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7227223f26918f0800000000000000
+      internalID: -569315081491175514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_289
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10
+        width: 73
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9492cb88f3b8a5e80800000000000000
+      internalID: -8189079867426592439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_290
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02260e697a1954a40800000000000000
+      internalID: 5351843881176556064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cyrus (Scholar)_291
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f0f1d82f0ade780800000000000000
+      internalID: -8652082345498701967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

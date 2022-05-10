@@ -1,0 +1,7176 @@
+fileFormatVersion: 2
+guid: 5881e30db7b4dea4688ef6c98e19b511
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -559703076719217033
+    second: H'aanit (Hunter)_0
+  - first:
+      213: -185443433319564913
+    second: H'aanit (Hunter)_1
+  - first:
+      213: 7152167771537339729
+    second: H'aanit (Hunter)_2
+  - first:
+      213: 1757687538870675883
+    second: H'aanit (Hunter)_3
+  - first:
+      213: -822777700268489340
+    second: H'aanit (Hunter)_4
+  - first:
+      213: 5697002146822945290
+    second: H'aanit (Hunter)_5
+  - first:
+      213: 3444131235427693370
+    second: H'aanit (Hunter)_6
+  - first:
+      213: 8642600026299439926
+    second: H'aanit (Hunter)_7
+  - first:
+      213: 707076423233610583
+    second: H'aanit (Hunter)_8
+  - first:
+      213: -3412072728928855401
+    second: H'aanit (Hunter)_9
+  - first:
+      213: 2221876214060074809
+    second: H'aanit (Hunter)_10
+  - first:
+      213: -1996133992471223602
+    second: H'aanit (Hunter)_11
+  - first:
+      213: -8944080577716174870
+    second: H'aanit (Hunter)_12
+  - first:
+      213: -4937771415159952777
+    second: H'aanit (Hunter)_13
+  - first:
+      213: -8510088282181269150
+    second: H'aanit (Hunter)_14
+  - first:
+      213: -1888675904453819263
+    second: H'aanit (Hunter)_15
+  - first:
+      213: 631368895683270998
+    second: H'aanit (Hunter)_16
+  - first:
+      213: 8556088620982884110
+    second: H'aanit (Hunter)_17
+  - first:
+      213: -1003832971928047324
+    second: H'aanit (Hunter)_18
+  - first:
+      213: -1512719972361249788
+    second: H'aanit (Hunter)_19
+  - first:
+      213: -3314083784688706954
+    second: H'aanit (Hunter)_20
+  - first:
+      213: 4234299415660234362
+    second: H'aanit (Hunter)_21
+  - first:
+      213: 4217486986959262812
+    second: H'aanit (Hunter)_22
+  - first:
+      213: 4141016284568590733
+    second: H'aanit (Hunter)_23
+  - first:
+      213: 1311376994213110360
+    second: H'aanit (Hunter)_24
+  - first:
+      213: 2556891099768528263
+    second: H'aanit (Hunter)_25
+  - first:
+      213: -7269222382006081148
+    second: H'aanit (Hunter)_26
+  - first:
+      213: -1662446753579999072
+    second: H'aanit (Hunter)_27
+  - first:
+      213: -1214215376086620017
+    second: H'aanit (Hunter)_28
+  - first:
+      213: 5297957662764255053
+    second: H'aanit (Hunter)_29
+  - first:
+      213: 5274308507120425345
+    second: H'aanit (Hunter)_30
+  - first:
+      213: 2809609479561151115
+    second: H'aanit (Hunter)_31
+  - first:
+      213: -6895439341420135708
+    second: H'aanit (Hunter)_32
+  - first:
+      213: 7247991625361311118
+    second: H'aanit (Hunter)_33
+  - first:
+      213: 5988892901702162139
+    second: H'aanit (Hunter)_34
+  - first:
+      213: 3889996579535496740
+    second: H'aanit (Hunter)_35
+  - first:
+      213: -7429768287226940344
+    second: H'aanit (Hunter)_36
+  - first:
+      213: 6838923361059718107
+    second: H'aanit (Hunter)_37
+  - first:
+      213: -7923877928281644060
+    second: H'aanit (Hunter)_38
+  - first:
+      213: -7617274042522122117
+    second: H'aanit (Hunter)_39
+  - first:
+      213: 3702536056204633025
+    second: H'aanit (Hunter)_40
+  - first:
+      213: 4367030050625896493
+    second: H'aanit (Hunter)_41
+  - first:
+      213: -8048931966006026774
+    second: H'aanit (Hunter)_42
+  - first:
+      213: 4971218982366941430
+    second: H'aanit (Hunter)_43
+  - first:
+      213: -4453583349963775525
+    second: H'aanit (Hunter)_44
+  - first:
+      213: -1717348437986689000
+    second: H'aanit (Hunter)_45
+  - first:
+      213: -1588055151659801025
+    second: H'aanit (Hunter)_46
+  - first:
+      213: -6371873746035406438
+    second: H'aanit (Hunter)_47
+  - first:
+      213: -4252153501304457757
+    second: H'aanit (Hunter)_48
+  - first:
+      213: 8040794517144404483
+    second: H'aanit (Hunter)_49
+  - first:
+      213: -8504228897051766201
+    second: H'aanit (Hunter)_50
+  - first:
+      213: -8752055527147875483
+    second: H'aanit (Hunter)_51
+  - first:
+      213: -6921493391557870456
+    second: H'aanit (Hunter)_52
+  - first:
+      213: -5609602498198419015
+    second: H'aanit (Hunter)_53
+  - first:
+      213: -4629326526439697092
+    second: H'aanit (Hunter)_54
+  - first:
+      213: -6318115465475740611
+    second: H'aanit (Hunter)_55
+  - first:
+      213: -3491142718374300176
+    second: H'aanit (Hunter)_56
+  - first:
+      213: 7546271001997159526
+    second: H'aanit (Hunter)_57
+  - first:
+      213: -6777208146591242419
+    second: H'aanit (Hunter)_58
+  - first:
+      213: 3478827189053556201
+    second: H'aanit (Hunter)_59
+  - first:
+      213: -7825834215219402443
+    second: H'aanit (Hunter)_60
+  - first:
+      213: 4379548439262709588
+    second: H'aanit (Hunter)_61
+  - first:
+      213: 711410592652103428
+    second: H'aanit (Hunter)_62
+  - first:
+      213: -7974408698967964991
+    second: H'aanit (Hunter)_63
+  - first:
+      213: 3786785268931367900
+    second: H'aanit (Hunter)_64
+  - first:
+      213: 7394307868511025473
+    second: H'aanit (Hunter)_65
+  - first:
+      213: 6627121129625936690
+    second: H'aanit (Hunter)_66
+  - first:
+      213: 2969058043689860319
+    second: H'aanit (Hunter)_67
+  - first:
+      213: -8905682873785322108
+    second: H'aanit (Hunter)_68
+  - first:
+      213: 2419944921657908880
+    second: H'aanit (Hunter)_69
+  - first:
+      213: 8789068015365687037
+    second: H'aanit (Hunter)_70
+  - first:
+      213: -277078454136796295
+    second: H'aanit (Hunter)_71
+  - first:
+      213: 4363777886248819046
+    second: H'aanit (Hunter)_72
+  - first:
+      213: -8709547832757664653
+    second: H'aanit (Hunter)_73
+  - first:
+      213: 8345246076162792522
+    second: H'aanit (Hunter)_74
+  - first:
+      213: 4309446989366376536
+    second: H'aanit (Hunter)_75
+  - first:
+      213: -1538111847918863294
+    second: H'aanit (Hunter)_76
+  - first:
+      213: -8656313594626163051
+    second: H'aanit (Hunter)_77
+  - first:
+      213: 5455881271012822264
+    second: H'aanit (Hunter)_78
+  - first:
+      213: -4236205533971805530
+    second: H'aanit (Hunter)_79
+  - first:
+      213: -7326930697715324624
+    second: H'aanit (Hunter)_80
+  - first:
+      213: 4237326239647101648
+    second: H'aanit (Hunter)_81
+  - first:
+      213: 7225945171740450736
+    second: H'aanit (Hunter)_82
+  - first:
+      213: 3702188544486219954
+    second: H'aanit (Hunter)_83
+  - first:
+      213: -4913309810110259253
+    second: H'aanit (Hunter)_84
+  - first:
+      213: 341957870173215893
+    second: H'aanit (Hunter)_85
+  - first:
+      213: -2187791737804120239
+    second: H'aanit (Hunter)_86
+  - first:
+      213: -8086018741501008208
+    second: H'aanit (Hunter)_87
+  - first:
+      213: -292343041814404764
+    second: H'aanit (Hunter)_88
+  - first:
+      213: -2793346896497284124
+    second: H'aanit (Hunter)_89
+  - first:
+      213: -2842208382994284220
+    second: H'aanit (Hunter)_90
+  - first:
+      213: 5686802350825172550
+    second: H'aanit (Hunter)_91
+  - first:
+      213: 6107887425339646478
+    second: H'aanit (Hunter)_92
+  - first:
+      213: 6894972099551325992
+    second: H'aanit (Hunter)_93
+  - first:
+      213: 7257028201967747497
+    second: H'aanit (Hunter)_94
+  - first:
+      213: -8372649710420568986
+    second: H'aanit (Hunter)_95
+  - first:
+      213: -7012235359939690404
+    second: H'aanit (Hunter)_96
+  - first:
+      213: 1411145901952864210
+    second: H'aanit (Hunter)_97
+  - first:
+      213: -7346399781435243363
+    second: H'aanit (Hunter)_98
+  - first:
+      213: -3833226430615857860
+    second: H'aanit (Hunter)_99
+  - first:
+      213: 4234272950591458811
+    second: H'aanit (Hunter)_100
+  - first:
+      213: 4791502074687733314
+    second: H'aanit (Hunter)_101
+  - first:
+      213: -4980889572692279730
+    second: H'aanit (Hunter)_102
+  - first:
+      213: 4519727210260941590
+    second: H'aanit (Hunter)_103
+  - first:
+      213: 3555668455286481856
+    second: H'aanit (Hunter)_104
+  - first:
+      213: 4398924546608595477
+    second: H'aanit (Hunter)_105
+  - first:
+      213: 642445784548135559
+    second: H'aanit (Hunter)_106
+  - first:
+      213: -933329211133770817
+    second: H'aanit (Hunter)_107
+  - first:
+      213: 4416088148884014026
+    second: H'aanit (Hunter)_108
+  - first:
+      213: -3885041916467605831
+    second: H'aanit (Hunter)_109
+  - first:
+      213: -1229202608658758154
+    second: H'aanit (Hunter)_110
+  - first:
+      213: 3390087198706623523
+    second: H'aanit (Hunter)_111
+  - first:
+      213: -2076997259854566982
+    second: H'aanit (Hunter)_112
+  - first:
+      213: -4767999149861663778
+    second: H'aanit (Hunter)_113
+  - first:
+      213: 6394981650666981202
+    second: H'aanit (Hunter)_114
+  - first:
+      213: 2673510763872043828
+    second: H'aanit (Hunter)_115
+  - first:
+      213: 3201353180859104997
+    second: H'aanit (Hunter)_116
+  - first:
+      213: -2522670135179149490
+    second: H'aanit (Hunter)_117
+  - first:
+      213: -3240597913671754534
+    second: H'aanit (Hunter)_118
+  - first:
+      213: -418337610031285698
+    second: H'aanit (Hunter)_119
+  - first:
+      213: -2546503099679441344
+    second: H'aanit (Hunter)_120
+  - first:
+      213: -2353155434146254936
+    second: H'aanit (Hunter)_121
+  - first:
+      213: 8842664957343873956
+    second: H'aanit (Hunter)_122
+  - first:
+      213: -3055523055635552875
+    second: H'aanit (Hunter)_123
+  - first:
+      213: 3447272461183139613
+    second: H'aanit (Hunter)_124
+  - first:
+      213: 422880145537548404
+    second: H'aanit (Hunter)_125
+  - first:
+      213: 1297284591799310073
+    second: H'aanit (Hunter)_126
+  - first:
+      213: -9184142350080336962
+    second: H'aanit (Hunter)_127
+  - first:
+      213: -1301407994473877367
+    second: H'aanit (Hunter)_128
+  - first:
+      213: 2183499167587712671
+    second: H'aanit (Hunter)_129
+  - first:
+      213: -9000588000031628385
+    second: H'aanit (Hunter)_130
+  - first:
+      213: -4755538406173488023
+    second: H'aanit (Hunter)_131
+  - first:
+      213: 9167761240930562929
+    second: H'aanit (Hunter)_132
+  - first:
+      213: 858533064189724409
+    second: H'aanit (Hunter)_133
+  - first:
+      213: -8026857401903807204
+    second: H'aanit (Hunter)_134
+  - first:
+      213: 2410162356178375067
+    second: H'aanit (Hunter)_135
+  - first:
+      213: 8359716874418005611
+    second: H'aanit (Hunter)_136
+  - first:
+      213: 8095287830653356968
+    second: H'aanit (Hunter)_137
+  - first:
+      213: -8421675271463410763
+    second: H'aanit (Hunter)_138
+  - first:
+      213: 5214918172358662307
+    second: H'aanit (Hunter)_139
+  - first:
+      213: 6183583845951410811
+    second: H'aanit (Hunter)_140
+  - first:
+      213: -364751283805683035
+    second: H'aanit (Hunter)_141
+  - first:
+      213: 5636006739267713231
+    second: H'aanit (Hunter)_142
+  - first:
+      213: 2527878700734237197
+    second: H'aanit (Hunter)_143
+  - first:
+      213: -7550003453597330601
+    second: H'aanit (Hunter)_144
+  - first:
+      213: 967681004319187452
+    second: H'aanit (Hunter)_145
+  - first:
+      213: -8690714336897900493
+    second: H'aanit (Hunter)_146
+  - first:
+      213: -2439348673235504056
+    second: H'aanit (Hunter)_147
+  - first:
+      213: 8070747371902403382
+    second: H'aanit (Hunter)_148
+  - first:
+      213: 309831688104696979
+    second: H'aanit (Hunter)_149
+  - first:
+      213: -2658984958861142941
+    second: H'aanit (Hunter)_150
+  - first:
+      213: 8717276670757951565
+    second: H'aanit (Hunter)_151
+  - first:
+      213: -4566472544852483163
+    second: H'aanit (Hunter)_152
+  - first:
+      213: -3427846262708291825
+    second: H'aanit (Hunter)_153
+  - first:
+      213: -4021721293773742358
+    second: H'aanit (Hunter)_154
+  - first:
+      213: 9017067262593330428
+    second: H'aanit (Hunter)_155
+  - first:
+      213: 7434166018177162997
+    second: H'aanit (Hunter)_156
+  - first:
+      213: 8657804773064881673
+    second: H'aanit (Hunter)_157
+  - first:
+      213: 8419466494725300044
+    second: H'aanit (Hunter)_158
+  - first:
+      213: -6064021357789200
+    second: H'aanit (Hunter)_159
+  - first:
+      213: 8533930641534197000
+    second: H'aanit (Hunter)_160
+  - first:
+      213: -492732106693787114
+    second: H'aanit (Hunter)_161
+  - first:
+      213: 3097778449020773190
+    second: H'aanit (Hunter)_162
+  - first:
+      213: 4202493267894921555
+    second: H'aanit (Hunter)_163
+  - first:
+      213: -6150961112854606357
+    second: H'aanit (Hunter)_164
+  - first:
+      213: -7131627621603649882
+    second: H'aanit (Hunter)_165
+  - first:
+      213: -4512067967248198005
+    second: H'aanit (Hunter)_166
+  - first:
+      213: 40692045751784831
+    second: H'aanit (Hunter)_167
+  - first:
+      213: -3103331445473878729
+    second: H'aanit (Hunter)_168
+  - first:
+      213: -8662434618360786925
+    second: H'aanit (Hunter)_169
+  - first:
+      213: -1083782519733521716
+    second: H'aanit (Hunter)_170
+  - first:
+      213: -8206585927152766694
+    second: H'aanit (Hunter)_171
+  - first:
+      213: 3610796831194859379
+    second: H'aanit (Hunter)_172
+  - first:
+      213: -6879569005870783209
+    second: H'aanit (Hunter)_173
+  - first:
+      213: -8087400237693774450
+    second: H'aanit (Hunter)_174
+  - first:
+      213: -7468935065358770696
+    second: H'aanit (Hunter)_175
+  - first:
+      213: 7751016726154293935
+    second: H'aanit (Hunter)_176
+  - first:
+      213: -655390054063938167
+    second: H'aanit (Hunter)_177
+  - first:
+      213: 2888605812338481491
+    second: H'aanit (Hunter)_178
+  - first:
+      213: 1019682372390175709
+    second: H'aanit (Hunter)_179
+  - first:
+      213: 3071357131951825371
+    second: H'aanit (Hunter)_180
+  - first:
+      213: 1777843848261868055
+    second: H'aanit (Hunter)_181
+  - first:
+      213: -3774840911747582853
+    second: H'aanit (Hunter)_182
+  - first:
+      213: -3142930897505556850
+    second: H'aanit (Hunter)_183
+  - first:
+      213: 1099319333508764927
+    second: H'aanit (Hunter)_184
+  - first:
+      213: 2586257419039525360
+    second: H'aanit (Hunter)_185
+  - first:
+      213: -6950493271696065899
+    second: H'aanit (Hunter)_186
+  - first:
+      213: -5027407952487782895
+    second: H'aanit (Hunter)_187
+  - first:
+      213: -8686515465318570384
+    second: H'aanit (Hunter)_188
+  - first:
+      213: 5712862980499271934
+    second: H'aanit (Hunter)_189
+  - first:
+      213: -1746306544018626646
+    second: H'aanit (Hunter)_190
+  - first:
+      213: 3269928185478193565
+    second: H'aanit (Hunter)_191
+  - first:
+      213: -8676203100993701258
+    second: H'aanit (Hunter)_192
+  - first:
+      213: -5934211088237777919
+    second: H'aanit (Hunter)_193
+  - first:
+      213: 4825568974406524703
+    second: H'aanit (Hunter)_194
+  - first:
+      213: 4512467084174646898
+    second: H'aanit (Hunter)_195
+  - first:
+      213: -2672393525164179029
+    second: H'aanit (Hunter)_196
+  - first:
+      213: -8491144913550328872
+    second: H'aanit (Hunter)_197
+  - first:
+      213: -7868489339001018405
+    second: H'aanit (Hunter)_198
+  - first:
+      213: 4129984617703171747
+    second: H'aanit (Hunter)_199
+  - first:
+      213: 3370423519504870907
+    second: H'aanit (Hunter)_200
+  - first:
+      213: 7287866017523522700
+    second: H'aanit (Hunter)_201
+  - first:
+      213: -7254067412866369687
+    second: H'aanit (Hunter)_202
+  - first:
+      213: -3783712999098447087
+    second: H'aanit (Hunter)_203
+  - first:
+      213: -454278151371795033
+    second: H'aanit (Hunter)_204
+  - first:
+      213: 5698324750644077819
+    second: H'aanit (Hunter)_205
+  - first:
+      213: -9168383453982772006
+    second: H'aanit (Hunter)_206
+  - first:
+      213: -1450125609532615815
+    second: H'aanit (Hunter)_207
+  - first:
+      213: 5649210350662276337
+    second: H'aanit (Hunter)_208
+  - first:
+      213: 1976613321060946898
+    second: H'aanit (Hunter)_209
+  - first:
+      213: -198409531822083194
+    second: H'aanit (Hunter)_210
+  - first:
+      213: 8588106209459578397
+    second: H'aanit (Hunter)_211
+  - first:
+      213: 4237998879713559108
+    second: H'aanit (Hunter)_212
+  - first:
+      213: 2904064565048874707
+    second: H'aanit (Hunter)_213
+  - first:
+      213: 2940736207122013527
+    second: H'aanit (Hunter)_214
+  - first:
+      213: -1265818358828271456
+    second: H'aanit (Hunter)_215
+  - first:
+      213: 6533459547362679174
+    second: H'aanit (Hunter)_216
+  - first:
+      213: -8202029211609173470
+    second: H'aanit (Hunter)_217
+  - first:
+      213: -4610812837245919676
+    second: H'aanit (Hunter)_218
+  - first:
+      213: -1676758302384408048
+    second: H'aanit (Hunter)_219
+  - first:
+      213: 2430740912488955939
+    second: H'aanit (Hunter)_220
+  - first:
+      213: -3114515641159281852
+    second: H'aanit (Hunter)_221
+  - first:
+      213: 5606945031028306722
+    second: H'aanit (Hunter)_222
+  - first:
+      213: -7853228710202143438
+    second: H'aanit (Hunter)_223
+  - first:
+      213: 8067825298457969944
+    second: H'aanit (Hunter)_224
+  - first:
+      213: -1810232191713619207
+    second: H'aanit (Hunter)_225
+  - first:
+      213: 958929865427752376
+    second: H'aanit (Hunter)_226
+  - first:
+      213: -114282650419007365
+    second: H'aanit (Hunter)_227
+  - first:
+      213: -4164917774186859402
+    second: H'aanit (Hunter)_228
+  - first:
+      213: -7621719447297280950
+    second: H'aanit (Hunter)_229
+  - first:
+      213: -3784674880460246714
+    second: H'aanit (Hunter)_230
+  - first:
+      213: 394025338382433547
+    second: H'aanit (Hunter)_231
+  - first:
+      213: 744660505506891264
+    second: H'aanit (Hunter)_232
+  - first:
+      213: -6188289275727886664
+    second: H'aanit (Hunter)_233
+  - first:
+      213: 6917022644357273457
+    second: H'aanit (Hunter)_234
+  - first:
+      213: 5432431075713358101
+    second: H'aanit (Hunter)_235
+  - first:
+      213: 2635530057797977816
+    second: H'aanit (Hunter)_236
+  - first:
+      213: 7607992676540879477
+    second: H'aanit (Hunter)_237
+  - first:
+      213: 7373792862899470689
+    second: H'aanit (Hunter)_238
+  - first:
+      213: 2958550885930162603
+    second: H'aanit (Hunter)_239
+  - first:
+      213: 8843260350894304724
+    second: H'aanit (Hunter)_240
+  - first:
+      213: 5706799525623102163
+    second: H'aanit (Hunter)_241
+  - first:
+      213: 4711398608614068706
+    second: H'aanit (Hunter)_242
+  - first:
+      213: 7446775247279086214
+    second: H'aanit (Hunter)_243
+  - first:
+      213: -7349562677043611881
+    second: H'aanit (Hunter)_244
+  - first:
+      213: -5400155453634130731
+    second: H'aanit (Hunter)_245
+  - first:
+      213: 8350824171213416879
+    second: H'aanit (Hunter)_246
+  - first:
+      213: -237958138213998600
+    second: H'aanit (Hunter)_247
+  - first:
+      213: 2142157077080175298
+    second: H'aanit (Hunter)_248
+  - first:
+      213: 2501739788688143459
+    second: H'aanit (Hunter)_249
+  - first:
+      213: -6097709996294752305
+    second: H'aanit (Hunter)_250
+  - first:
+      213: 6190278645462763980
+    second: H'aanit (Hunter)_251
+  - first:
+      213: 6860040750051771736
+    second: H'aanit (Hunter)_252
+  - first:
+      213: -5482204488713907801
+    second: H'aanit (Hunter)_253
+  - first:
+      213: -1890567421167724010
+    second: H'aanit (Hunter)_254
+  - first:
+      213: -1417408801816716983
+    second: H'aanit (Hunter)_255
+  - first:
+      213: 9216281597771699197
+    second: H'aanit (Hunter)_256
+  - first:
+      213: -9124296644047813208
+    second: H'aanit (Hunter)_257
+  - first:
+      213: -4950058671128899022
+    second: H'aanit (Hunter)_258
+  - first:
+      213: -1196678757421250501
+    second: H'aanit (Hunter)_259
+  - first:
+      213: -5455887270480940942
+    second: H'aanit (Hunter)_260
+  - first:
+      213: 7864472164177586074
+    second: H'aanit (Hunter)_261
+  - first:
+      213: 4442544183325241602
+    second: H'aanit (Hunter)_262
+  - first:
+      213: -5684008513974062340
+    second: H'aanit (Hunter)_263
+  - first:
+      213: 4454431101270943208
+    second: H'aanit (Hunter)_264
+  - first:
+      213: 138644934251606305
+    second: H'aanit (Hunter)_265
+  - first:
+      213: 3827107745067979496
+    second: H'aanit (Hunter)_266
+  - first:
+      213: 2415325680287526008
+    second: H'aanit (Hunter)_267
+  - first:
+      213: 1021510896189232747
+    second: H'aanit (Hunter)_268
+  - first:
+      213: -6679352811439559832
+    second: H'aanit (Hunter)_269
+  - first:
+      213: 1456819660354770107
+    second: H'aanit (Hunter)_270
+  - first:
+      213: -3832271433041173740
+    second: H'aanit (Hunter)_271
+  - first:
+      213: 2038133639506478574
+    second: H'aanit (Hunter)_272
+  - first:
+      213: 7529933957962335461
+    second: H'aanit (Hunter)_273
+  - first:
+      213: 5624559135658083963
+    second: H'aanit (Hunter)_274
+  - first:
+      213: -3020490037985482342
+    second: H'aanit (Hunter)_275
+  - first:
+      213: -6193871828882618804
+    second: H'aanit (Hunter)_276
+  - first:
+      213: -9036663482922652440
+    second: H'aanit (Hunter)_277
+  - first:
+      213: 164934589093266928
+    second: H'aanit (Hunter)_278
+  - first:
+      213: 1373797293524857212
+    second: H'aanit (Hunter)_279
+  - first:
+      213: 8255258800642786204
+    second: H'aanit (Hunter)_280
+  - first:
+      213: 1467236000868375351
+    second: H'aanit (Hunter)_281
+  - first:
+      213: -5173938971311603276
+    second: H'aanit (Hunter)_282
+  - first:
+      213: 2193296670580774889
+    second: H'aanit (Hunter)_283
+  - first:
+      213: 2573604827952170012
+    second: H'aanit (Hunter)_284
+  - first:
+      213: -7246440051436508091
+    second: H'aanit (Hunter)_285
+  - first:
+      213: 2716333448761766110
+    second: H'aanit (Hunter)_286
+  - first:
+      213: 8267825441623436225
+    second: H'aanit (Hunter)_287
+  - first:
+      213: 3521928908838748683
+    second: H'aanit (Hunter)_288
+  - first:
+      213: 6232390388939340318
+    second: H'aanit (Hunter)_289
+  - first:
+      213: -4543656504901835088
+    second: H'aanit (Hunter)_290
+  - first:
+      213: 2437231667176880930
+    second: H'aanit (Hunter)_291
+  - first:
+      213: -5298930657406174287
+    second: H'aanit (Hunter)_292
+  - first:
+      213: -5613518113584152788
+    second: H'aanit (Hunter)_293
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 954
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776357464098b38f0800000000000000
+      internalID: -559703076719217033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 954
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89fe0f0e2c2d6df0800000000000000
+      internalID: -185443433319564913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 952
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155fa74c1ba914360800000000000000
+      internalID: 7152167771537339729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 959
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba96484018f846810800000000000000
+      internalID: 1757687538870675883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 960
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48542667a08e494f0800000000000000
+      internalID: -822777700268489340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 954
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0af40eb441df0f40800000000000000
+      internalID: 5697002146822945290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 952
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33be7f5c130ccf20800000000000000
+      internalID: 3444131235427693370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_7
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 954
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b1c57feeea0f770800000000000000
+      internalID: 8642600026299439926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 958
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753a4ebb24a00d900800000000000000
+      internalID: 707076423233610583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_9
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 958
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ad5645ee1e5a0d0800000000000000
+      internalID: -3412072728928855401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_10
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 953
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937c0f905a0b5de10800000000000000
+      internalID: 2221876214060074809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_11
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 956
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2aba6b5be4c44e0800000000000000
+      internalID: -1996133992471223602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 962
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefb1c23a1e30e380800000000000000
+      internalID: -8944080577716174870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_13
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 961
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a20513f03897bb0800000000000000
+      internalID: -4937771415159952777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_14
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 964
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2690f55bbc716e980800000000000000
+      internalID: -8510088282181269150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 964
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184c03385431ac5e0800000000000000
+      internalID: -1888675904453819263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_16
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 962
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6599e6d5aa213c800800000000000000
+      internalID: 631368895683270998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_17
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 958
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e075278c4455db670800000000000000
+      internalID: 8556088620982884110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 952
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42177660b3ba112f0800000000000000
+      internalID: -1003832971928047324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_19
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 955
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cd4ca233db10be0800000000000000
+      internalID: -1512719972361249788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_20
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 962
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a5fb94b520202d0800000000000000
+      internalID: -3314083784688706954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_21
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 962
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76821f52e043ca30800000000000000
+      internalID: 4234299415660234362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_22
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 964
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c541a86c116878a30800000000000000
+      internalID: 4217486986959262812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 894
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8991daee58d77930800000000000000
+      internalID: 4141016284568590733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 891
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85221b2ad62f23210800000000000000
+      internalID: 1311376994213110360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 887
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d9f0388e6eb7320800000000000000
+      internalID: 2556891099768528263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_26
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 888
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489653fe1c88e1b90800000000000000
+      internalID: -7269222382006081148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_27
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 888
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0ecd25c7dcde8e0800000000000000
+      internalID: -1662446753579999072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 900
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f882a837c8d362fe0800000000000000
+      internalID: -1214215376086620017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 899
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474f1cac60268940800000000000000
+      internalID: 5297957662764255053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 900
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189dbba84ab123940800000000000000
+      internalID: 5274308507120425345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_31
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 900
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8200da8fecbdf620800000000000000
+      internalID: 2809609479561151115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_32
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 900
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea366cd37a7e40a0800000000000000
+      internalID: -6895439341420135708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 900
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85caa45bf9069460800000000000000
+      internalID: 7247991625361311118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_34
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 884
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6d0d31d52dc1350800000000000000
+      internalID: 5988892901702162139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_35
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 884
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426a2bc674b0cf530800000000000000
+      internalID: 3889996579535496740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_36
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 898
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844306c7b1924e890800000000000000
+      internalID: -7429768287226940344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 898
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c51e009cb8ee50800000000000000
+      internalID: 6838923361059718107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_38
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 894
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e3e639b10bb80290800000000000000
+      internalID: -7923877928281644060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_39
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 894
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b784aaacd910a4690800000000000000
+      internalID: -7617274042522122117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_40
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 897
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3272e1dec026330800000000000000
+      internalID: 3702536056204633025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_41
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 897
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20430b81beca9c30800000000000000
+      internalID: 4367030050625896493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_42
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 894
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed9ce0a5037c4090800000000000000
+      internalID: -8048931966006026774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_43
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 894
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f019a863515df440800000000000000
+      internalID: 4971218982366941430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_44
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 884
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1a0df0a81b132c0800000000000000
+      internalID: -4453583349963775525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_45
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 885
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8104b3ec1b0ca28e0800000000000000
+      internalID: -1717348437986689000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_46
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 887
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36a691e04816f9e0800000000000000
+      internalID: -1588055151659801025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 818
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a990ced669e8297a0800000000000000
+      internalID: -6371873746035406438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 818
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e570506be05df4c0800000000000000
+      internalID: -4252153501304457757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 818
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3020d4ae204a69f60800000000000000
+      internalID: 8040794517144404483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_50
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 814
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7421e9e10e8eaf980800000000000000
+      internalID: -8504228897051766201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_51
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 812
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5635bd15ed37a8680800000000000000
+      internalID: -8752055527147875483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 816
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cbaf89e6ae1ff90800000000000000
+      internalID: -6921493391557870456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_53
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 816
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94db3bf30b622b0800000000000000
+      internalID: -5609602498198419015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_54
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 818
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d44a2d0451cfb0800000000000000
+      internalID: -4629326526439697092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_55
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 818
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3caa6e757b8158a0800000000000000
+      internalID: -6318115465475740611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_56
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 816
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5bb1bc138fc8fc0800000000000000
+      internalID: -3491142718374300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_57
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 814
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c2fd49e7db9b860800000000000000
+      internalID: 7546271001997159526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_58
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 816
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47ab8d091582f1a0800000000000000
+      internalID: -6777208146591242419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_59
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 798
+        width: 48
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5028695e6474030800000000000000
+      internalID: 3478827189053556201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_60
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 821
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539efba8e3d056390800000000000000
+      internalID: -7825834215219402443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_61
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 824
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457ced60a1847cc30800000000000000
+      internalID: 4379548439262709588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_62
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 823
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f8a703a207fd900800000000000000
+      internalID: 711410592652103428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_63
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 822
+        width: 71
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2ca3cd985355190800000000000000
+      internalID: -7974408698967964991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_64
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 818
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3165b832d5d8430800000000000000
+      internalID: 3786785268931367900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 729
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149b97664dbdd9660800000000000000
+      internalID: 7394307868511025473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_66
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 712
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e6de2e8348fb50800000000000000
+      internalID: 6627121129625936690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 736
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc76ab5f86343920800000000000000
+      internalID: 2969058043689860319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 737
+        width: 72
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485feb15c98a86480800000000000000
+      internalID: -8905682873785322108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_69
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 738
+        width: 72
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1e67b51f559120800000000000000
+      internalID: 2419944921657908880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_70
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 736
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df68e922bca09f970800000000000000
+      internalID: 8789068015365687037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_71
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 731
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b034e2d9e972cf0800000000000000
+      internalID: -277078454136796295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_72
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 733
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669d0940ed04f8c30800000000000000
+      internalID: 4363777886248819046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_73
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 734
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374c43a2468712780800000000000000
+      internalID: -8709547832757664653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_74
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 726
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cd7ec571540d370800000000000000
+      internalID: 8345246076162792522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_75
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 726
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8583f83543b3ecb30800000000000000
+      internalID: 4309446989366376536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_76
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 728
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf9ff6c6787aae0800000000000000
+      internalID: -1538111847918863294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_77
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 726
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e3ce716a89ed780800000000000000
+      internalID: -8656313594626163051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_78
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 728
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc0d670c1f27bb40800000000000000
+      internalID: 5455881271012822264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_79
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 728
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0110e289f535c0800000000000000
+      internalID: -4236205533971805530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_80
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 730
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039e5c4a953815a90800000000000000
+      internalID: -7326930697715324624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_81
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 731
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d27b9fb3c10eca30800000000000000
+      internalID: 4237326239647101648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_82
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 729
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd90859d6b74460800000000000000
+      internalID: 7225945171740450736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 642
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b02f9dbdd0d06330800000000000000
+      internalID: 3702188544486219954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_84
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 682
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf9fe072ca60dbb0800000000000000
+      internalID: -4913309810110259253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_85
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 682
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cd2d30fd0eeb400800000000000000
+      internalID: 341957870173215893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_86
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 642
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f96a1810763a1e0800000000000000
+      internalID: -2187791737804120239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_87
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 644
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b66ea1dbc0b8cf80800000000000000
+      internalID: -8086018741501008208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 644
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46168186d8361fbf0800000000000000
+      internalID: -292343041814404764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_89
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 644
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebe6d32cc90c39d0800000000000000
+      internalID: -2793346896497284124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_90
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 644
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4410df9c8827e88d0800000000000000
+      internalID: -2842208382994284220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_91
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 646
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e6accab949bee40800000000000000
+      internalID: 5686802350825172550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 644
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02e17b904393c450800000000000000
+      internalID: 6107887425339646478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_93
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 644
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f6cf9e79cdfaf50800000000000000
+      internalID: 6894972099551325992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_94
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 642
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1874743b426b460800000000000000
+      internalID: 7257028201967747497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_95
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 642
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664da95d27f5ecb80800000000000000
+      internalID: -8372649710420568986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_96
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 642
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508c51b7198fae90800000000000000
+      internalID: -7012235359939690404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_97
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 642
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df0624a8b5659310800000000000000
+      internalID: 1411145901952864210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_98
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 641
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d948b8952585c0a90800000000000000
+      internalID: -7346399781435243363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_99
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 641
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35d083eed4adcac0800000000000000
+      internalID: -3833226430615857860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_100
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 640
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd8c0e70d823ca30800000000000000
+      internalID: 4234272950591458811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_101
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 642
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e3f4e10c5de7240800000000000000
+      internalID: 4791502074687733314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_102
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 640
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4eba32d25350eab0800000000000000
+      internalID: -4980889572692279730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_103
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 640
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b454183fb49be30800000000000000
+      internalID: 4519727210260941590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_104
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 640
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3a9601f95485130800000000000000
+      internalID: 3555668455286481856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 572
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5120a52919e1c0d30800000000000000
+      internalID: 4398924546608595477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_106
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 571
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7825077890d6ae800800000000000000
+      internalID: 642445784548135559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_107
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 571
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb340e707062c03f0800000000000000
+      internalID: -933329211133770817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_108
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 572
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac34b0326c8194d30800000000000000
+      internalID: 4416088148884014026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_109
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 572
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be0277f5fe851ac0800000000000000
+      internalID: -3885041916467605831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_110
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 571
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f549e17dbef0fee0800000000000000
+      internalID: -1229202608658758154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_111
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 572
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324e18488520c0f20800000000000000
+      internalID: 3390087198706623523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_112
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 570
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9a8ee1ff50d23e0800000000000000
+      internalID: -2076997259854566982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_113
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 570
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb812ff80aa4ddb0800000000000000
+      internalID: -4767999149861663778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_114
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 572
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2578521ede98fb850800000000000000
+      internalID: 6394981650666981202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_115
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 569
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c6c7ffd73a1520800000000000000
+      internalID: 2673510763872043828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_116
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 572
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7ca9a1cd7d6c20800000000000000
+      internalID: 3201353180859104997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_117
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 572
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ff823b0ecadfcd0800000000000000
+      internalID: -2522670135179149490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_118
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 573
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc19bfed551703d0800000000000000
+      internalID: -3240597913671754534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_119
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 573
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a36edf824c13af0800000000000000
+      internalID: -418337610031285698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_120
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 573
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04efc2c3ce009acd0800000000000000
+      internalID: -2546503099679441344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_121
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 573
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afae66a999e75fd0800000000000000
+      internalID: -2353155434146254936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_122
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 572
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abb642ade477ba70800000000000000
+      internalID: 8842664957343873956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_123
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 572
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595a3d148f99895d0800000000000000
+      internalID: -3055523055635552875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_124
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 572
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fbeccf90c27df20800000000000000
+      internalID: 3447272461183139613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_125
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 572
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470c459704f5ed500800000000000000
+      internalID: 422880145537548404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_126
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 572
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f619c28671e00210800000000000000
+      internalID: 1297284591799310073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_127
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 572
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb17d8313f5b8080800000000000000
+      internalID: -9184142350080336962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_128
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 501
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f78df25870fde0800000000000000
+      internalID: -1301407994473877367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_129
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 502
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e3d6b9ce85d4e10800000000000000
+      internalID: 2183499167587712671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_130
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 536
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93a870b6ec771380800000000000000
+      internalID: -9000588000031628385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_131
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 538
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c4d48f30fe00eb0800000000000000
+      internalID: -4755538406173488023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_132
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 500
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173b247964e6a3f70800000000000000
+      internalID: 9167761240930562929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_133
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 500
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6c4fee54f1aeb00800000000000000
+      internalID: 858533064189724409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_134
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 502
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150fc898bfda9090800000000000000
+      internalID: -8026857401903807204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_135
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 500
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91d703b4ed927120800000000000000
+      internalID: 2410162356178375067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_136
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 502
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b662682a43ea30470800000000000000
+      internalID: 8359716874418005611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_137
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 501
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abc2ac246d385070800000000000000
+      internalID: 8095287830653356968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_138
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 504
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b36bb6e5f2302b80800000000000000
+      internalID: -8421675271463410763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_139
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 504
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8da2ca27c1f5840800000000000000
+      internalID: 5214918172358662307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_140
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 503
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7217c0feb080d550800000000000000
+      internalID: 6183583845951410811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_141
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 504
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a20561d3a420faf0800000000000000
+      internalID: -364751283805683035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_142
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 502
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc872cdb44e173e40800000000000000
+      internalID: 5636006739267713231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_143
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 504
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a4a88f844d41320800000000000000
+      internalID: 2527878700734237197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_144
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 502
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753db5f4cdff83790800000000000000
+      internalID: -7550003453597330601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_145
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 500
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a6561fb4ed6d00800000000000000
+      internalID: 967681004319187452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_146
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 502
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3306ec02b51646780800000000000000
+      internalID: -8690714336897900493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_147
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 502
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8443a705e41b52ed0800000000000000
+      internalID: -2439348673235504056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_148
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 502
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633092e59fd010070800000000000000
+      internalID: 8070747371902403382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_149
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 500
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd3ad574ebc4400800000000000000
+      internalID: 309831688104696979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_150
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 431
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36499ff8443691bd0800000000000000
+      internalID: -2658984958861142941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_151
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 436
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48d35922fcf9f870800000000000000
+      internalID: 8717276670757951565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_152
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 435
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a36e772a61a0a0c0800000000000000
+      internalID: -4566472544852483163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_153
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 432
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f073f9e4cf7dd60d0800000000000000
+      internalID: -3427846262708291825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_154
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 436
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeeddf29ac9ff28c0800000000000000
+      internalID: -4021721293773742358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_155
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 436
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcedae96ee032d70800000000000000
+      internalID: 9017067262593330428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_156
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 431
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fedaba0b967b2760800000000000000
+      internalID: 7434166018177162997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_157
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 436
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906b631f193b62870800000000000000
+      internalID: 8657804773064881673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_158
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 435
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f97603b24f7d470800000000000000
+      internalID: 8419466494725300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_159
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 431
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fffe010ec47aeff0800000000000000
+      internalID: -6064021357789200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_160
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 436
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d977a24bc9e6670800000000000000
+      internalID: 8533930641534197000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_161
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 435
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612461372c67929f0800000000000000
+      internalID: -492732106693787114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_162
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 431
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6436ebe26158dfa20800000000000000
+      internalID: 3097778449020773190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_163
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 438
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359e8d38c51425a30800000000000000
+      internalID: 4202493267894921555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_164
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 436
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4f01057563aaa0800000000000000
+      internalID: -6150961112854606357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_165
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 433
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a653ff867e570d90800000000000000
+      internalID: -7131627621603649882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_166
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 436
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8690c9f61ae161c0800000000000000
+      internalID: -4512067967248198005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_167
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 438
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7518343331909000800000000000000
+      internalID: 40692045751784831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_168
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 433
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dda341e70cee4d0800000000000000
+      internalID: -3103331445473878729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_169
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 437
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3101f823c99d8c780800000000000000
+      internalID: -8662434618360786925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_170
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 438
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc271895a81a5f0f0800000000000000
+      internalID: -1083782519733521716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_171
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 432
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11f65164995c1e80800000000000000
+      internalID: -8206585927152766694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_172
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 436
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377c97f46902c1230800000000000000
+      internalID: 3610796831194859379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_173
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 438
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715e84d407cd680a0800000000000000
+      internalID: -6879569005870783209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_174
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 434
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e855adb2558c3cf80800000000000000
+      internalID: -8087400237693774450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_175
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 432
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdd4d25123095890800000000000000
+      internalID: -7468935065358770696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_176
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 360
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b98255a4219b60800000000000000
+      internalID: 7751016726154293935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_177
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 360
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985e13ed73697e6f0800000000000000
+      internalID: -655390054063938167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_178
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 362
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359509c8ea3661820800000000000000
+      internalID: 2888605812338481491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_179
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 362
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd34b0617b3a62e00800000000000000
+      internalID: 1019682372390175709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_180
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 360
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e95ce907af9a20800000000000000
+      internalID: 3071357131951825371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_181
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 362
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a13c18f8b2ca810800000000000000
+      internalID: 1777843848261868055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_182
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 362
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b747ca3d0321d9bc0800000000000000
+      internalID: -3774840911747582853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_183
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 360
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86e49c20011264d0800000000000000
+      internalID: -3142930897505556850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 362
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff452800c11914f00800000000000000
+      internalID: 1099319333508764927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_185
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 363
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9c1978b6b34e320800000000000000
+      internalID: 2586257419039525360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_186
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 361
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a30d6d133ea8f90800000000000000
+      internalID: -6950493271696065899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_187
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 362
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116edf28a1f0b3ab0800000000000000
+      internalID: -5027407952487782895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_188
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 360
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076efb9153c437780800000000000000
+      internalID: -8686515465318570384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_189
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 360
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0732bdc9a284f40800000000000000
+      internalID: 5712862980499271934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_190
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 363
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa764d6537fd3c7e0800000000000000
+      internalID: -1746306544018626646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_191
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 362
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9127702c5e116d20800000000000000
+      internalID: 3269928185478193565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_192
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 361
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ab0268f3fe79780800000000000000
+      internalID: -8676203100993701258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_193
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 362
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c276fb47275ada0800000000000000
+      internalID: -5934211088237777919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_194
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 360
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f95ae4a6dd7f240800000000000000
+      internalID: 4825568974406524703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_195
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 359
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5fdca7e08f9e30800000000000000
+      internalID: 4512467084174646898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_196
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 363
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba109807f30c9ead0800000000000000
+      internalID: -2672393525164179029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_197
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb77b60b4692a80800000000000000
+      internalID: -8491144913550328872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd765ed92a28dc290800000000000000
+      internalID: -7868489339001018405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_199
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 292
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a66602d027a05930800000000000000
+      internalID: 4129984617703171747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_200
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 291
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfda5be655626ce20800000000000000
+      internalID: 3370423519504870907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_201
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 288
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c5129b783b32560800000000000000
+      internalID: 7287866017523522700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_202
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 292
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967fc572f10645b90800000000000000
+      internalID: -7254067412866369687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_203
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 292
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b85b4031d8d7bc0800000000000000
+      internalID: -3783712999098447087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_204
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 288
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5534e9d6412b9f0800000000000000
+      internalID: -454278151371795033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_205
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 292
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4e4f07b24841f40800000000000000
+      internalID: 5698324750644077819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_206
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 291
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4b9c423db53c080800000000000000
+      internalID: -9168383453982772006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_207
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 288
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9739c14f07e10ebe0800000000000000
+      internalID: -1450125609532615815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_208
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 293
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f45fa412e6066e40800000000000000
+      internalID: 5649210350662276337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_209
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 291
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3942cc7575e6b10800000000000000
+      internalID: 1976613321060946898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_210
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 287
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68371bff49b1f3df0800000000000000
+      internalID: -198409531822083194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_211
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 294
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d162a2488151f2770800000000000000
+      internalID: 8588106209459578397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_212
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 292
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44284d7f68560da30800000000000000
+      internalID: 4237998879713559108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_213
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 289
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69984e55f4d4820800000000000000
+      internalID: 2904064565048874707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_214
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 292
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d13abeff79fc820800000000000000
+      internalID: 2940736207122013527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_215
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 294
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a87fd3c8e8ee6ee0800000000000000
+      internalID: -1265818358828271456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_216
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 290
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689dfe2b7d28baa50800000000000000
+      internalID: 6533459547362679174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_217
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 293
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22278a463e98c2e80800000000000000
+      internalID: -8202029211609173470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_218
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 294
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e5526572a1300c0800000000000000
+      internalID: -4610812837245919676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_219
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 288
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ab0343535fab8e0800000000000000
+      internalID: -1676758302384408048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_220
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 294
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320c9e53bf9bbb120800000000000000
+      internalID: 2430740912488955939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_221
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 294
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4439d49968407c4d0800000000000000
+      internalID: -3114515641159281852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_222
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 290
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22375918ccedfcd40800000000000000
+      internalID: 5606945031028306722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_223
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 217
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d8084a81ab30390800000000000000
+      internalID: -7853228710202143438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_224
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 217
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8154f702d5ca6ff60800000000000000
+      internalID: 8067825298457969944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_225
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 216
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2dee3a963c0e6e0800000000000000
+      internalID: -1810232191713619207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_226
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 219
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b59559c1adce4d00800000000000000
+      internalID: 958929865427752376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_227
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 219
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f8c1f88cf96ef0800000000000000
+      internalID: -114282650419007365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_228
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 218
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674b1eed95d3336c0800000000000000
+      internalID: -4164917774186859402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_229
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 218
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b8265b863a3690800000000000000
+      internalID: -7621719447297280950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_230
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 217
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b2df8f322a7bc0800000000000000
+      internalID: -3784674880460246714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_231
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 216
+        width: 45
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0db9c625fbd77500800000000000000
+      internalID: 394025338382433547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_232
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 219
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006400dc8c0955a00800000000000000
+      internalID: 744660505506891264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_233
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 220
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b641e0d0b7ce1aa0800000000000000
+      internalID: -6188289275727886664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_234
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 218
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1779f3472733eff50800000000000000
+      internalID: 6917022644357273457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_235
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 218
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51910b6f74fd36b40800000000000000
+      internalID: 5432431075713358101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_236
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 217
+        width: 46
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6c9e9bf98439420800000000000000
+      internalID: 2635530057797977816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_237
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 216
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5721efac705059960800000000000000
+      internalID: 7607992676540879477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_238
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 219
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1610f607a89f45660800000000000000
+      internalID: 7373792862899470689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_239
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 218
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9d8cd0b52ee0920800000000000000
+      internalID: 2958550885930162603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_240
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 216
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dde95f7f6299ba70800000000000000
+      internalID: 8843260350894304724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_241
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 218
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daf121ceef923f40800000000000000
+      internalID: 5706799525623102163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_242
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 218
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e116bd8210426140800000000000000
+      internalID: 4711398608614068706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_243
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 216
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68add38f1a2485760800000000000000
+      internalID: 7446775247279086214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_244
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717b8545fab110a90800000000000000
+      internalID: -7349562677043611881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_245
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 146
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dccf36e93bce05b0800000000000000
+      internalID: -5400155453634130731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_246
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 145
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9ebe2d65614e370800000000000000
+      internalID: 8350824171213416879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_247
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 146
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff5754855a92bcf0800000000000000
+      internalID: -237958138213998600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_248
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 144
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2f37013887abd10800000000000000
+      internalID: 2142157077080175298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_249
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 146
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364b7314517f7b220800000000000000
+      internalID: 2501739788688143459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_250
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 144
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7b08fb015906ba0800000000000000
+      internalID: -6097709996294752305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_251
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 146
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc98e7b61a948e550800000000000000
+      internalID: 6190278645462763980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_252
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 145
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8554a8357b2c33f50800000000000000
+      internalID: 6860040750051771736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_253
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 144
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1d720401c4be3b0800000000000000
+      internalID: -5482204488713907801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_254
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 144
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a1f5572fa53c5e0800000000000000
+      internalID: -1890567421167724010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_255
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 146
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949d33a543a545ce0800000000000000
+      internalID: -1417408801816716983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_256
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 146
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d621884fc6ef70800000000000000
+      internalID: 9216281597771699197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_257
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 146
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5cd3a7b8cff5180800000000000000
+      internalID: -9124296644047813208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_258
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 146
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232150a7ddbdd4bb0800000000000000
+      internalID: -4950058671128899022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_259
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 146
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3886a9a20b846fe0800000000000000
+      internalID: -1196678757421250501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_260
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 145
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270786c1f6bc844b0800000000000000
+      internalID: -5455887270480940942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_261
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 146
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a0cbf3c7342d60800000000000000
+      internalID: 7864472164177586074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_262
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 146
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201341aa56617ad30800000000000000
+      internalID: 4442544183325241602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_263
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 145
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2b7482f585e11b0800000000000000
+      internalID: -5684008513974062340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_264
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 146
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5e4bb6c7151dd30800000000000000
+      internalID: 4454431101270943208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_265
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 145
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12179f745d09ce100800000000000000
+      internalID: 138644934251606305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_266
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 146
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25ced973e9c1530800000000000000
+      internalID: 3827107745067979496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_267
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 146
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87caa66c8e5f48120800000000000000
+      internalID: 2415325680287526008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_268
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 146
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66dc857fb22d2e00800000000000000
+      internalID: 1021510896189232747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_269
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 146
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b63a8b10c2e43a0800000000000000
+      internalID: -6679352811439559832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_270
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 78
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4504533c9a73410800000000000000
+      internalID: 1456819660354770107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_271
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41324b69f6901dac0800000000000000
+      internalID: -3832271433041173740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_272
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ce832fb7e84c10800000000000000
+      internalID: 2038133639506478574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_273
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 76
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e40f7a1a03bf7860800000000000000
+      internalID: 7529933957962335461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_274
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 76
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b760413dbb27e0e40800000000000000
+      internalID: 5624559135658083963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_275
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 73
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99e44e40501516d0800000000000000
+      internalID: -3020490037985482342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_276
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 78
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46072f5362fa0aa0800000000000000
+      internalID: -6193871828882618804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_277
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 76
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eca6a9c072579280800000000000000
+      internalID: -9036663482922652440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_278
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 76
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5441a8227f94200800000000000000
+      internalID: 164934589093266928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_279
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 76
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7131f91c55b01310800000000000000
+      internalID: 1373797293524857212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_280
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 76
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c930b351422909270800000000000000
+      internalID: 8255258800642786204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_281
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 76
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b9c697e5bac5410800000000000000
+      internalID: 1467236000868375351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_282
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 78
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b10c651be97238b0800000000000000
+      internalID: -5173938971311603276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_283
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 74
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7930983b7207e10800000000000000
+      internalID: 2193296670580774889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_284
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 74
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14c15a94f747b320800000000000000
+      internalID: 2573604827952170012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_285
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 78
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ca6ff9a297f6b90800000000000000
+      internalID: -7246440051436508091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_286
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 76
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0f4f041ea52b520800000000000000
+      internalID: 2716333448761766110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_287
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 74
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbe6e03f673db270800000000000000
+      internalID: 8267825441623436225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_288
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 78
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02438fbea760e030800000000000000
+      internalID: 3521928908838748683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_289
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 76
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ab942c906ed7650800000000000000
+      internalID: 6232390388939340318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_290
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 76
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6eeeb6b70b1f0c0800000000000000
+      internalID: -4543656504901835088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_291
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 75
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b396dc949c2d120800000000000000
+      internalID: 2437231667176880930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_292
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 76
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbb0eb54aa6676b0800000000000000
+      internalID: -5298930657406174287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H'aanit (Hunter)_293
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 74
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f78937407c812b0800000000000000
+      internalID: -5613518113584152788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7a0ba2f953a5d974e978df4cfe3f8c7c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

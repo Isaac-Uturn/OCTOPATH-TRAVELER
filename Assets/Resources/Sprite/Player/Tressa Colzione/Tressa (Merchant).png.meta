@@ -1,0 +1,5808 @@
+fileFormatVersion: 2
+guid: 3f6d266eb83a9f14683c1cb974a272dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7842004943838624936
+    second: Tressa (Merchant)_0
+  - first:
+      213: 5212452322879951101
+    second: Tressa (Merchant)_1
+  - first:
+      213: -6584802499445133226
+    second: Tressa (Merchant)_2
+  - first:
+      213: 556388806709542283
+    second: Tressa (Merchant)_3
+  - first:
+      213: -6166803942830884115
+    second: Tressa (Merchant)_4
+  - first:
+      213: -4222585493940035766
+    second: Tressa (Merchant)_5
+  - first:
+      213: 9200421129025682735
+    second: Tressa (Merchant)_6
+  - first:
+      213: 4934267759873345090
+    second: Tressa (Merchant)_7
+  - first:
+      213: -7684107647701044771
+    second: Tressa (Merchant)_8
+  - first:
+      213: -7071514687606009330
+    second: Tressa (Merchant)_9
+  - first:
+      213: 7940398011554056174
+    second: Tressa (Merchant)_10
+  - first:
+      213: 8255485598146145943
+    second: Tressa (Merchant)_11
+  - first:
+      213: -5930780215822486406
+    second: Tressa (Merchant)_12
+  - first:
+      213: 9002467260262853315
+    second: Tressa (Merchant)_13
+  - first:
+      213: -2918323493998174702
+    second: Tressa (Merchant)_14
+  - first:
+      213: 3662312456410028399
+    second: Tressa (Merchant)_15
+  - first:
+      213: -1515564415812576722
+    second: Tressa (Merchant)_16
+  - first:
+      213: 1320441930947370850
+    second: Tressa (Merchant)_17
+  - first:
+      213: -8409278007260889762
+    second: Tressa (Merchant)_18
+  - first:
+      213: -7492880067317798241
+    second: Tressa (Merchant)_19
+  - first:
+      213: 1549134289166943408
+    second: Tressa (Merchant)_20
+  - first:
+      213: -5868351625050727552
+    second: Tressa (Merchant)_21
+  - first:
+      213: 5328528721848352341
+    second: Tressa (Merchant)_22
+  - first:
+      213: 5123904825701185164
+    second: Tressa (Merchant)_23
+  - first:
+      213: 7046407048438535656
+    second: Tressa (Merchant)_24
+  - first:
+      213: 7471564015592512993
+    second: Tressa (Merchant)_25
+  - first:
+      213: -3858734601429686789
+    second: Tressa (Merchant)_26
+  - first:
+      213: -4349212617361326922
+    second: Tressa (Merchant)_27
+  - first:
+      213: 9083184043239497333
+    second: Tressa (Merchant)_28
+  - first:
+      213: 1838648458981772243
+    second: Tressa (Merchant)_29
+  - first:
+      213: 451782210254774747
+    second: Tressa (Merchant)_30
+  - first:
+      213: 3376837691076472278
+    second: Tressa (Merchant)_31
+  - first:
+      213: -7476206566662511806
+    second: Tressa (Merchant)_32
+  - first:
+      213: 4032322431368353329
+    second: Tressa (Merchant)_33
+  - first:
+      213: -8240191202789341526
+    second: Tressa (Merchant)_34
+  - first:
+      213: -8633831545313955110
+    second: Tressa (Merchant)_35
+  - first:
+      213: 8208140417874009195
+    second: Tressa (Merchant)_36
+  - first:
+      213: 8160717086728021307
+    second: Tressa (Merchant)_37
+  - first:
+      213: 1580640735516366241
+    second: Tressa (Merchant)_38
+  - first:
+      213: -53890210926623433
+    second: Tressa (Merchant)_39
+  - first:
+      213: 6152403120298496003
+    second: Tressa (Merchant)_40
+  - first:
+      213: 3277694667271008652
+    second: Tressa (Merchant)_41
+  - first:
+      213: -1065446904500645862
+    second: Tressa (Merchant)_42
+  - first:
+      213: -6352566025663023212
+    second: Tressa (Merchant)_43
+  - first:
+      213: 2287835028194209267
+    second: Tressa (Merchant)_44
+  - first:
+      213: -5116496405569828107
+    second: Tressa (Merchant)_45
+  - first:
+      213: 4438104153289919500
+    second: Tressa (Merchant)_46
+  - first:
+      213: 6658283841899196124
+    second: Tressa (Merchant)_47
+  - first:
+      213: 4523882338559038370
+    second: Tressa (Merchant)_48
+  - first:
+      213: -5295726160500294026
+    second: Tressa (Merchant)_49
+  - first:
+      213: -1079038514320456627
+    second: Tressa (Merchant)_50
+  - first:
+      213: 4267092044726948121
+    second: Tressa (Merchant)_51
+  - first:
+      213: -769664723773367276
+    second: Tressa (Merchant)_52
+  - first:
+      213: -7930796453390906306
+    second: Tressa (Merchant)_53
+  - first:
+      213: 8558861533418495987
+    second: Tressa (Merchant)_54
+  - first:
+      213: -4145699471168759987
+    second: Tressa (Merchant)_55
+  - first:
+      213: -4160140359473116264
+    second: Tressa (Merchant)_56
+  - first:
+      213: -366241007335209455
+    second: Tressa (Merchant)_57
+  - first:
+      213: -523699590721217420
+    second: Tressa (Merchant)_58
+  - first:
+      213: -191160002586470178
+    second: Tressa (Merchant)_59
+  - first:
+      213: -194100485588491913
+    second: Tressa (Merchant)_60
+  - first:
+      213: 7444037527453613091
+    second: Tressa (Merchant)_61
+  - first:
+      213: 5757156040453480389
+    second: Tressa (Merchant)_62
+  - first:
+      213: -4124448381520187946
+    second: Tressa (Merchant)_63
+  - first:
+      213: 4252969885962102200
+    second: Tressa (Merchant)_64
+  - first:
+      213: -3707388978205286257
+    second: Tressa (Merchant)_65
+  - first:
+      213: -4010006396539416253
+    second: Tressa (Merchant)_66
+  - first:
+      213: 2113745228599382869
+    second: Tressa (Merchant)_67
+  - first:
+      213: -7214122416306142578
+    second: Tressa (Merchant)_68
+  - first:
+      213: -8173141218250017628
+    second: Tressa (Merchant)_69
+  - first:
+      213: 7616694650006586011
+    second: Tressa (Merchant)_70
+  - first:
+      213: -5828515444138397568
+    second: Tressa (Merchant)_71
+  - first:
+      213: -8751107606636065951
+    second: Tressa (Merchant)_72
+  - first:
+      213: 7363946448612159966
+    second: Tressa (Merchant)_73
+  - first:
+      213: 1836446307002100322
+    second: Tressa (Merchant)_74
+  - first:
+      213: -1727613428834522592
+    second: Tressa (Merchant)_75
+  - first:
+      213: -2978638316929878165
+    second: Tressa (Merchant)_76
+  - first:
+      213: -6708487989750462643
+    second: Tressa (Merchant)_77
+  - first:
+      213: -3072862423038754430
+    second: Tressa (Merchant)_78
+  - first:
+      213: -8054541909494674626
+    second: Tressa (Merchant)_79
+  - first:
+      213: -4925492254519732538
+    second: Tressa (Merchant)_80
+  - first:
+      213: 1643809416722491491
+    second: Tressa (Merchant)_81
+  - first:
+      213: -7202454038196830333
+    second: Tressa (Merchant)_82
+  - first:
+      213: -7784687930093434396
+    second: Tressa (Merchant)_83
+  - first:
+      213: 3876209406777426309
+    second: Tressa (Merchant)_84
+  - first:
+      213: -4348643824078147679
+    second: Tressa (Merchant)_85
+  - first:
+      213: -7577375379843506290
+    second: Tressa (Merchant)_86
+  - first:
+      213: -2625903140376740343
+    second: Tressa (Merchant)_87
+  - first:
+      213: -3227968444346874810
+    second: Tressa (Merchant)_88
+  - first:
+      213: 5453184891781046478
+    second: Tressa (Merchant)_89
+  - first:
+      213: -7573100386135109744
+    second: Tressa (Merchant)_90
+  - first:
+      213: 5051662698744421381
+    second: Tressa (Merchant)_91
+  - first:
+      213: 5328791781275671084
+    second: Tressa (Merchant)_92
+  - first:
+      213: 5277906309436592494
+    second: Tressa (Merchant)_93
+  - first:
+      213: -5823469220165261289
+    second: Tressa (Merchant)_94
+  - first:
+      213: -2307208583221901352
+    second: Tressa (Merchant)_95
+  - first:
+      213: -1814618474465783412
+    second: Tressa (Merchant)_96
+  - first:
+      213: -3422755252023159008
+    second: Tressa (Merchant)_97
+  - first:
+      213: -3095142720068575373
+    second: Tressa (Merchant)_98
+  - first:
+      213: -8575007323491869400
+    second: Tressa (Merchant)_99
+  - first:
+      213: 7817850627020531267
+    second: Tressa (Merchant)_100
+  - first:
+      213: 7528934312650510185
+    second: Tressa (Merchant)_101
+  - first:
+      213: 1199511487483582710
+    second: Tressa (Merchant)_102
+  - first:
+      213: 8583479718204399694
+    second: Tressa (Merchant)_103
+  - first:
+      213: 5800638243898694209
+    second: Tressa (Merchant)_104
+  - first:
+      213: 391439180391378574
+    second: Tressa (Merchant)_105
+  - first:
+      213: 6105371991750548197
+    second: Tressa (Merchant)_106
+  - first:
+      213: -2825594985000824942
+    second: Tressa (Merchant)_107
+  - first:
+      213: -3440758269820250075
+    second: Tressa (Merchant)_108
+  - first:
+      213: 7187990626647520898
+    second: Tressa (Merchant)_109
+  - first:
+      213: -2207324869524043128
+    second: Tressa (Merchant)_110
+  - first:
+      213: -1271589049597831176
+    second: Tressa (Merchant)_111
+  - first:
+      213: 2245505942750787946
+    second: Tressa (Merchant)_112
+  - first:
+      213: -3370172966158744312
+    second: Tressa (Merchant)_113
+  - first:
+      213: -6032162568303784205
+    second: Tressa (Merchant)_114
+  - first:
+      213: 4438814828040203816
+    second: Tressa (Merchant)_115
+  - first:
+      213: 6459922758699921093
+    second: Tressa (Merchant)_116
+  - first:
+      213: -3793686907664237218
+    second: Tressa (Merchant)_117
+  - first:
+      213: -4294145613217304104
+    second: Tressa (Merchant)_118
+  - first:
+      213: 7937410757874231846
+    second: Tressa (Merchant)_119
+  - first:
+      213: -8959360513435627085
+    second: Tressa (Merchant)_120
+  - first:
+      213: -3427500176189169471
+    second: Tressa (Merchant)_121
+  - first:
+      213: 4844263802203946174
+    second: Tressa (Merchant)_122
+  - first:
+      213: 8676818051905037483
+    second: Tressa (Merchant)_123
+  - first:
+      213: -6445032257384749475
+    second: Tressa (Merchant)_124
+  - first:
+      213: 6058203316092594547
+    second: Tressa (Merchant)_125
+  - first:
+      213: -2137617378447531355
+    second: Tressa (Merchant)_126
+  - first:
+      213: -7203723381995276232
+    second: Tressa (Merchant)_127
+  - first:
+      213: 5969109869060218198
+    second: Tressa (Merchant)_128
+  - first:
+      213: 1699113596128311524
+    second: Tressa (Merchant)_129
+  - first:
+      213: -9070370148829000192
+    second: Tressa (Merchant)_130
+  - first:
+      213: 7045642297167306631
+    second: Tressa (Merchant)_131
+  - first:
+      213: 3840406741339036130
+    second: Tressa (Merchant)_132
+  - first:
+      213: -7662052761278747008
+    second: Tressa (Merchant)_133
+  - first:
+      213: 685816510876295293
+    second: Tressa (Merchant)_134
+  - first:
+      213: -2065039485878996237
+    second: Tressa (Merchant)_135
+  - first:
+      213: 8466271355778202267
+    second: Tressa (Merchant)_136
+  - first:
+      213: 7176159437103035517
+    second: Tressa (Merchant)_137
+  - first:
+      213: 3958062264264857645
+    second: Tressa (Merchant)_138
+  - first:
+      213: 8028453319264763945
+    second: Tressa (Merchant)_139
+  - first:
+      213: -5182002585382950279
+    second: Tressa (Merchant)_140
+  - first:
+      213: 8086877627758860350
+    second: Tressa (Merchant)_141
+  - first:
+      213: -4324423359082797558
+    second: Tressa (Merchant)_142
+  - first:
+      213: -3603661957906392388
+    second: Tressa (Merchant)_143
+  - first:
+      213: -9155913970117601803
+    second: Tressa (Merchant)_144
+  - first:
+      213: -1485143464304409803
+    second: Tressa (Merchant)_145
+  - first:
+      213: -4183351805668270763
+    second: Tressa (Merchant)_146
+  - first:
+      213: -2565964368296776655
+    second: Tressa (Merchant)_147
+  - first:
+      213: -2253871851660305907
+    second: Tressa (Merchant)_148
+  - first:
+      213: -7573030156387476012
+    second: Tressa (Merchant)_149
+  - first:
+      213: -7586962354778813576
+    second: Tressa (Merchant)_150
+  - first:
+      213: 7445569825272304068
+    second: Tressa (Merchant)_151
+  - first:
+      213: 8030023213425939249
+    second: Tressa (Merchant)_152
+  - first:
+      213: -5285387812834336807
+    second: Tressa (Merchant)_153
+  - first:
+      213: -1167580599381513849
+    second: Tressa (Merchant)_154
+  - first:
+      213: 2031181980611976885
+    second: Tressa (Merchant)_155
+  - first:
+      213: 8139117089860658477
+    second: Tressa (Merchant)_156
+  - first:
+      213: 6961729274077459604
+    second: Tressa (Merchant)_157
+  - first:
+      213: 8183210385447543704
+    second: Tressa (Merchant)_158
+  - first:
+      213: -286282832931345870
+    second: Tressa (Merchant)_159
+  - first:
+      213: -1062895114315020937
+    second: Tressa (Merchant)_160
+  - first:
+      213: -1121786119941084003
+    second: Tressa (Merchant)_161
+  - first:
+      213: 8331328846095590419
+    second: Tressa (Merchant)_162
+  - first:
+      213: -2143675757760417912
+    second: Tressa (Merchant)_163
+  - first:
+      213: -8651291266256636955
+    second: Tressa (Merchant)_164
+  - first:
+      213: -9191141472875562233
+    second: Tressa (Merchant)_165
+  - first:
+      213: -2749798282384886347
+    second: Tressa (Merchant)_166
+  - first:
+      213: -6057877380023850775
+    second: Tressa (Merchant)_167
+  - first:
+      213: -3617009252219479233
+    second: Tressa (Merchant)_168
+  - first:
+      213: -6564082562918214663
+    second: Tressa (Merchant)_169
+  - first:
+      213: 1982643346135641759
+    second: Tressa (Merchant)_170
+  - first:
+      213: -3458716041661925207
+    second: Tressa (Merchant)_171
+  - first:
+      213: 8953034687181762742
+    second: Tressa (Merchant)_172
+  - first:
+      213: -8464691762639994621
+    second: Tressa (Merchant)_173
+  - first:
+      213: 719222978493787469
+    second: Tressa (Merchant)_174
+  - first:
+      213: -3266730293648402634
+    second: Tressa (Merchant)_175
+  - first:
+      213: 2425552887967319857
+    second: Tressa (Merchant)_176
+  - first:
+      213: 3786435062989227189
+    second: Tressa (Merchant)_177
+  - first:
+      213: 1475231956861926409
+    second: Tressa (Merchant)_178
+  - first:
+      213: -6155303061378012146
+    second: Tressa (Merchant)_179
+  - first:
+      213: 1943240926781893681
+    second: Tressa (Merchant)_180
+  - first:
+      213: 8290790524229987173
+    second: Tressa (Merchant)_181
+  - first:
+      213: 2992748710955991241
+    second: Tressa (Merchant)_182
+  - first:
+      213: -6111700655053457394
+    second: Tressa (Merchant)_183
+  - first:
+      213: -8732905815563050757
+    second: Tressa (Merchant)_184
+  - first:
+      213: -8300716021235831656
+    second: Tressa (Merchant)_185
+  - first:
+      213: -7776889251985667804
+    second: Tressa (Merchant)_186
+  - first:
+      213: -3894827659247337774
+    second: Tressa (Merchant)_187
+  - first:
+      213: 7680658281095653607
+    second: Tressa (Merchant)_188
+  - first:
+      213: 6984889105616907742
+    second: Tressa (Merchant)_189
+  - first:
+      213: -2778342005213376738
+    second: Tressa (Merchant)_190
+  - first:
+      213: -2573896362363177611
+    second: Tressa (Merchant)_191
+  - first:
+      213: 7529947318591032700
+    second: Tressa (Merchant)_192
+  - first:
+      213: 3913237155062059253
+    second: Tressa (Merchant)_193
+  - first:
+      213: 1328190881641908711
+    second: Tressa (Merchant)_194
+  - first:
+      213: 3386412884432447630
+    second: Tressa (Merchant)_195
+  - first:
+      213: 8247519249184405776
+    second: Tressa (Merchant)_196
+  - first:
+      213: 6869009662193788914
+    second: Tressa (Merchant)_197
+  - first:
+      213: 2909385735873364299
+    second: Tressa (Merchant)_198
+  - first:
+      213: 2713760103358207060
+    second: Tressa (Merchant)_199
+  - first:
+      213: -3984887049156515337
+    second: Tressa (Merchant)_200
+  - first:
+      213: -7549690681710040519
+    second: Tressa (Merchant)_201
+  - first:
+      213: -1984733892079787730
+    second: Tressa (Merchant)_202
+  - first:
+      213: 849843034240886259
+    second: Tressa (Merchant)_203
+  - first:
+      213: -5864776325481139083
+    second: Tressa (Merchant)_204
+  - first:
+      213: -320025436513401729
+    second: Tressa (Merchant)_205
+  - first:
+      213: -1197231088802532454
+    second: Tressa (Merchant)_206
+  - first:
+      213: 1959842075882956698
+    second: Tressa (Merchant)_207
+  - first:
+      213: 4029710993398980160
+    second: Tressa (Merchant)_208
+  - first:
+      213: -8701282368828633143
+    second: Tressa (Merchant)_209
+  - first:
+      213: 1322250517731029352
+    second: Tressa (Merchant)_210
+  - first:
+      213: 5536966478346649595
+    second: Tressa (Merchant)_211
+  - first:
+      213: -665375006319766306
+    second: Tressa (Merchant)_212
+  - first:
+      213: -2865754524873244258
+    second: Tressa (Merchant)_213
+  - first:
+      213: -574273988129985205
+    second: Tressa (Merchant)_214
+  - first:
+      213: 8986017008948760565
+    second: Tressa (Merchant)_215
+  - first:
+      213: 4196920451787798162
+    second: Tressa (Merchant)_216
+  - first:
+      213: -7184508331134905941
+    second: Tressa (Merchant)_217
+  - first:
+      213: -676997724787053157
+    second: Tressa (Merchant)_218
+  - first:
+      213: -8423180781088417488
+    second: Tressa (Merchant)_219
+  - first:
+      213: 7730722441840900383
+    second: Tressa (Merchant)_220
+  - first:
+      213: -1289091286785364762
+    second: Tressa (Merchant)_221
+  - first:
+      213: 5293029834881149939
+    second: Tressa (Merchant)_222
+  - first:
+      213: -6274710330646865095
+    second: Tressa (Merchant)_223
+  - first:
+      213: -2024387985039925993
+    second: Tressa (Merchant)_224
+  - first:
+      213: 4825534974119621512
+    second: Tressa (Merchant)_225
+  - first:
+      213: -1222679333609757162
+    second: Tressa (Merchant)_226
+  - first:
+      213: -701710248324639304
+    second: Tressa (Merchant)_227
+  - first:
+      213: -6513404214401521827
+    second: Tressa (Merchant)_228
+  - first:
+      213: 3066614693915850591
+    second: Tressa (Merchant)_229
+  - first:
+      213: -3846790956838495245
+    second: Tressa (Merchant)_230
+  - first:
+      213: -5225513180616369310
+    second: Tressa (Merchant)_231
+  - first:
+      213: 8494756157189349892
+    second: Tressa (Merchant)_232
+  - first:
+      213: -1725367156343338313
+    second: Tressa (Merchant)_233
+  - first:
+      213: 593719731262657671
+    second: Tressa (Merchant)_234
+  - first:
+      213: -4350235569928157428
+    second: Tressa (Merchant)_235
+  - first:
+      213: -8177185258623068576
+    second: Tressa (Merchant)_236
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tressa (Merchant)_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 952
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85344a36d0a9b2390800000000000000
+      internalID: -7842004943838624936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 958
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df05be955c9565840800000000000000
+      internalID: 5212452322879951101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 999
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f778b3051e94a0800000000000000
+      internalID: -6584802499445133226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 958
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dfcecfba0b8b700800000000000000
+      internalID: 556388806709542283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 998
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea3614bc7c1b6aa0800000000000000
+      internalID: -6166803942830884115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 958
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f9cff8ddc5665c0800000000000000
+      internalID: -4222585493940035766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 958
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2df29b55467eaf70800000000000000
+      internalID: 9200421129025682735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 951
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246c9ed726a0a7440800000000000000
+      internalID: 4934267759873345090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 957
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1baea7ec09c5590800000000000000
+      internalID: -7684107647701044771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 958
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02594dabdeecdd90800000000000000
+      internalID: -7071514687606009330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1000
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c5e5ebe5f13e60800000000000000
+      internalID: 7940398011554056174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 959
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79eaadd7960619270800000000000000
+      internalID: 8255485598146145943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_12
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 998
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a747cfaf0d2a1bda0800000000000000
+      internalID: -5930780215822486406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 960
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2d0ea6403fec70800000000000000
+      internalID: 9002467260262853315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 952
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21edf808e380087d0800000000000000
+      internalID: -2918323493998174702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 956
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69decc76c523d230800000000000000
+      internalID: 3662312456410028399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 958
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ad4419132a7fae0800000000000000
+      internalID: -1515564415812576722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_17
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 958
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f16a0b0f6235210800000000000000
+      internalID: 1320441930947370850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_18
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 960
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5db5b7e43e3c4b80800000000000000
+      internalID: -8409278007260889762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_19
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aeaea1741f30890800000000000000
+      internalID: -7492880067317798241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_20
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 960
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b44c27ad61af7510800000000000000
+      internalID: 1549134289166943408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_21
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 958
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bd3c3f94d6f8ea0800000000000000
+      internalID: -5868351625050727552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_22
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 956
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ebc3904acb2f940800000000000000
+      internalID: 5328528721848352341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_23
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 951
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8634d69a44cb1740800000000000000
+      internalID: 5123904825701185164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_24
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 955
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5dcf880edd9c160800000000000000
+      internalID: 7046407048438535656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_25
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 960
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed9bf9d2e350b760800000000000000
+      internalID: 7471564015592512993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 886
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5664f0355037ac0800000000000000
+      internalID: -3858734601429686789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 888
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf789ea2e74a3c0800000000000000
+      internalID: -4349212617361326922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 888
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e59c633c3fd0e70800000000000000
+      internalID: 9083184043239497333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_29
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 889
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db8d682801348910800000000000000
+      internalID: 1838648458981772243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_30
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 888
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1a31ec68d054600800000000000000
+      internalID: 451782210254774747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_31
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 883
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd63c02dffecde20800000000000000
+      internalID: 3376837691076472278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_32
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 884
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24363aefcbd2f3890800000000000000
+      internalID: -7476206566662511806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 884
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136dc8d13efa5f730800000000000000
+      internalID: 4032322431368353329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_34
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 880
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6417c62c5f4ad80800000000000000
+      internalID: -8240191202789341526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_35
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 878
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2fffa14f77e2880800000000000000
+      internalID: -8633831545313955110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_36
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 880
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c18e1b83c29e170800000000000000
+      internalID: 8208140417874009195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_37
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 880
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3562eaf3f0b04170800000000000000
+      internalID: 8160717086728021307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_38
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 894
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a517f5df509fe510800000000000000
+      internalID: 1580640735516366241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_39
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 894
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73509d0832b804ff0800000000000000
+      internalID: -53890210926623433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_40
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 894
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30095648a0ab16550800000000000000
+      internalID: 6152403120298496003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_41
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 894
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8171e41fe5bc7d20800000000000000
+      internalID: 3277694667271008652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_42
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 894
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1013327fa5c631f0800000000000000
+      internalID: -1065446904500645862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_43
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 894
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497f3246bd627d7a0800000000000000
+      internalID: -6352566025663023212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_44
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 894
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd263036d500cf10800000000000000
+      internalID: 2287835028194209267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_45
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 894
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa8273a0ad8ef8b0800000000000000
+      internalID: -5116496405569828107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_46
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 880
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c080d9630579d30800000000000000
+      internalID: 4438104153289919500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_47
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 808
+        width: 97
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeef1a80e9f66c50800000000000000
+      internalID: 6658283841899196124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_48
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 810
+        width: 96
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a39973b40f08ce30800000000000000
+      internalID: 4523882338559038370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 811
+        width: 101
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ef2af6d1dc186b0800000000000000
+      internalID: -5295726160500294026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_50
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 807
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44c6fe203c7601f0800000000000000
+      internalID: -1079038514320456627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_51
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 809
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91158dd4b91c73b30800000000000000
+      internalID: 4267092044726948121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_52
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 811
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd657f20a9155f0800000000000000
+      internalID: -769664723773367276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_53
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 811
+        width: 102
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c05b115a620f190800000000000000
+      internalID: -7930796453390906306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_54
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 808
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff1a25c73f27c670800000000000000
+      internalID: 8558861533418495987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_55
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 810
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47167bbb448776c0800000000000000
+      internalID: -4145699471168759987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_56
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 810
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc6d962663446c0800000000000000
+      internalID: -4160140359473116264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_57
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 811
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1168a978eb9daeaf0800000000000000
+      internalID: -366241007335209455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_58
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 810
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c5b063ff17bb8f0800000000000000
+      internalID: -523699590721217420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_59
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 812
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8129e8dfcd85df0800000000000000
+      internalID: -191160002586470178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_60
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 810
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77164c103aa6e4df0800000000000000
+      internalID: -194100485588491913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_61
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 735
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cbc86e0b88e4760800000000000000
+      internalID: 7444037527453613091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_62
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 738
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf59b38ae685ef40800000000000000
+      internalID: 5757156040453480389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_63
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 738
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dded0d9c0403c6c0800000000000000
+      internalID: -4124448381520187946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 739
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5643df395950b30800000000000000
+      internalID: 4252969885962102200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_65
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 739
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8020eded55bc8cc0800000000000000
+      internalID: -3707388978205286257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_66
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 739
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3415933ad689958c0800000000000000
+      internalID: -4010006396539416253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_67
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 737
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553d7581618855d10800000000000000
+      internalID: 2113745228599382869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_68
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 742
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82c3e962e942eb90800000000000000
+      internalID: -7214122416306142578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_69
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 742
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4ba1b7d5b239e80800000000000000
+      internalID: -8173141218250017628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 736
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c240ed6fe3b960800000000000000
+      internalID: 7616694650006586011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_71
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 738
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080b0489514fc1fa0800000000000000
+      internalID: -5828515444138397568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_72
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 736
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b0d334ff1dd8680800000000000000
+      internalID: -8751107606636065951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_73
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 737
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f686774ef13660800000000000000
+      internalID: 7363946448612159966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_74
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 737
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a20f1bf2e5c7910800000000000000
+      internalID: 1836446307002100322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_75
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 738
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aaf116db84608e0800000000000000
+      internalID: -1727613428834522592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_76
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 736
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67f6057b30c9a6d0800000000000000
+      internalID: -2978638316929878165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_77
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 738
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4703f667b9a6e2a0800000000000000
+      internalID: -6708487989750462643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_78
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 738
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281012f28effa55d0800000000000000
+      internalID: -3072862423038754430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_79
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 738
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bc210eec4883090800000000000000
+      internalID: -8054541909494674626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_80
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 737
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6d96114e225abb0800000000000000
+      internalID: -4925492254519732538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_81
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 736
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368af2a84fbffc610800000000000000
+      internalID: 1643809416722491491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_82
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 736
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f3336663ebb0c90800000000000000
+      internalID: -7202454038196830333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 664
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e98287929b37f390800000000000000
+      internalID: -7784687930093434396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_84
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 697
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810ffd1bef0bc530800000000000000
+      internalID: 3876209406777426309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_85
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 698
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af202b6b7386a3c0800000000000000
+      internalID: -4348643824078147679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_86
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 673
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f13aa1d31c7d690800000000000000
+      internalID: -7577375379843506290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_87
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 673
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef247a10bee8bd0800000000000000
+      internalID: -2625903140376740343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_88
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 667
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644c8886dc3f333d0800000000000000
+      internalID: -3227968444346874810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_89
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 668
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e22154ca9dab40800000000000000
+      internalID: 5453184891781046478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_90
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 666
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0b04a251f6e690800000000000000
+      internalID: -7573100386135109744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_91
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 668
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c90cba57c1b1640800000000000000
+      internalID: 5051662698744421381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_92
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 667
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a15f454eba3f940800000000000000
+      internalID: 5328791781275671084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_93
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 667
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61d2cb23d3ee3940800000000000000
+      internalID: 5277906309436592494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_94
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 666
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e0ab2991ee2fa0800000000000000
+      internalID: -5823469220165261289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_95
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 665
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7835684062bffd0800000000000000
+      internalID: -2307208583221901352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_96
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 666
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c811b9a9c1e21d6e0800000000000000
+      internalID: -1814618474465783412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_97
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 666
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0279e0a9b3eef70d0800000000000000
+      internalID: -3422755252023159008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_98
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 666
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f1d294818db05d0800000000000000
+      internalID: -3095142720068575373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_99
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 664
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dd4e885447ff880800000000000000
+      internalID: -8575007323491869400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_100
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 664
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346af9a79b59e7c60800000000000000
+      internalID: 7817850627020531267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_101
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 662
+        width: 46
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f88ca0ed52c7860800000000000000
+      internalID: 7528934312650510185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_102
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 663
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89573b75585a010800000000000000
+      internalID: 1199511487483582710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_103
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 664
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e7549355ae1770800000000000000
+      internalID: 8583479718204399694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_104
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 663
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a902eefb1008050800000000000000
+      internalID: 5800638243898694209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_105
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 590
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ee5625cdbae6500800000000000000
+      internalID: 391439180391378574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_106
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 592
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea19e59a73aab450800000000000000
+      internalID: 6105371991750548197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_107
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 592
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f86efe45879c8d0800000000000000
+      internalID: -2825594985000824942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 590
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52850616598ff30d0800000000000000
+      internalID: -3440758269820250075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_109
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 590
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286b92e246fd0c360800000000000000
+      internalID: 7187990626647520898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_110
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 590
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a4220e9b10e51e0800000000000000
+      internalID: -2207324869524043128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_111
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 592
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7d17e1f786a5ee0800000000000000
+      internalID: -1271589049597831176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_112
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 592
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6970baf1c3a92f10800000000000000
+      internalID: 2245505942750787946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 590
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805cb701b8dba31d0800000000000000
+      internalID: -3370172966158744312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_114
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 592
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe48d89a14794ca0800000000000000
+      internalID: -6032162568303784205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_115
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 590
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ea2197196d99d30800000000000000
+      internalID: 4438814828040203816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_116
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 592
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce25ccd58146a950800000000000000
+      internalID: 6459922758699921093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_117
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 593
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7f977bdd1a5bc0800000000000000
+      internalID: -3793686907664237218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_118
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 592
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1716ee0512864c0800000000000000
+      internalID: -4294145613217304104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_119
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 592
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a2573b709572e60800000000000000
+      internalID: 7937410757874231846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_120
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 592
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1120ee415f9a380800000000000000
+      internalID: -8959360513435627085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_121
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 591
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e7aadfb21f60d0800000000000000
+      internalID: -3427500176189169471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_122
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 592
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc36a813484a3340800000000000000
+      internalID: 4844263802203946174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_123
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 591
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba42f74eb004a6870800000000000000
+      internalID: 8676818051905037483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_124
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 593
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e5a42f45ae86a0800000000000000
+      internalID: -6445032257384749475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_125
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 593
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379eac871df031450800000000000000
+      internalID: 6058203316092594547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_126
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 594
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2eee3e158a552e0800000000000000
+      internalID: -2137617378447531355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_127
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 592
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838fef340cb370c90800000000000000
+      internalID: -7203723381995276232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_128
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 592
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ddc9adcc986d250800000000000000
+      internalID: 5969109869060218198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_129
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 520
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8b34a30d6749710800000000000000
+      internalID: 1699113596128311524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_130
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 520
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e8db118629f1280800000000000000
+      internalID: -9070370148829000192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_131
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 520
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fdf11075627c160800000000000000
+      internalID: 7045642297167306631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_132
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 520
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9578a759ddb4530800000000000000
+      internalID: 3840406741339036130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_133
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 516
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eeda1eb9beaa590800000000000000
+      internalID: -7662052761278747008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_134
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 520
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7021e7ab72848900800000000000000
+      internalID: 685816510876295293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_135
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 519
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2f60557818753e0800000000000000
+      internalID: -2065039485878996237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_136
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 518
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a793d11fc3e7570800000000000000
+      internalID: 8466271355778202267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_137
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 519
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74f714bcf6d69360800000000000000
+      internalID: 7176159437103035517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_138
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 556
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28926c98acdde630800000000000000
+      internalID: 3958062264264857645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_139
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 556
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920059ed1cbca6f60800000000000000
+      internalID: 8028453319264763945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_140
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 520
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ae711aa14d518b0800000000000000
+      internalID: -5182002585382950279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_141
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 520
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38de983b5c5a3070800000000000000
+      internalID: 8086877627758860350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_142
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 520
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06e77fdddf8cf3c0800000000000000
+      internalID: -4324423359082797558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_143
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 519
+        width: 45
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba9664da883dfdc0800000000000000
+      internalID: -3603661957906392388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_144
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 519
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f59a1911c8afe080800000000000000
+      internalID: -9155913970117601803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_145
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 521
+        width: 38
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53384a943e5b36be0800000000000000
+      internalID: -1485143464304409803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_146
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 522
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d57a472bfb1f5c0800000000000000
+      internalID: -4183351805668270763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_147
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 519
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c6c59800dd36cd0800000000000000
+      internalID: -2565964368296776655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_148
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 520
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a19801e73a8b0e0800000000000000
+      internalID: -2253871851660305907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_149
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 520
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd1437423137e690800000000000000
+      internalID: -7573030156387476012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 446
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bc52f8fe1b5b690800000000000000
+      internalID: -7586962354778813576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_151
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 484
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c119b9ce4af35760800000000000000
+      internalID: 7445569825272304068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_152
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 456
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133d466519f507f60800000000000000
+      internalID: 8030023213425939249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_153
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 456
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df94d399c786a6b0800000000000000
+      internalID: -5285387812834336807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_154
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 456
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7892a3781abebcfe0800000000000000
+      internalID: -1167580599381513849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_155
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 456
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be1d8cef35303c10800000000000000
+      internalID: 2031181980611976885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_156
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 458
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25a47eced3f3f070800000000000000
+      internalID: 8139117089860658477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_157
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 456
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49433d3d3e70d9060800000000000000
+      internalID: 6961729274077459604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_158
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 456
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89363e23d7a909170800000000000000
+      internalID: 8183210385447543704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_159
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 484
+        width: 64
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aa5ddb74be60cf0800000000000000
+      internalID: -286282832931345870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_160
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 456
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77541c56686df31f0800000000000000
+      internalID: -1062895114315020937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_161
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 456
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ca2f6a77d9e60f0800000000000000
+      internalID: -1121786119941084003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_162
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 456
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3142e7ab173de9370800000000000000
+      internalID: 8331328846095590419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_163
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 456
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fe21981422042e0800000000000000
+      internalID: -2143675757760417912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_164
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 458
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3755a0e6070f780800000000000000
+      internalID: -8651291266256636955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_165
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 456
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b34e4f681827080800000000000000
+      internalID: -9191141472875562233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_166
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 456
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5387ef701c6d9d0800000000000000
+      internalID: -2749798282384886347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_167
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 452
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8edce6e981eeba0800000000000000
+      internalID: -6057877380023850775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_168
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 447
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b1824bf3dcdcdc0800000000000000
+      internalID: -3617009252219479233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_169
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 446
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f39ce0efa1b7e4a0800000000000000
+      internalID: -6564082562918214663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_170
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 448
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ee4ba6e93c38b10800000000000000
+      internalID: 1982643346135641759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_171
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 375
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8bbcdc51c2000d0800000000000000
+      internalID: -3458716041661925207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_172
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 373
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0383fdc919f3c70800000000000000
+      internalID: 8953034687181762742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 380
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3010ba290bf578a80800000000000000
+      internalID: -8464691762639994621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_174
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 378
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dab630d713bf900800000000000000
+      internalID: 719222978493787469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_175
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 375
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63754161b1e3aa2d0800000000000000
+      internalID: -3266730293648402634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_176
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 379
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137073f108b49a120800000000000000
+      internalID: 2425552887967319857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_177
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 377
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b48e8ed0ae1c8430800000000000000
+      internalID: 3786435062989227189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_178
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 375
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c3f0e06a3197410800000000000000
+      internalID: 1475231956861926409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_179
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 375
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c60b55a78f39aa0800000000000000
+      internalID: -6155303061378012146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_180
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 374
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ce5d1c357c7fa10800000000000000
+      internalID: 1943240926781893681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_181
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 372
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b27e72e0ece0370800000000000000
+      internalID: 8290790524229987173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_182
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 378
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c04a8aa811688920800000000000000
+      internalID: 2992748710955991241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_183
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 375
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08340aa2a0ee2ba0800000000000000
+      internalID: -6111700655053457394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_184
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 373
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0eb6efd6c7ec680800000000000000
+      internalID: -8732905815563050757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_185
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 375
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c28dcf1ceedcc80800000000000000
+      internalID: -8300716021235831656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_186
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 372
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42947d5dd60f21490800000000000000
+      internalID: -7776889251985667804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_187
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 371
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de323d21eac2f9c0800000000000000
+      internalID: -3894827659247337774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_188
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 378
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e86ed5430e279a60800000000000000
+      internalID: 7680658281095653607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_189
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 371
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddaacf42af4fe060800000000000000
+      internalID: 6984889105616907742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_190
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 373
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fc5b2aaa85179d0800000000000000
+      internalID: -2778342005213376738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_191
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 378
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5753ca045eea74cd0800000000000000
+      internalID: -2573896362363177611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_192
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 372
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d060ed03fbf7860800000000000000
+      internalID: 7529947318591032700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_193
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 372
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f09555957c9e4630800000000000000
+      internalID: 3913237155062059253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_194
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 375
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9cd2ed19eae6210800000000000000
+      internalID: 1328190881641908711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_195
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 299
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e66f8394fefe20800000000000000
+      internalID: 3386412884432447630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_196
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 297
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01935d55f03157270800000000000000
+      internalID: 8247519249184405776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_197
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 304
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f769c9e4ef935f50800000000000000
+      internalID: 6869009662193788914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_198
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 302
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41025589e6306820800000000000000
+      internalID: 2909385735873364299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_199
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 299
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541b469f6639a520800000000000000
+      internalID: 2713760103358207060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_200
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 303
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9a8f47756d2b8c0800000000000000
+      internalID: -3984887049156515337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_201
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 301
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93aa890335c1a3790800000000000000
+      internalID: -7549690681710040519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_202
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 300
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21e7ec6a0fc474e0800000000000000
+      internalID: -1984733892079787730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_203
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 301
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5a4caacbf3bcb00800000000000000
+      internalID: 849843034240886259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_204
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 299
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574739041012c9ea0800000000000000
+      internalID: -5864776325481139083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_205
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 298
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f748781af8a0f8bf0800000000000000
+      internalID: -320025436513401729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_206
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 303
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93feddfaa4926fe0800000000000000
+      internalID: -1197231088802532454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_207
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 302
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a972edcfbf1c23b10800000000000000
+      internalID: 1959842075882956698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_208
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 299
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e58055cc86ce730800000000000000
+      internalID: 4029710993398980160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_209
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 301
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf899379c5de3780800000000000000
+      internalID: -8701282368828633143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_210
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 298
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8613f6d17d3995210800000000000000
+      internalID: 1322250517731029352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_211
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 297
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfff81b0da147dc40800000000000000
+      internalID: 5536966478346649595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_212
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 303
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed413e105fc14c6f0800000000000000
+      internalID: -665375006319766306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_213
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 301
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91467b617bca38d0800000000000000
+      internalID: -2865754524873244258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_214
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 298
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de3c5b9d4c708f0800000000000000
+      internalID: -574273988129985205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_215
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 298
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff42041cdeb4bc70800000000000000
+      internalID: 8986017008948760565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_216
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 299
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29632672ae47e3a30800000000000000
+      internalID: 4196920451787798162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_217
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 298
+        width: 37
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba19edcecbf7b4c90800000000000000
+      internalID: -7184508331134905941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_218
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 299
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9de15cf722da96f0800000000000000
+      internalID: -676997724787053157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_219
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 298
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039d35025b9da1b80800000000000000
+      internalID: -8423180781088417488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_220
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 224
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19311b0a1b094b60800000000000000
+      internalID: 7730722441840900383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_221
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 224
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec6b18fd4a3c1ee0800000000000000
+      internalID: -1289091286785364762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_222
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 226
+        width: 37
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba2a5579e947940800000000000000
+      internalID: 5293029834881149939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_223
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 226
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bd159f230cbe8a0800000000000000
+      internalID: -6274710330646865095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_224
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 224
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d50207adde7e3e0800000000000000
+      internalID: -2024387985039925993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_225
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 227
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883bf9ffd7eb7f240800000000000000
+      internalID: 4825534974119621512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_226
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 224
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616aaf5cf9b280fe0800000000000000
+      internalID: -1222679333609757162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_227
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 226
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5db593f360346f0800000000000000
+      internalID: -701710248324639304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_228
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 226
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a012606dbb95a0800000000000000
+      internalID: -6513404214401521827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_229
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 226
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f8d501ddce8a20800000000000000
+      internalID: 3066614693915850591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_230
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 225
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbd47481047d9ac0800000000000000
+      internalID: -3846790956838495245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_231
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 228
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b5d3cb27f3b77b0800000000000000
+      internalID: -5225513180616369310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_232
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 226
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40265d2c7bf63e570800000000000000
+      internalID: 8494756157189349892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_233
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 224
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba870376b34e08e0800000000000000
+      internalID: -1725367156343338313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_234
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 228
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841d0e23f05d3800800000000000000
+      internalID: 593719731262657671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_235
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 225
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c9253ccbd0a3c0800000000000000
+      internalID: -4350235569928157428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tressa (Merchant)_236
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 226
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0661635f45dc48e80800000000000000
+      internalID: -8177185258623068576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 49032d34c41a25f48afb668a7ee2ec08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
