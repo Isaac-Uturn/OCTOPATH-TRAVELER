@@ -27,19 +27,26 @@ enum BATTLETRUN
 
 public class BattleManager : MonoBehaviour
 {
-    Colleague[] colleagues;
-    Enemy[] enemies;
+    [SerializeField]
+    Transform[] alliancePoints = new Transform[5];
 
     BATTLETRUN currentTrun = BATTLETRUN.BATTLESTART;
 
+    Player player;
+
     void Start()
     {
+        player = FindObjectOfType<Player>();
 
+        for (int i = 0; i < player.GetAllianceList().Count; i++)
+        {
+            Alliance alliance = player.GetAllianceList()[i];
+            alliance.transform.position = alliancePoints[i].position;
+        }
     }
 
     void Update()
     {
-
         if (Input.GetKeyDown(KeyCode.K))
         {
             SceneManager.LoadScene("World");

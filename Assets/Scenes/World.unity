@@ -327,10 +327,9 @@ GameObject:
   - component: {fileID: 332318876}
   - component: {fileID: 332318879}
   - component: {fileID: 332318878}
-  - component: {fileID: 332318880}
   m_Layer: 0
   m_Name: Primrose
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -413,12 +412,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sprites:
-  - {fileID: -2083820604386788245, guid: 08cde8fa88f7abe4f8e70ab306663e12, type: 3}
-  - {fileID: -4761634935089046740, guid: 08cde8fa88f7abe4f8e70ab306663e12, type: 3}
+  - {fileID: -5999710087679106031, guid: 08cde8fa88f7abe4f8e70ab306663e12, type: 3}
   - {fileID: -2017416359997605509, guid: 08cde8fa88f7abe4f8e70ab306663e12, type: 3}
-  - {fileID: 5208577548036774218, guid: 08cde8fa88f7abe4f8e70ab306663e12, type: 3}
-  walkSpeed: 0.5
-  runSpeed: 2
+  - {fileID: -4409352416033036006, guid: 08cde8fa88f7abe4f8e70ab306663e12, type: 3}
+  - {fileID: 277941519638780764, guid: 08cde8fa88f7abe4f8e70ab306663e12, type: 3}
+  alliance:
+  - {fileID: 332318878}
+  - {fileID: 856056849}
+  - {fileID: 1646495461}
+  walkSpeed: 1.5
+  runSpeed: 4
 --- !u!95 &332318879
 Animator:
   serializedVersion: 3
@@ -438,20 +441,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &332318880
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 332318875}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c33baa4d2c6a4d04290ae8029ad61ef0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  prevColleague: {fileID: 332318875}
-  followSpeed: 0
 --- !u!1 &701441020
 GameObject:
   m_ObjectHideFlags: 0
@@ -752,7 +741,7 @@ GameObject:
   - component: {fileID: 856056850}
   m_Layer: 0
   m_Name: Olberic
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -834,8 +823,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c33baa4d2c6a4d04290ae8029ad61ef0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prevColleague: {fileID: 332318875}
-  followSpeed: 2
+  sprites:
+  - {fileID: -921071209714472826, guid: 0fa07b88eda53af4abbe6a546ef960aa, type: 3}
+  - {fileID: 7318367271223862488, guid: 0fa07b88eda53af4abbe6a546ef960aa, type: 3}
+  - {fileID: -5461274568417130339, guid: 0fa07b88eda53af4abbe6a546ef960aa, type: 3}
+  - {fileID: -1812440844094843616, guid: 0fa07b88eda53af4abbe6a546ef960aa, type: 3}
+  prevColleague: {fileID: 332318878}
+  followSpeed: 3
 --- !u!95 &856056850
 Animator:
   serializedVersion: 3
@@ -846,7 +840,7 @@ Animator:
   m_GameObject: {fileID: 856056846}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c0bb1018a9682d4478289dac98986aa3, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1055,7 +1049,7 @@ GameObject:
   - component: {fileID: 1646495464}
   m_Layer: 0
   m_Name: 'Cyrus '
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1072,8 +1066,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c33baa4d2c6a4d04290ae8029ad61ef0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prevColleague: {fileID: 856056846}
-  followSpeed: 2
+  sprites:
+  - {fileID: -8841475314215091556, guid: d4e5f510d1f086a4c8208de30bf9102f, type: 3}
+  - {fileID: -6894026286897510635, guid: d4e5f510d1f086a4c8208de30bf9102f, type: 3}
+  - {fileID: -8544553652457837232, guid: d4e5f510d1f086a4c8208de30bf9102f, type: 3}
+  - {fileID: -820446914238724933, guid: d4e5f510d1f086a4c8208de30bf9102f, type: 3}
+  prevColleague: {fileID: 856056849}
+  followSpeed: 3
 --- !u!212 &1646495462
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1149,7 +1148,7 @@ Animator:
   m_GameObject: {fileID: 1646495460}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: af3b2e9666a62b74fb98fd760b0d127d, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0

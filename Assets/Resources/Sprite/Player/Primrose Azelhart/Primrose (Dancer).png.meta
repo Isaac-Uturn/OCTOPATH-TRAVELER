@@ -2291,9 +2291,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 662
-        y: 735
+        y: 736
         width: 40
-        height: 65
+        height: 64
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2648,9 +2648,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 570
-        y: 669
+        y: 670
         width: 42
-        height: 61
+        height: 60
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2690,9 +2690,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 672
-        y: 663
-        width: 50
-        height: 67
+        y: 664
+        width: 52
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2712,7 +2712,7 @@ TextureImporter:
         serializedVersion: 2
         x: 726
         y: 664
-        width: 48
+        width: 52
         height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2731,9 +2731,9 @@ TextureImporter:
       name: Primrose (Dancer)_86
       rect:
         serializedVersion: 2
-        x: 777
+        x: 778
         y: 664
-        width: 47
+        width: 50
         height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -2753,9 +2753,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 828
-        y: 662
-        width: 44
-        height: 68
+        y: 664
+        width: 48
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3025,10 +3025,10 @@ TextureImporter:
       name: Primrose (Dancer)_100
       rect:
         serializedVersion: 2
-        x: 514
-        y: 593
-        width: 46
-        height: 68
+        x: 516
+        y: 594
+        width: 44
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3068,9 +3068,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 608
-        y: 593
+        y: 594
         width: 48
-        height: 67
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3088,9 +3088,9 @@ TextureImporter:
       name: Primrose (Dancer)_103
       rect:
         serializedVersion: 2
-        x: 658
+        x: 660
         y: 594
-        width: 50
+        width: 48
         height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -3196,7 +3196,7 @@ TextureImporter:
         x: 901
         y: 594
         width: 49
-        height: 68
+        height: 66
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
