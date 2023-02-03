@@ -99,6 +99,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -712,6 +713,32 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Alfyn_18: 490842987211993646
+      Alfyn_9: -1484729567065047403
+      Alfyn_21: 4123969628390430284
+      Alfyn_5: 6239863561201943862
+      Alfyn_15: -1599985387566272860
+      Alfyn_8: 6206833200958439897
+      Alfyn_22: 1701912362770090601
+      Alfyn_4: 4827732334281674545
+      Alfyn_6: -262389000373251637
+      Alfyn_0: 8418568420022362837
+      Alfyn_2: -3506198356658258923
+      Alfyn_17: 628154485295497220
+      Alfyn_23: -8782944486782118172
+      Alfyn_1: 6689250654164696139
+      Alfyn_13: 4863957745131955992
+      Alfyn_7: -3944250882279708321
+      Alfyn_19: -1573691922602445191
+      Alfyn_20: -943952923462882711
+      Alfyn_11: 4601469603403625747
+      Alfyn_14: 1233174746919974052
+      Alfyn_3: -790314289695925839
+      Alfyn_12: -2095746041039225781
+      Alfyn_16: -3786273080247086470
+      Alfyn_24: 9133833998652896284
+      Alfyn_10: -7890996472758888839
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

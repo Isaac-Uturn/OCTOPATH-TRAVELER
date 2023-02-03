@@ -105,6 +105,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -760,6 +761,34 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Cyrus_22: 4508862566649081710
+      Cyrus_12: -940499838647018976
+      Cyrus_11: 2610468184790724667
+      Cyrus_13: 2664326771479102087
+      Cyrus_19: 3122340111907240431
+      Cyrus_5: -2704407697436838259
+      Cyrus_3: 5041194876044530577
+      Cyrus_1: -6725277048828990602
+      Cyrus_21: -1707254318762024604
+      Cyrus_6: -3851316991987530600
+      Cyrus_16: 2120214604295387090
+      Cyrus_0: -8080536579212968712
+      Cyrus_14: -6127403559692779885
+      Cyrus_18: -2746582894188019341
+      Cyrus_26: -849036450736570294
+      Cyrus_24: 878192575638706961
+      Cyrus_17: -1861718293811501331
+      Cyrus_7: 8859215701973637593
+      Cyrus_2: 8397440485777973019
+      Cyrus_10: -3628628266249172402
+      Cyrus_15: 7979125624566890657
+      Cyrus_9: 2590157369601664155
+      Cyrus_20: 7134235218244696391
+      Cyrus_23: 1629098852765671797
+      Cyrus_4: -2319702896277035812
+      Cyrus_25: 4577868729778129091
+      Cyrus_8: 2588976969384842316
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

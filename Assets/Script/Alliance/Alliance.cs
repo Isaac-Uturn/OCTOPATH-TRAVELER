@@ -27,13 +27,6 @@ public class Alliance : MonoBehaviour
     //약점
     //고유 액션
 
-    private void Start()
-    {
-        DontDestroyOnLoad(this);
-
-        currentState = ALLYSTATE.FowardIdle;
-    }
-
     public ALLYSTATE GetState()
     {
         return currentState;

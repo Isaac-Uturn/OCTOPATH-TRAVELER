@@ -87,6 +87,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -616,6 +617,28 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Soldier_18: 6623777501556897501
+      Soldier_19: 1444713933976088483
+      Soldier_4: 8924183435215946824
+      Soldier_8: -1733617733217763490
+      Soldier_0: -3868812660829053132
+      Soldier_13: -1692326888749062731
+      Soldier_3: -5331859181223373285
+      Soldier_9: -7227817022452064393
+      Soldier_20: -2456867076102776368
+      Soldier_5: 152417265559848108
+      Soldier_1: 4748496047744815929
+      Soldier_14: -8366205455049171761
+      Soldier_16: 2005700920829779246
+      Soldier_7: -2880666656720651278
+      Soldier_10: 2742716491997213031
+      Soldier_15: -7202218996535425993
+      Soldier_12: 1974314120003528485
+      Soldier_2: 2805721153289186860
+      Soldier_6: -5572970920532211618
+      Soldier_11: -62850490490929932
+      Soldier_17: -8503598735362372552
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

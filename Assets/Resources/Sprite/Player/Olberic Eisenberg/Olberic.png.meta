@@ -111,6 +111,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -808,6 +809,36 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Olberic_0: 7285187758665164490
+      Olberic_10: 8662491430261776414
+      Olberic_24: -161516570841740118
+      Olberic_28: 1196490519239398535
+      Olberic_4: -5684409653545225822
+      Olberic_17: 7220017197886715759
+      Olberic_19: -6485156241197401283
+      Olberic_25: -7160622474668774586
+      Olberic_20: 6792731584095795134
+      Olberic_9: 2819270494613195356
+      Olberic_6: -8770414428862829593
+      Olberic_11: 2003356241537125689
+      Olberic_22: -5169454597350488320
+      Olberic_13: 849246354444081643
+      Olberic_5: 322881348919685672
+      Olberic_23: 9026389596425942286
+      Olberic_2: 1304081057350734166
+      Olberic_12: 845550138231323749
+      Olberic_3: 7960071113585349978
+      Olberic_7: -7444448792387754970
+      Olberic_26: -6468338806708252918
+      Olberic_8: -556124197216573704
+      Olberic_14: 6673598909670724486
+      Olberic_15: -1482881291170609804
+      Olberic_16: -8337964594648073564
+      Olberic_18: -7203634649987453225
+      Olberic_1: 4741015672354987961
+      Olberic_21: -3513702207007682852
+      Olberic_27: 4963281284771306318
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

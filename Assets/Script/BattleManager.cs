@@ -5,13 +5,18 @@ using UnityEngine.SceneManagement;
 
 enum BATTLETRUN
 {
-    BATTLESTART,
-    SELECTACTION,
-    PLAYERATTACK,
-    ENEMYATTACK,
-    DAMAGECOUNT,
-    BATTLEEND
+    SelectAction,
+    PlayerAttack,
+    EnemyAttack,
+    DamageCount,
+    BattleEnd
 }
+
+enum BattleStage
+{
+
+}
+
 
 //배틀시작
 //명령 선택
@@ -27,49 +32,58 @@ enum BATTLETRUN
 
 public class BattleManager : MonoBehaviour
 {
+    public static BattleManager instance = null;
+
     [SerializeField]
     Transform[] alliancePoints = new Transform[5];
 
-    BATTLETRUN currentTrun = BATTLETRUN.BATTLESTART;
+
+    BATTLETRUN currentTrun = BATTLETRUN.SelectAction;
 
     Player player;
+
+    public static BattleManager Instance
+    {
+        get
+        {
+            if (null == instance)
+            {
+                return null;
+            }
+            return instance;
+        }
+    }
+
 
     void Start()
     {
         player = FindObjectOfType<Player>();
 
-        for (int i = 0; i < player.GetAllianceList().Count; i++)
+        for (int i = 0; i < player.alliance.Count; i++)
         {
-            Alliance alliance = player.GetAllianceList()[i];
-            alliance.transform.position = alliancePoints[i].position;
+            player.alliance[i].transform.position = alliancePoints[i].position;
         }
     }
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            SceneManager.LoadScene("World");
-        }
 
         switch (currentTrun)
         {
-            case BATTLETRUN.BATTLESTART:
+
+            case BATTLETRUN.SelectAction:
                 break;
 
-            case BATTLETRUN.SELECTACTION:
+            case BATTLETRUN.PlayerAttack:
                 break;
 
-            case BATTLETRUN.PLAYERATTACK:
+            case BATTLETRUN.EnemyAttack:
                 break;
 
-            case BATTLETRUN.ENEMYATTACK:
+            case BATTLETRUN.DamageCount:
                 break;
 
-            case BATTLETRUN.DAMAGECOUNT:
-                break;
-
-            case BATTLETRUN.BATTLEEND:
+            case BATTLETRUN.BattleEnd:
                 break;
         }
 

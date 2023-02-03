@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -304,6 +305,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Heathcote (illustration)_6: 204872341356846126
+      Heathcote (illustration)_2: -1541984549144076896
+      Heathcote (illustration)_4: 6821251243029987821
+      Heathcote (illustration)_1: 6432601608574308023
+      Heathcote (illustration)_3: 8451894158167212582
+      Heathcote (illustration)_7: 3371664321455180768
+      Heathcote (illustration)_0: -3972109614024967520
+      Heathcote (illustration)_5: 2390881387364363096
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

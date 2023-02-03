@@ -14,10 +14,12 @@ public class Enemy : MonoBehaviour
     //브레이크포인트가 0이 되면 기절
     int braekPoint;
 
+    Animator enemyAnim;
+
 
     void Start()
     {
-        
+        enemyAnim = GetComponent<Animator>();
     }
 
 

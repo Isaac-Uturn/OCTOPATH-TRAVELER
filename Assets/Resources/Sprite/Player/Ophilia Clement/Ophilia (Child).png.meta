@@ -228,6 +228,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -1744,6 +1745,75 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Ophilia (Child)_32: -7980222444883149947
+      Ophilia (Child)_20: -2076630068384997110
+      Ophilia (Child)_2: 7403258240733180775
+      Ophilia (Child)_10: 6769755297958646719
+      Ophilia (Child)_16: 9022883428903866362
+      Ophilia (Child)_1: -5476111314589215510
+      Ophilia (Child)_19: 4116389340755780614
+      Ophilia (Child)_3: 2486370800845466696
+      Ophilia (Child)_4: -7223289608397594336
+      Ophilia (Child)_8: 6996492901354346102
+      Ophilia (Child)_35: 8495917368348988081
+      Ophilia (Child)_30: 3037387202059596571
+      Ophilia (Child)_29: -9061512953035799515
+      Ophilia (Child)_7: 6447920800113151205
+      Ophilia (Child)_13: 7879542108451521623
+      Ophilia (Child)_54: 8573400294098338451
+      Ophilia (Child)_57: -7103680314843682652
+      Ophilia (Child)_37: -8280063463896939071
+      Ophilia (Child)_9: -7626730374773713609
+      Ophilia (Child)_6: 2756673255266956142
+      Ophilia (Child)_66: 5715978169228579396
+      Ophilia (Child)_40: 5570371252311415049
+      Ophilia (Child)_5: 7406080911884075051
+      Ophilia (Child)_51: -6857809173476954756
+      Ophilia (Child)_38: 7160839473187577496
+      Ophilia (Child)_25: 5189207839805071421
+      Ophilia (Child)_61: -5770061284660971954
+      Ophilia (Child)_56: 6875882313668204175
+      Ophilia (Child)_0: 3230841438299808770
+      Ophilia (Child)_15: -4697242655402099191
+      Ophilia (Child)_36: 5270745256419702436
+      Ophilia (Child)_62: -8006746427600001822
+      Ophilia (Child)_43: -2869883647469129537
+      Ophilia (Child)_21: -8761035086430319252
+      Ophilia (Child)_47: -7000993214084567122
+      Ophilia (Child)_41: 2952119398140446958
+      Ophilia (Child)_39: -4629566901368487509
+      Ophilia (Child)_22: -7210589261676264499
+      Ophilia (Child)_34: -369828505559289395
+      Ophilia (Child)_64: -7514116815121606789
+      Ophilia (Child)_53: -4548393111293842985
+      Ophilia (Child)_59: 8328842396895618133
+      Ophilia (Child)_58: -1834823918670810461
+      Ophilia (Child)_60: 293653263577955618
+      Ophilia (Child)_24: -9116395566797218150
+      Ophilia (Child)_28: 4081833486225443105
+      Ophilia (Child)_12: -6239608575887438187
+      Ophilia (Child)_52: -8428611043273484780
+      Ophilia (Child)_26: -5974653294898914013
+      Ophilia (Child)_27: 2365158579564732140
+      Ophilia (Child)_23: 7718549431570048830
+      Ophilia (Child)_65: 6653942796342980740
+      Ophilia (Child)_45: 4973051745195723008
+      Ophilia (Child)_55: 9196899486970477618
+      Ophilia (Child)_14: -4857412472005363878
+      Ophilia (Child)_11: -2668526710781531462
+      Ophilia (Child)_48: -1590475998107880167
+      Ophilia (Child)_17: 5568355927155115266
+      Ophilia (Child)_49: -3418115145094543209
+      Ophilia (Child)_18: -3459081051036927785
+      Ophilia (Child)_31: 7535998149387595434
+      Ophilia (Child)_63: -1947395013614009356
+      Ophilia (Child)_67: -4931225483166055303
+      Ophilia (Child)_46: -8759569040052037109
+      Ophilia (Child)_33: 8077685758664752750
+      Ophilia (Child)_44: 8609052013574159555
+      Ophilia (Child)_42: -7779275423069024117
+      Ophilia (Child)_50: 3536900476357450985
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

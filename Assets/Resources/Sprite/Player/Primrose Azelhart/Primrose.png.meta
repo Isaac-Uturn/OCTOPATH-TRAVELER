@@ -90,6 +90,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -640,6 +641,29 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Primrose_16: 8795634379701111136
+      Primrose_12: -978911123269167507
+      Primrose_18: -906295754243322367
+      Primrose_21: -5894863023316903491
+      Primrose_3: 1689155232697827524
+      Primrose_15: 7128440712532866078
+      Primrose_11: 2476789652039146322
+      Primrose_20: -517767457247523288
+      Primrose_5: 2245102077531606526
+      Primrose_0: -3289250568018079269
+      Primrose_9: -5039175511767913808
+      Primrose_4: -3240140746802966405
+      Primrose_10: -1834300009470581295
+      Primrose_6: -559241350383567912
+      Primrose_7: -5760685027988660901
+      Primrose_17: -3476762971342650774
+      Primrose_14: 2890928299900507621
+      Primrose_2: -2196400856430281715
+      Primrose_1: 5474217215498846133
+      Primrose_13: 8596379718102330646
+      Primrose_8: 5442829310423923851
+      Primrose_19: -6819342200381112946
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

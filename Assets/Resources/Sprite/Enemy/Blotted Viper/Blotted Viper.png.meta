@@ -48,6 +48,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -304,6 +305,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Blotted Viper_0: 6264007838338202428
+      Blotted Viper_6: -6184907222667454083
+      Blotted Viper_2: 2096661946665674017
+      Blotted Viper_1: -4433246918989640397
+      Blotted Viper_4: 4456837156157083666
+      Blotted Viper_7: 2816279348742103048
+      Blotted Viper_5: 7497315826622713542
+      Blotted Viper_3: -2338707041242240866
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

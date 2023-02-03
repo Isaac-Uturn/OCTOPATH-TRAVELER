@@ -264,6 +264,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2032,6 +2033,87 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Alfyn (Child)_32: 7140492981550330693
+      Alfyn (Child)_13: -5370084103242048749
+      Alfyn (Child)_58: 8838899174073214735
+      Alfyn (Child)_72: -332863810447069761
+      Alfyn (Child)_71: -1590509644888177267
+      Alfyn (Child)_30: 2304288230385935113
+      Alfyn (Child)_52: -8079123374145559580
+      Alfyn (Child)_4: -1459318740054033239
+      Alfyn (Child)_23: 271075007920494447
+      Alfyn (Child)_6: -6911396846067565104
+      Alfyn (Child)_7: 4932265543412450627
+      Alfyn (Child)_11: 3869788784989488470
+      Alfyn (Child)_41: 9019123217046761860
+      Alfyn (Child)_0: -2541891447574702701
+      Alfyn (Child)_35: 8589253233374081872
+      Alfyn (Child)_63: -8172198666736175906
+      Alfyn (Child)_27: 6920389171512741136
+      Alfyn (Child)_79: 1078551270702835833
+      Alfyn (Child)_9: 8554731505865020843
+      Alfyn (Child)_2: 5439016532540169571
+      Alfyn (Child)_16: 3681401674301529244
+      Alfyn (Child)_65: -3277080479614103677
+      Alfyn (Child)_50: -8172449889841976725
+      Alfyn (Child)_10: -5851562156480919882
+      Alfyn (Child)_73: -8460780167275778049
+      Alfyn (Child)_51: 8147877335692111457
+      Alfyn (Child)_3: -2128461787315275102
+      Alfyn (Child)_64: -1976244767088358401
+      Alfyn (Child)_1: 8419865187426620886
+      Alfyn (Child)_21: -287914302706490437
+      Alfyn (Child)_25: -8172685516798529152
+      Alfyn (Child)_22: 8644263725671854795
+      Alfyn (Child)_15: 4031142699011197026
+      Alfyn (Child)_48: -1409705795650283853
+      Alfyn (Child)_37: -354329985994927060
+      Alfyn (Child)_47: -6089892891174665988
+      Alfyn (Child)_34: -3646986136989067178
+      Alfyn (Child)_42: 7240069634676537257
+      Alfyn (Child)_40: 4051838093857133005
+      Alfyn (Child)_28: 2210132645419908824
+      Alfyn (Child)_44: 902616054057937552
+      Alfyn (Child)_70: -5643254007210830453
+      Alfyn (Child)_62: 735637771615850105
+      Alfyn (Child)_57: 8303883289025456926
+      Alfyn (Child)_45: -8863796853854252355
+      Alfyn (Child)_61: -5005868161332331667
+      Alfyn (Child)_69: -5407179468108046508
+      Alfyn (Child)_5: -4445537135104555876
+      Alfyn (Child)_77: 3920182876196902233
+      Alfyn (Child)_36: -883452615831780137
+      Alfyn (Child)_76: -2422666328312495496
+      Alfyn (Child)_67: 5298852414137522168
+      Alfyn (Child)_26: -6117110887522794883
+      Alfyn (Child)_33: -3837562948644783241
+      Alfyn (Child)_78: 4165070144392926590
+      Alfyn (Child)_66: 4149313762147701224
+      Alfyn (Child)_31: 4999133598698511479
+      Alfyn (Child)_38: 7994114212790778958
+      Alfyn (Child)_19: -8837453001864711160
+      Alfyn (Child)_43: 433140906688664351
+      Alfyn (Child)_56: 7074754283543920394
+      Alfyn (Child)_55: 5270446701897854005
+      Alfyn (Child)_60: -6303416191687134644
+      Alfyn (Child)_29: 8016604588719637384
+      Alfyn (Child)_8: 2553608630453516599
+      Alfyn (Child)_12: 4679762988897703968
+      Alfyn (Child)_68: -6211436582543538324
+      Alfyn (Child)_18: -4408243791043114347
+      Alfyn (Child)_39: -510126773675891976
+      Alfyn (Child)_20: 9113563463297199515
+      Alfyn (Child)_49: 8547055145068001438
+      Alfyn (Child)_17: 5915009407735817030
+      Alfyn (Child)_46: -2707978804489954362
+      Alfyn (Child)_74: -1475286465785277889
+      Alfyn (Child)_59: 8641039355457005273
+      Alfyn (Child)_14: -5610313777269324024
+      Alfyn (Child)_24: -176315060802865866
+      Alfyn (Child)_54: -2111752677278266488
+      Alfyn (Child)_53: 5996695586568198865
+      Alfyn (Child)_75: -1981114226368786444
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

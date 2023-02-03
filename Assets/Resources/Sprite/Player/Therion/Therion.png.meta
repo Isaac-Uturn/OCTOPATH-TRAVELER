@@ -117,6 +117,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -856,6 +857,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Therion_14: 6291098259627883749
+      Therion_26: -7195985487497844650
+      Therion_30: 5622043619489304683
+      Therion_8: -778451824262888000
+      Therion_4: 1876778086381425907
+      Therion_17: 7005196870101838216
+      Therion_0: 1522589455638683129
+      Therion_15: 4102110661092148751
+      Therion_11: -1239205675395927857
+      Therion_25: -1661468748998848927
+      Therion_29: 5801783506337985726
+      Therion_16: -6690499492023241172
+      Therion_6: -5219345831852960544
+      Therion_13: 6282307759984874675
+      Therion_9: 2761879342510542172
+      Therion_21: 5119058362166038197
+      Therion_20: 102951054788749404
+      Therion_7: 2686054650480232078
+      Therion_19: -7339825781115484155
+      Therion_23: 5707773635420319056
+      Therion_10: -4885759819892215405
+      Therion_18: 1794524967655419728
+      Therion_5: -6138929915195742909
+      Therion_28: -6476298706858757387
+      Therion_27: -2522058160798919039
+      Therion_3: 4585414418112661256
+      Therion_22: -3826366534521012990
+      Therion_12: 341137376246634646
+      Therion_1: -3997357462435780206
+      Therion_24: 7355713281580577739
+      Therion_2: 32247350890745085
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

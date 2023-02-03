@@ -18,7 +18,7 @@ public class Colleague : Alliance
     float moveX;
     float moveY;
 
-    private void Awake()
+    void Awake()
     {
         colleagueAnim = GetComponent<Animator>();
         colleagueRenderer = GetComponent<SpriteRenderer>();
@@ -73,7 +73,8 @@ public class Colleague : Alliance
                 colleagueAnim.SetFloat("DirectY", moveY);
                 break;
             case ALLYSTATE.Combat:
-
+                colleagueAnim.enabled = true;
+                colleagueAnim.SetBool("isCombat", true);
                 break;
         }
     }
@@ -106,10 +107,10 @@ public class Colleague : Alliance
 
     //private void OnCollisionExit(Collision collision)
     //{
-    //    //if ("Player" == collision.gameObject.tag)
-    //    //{
-    //    //    colleagueCollider.isTrigger = false;
-    //    //}
+    //    if ("Player" == collision.gameObject.tag)
+    //    {
+    //        colleagueCollider.isTrigger = false;
+    //    }
     //}
 }
 

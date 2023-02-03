@@ -1,0 +1,3972 @@
+fileFormatVersion: 2
+guid: 62d884e156ba01744a33598374aaa410
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1002
+        width: 36
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cfac3466b52494db230fdc850ef2bf
+      internalID: -1274090994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1002
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360be73fe9dd1a54eae2838de56b0c35
+      internalID: 421703601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1002
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c727aa6087e9b4fa4a9385b65824de
+      internalID: -2037969953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1002
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd027b0276afc4299c66b48bddc30d
+      internalID: 507312074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1003
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a37e52b5508d741a93655a22dba234
+      internalID: -478104332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_5
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1002
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402d34992725df547baec358cd111a16
+      internalID: 177006009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1002
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3eb6ea12af2a44f8265d805d3d994b
+      internalID: 1632047618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1005
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc398982b3de10446a5f23b6d16cd3a9
+      internalID: 1704526721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1009
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9733096de9d8dc048825cdd0ce3e3e54
+      internalID: -1391023897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_9
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1007
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96216c902986243b54ac83017e631f
+      internalID: -1410572399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 953
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d8a90b4daa3d428e9b130ad41af3e
+      internalID: -969137289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 951
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723e7be8436ecc346b3d3bfb183be461
+      internalID: -1376417360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 951
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41f1d9d4df1c1c46a0b66ca974193b1
+      internalID: -2107126507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_13
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 951
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac4f0c1f2e65d448afb04a9deb849e
+      internalID: -474381394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_14
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 951
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c36f92a289527b439303d675dbbbc6c
+      internalID: 1082875670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_15
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 952
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9750f97eede8a394886545612938083a
+      internalID: -749758247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 951
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f688ef2fcc8845bc8a02734a11d99
+      internalID: 120372945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 951
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551a8a8122c73734497073ccf2175966
+      internalID: -1279430712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 954
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e08741599d30e4d85608fd6535f350
+      internalID: -1071956202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_19
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 958
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b4da32becf2b74494100357a26231a
+      internalID: 1842082392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 905
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6050fffd1846cf42ae0cd1be3a5d5e7
+      internalID: -1821944694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 902
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67acbab3e4d7d5e46892560fac1da290
+      internalID: 712056628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 903
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633bef3f68ae1254fb71ea7c18b74672
+      internalID: 932517690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_23
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 903
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb5d27c56ec09b409b689f50f34a6c9
+      internalID: -1666848661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_24
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 903
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d62a7d13d846b34381c955313fc7252
+      internalID: -881807347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 903
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d78c5f37649443898d2a3f65b81e2
+      internalID: -467412397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_26
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 904
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1599f24a0d23e004b9ffa699f275fb0e
+      internalID: 849786981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_27
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 903
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d13a5a47f0ef3478d13e5cfebccb6c
+      internalID: -468097309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 903
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88bd198689e76d4b8a76e07a1e0dea5
+      internalID: 1218072856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_29
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 906
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d305590303717f440b40530906021421
+      internalID: -1158790527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 858
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8461e8e63f48bd04b82bbfd5a8057696
+      internalID: -827980530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 856
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668ffa7ba34a6db43b2e0695468b0946
+      internalID: -892095825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 853
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e72177e54f3fb43a4bd62b3a64e349
+      internalID: 77856477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 851
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdbc3bd38d70b845828e1efb996d11f
+      internalID: 842972184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_34
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 851
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3665370aa4d2e48933dc18bd716c71
+      internalID: 646255401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_35
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 851
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f94fe15f4b8f149b18751d441fe694
+      internalID: -1450161937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 851
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e252d6c018f60ee4b9a7646a1812ee12
+      internalID: -1466499151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 852
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91df56eb163ca24cb23255158ae4dd6
+      internalID: -1336467580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_38
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 851
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd81e95b70862c4e8d524f51513b648
+      internalID: 2050252764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 854
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be22bc90cae5cf14d87c28cb2ee1fd1c
+      internalID: -31692544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 805
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8066679d5703d66459cd92362e9aa7ba
+      internalID: -56043362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 809
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4372001037a04dafecdd78f3cc1a8
+      internalID: 1688092789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 807
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21edc29806d6136409c3f15972470899
+      internalID: -1419203507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_43
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 804
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f7c1028e0ed2d4ea4b60a4a958103a
+      internalID: -1718877787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_44
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 802
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0a3d13edfaf0247b8837db745d0704
+      internalID: -1746496174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_45
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 802
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1786c8349a174b87ad8e6113530c4
+      internalID: -2019593766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_46
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 800
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0ca55eca20919499ca08a4c71b0e7c
+      internalID: -1424039200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 800
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb36f4f42a0cc64bb4f49da4d904c64
+      internalID: -1060891022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_48
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 800
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c27b38840e62a049a89973293e23452
+      internalID: -739371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_49
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 800
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acd3e70ba171aa42ac539e1b6777b42
+      internalID: -1370306152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 749
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9c30b5fdffffc46897ff558492a21f
+      internalID: 1419708731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 748
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034fb6e2d92399c47a284bc8a31d06db
+      internalID: -333767316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 748
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf9b90d6c69a5641965922f9481d2e8
+      internalID: 283122645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 751
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b52390b46a9c7143a8a4582d1579316
+      internalID: 523018291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 755
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514f4e02147849e42a1baa118da704eb
+      internalID: -299778222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 753
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb5ba98b4bdaaf4f90f595e2f3a70e6
+      internalID: 1303872936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_56
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 753
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f6005e3df83954381dfb7e9528d32f
+      internalID: 545273128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_57
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 751
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595252b209932844b80ff58b7f21996c
+      internalID: -1492659655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_58
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 751
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e07f686fe001e469c4c56dd5cbc5d2
+      internalID: 1415719480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_59
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 751
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703d154e84ee68b4396c921fd4ea78f3
+      internalID: 1703523673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 699
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65ae41131a12d942966ed9b4fa31c48
+      internalID: -633344114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_61
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 700
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f1037465c804149b8d9009b7deec99
+      internalID: -1590650269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 699
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037af1d2b63d8624b9b72d094efd01ce
+      internalID: -484496752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 699
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c062e638e2b614782354639406f16d
+      internalID: -272643757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_64
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 702
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcfc091058c3ab4b8beb38d3a65de7a
+      internalID: -459869928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_65
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 706
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501221fa67a27146aa7d5b2fa858894
+      internalID: -847633280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 705
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c33c78ebc3f3e54d9c158bef1c26e57
+      internalID: 975645301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_67
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 702
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00adb86ae8cf54d45bcbda9051d2b070
+      internalID: 2076896306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_68
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 703
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2460d40158a3dea49a2551fb1f74f57b
+      internalID: -2019085885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_69
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 703
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94f1fbbfabd29141bded2be1b97161e
+      internalID: 939805935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_70
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 618
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3317268bc05fdc7479ffaffaf5eafde8
+      internalID: -1985821961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_71
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 618
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d1b3f89109f1f439a40a287596bd42
+      internalID: 1097089859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_72
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 619
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d9261da3e22694da1fd5b43ae406ae
+      internalID: -1821998299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_73
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 618
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498185b3733f464ebe0f03905a31168
+      internalID: 1575555817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_74
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 618
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f607b1333359948aa5f9f8e1a6f248
+      internalID: -1111807830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_75
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 621
+        width: 35
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8059454cc051304685f5c8b9ef41449
+      internalID: 1722254327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 625
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3f475a746d93f4a98e939c60dd80d6
+      internalID: 1955444872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_77
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 623
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2677f1fdf57ec8e449a4580fcc1598dd
+      internalID: -993155395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_78
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 620
+        width: 34
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523898cf2a880aa4b818dea1ecb4705b
+      internalID: -501370062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_79
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 618
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a46f8d5cc5f3246a02d58aef93371b
+      internalID: 105477792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 563
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290fac3d5a6793443bb70c0a001c389a
+      internalID: -860772368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_81
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 563
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d215d161ec3da340b4ce75ec8f58ef7
+      internalID: -552298280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_82
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 563
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154545b17b2fcf24ab8c5ecc516e1025
+      internalID: 1513479597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_83
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 564
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd00d9210d090848af299b56f406450
+      internalID: -1910772850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_84
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 563
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddddc3a539cc97243a995bbf372c7085
+      internalID: 296814462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_85
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 563
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad308b925bcc814b94c69f69955c21e
+      internalID: 1523576300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_86
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 566
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faa515db7b8a1b4db27713c8379ee11
+      internalID: -2011219439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_87
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 569
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243d42b43b6baa14a81bb57e4ef8942c
+      internalID: 1301340471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_88
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 567
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be8c460487fff849bd0db05f40d39d5
+      internalID: -65439734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_89
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 565
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c6ae0d4b8947b44801d4d2fa6acc67
+      internalID: -1418095716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_90
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 512
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0085892df022df4abeb53c31c9ec27a
+      internalID: 756234922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_91
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 512
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ee6b5ad3a321244a95ffd145cbb347
+      internalID: 1125324392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_92
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 512
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a104cacafd1f8f4598e288295bd85aa
+      internalID: -522938527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_93
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 512
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cd8a7b41de25148b25448bd3d4f00a
+      internalID: -1551372395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_94
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 513
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f40d0b81972bc47943d95866aa2fd1
+      internalID: -1793646153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 512
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1b496bf2d941341ab372769f904786
+      internalID: -2038557887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_96
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 512
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a20fa05a6056419d6e66f833097bd
+      internalID: -509814323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_97
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 515
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be76b309f5c684e40814da3d42022770
+      internalID: 1155484692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_98
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 518
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87232956e2d26d4a99d57e8d5576145
+      internalID: -851225771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_99
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 516
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb87224d8c680541a682761f997aa5b
+      internalID: -361738640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 459
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614c707193c2181458c433320431dc49
+      internalID: -1552838490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_101
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 457
+        width: 36
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba8068929977c942922a05af9627680
+      internalID: -1950745650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_102
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 462
+        width: 37
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2531d9e9bd272c949b978673d0ebaff4
+      internalID: 2119477305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_103
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 462
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb92f431ad07c54ab6d264401a718ab
+      internalID: -683616145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_104
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 462
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed738b6be781674b83dc73cb92a862c
+      internalID: 1217070126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_105
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 463
+        width: 38
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0b2fb566f3c9c4d886542daf0ccdcf
+      internalID: -2052817923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_106
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 462
+        width: 37
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f66a8a683747bd4ca9b737f413dffa0
+      internalID: -262584774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_107
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 462
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd3745093b223145ae437eeb60e0d58
+      internalID: -1578549491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_108
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 465
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f490dcfc23fd4784d9dccf124e5b130c
+      internalID: 66251652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_109
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 468
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b87688162e16fd4395a792d4a15f086
+      internalID: -1788892021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 407
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a0d7316edbe5b43ab6c01ced09918e
+      internalID: 1271764553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_111
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 405
+        width: 31
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498aabd1736096a43bf80b1c35cb90b6
+      internalID: -1319535993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_112
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 403
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dca661557a3444f934d502e12d57b3
+      internalID: -623479108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_113
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 403
+        width: 33
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2069246ba23c9f0459ecfb941f53c0da
+      internalID: 1842565328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_114
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 407
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc22857d8c1a184ea64e060e31945aa
+      internalID: -713523455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_115
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 407
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b0588f5dd8b09469f48c1e9eaae98d
+      internalID: -1755327005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_116
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 408
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2356c29ce5d404693740e5c2d3be4e
+      internalID: -1159648027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_117
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 407
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc6d24986eee5649bd378df1c1070e5
+      internalID: 1771776158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_118
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 407
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f924a610816b2b24380ab2c0db5851f4
+      internalID: -1184238047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_119
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 410
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d10c681c413c04d8bdba8f7af63b6d
+      internalID: 1978067971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 355
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45bb40c1154d294aa56797941912ae4
+      internalID: 1314529993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_121
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 353
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac85049b29a31b541a5b78dfef210f71
+      internalID: 685133059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_122
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 351
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e158fb802224b64b9c4012b78cb3805
+      internalID: 1800820581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_123
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 334
+        width: 36
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d22b708f33a92a47ad1bcb4d39b4836
+      internalID: -938550978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_124
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 334
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779e34e9b9b20b94b870d7d2137ceccb
+      internalID: 220060974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_125
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 274
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b8fdd8b982e746aab67a02851e3dd
+      internalID: -950730735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_126
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 276
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e19856e257746d4fba7dcaf05a6699b
+      internalID: 2141491611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_127
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 274
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4979c0a9f64a6e14091a632e06234350
+      internalID: 265337363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_128
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 273
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8e69ead7bf7f5448657e7a587aea66
+      internalID: 770351860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_129
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 274
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f93cf9d5679854e84c9149b2c56d02
+      internalID: 1607185777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_130
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 276
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ac4bded02554e45b635152829db517
+      internalID: 2113220600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_131
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 275
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9abf5be34ab0a74bb8f033cb53e3f1f
+      internalID: -502414475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_132
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 274
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5080ded5449414292a429d8a6ca403
+      internalID: 19146472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_133
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 273
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e346b6b60b95c45af4f77912145a48
+      internalID: -2043480190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_134
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 272
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd202ad6fc1f9b44a2b383272ea9ec6
+      internalID: -1585383864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 190
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbc67d3c60ea9d40a1d7a9842c7863e
+      internalID: 960870561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_136
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e1642b711672b429340979cf18b729
+      internalID: -315738877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_137
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 193
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a821755947bcfa04c81b6fabcb43d0cd
+      internalID: -421879690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_138
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07c7bfb1ed62f84186cab001d281bd1
+      internalID: -1782379730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_139
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 191
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48766d3d63ba2754abc557c58c551c5e
+      internalID: -674274456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_140
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 190
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfd40a7e68f48046989107805769839
+      internalID: 1808931158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_141
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 189
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f23d8c6dd411f04d94d53723f8fc32a
+      internalID: -2085775113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_142
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 190
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b211693668ed2284581390363f222969
+      internalID: -1021930717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_143
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 191
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e12c45a134606458eb3b760dc75b25
+      internalID: -418047889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_144
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 193
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a960fe55cf2a89744b025fdc17f4f768
+      internalID: -1885460469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_145
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 134
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af41757b4df4af646a091aa1beabacc8
+      internalID: -746943997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_146
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 133
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0c6cfbf72396745af4dc2e6b1d1e94
+      internalID: -1087084897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_147
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 135
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29079cf71ce2abd4b81e65859a2754e1
+      internalID: 425890045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_148
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 137
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d26b9542e58204ca8fa94f787fbfcc
+      internalID: -255871483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_149
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 135
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da59a32298fb7440a86c63dd202bcb4
+      internalID: -1820288854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_150
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 134
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1feaa45accb143a58270f77648246
+      internalID: 1383094896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_151
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 133
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfac85ce606d07140a500307817eaef4
+      internalID: 250398361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_152
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 132
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42486272ff14714aadc3d1adad187e5
+      internalID: -463168378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_153
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 133
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43c14aef8bb70d4bb79e53a17f1d994
+      internalID: -103199734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_154
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 135
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00efeb41b335fdf4bad918f19e2ab644
+      internalID: 2053211949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_155
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 77
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5522a1fb5baa4f849b79a2719743da52
+      internalID: 448830768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_156
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 75
+        width: 32
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4cd1f545a9f6d4bb3f1c6ae8ff30a6
+      internalID: 1888843592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_157
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 74
+        width: 33
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb9da55ee1bef74caa591a56de10120
+      internalID: -359594117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_158
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 75
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f0c19da0228c0428355c7e39faa13f
+      internalID: -542261907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_159
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 77
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230bfe34078962d4a99b5aeef91435f7
+      internalID: 1604302487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_160
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 76
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe65dbd0a69da5a4d95fe88cff27f848
+      internalID: -61230601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_161
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 75
+        width: 30
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ec7e3921e3d604995a3377f70670b8
+      internalID: 1685200296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_162
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 74
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cd9024001690748b5adea8d5efaf45
+      internalID: 377040576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_163
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 73
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5b63189561aa241ae1fd959e7da70d
+      internalID: -544695581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_164
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 79
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b103e794fc3f164bb7505a533d343e1
+      internalID: -223189439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_165
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 24
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915a77ecc3e56dd4ea0f31f6496b6456
+      internalID: 174248987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_166
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 24
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989d52c44295aad4d8a65586ca6e98c0
+      internalID: -375052932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_167
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 22
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7af95f7078efb4fae6deec3965f528
+      internalID: -851953207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_168
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 21
+        width: 31
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1564261c884d1be4bb225d4eab99c241
+      internalID: 59951000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_169
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 23
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db9cc425a954f244982d3aff7205c1d
+      internalID: -1301718576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_170
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 25
+        width: 31
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46e852195140414d8d16f013ec42036
+      internalID: -1683076332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_171
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 25
+        width: 34
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18395e30f7a034540993b7af410b6f2a
+      internalID: 943960966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_172
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 24
+        width: 32
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f16d38d29802044e99e896c870410ad
+      internalID: -2017398764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_173
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 23
+        width: 33
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a7ba4674dd2364bb95afa085d985c4
+      internalID: -1487401368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Pokemon Black White - 312 Minun_174
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 22
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be4c08ff59455942a01d3f398362543
+      internalID: 78823527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f24e00e47a2bfde40b32b62a6f018934
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Pokemon Black White - 312 Minun_9: -1410572399
+      DS DSi - Pokemon Black White - 312 Minun_121: 685133059
+      DS DSi - Pokemon Black White - 312 Minun_86: -2011219439
+      DS DSi - Pokemon Black White - 312 Minun_49: -1370306152
+      DS DSi - Pokemon Black White - 312 Minun_157: -359594117
+      DS DSi - Pokemon Black White - 312 Minun_92: -522938527
+      DS DSi - Pokemon Black White - 312 Minun_112: -623479108
+      DS DSi - Pokemon Black White - 312 Minun_45: -2019593766
+      DS DSi - Pokemon Black White - 312 Minun_6: 1632047618
+      DS DSi - Pokemon Black White - 312 Minun_75: 1722254327
+      DS DSi - Pokemon Black White - 312 Minun_70: -1985821961
+      DS DSi - Pokemon Black White - 312 Minun_134: -1585383864
+      DS DSi - Pokemon Black White - 312 Minun_50: 1419708731
+      DS DSi - Pokemon Black White - 312 Minun_22: 932517690
+      DS DSi - Pokemon Black White - 312 Minun_110: 1271764553
+      DS DSi - Pokemon Black White - 312 Minun_39: -31692544
+      DS DSi - Pokemon Black White - 312 Minun_145: -746943997
+      DS DSi - Pokemon Black White - 312 Minun_40: -56043362
+      DS DSi - Pokemon Black White - 312 Minun_154: 2053211949
+      DS DSi - Pokemon Black White - 312 Minun_162: 377040576
+      DS DSi - Pokemon Black White - 312 Minun_83: -1910772850
+      DS DSi - Pokemon Black White - 312 Minun_8: -1391023897
+      DS DSi - Pokemon Black White - 312 Minun_65: -847633280
+      DS DSi - Pokemon Black White - 312 Minun_128: 770351860
+      DS DSi - Pokemon Black White - 312 Minun_63: -272643757
+      DS DSi - Pokemon Black White - 312 Minun_166: -375052932
+      DS DSi - Pokemon Black White - 312 Minun_146: -1087084897
+      DS DSi - Pokemon Black White - 312 Minun_42: -1419203507
+      DS DSi - Pokemon Black White - 312 Minun_81: -552298280
+      DS DSi - Pokemon Black White - 312 Minun_47: -1060891022
+      DS DSi - Pokemon Black White - 312 Minun_160: -61230601
+      DS DSi - Pokemon Black White - 312 Minun_80: -860772368
+      DS DSi - Pokemon Black White - 312 Minun_109: -1788892021
+      DS DSi - Pokemon Black White - 312 Minun_133: -2043480190
+      DS DSi - Pokemon Black White - 312 Minun_32: 77856477
+      DS DSi - Pokemon Black White - 312 Minun_51: -333767316
+      DS DSi - Pokemon Black White - 312 Minun_52: 283122645
+      DS DSi - Pokemon Black White - 312 Minun_137: -421879690
+      DS DSi - Pokemon Black White - 312 Minun_56: 545273128
+      DS DSi - Pokemon Black White - 312 Minun_46: -1424039200
+      DS DSi - Pokemon Black White - 312 Minun_171: 943960966
+      DS DSi - Pokemon Black White - 312 Minun_95: -2038557887
+      DS DSi - Pokemon Black White - 312 Minun_125: -950730735
+      DS DSi - Pokemon Black White - 312 Minun_41: 1688092789
+      DS DSi - Pokemon Black White - 312 Minun_117: 1771776158
+      DS DSi - Pokemon Black White - 312 Minun_2: -2037969953
+      DS DSi - Pokemon Black White - 312 Minun_1: 421703601
+      DS DSi - Pokemon Black White - 312 Minun_58: 1415719480
+      DS DSi - Pokemon Black White - 312 Minun_151: 250398361
+      DS DSi - Pokemon Black White - 312 Minun_44: -1746496174
+      DS DSi - Pokemon Black White - 312 Minun_168: 59951000
+      DS DSi - Pokemon Black White - 312 Minun_76: 1955444872
+      DS DSi - Pokemon Black White - 312 Minun_78: -501370062
+      DS DSi - Pokemon Black White - 312 Minun_147: 425890045
+      DS DSi - Pokemon Black White - 312 Minun_11: -1376417360
+      DS DSi - Pokemon Black White - 312 Minun_118: -1184238047
+      DS DSi - Pokemon Black White - 312 Minun_37: -1336467580
+      DS DSi - Pokemon Black White - 312 Minun_167: -851953207
+      DS DSi - Pokemon Black White - 312 Minun_91: 1125324392
+      DS DSi - Pokemon Black White - 312 Minun_20: -1821944694
+      DS DSi - Pokemon Black White - 312 Minun_74: -1111807830
+      DS DSi - Pokemon Black White - 312 Minun_148: -255871483
+      DS DSi - Pokemon Black White - 312 Minun_26: 849786981
+      DS DSi - Pokemon Black White - 312 Minun_124: 220060974
+      DS DSi - Pokemon Black White - 312 Minun_111: -1319535993
+      DS DSi - Pokemon Black White - 312 Minun_27: -468097309
+      DS DSi - Pokemon Black White - 312 Minun_101: -1950745650
+      DS DSi - Pokemon Black White - 312 Minun_69: 939805935
+      DS DSi - Pokemon Black White - 312 Minun_97: 1155484692
+      DS DSi - Pokemon Black White - 312 Minun_144: -1885460469
+      DS DSi - Pokemon Black White - 312 Minun_12: -2107126507
+      DS DSi - Pokemon Black White - 312 Minun_174: 78823527
+      DS DSi - Pokemon Black White - 312 Minun_155: 448830768
+      DS DSi - Pokemon Black White - 312 Minun_135: 960870561
+      DS DSi - Pokemon Black White - 312 Minun_103: -683616145
+      DS DSi - Pokemon Black White - 312 Minun_127: 265337363
+      DS DSi - Pokemon Black White - 312 Minun_3: 507312074
+      DS DSi - Pokemon Black White - 312 Minun_5: 177006009
+      DS DSi - Pokemon Black White - 312 Minun_33: 842972184
+      DS DSi - Pokemon Black White - 312 Minun_84: 296814462
+      DS DSi - Pokemon Black White - 312 Minun_55: 1303872936
+      DS DSi - Pokemon Black White - 312 Minun_170: -1683076332
+      DS DSi - Pokemon Black White - 312 Minun_88: -65439734
+      DS DSi - Pokemon Black White - 312 Minun_19: 1842082392
+      DS DSi - Pokemon Black White - 312 Minun_60: -633344114
+      DS DSi - Pokemon Black White - 312 Minun_139: -674274456
+      DS DSi - Pokemon Black White - 312 Minun_116: -1159648027
+      DS DSi - Pokemon Black White - 312 Minun_36: -1466499151
+      DS DSi - Pokemon Black White - 312 Minun_153: -103199734
+      DS DSi - Pokemon Black White - 312 Minun_10: -969137289
+      DS DSi - Pokemon Black White - 312 Minun_89: -1418095716
+      DS DSi - Pokemon Black White - 312 Minun_122: 1800820581
+      DS DSi - Pokemon Black White - 312 Minun_108: 66251652
+      DS DSi - Pokemon Black White - 312 Minun_99: -361738640
+      DS DSi - Pokemon Black White - 312 Minun_119: 1978067971
+      DS DSi - Pokemon Black White - 312 Minun_142: -1021930717
+      DS DSi - Pokemon Black White - 312 Minun_163: -544695581
+      DS DSi - Pokemon Black White - 312 Minun_106: -262584774
+      DS DSi - Pokemon Black White - 312 Minun_68: -2019085885
+      DS DSi - Pokemon Black White - 312 Minun_62: -484496752
+      DS DSi - Pokemon Black White - 312 Minun_130: 2113220600
+      DS DSi - Pokemon Black White - 312 Minun_104: 1217070126
+      DS DSi - Pokemon Black White - 312 Minun_90: 756234922
+      DS DSi - Pokemon Black White - 312 Minun_93: -1551372395
+      DS DSi - Pokemon Black White - 312 Minun_105: -2052817923
+      DS DSi - Pokemon Black White - 312 Minun_21: 712056628
+      DS DSi - Pokemon Black White - 312 Minun_107: -1578549491
+      DS DSi - Pokemon Black White - 312 Minun_136: -315738877
+      DS DSi - Pokemon Black White - 312 Minun_82: 1513479597
+      DS DSi - Pokemon Black White - 312 Minun_149: -1820288854
+      DS DSi - Pokemon Black White - 312 Minun_87: 1301340471
+      DS DSi - Pokemon Black White - 312 Minun_100: -1552838490
+      DS DSi - Pokemon Black White - 312 Minun_77: -993155395
+      DS DSi - Pokemon Black White - 312 Minun_25: -467412397
+      DS DSi - Pokemon Black White - 312 Minun_53: 523018291
+      DS DSi - Pokemon Black White - 312 Minun_73: 1575555817
+      DS DSi - Pokemon Black White - 312 Minun_152: -463168378
+      DS DSi - Pokemon Black White - 312 Minun_38: 2050252764
+      DS DSi - Pokemon Black White - 312 Minun_31: -892095825
+      DS DSi - Pokemon Black White - 312 Minun_115: -1755327005
+      DS DSi - Pokemon Black White - 312 Minun_169: -1301718576
+      DS DSi - Pokemon Black White - 312 Minun_138: -1782379730
+      DS DSi - Pokemon Black White - 312 Minun_132: 19146472
+      DS DSi - Pokemon Black White - 312 Minun_35: -1450161937
+      DS DSi - Pokemon Black White - 312 Minun_94: -1793646153
+      DS DSi - Pokemon Black White - 312 Minun_66: 975645301
+      DS DSi - Pokemon Black White - 312 Minun_59: 1703523673
+      DS DSi - Pokemon Black White - 312 Minun_43: -1718877787
+      DS DSi - Pokemon Black White - 312 Minun_13: -474381394
+      DS DSi - Pokemon Black White - 312 Minun_64: -459869928
+      DS DSi - Pokemon Black White - 312 Minun_30: -827980530
+      DS DSi - Pokemon Black White - 312 Minun_29: -1158790527
+      DS DSi - Pokemon Black White - 312 Minun_113: 1842565328
+      DS DSi - Pokemon Black White - 312 Minun_72: -1821998299
+      DS DSi - Pokemon Black White - 312 Minun_161: 1685200296
+      DS DSi - Pokemon Black White - 312 Minun_34: 646255401
+      DS DSi - Pokemon Black White - 312 Minun_4: -478104332
+      DS DSi - Pokemon Black White - 312 Minun_61: -1590650269
+      DS DSi - Pokemon Black White - 312 Minun_114: -713523455
+      DS DSi - Pokemon Black White - 312 Minun_158: -542261907
+      DS DSi - Pokemon Black White - 312 Minun_173: -1487401368
+      DS DSi - Pokemon Black White - 312 Minun_28: 1218072856
+      DS DSi - Pokemon Black White - 312 Minun_143: -418047889
+      DS DSi - Pokemon Black White - 312 Minun_57: -1492659655
+      DS DSi - Pokemon Black White - 312 Minun_79: 105477792
+      DS DSi - Pokemon Black White - 312 Minun_159: 1604302487
+      DS DSi - Pokemon Black White - 312 Minun_24: -881807347
+      DS DSi - Pokemon Black White - 312 Minun_98: -851225771
+      DS DSi - Pokemon Black White - 312 Minun_120: 1314529993
+      DS DSi - Pokemon Black White - 312 Minun_150: 1383094896
+      DS DSi - Pokemon Black White - 312 Minun_54: -299778222
+      DS DSi - Pokemon Black White - 312 Minun_0: -1274090994
+      DS DSi - Pokemon Black White - 312 Minun_141: -2085775113
+      DS DSi - Pokemon Black White - 312 Minun_14: 1082875670
+      DS DSi - Pokemon Black White - 312 Minun_7: 1704526721
+      DS DSi - Pokemon Black White - 312 Minun_102: 2119477305
+      DS DSi - Pokemon Black White - 312 Minun_156: 1888843592
+      DS DSi - Pokemon Black White - 312 Minun_67: 2076896306
+      DS DSi - Pokemon Black White - 312 Minun_140: 1808931158
+      DS DSi - Pokemon Black White - 312 Minun_16: 120372945
+      DS DSi - Pokemon Black White - 312 Minun_129: 1607185777
+      DS DSi - Pokemon Black White - 312 Minun_48: -739371
+      DS DSi - Pokemon Black White - 312 Minun_126: 2141491611
+      DS DSi - Pokemon Black White - 312 Minun_165: 174248987
+      DS DSi - Pokemon Black White - 312 Minun_18: -1071956202
+      DS DSi - Pokemon Black White - 312 Minun_71: 1097089859
+      DS DSi - Pokemon Black White - 312 Minun_172: -2017398764
+      DS DSi - Pokemon Black White - 312 Minun_17: -1279430712
+      DS DSi - Pokemon Black White - 312 Minun_15: -749758247
+      DS DSi - Pokemon Black White - 312 Minun_85: 1523576300
+      DS DSi - Pokemon Black White - 312 Minun_23: -1666848661
+      DS DSi - Pokemon Black White - 312 Minun_96: -509814323
+      DS DSi - Pokemon Black White - 312 Minun_164: -223189439
+      DS DSi - Pokemon Black White - 312 Minun_131: -502414475
+      DS DSi - Pokemon Black White - 312 Minun_123: -938550978
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

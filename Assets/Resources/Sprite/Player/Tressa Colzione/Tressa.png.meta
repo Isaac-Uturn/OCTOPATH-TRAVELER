@@ -117,6 +117,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -856,6 +857,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Tressa_20: -2957445951188647441
+      Tressa_24: -8698620955608748590
+      Tressa_8: 4151336772457654650
+      Tressa_22: 3642496013157280595
+      Tressa_19: 3976034054116580046
+      Tressa_21: 3156140432886859408
+      Tressa_5: -183650713779412072
+      Tressa_2: -5371510106490038158
+      Tressa_3: -8899377387934163477
+      Tressa_4: 2748967884973930618
+      Tressa_30: 7489521011586605032
+      Tressa_10: 5384675595235092830
+      Tressa_14: -7751349655162920878
+      Tressa_15: 6237047147247262117
+      Tressa_12: 7652773362413805642
+      Tressa_11: -3001593665538943505
+      Tressa_16: 8812767120413338033
+      Tressa_0: 1275438738835642799
+      Tressa_6: -4787638552721208637
+      Tressa_1: -8545925595149372054
+      Tressa_27: 4949619178314088929
+      Tressa_9: 6353739621232693272
+      Tressa_18: -2851671437952887283
+      Tressa_29: 1524822103237971145
+      Tressa_25: 6261974210290864932
+      Tressa_17: -7020254452243828144
+      Tressa_7: -578818701089814589
+      Tressa_28: 9124058190225618590
+      Tressa_26: 5600720775984647163
+      Tressa_13: -8262519477174261696
+      Tressa_23: 5900444268589953211
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -126,6 +126,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -928,6 +929,41 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Ophilia_32: -7582212870545563859
+      Ophilia_1: 980868849981363862
+      Ophilia_24: -4305108381151275922
+      Ophilia_5: -6787538094220624722
+      Ophilia_8: -1404990409449322054
+      Ophilia_0: -5890061306637672568
+      Ophilia_2: -6182840520597717326
+      Ophilia_11: -4832064630491331878
+      Ophilia_21: -633581398392874228
+      Ophilia_18: 3352889338672146586
+      Ophilia_19: 3591678180010616022
+      Ophilia_9: -1844628647918578966
+      Ophilia_25: 8972121539971821672
+      Ophilia_13: -4313821954164818800
+      Ophilia_20: -92857814312670349
+      Ophilia_26: -1837541026484267866
+      Ophilia_28: -889480097324576823
+      Ophilia_4: 5462856208587444106
+      Ophilia_17: 8815215222941126676
+      Ophilia_10: -2850672574675845712
+      Ophilia_12: 9072203398461326057
+      Ophilia_6: 4244117680698469397
+      Ophilia_7: 6973563719210255530
+      Ophilia_23: -862767487194560933
+      Ophilia_16: 2588604820555030355
+      Ophilia_33: -711315207273312707
+      Ophilia_27: -5343579636769558029
+      Ophilia_31: 9011882979807213499
+      Ophilia_29: 2252461061729920217
+      Ophilia_14: -3442813512495371575
+      Ophilia_15: -1718568458509570146
+      Ophilia_22: -5197375413248800271
+      Ophilia_30: -1092338807420777509
+      Ophilia_3: -3394034486176116656
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

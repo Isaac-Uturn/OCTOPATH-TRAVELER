@@ -6,8 +6,12 @@ using UnityEngine.SceneManagement;
 
 public class Player : Alliance
 {
+    public static Player instance = null;
+
     public List<Alliance> alliance;
-    
+
+    public GameObject Prefab;
+
     Vector2 movement;
     float offset;
 
@@ -22,14 +26,36 @@ public class Player : Alliance
     BoxCollider playerCollider;
     Rigidbody playerRigid;
 
-    int randomValue;
     int battleRandom;
+    int randomValue;
 
-    private void Start()
+    public static Player Instance
     {
-        basicSpeed = walkSpeed;
+        get
+        {
+            if (null == instance)
+            {
+                return null;
+            }
+            return instance;
+        }
+    }
 
-        DontDestroyOnLoad(this);
+    void Awake()
+    {
+        alliance.Add(this);
+
+        if (null == instance)
+        {
+            instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+        
+        basicSpeed = walkSpeed;
 
         playerAnim = GetComponent<Animator>();
         playerAnim.enabled = false;
@@ -38,16 +64,29 @@ public class Player : Alliance
         playerCollider.size = new Vector3(0.5f, 0.66f, 0.5f);
         playerRigid = gameObject.AddComponent<Rigidbody>();
         playerRigid.freezeRotation = true;
-    }
 
+        currentState = ALLYSTATE.FowardIdle;
+    }
     private void Update()
     {
+        if (Input.GetKeyDown(KeyCode.K))
+        {
+            isDown = false;
+
+            SceneManager.LoadScene("World");
+        }
+
+        if (Input.GetKeyDown(KeyCode.C))
+        {
+            CreateColleague();
+        }
+
         if (ALLYSTATE.Combat != currentState)
         {
             MoveToPlayer();
-            //ChangeBattleSnece();
         }
 
+            ChangeBattleSnece();
         switch (currentState)
         {
             case ALLYSTATE.FowardIdle:
@@ -71,6 +110,8 @@ public class Player : Alliance
                 ChangeSpeed();
                 break;
             case ALLYSTATE.Combat:
+                playerAnim.enabled = true;
+                playerAnim.SetBool("isCombat", true);
                 break;
         }
     }
@@ -85,7 +126,9 @@ public class Player : Alliance
         playerAnim.SetFloat("DirectX", movement.x * offset);
         playerAnim.SetFloat("DirectY", movement.y * offset);
 
-        transform.position += new Vector3(movement.x, 0, movement.y).normalized * basicSpeed * Time.deltaTime;
+        Vector3 Dir = new Vector3(movement.x, 0, movement.y).normalized;
+
+        transform.position += Dir * basicSpeed * Time.deltaTime;
 
         if (movement.x > 0 || movement.x < 0 ||
             movement.y > 0 || movement.y < 0)
@@ -148,28 +191,75 @@ public class Player : Alliance
         }
     }
 
+    bool isDown = false;
+
     void ChangeBattleSnece()
     {
-        if (battleRandom == randomValue)
+        if (Input.GetKeyDown(KeyCode.B) && false == isDown)
         {
+            isDown = true;
+
             randomValue = Random.Range(1000, 2500);
             SceneManager.LoadScene("Battle");
 
             currentState = ALLYSTATE.Combat;
-            playerAnim.enabled = true;
-            playerAnim.SetBool("isCombat", true);
+        }
+
+        if (battleRandom == randomValue)
+        {
+
         }
     }
+
     public List<Alliance> GetAllianceList()
     {
         return alliance;
     }
 
-    //void OnEnable()
-    //{
-    //    // 씬 매니저의 sceneLoaded에 체인을 건다.
-    //    SceneManager.sceneLoaded += OnSceneLoaded;
-    //}
+
+    void CreateColleague()
+    {
+        if (5 == alliance.Count)
+        {
+            return;
+        }
+
+        GameObject instante = Instantiate(Prefab, null);
+        DontDestroyOnLoad(instante);
+        Colleague colleague = instante.GetComponent<Colleague>();
+
+        switch (alliance.Count)
+        {
+            case 1:
+                colleague.prevColleague = this;
+                break;
+
+            case 2:
+                colleague.prevColleague = alliance[1];
+                break;
+
+            case 3:
+                colleague.prevColleague = alliance[2];
+                break;
+
+            case 4:
+                colleague.prevColleague = alliance[3];
+                break;
+
+            case 5:
+                colleague.prevColleague = alliance[4];
+                break;
+        }
+
+        alliance.Add(colleague);
+    }
+
+    void OnEnable()
+    {
+        // 씬 매니저의 sceneLoaded에 체인을 건다.
+        //SceneManager.sceneLoaded += OnSceneLoaded;
+
+    }
 
     //// 체인을 걸어서 이 함수는 매 씬마다 호출된다.
     //void OnSceneLoaded(Scene scene, LoadSceneMode mode)

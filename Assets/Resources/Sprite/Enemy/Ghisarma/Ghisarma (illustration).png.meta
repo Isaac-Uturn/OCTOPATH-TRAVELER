@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -256,6 +257,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Ghisarma (illustration)_3: -3678917593934528525
+      Ghisarma (illustration)_4: 8852743698053846623
+      Ghisarma (illustration)_5: 1455710471008028488
+      Ghisarma (illustration)_1: 6969722412483265376
+      Ghisarma (illustration)_2: 5549985074812437012
+      Ghisarma (illustration)_0: -5241363538405914344
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

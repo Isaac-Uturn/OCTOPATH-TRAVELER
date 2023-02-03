@@ -42,6 +42,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -256,6 +257,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Dragon_1: 7236858470366593164
+      Dragon_5: 8500815652691911736
+      Dragon_0: 1372335161102834277
+      Dragon_3: -6818290705752391711
+      Dragon_2: 5967068118830826598
+      Dragon_4: -5048749159071775346
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

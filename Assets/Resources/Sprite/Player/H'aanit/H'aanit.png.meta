@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -832,6 +833,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      H'aanit_22: -5392193680978672152
+      H'aanit_11: 7868069802145748224
+      H'aanit_7: -8328225210967210036
+      H'aanit_14: 6186499285149362911
+      H'aanit_20: 8073587038639358814
+      H'aanit_29: -212930803796413085
+      H'aanit_21: 3730808913062919776
+      H'aanit_26: -7619979741200468106
+      H'aanit_19: -3321529993874759739
+      H'aanit_23: 2787840056757368063
+      H'aanit_5: -5614305856196163816
+      H'aanit_18: -3124452390930462503
+      H'aanit_3: 6315657261348869299
+      H'aanit_12: 1928185682095715708
+      H'aanit_4: -2369700891291238432
+      H'aanit_16: -7965077435419613518
+      H'aanit_0: -3238222516247335816
+      H'aanit_24: 3976668482494171876
+      H'aanit_6: -1429846414161194535
+      H'aanit_2: 7547145674085684791
+      H'aanit_9: 1251671937143326143
+      H'aanit_1: 1953905724859215288
+      H'aanit_15: 3571567502934955305
+      H'aanit_28: 5354779325210863671
+      H'aanit_27: -4295332254273883968
+      H'aanit_25: -6189075776217281437
+      H'aanit_17: -8244067315802583522
+      H'aanit_8: -3296675186711526714
+      H'aanit_10: -4620554240798038082
+      H'aanit_13: -8191470461830541673
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

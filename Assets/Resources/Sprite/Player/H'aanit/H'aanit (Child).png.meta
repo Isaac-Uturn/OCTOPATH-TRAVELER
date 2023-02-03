@@ -273,6 +273,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2104,6 +2105,90 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      H'aanit (Child)_76: -3058840123897168925
+      H'aanit (Child)_35: -8007949817977128630
+      H'aanit (Child)_27: 3189300694596306155
+      H'aanit (Child)_9: -8066980833511640361
+      H'aanit (Child)_55: 5221389466191567763
+      H'aanit (Child)_42: -7046613746593554863
+      H'aanit (Child)_2: -2767937630005139443
+      H'aanit (Child)_70: 9085587766032947303
+      H'aanit (Child)_63: 2986313686841376098
+      H'aanit (Child)_28: -8586427185893513903
+      H'aanit (Child)_54: -8275524071327973995
+      H'aanit (Child)_77: 4975760810150353236
+      H'aanit (Child)_51: -7977362970800595005
+      H'aanit (Child)_53: -8917639531584891879
+      H'aanit (Child)_31: 1504510511470469544
+      H'aanit (Child)_67: -2486006035450160664
+      H'aanit (Child)_60: 3149420421043275857
+      H'aanit (Child)_16: -8676623343389216141
+      H'aanit (Child)_7: -2785614350331353553
+      H'aanit (Child)_29: -3333133385564611117
+      H'aanit (Child)_23: 772483054726872511
+      H'aanit (Child)_5: -3285206662289111964
+      H'aanit (Child)_48: 2354450425088289287
+      H'aanit (Child)_58: -5367771158830177828
+      H'aanit (Child)_0: -3920378471875117829
+      H'aanit (Child)_72: 6638726000488500574
+      H'aanit (Child)_14: -1881272950238369771
+      H'aanit (Child)_82: -4402893298549904105
+      H'aanit (Child)_1: 252312784781011588
+      H'aanit (Child)_32: 1129446138813442196
+      H'aanit (Child)_17: 6638893976426606892
+      H'aanit (Child)_21: -4134891963010946902
+      H'aanit (Child)_22: -1271949272564110759
+      H'aanit (Child)_79: 9074622572701075664
+      H'aanit (Child)_71: -4873080675870244638
+      H'aanit (Child)_65: 1693575367178918501
+      H'aanit (Child)_52: 6183136661939058310
+      H'aanit (Child)_62: 694743585465076784
+      H'aanit (Child)_49: -5385661271545934095
+      H'aanit (Child)_59: -6763315905818599480
+      H'aanit (Child)_15: 1683761263579125693
+      H'aanit (Child)_26: 8466558895849362681
+      H'aanit (Child)_8: -153287140521648602
+      H'aanit (Child)_11: 2147620599747983090
+      H'aanit (Child)_12: 5789956792282209571
+      H'aanit (Child)_20: -7268795314631667893
+      H'aanit (Child)_43: -8610048910317123148
+      H'aanit (Child)_57: -1335084839018168150
+      H'aanit (Child)_78: -8879740072930665636
+      H'aanit (Child)_18: -5467471276645521012
+      H'aanit (Child)_41: 7007366436484626890
+      H'aanit (Child)_3: 4796293264012693334
+      H'aanit (Child)_37: -3755731568347494288
+      H'aanit (Child)_75: -1498868131072112450
+      H'aanit (Child)_6: 257099902147602276
+      H'aanit (Child)_34: 2949907399990877630
+      H'aanit (Child)_47: 3014894872776734061
+      H'aanit (Child)_46: 1843858504621580971
+      H'aanit (Child)_61: -753523115814474136
+      H'aanit (Child)_24: -3444095557739367550
+      H'aanit (Child)_40: 7396888356574050382
+      H'aanit (Child)_38: -4765915654109902371
+      H'aanit (Child)_74: 8836856656186088868
+      H'aanit (Child)_4: -3408390782237175961
+      H'aanit (Child)_30: -8331017669714803709
+      H'aanit (Child)_45: 7666713088064521207
+      H'aanit (Child)_50: 745509277677135900
+      H'aanit (Child)_10: -4676622842341683677
+      H'aanit (Child)_80: -7642344919235410781
+      H'aanit (Child)_25: 3956651667459674869
+      H'aanit (Child)_81: -369135757146479748
+      H'aanit (Child)_44: 4120057359184214446
+      H'aanit (Child)_68: -1975174869881974084
+      H'aanit (Child)_56: -2887863319149151678
+      H'aanit (Child)_36: 3014708640557954893
+      H'aanit (Child)_69: 7285424820658830250
+      H'aanit (Child)_13: 4477312794633388216
+      H'aanit (Child)_19: 2810231094960882314
+      H'aanit (Child)_73: -4444991551286008264
+      H'aanit (Child)_33: -5773915089325909951
+      H'aanit (Child)_39: 5391698849576032738
+      H'aanit (Child)_64: 1282464965686681341
+      H'aanit (Child)_66: 6807555251329730945
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
