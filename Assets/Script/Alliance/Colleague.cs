@@ -10,22 +10,17 @@ public class Colleague : Alliance
     [SerializeField]
     private float followSpeed;
 
-    Animator colleagueAnim;
-    SpriteRenderer colleagueRenderer;
-    BoxCollider colleagueCollider;
-    Rigidbody colleagueRigid;
-
     float moveX;
     float moveY;
 
     void Awake()
     {
-        colleagueAnim = GetComponent<Animator>();
-        colleagueRenderer = GetComponent<SpriteRenderer>();
-        colleagueCollider = gameObject.AddComponent<BoxCollider>();
-        colleagueCollider.size = new Vector3(0.5f, 0.66f, 0.5f);
-        //colleagueRigid = gameObject.AddComponent<Rigidbody>();
-        //colleagueRigid.freezeRotation = true;
+        gameObject.layer = 7;
+    }
+
+    protected override void Start()
+    {
+        base.Start();
     }
 
     void LateUpdate()
@@ -49,32 +44,32 @@ public class Colleague : Alliance
         switch (currentState)
         {
             case ALLYSTATE.FowardIdle:
-                colleagueAnim.enabled = false;
-                colleagueRenderer.sprite = sprites[1];
+                aAnim.enabled = false;
+                aRenderer.sprite = sprites[1];
                 break;
             case ALLYSTATE.BackIdle:
-                colleagueAnim.enabled = false;
-                colleagueRenderer.sprite = sprites[0];
+                aAnim.enabled = false;
+                aRenderer.sprite = sprites[0];
                 break;
             case ALLYSTATE.LeftIdle:
-                colleagueAnim.enabled = false;
-                colleagueRenderer.sprite = sprites[2];
+                aAnim.enabled = false;
+                aRenderer.sprite = sprites[2];
                 break;
             case ALLYSTATE.RightIdle:
-                colleagueAnim.enabled = false;
-                colleagueRenderer.sprite = sprites[3];
+                aAnim.enabled = false;
+                aRenderer.sprite = sprites[3];
                 break;
             case ALLYSTATE.Move:
-                colleagueAnim.enabled = true;
+                aAnim.enabled = true;
                 moveX = prevColleague.GetMoveX();
                 moveY = prevColleague.GetMoveY();
 
-                colleagueAnim.SetFloat("DirectX", moveX);
-                colleagueAnim.SetFloat("DirectY", moveY);
+                aAnim.SetFloat("DirectX", moveX);
+                aAnim.SetFloat("DirectY", moveY);
                 break;
             case ALLYSTATE.Combat:
-                colleagueAnim.enabled = true;
-                colleagueAnim.SetBool("isCombat", true);
+                aAnim.enabled = true;
+                aAnim.SetBool("isCombat", true);
                 break;
         }
     }
@@ -93,7 +88,7 @@ public class Colleague : Alliance
     {
         if ("Player" == collision.gameObject.tag)
         {
-            colleagueCollider.isTrigger = true;
+            aCollider.isTrigger = true;
         }
     }
 
@@ -101,7 +96,7 @@ public class Colleague : Alliance
     {
         if ("Player" != other.gameObject.tag)
         {
-            colleagueCollider.isTrigger = false;
+            aCollider.isTrigger = false;
         }
     }
 

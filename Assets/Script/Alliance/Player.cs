@@ -10,7 +10,8 @@ public class Player : Alliance
 
     public List<Alliance> alliance;
 
-    public GameObject Prefab;
+    public GameObject[] prefab = new GameObject[2];
+    private int cIndex = 0;
 
     Vector2 movement;
     float offset;
@@ -20,11 +21,6 @@ public class Player : Alliance
     private float walkSpeed;
     [SerializeField]
     private float runSpeed;
-
-    Animator playerAnim;
-    SpriteRenderer playerRenderer;
-    BoxCollider playerCollider;
-    Rigidbody playerRigid;
 
     int battleRandom;
     int randomValue;
@@ -43,6 +39,8 @@ public class Player : Alliance
 
     void Awake()
     {
+        gameObject.layer = 6;
+
         alliance.Add(this);
 
         if (null == instance)
@@ -54,19 +52,17 @@ public class Player : Alliance
         {
             Destroy(gameObject);
         }
-        
+
         basicSpeed = walkSpeed;
-
-        playerAnim = GetComponent<Animator>();
-        playerAnim.enabled = false;
-        playerRenderer = GetComponent<SpriteRenderer>();
-        playerCollider = gameObject.AddComponent<BoxCollider>();
-        playerCollider.size = new Vector3(0.5f, 0.66f, 0.5f);
-        playerRigid = gameObject.AddComponent<Rigidbody>();
-        playerRigid.freezeRotation = true;
-
         currentState = ALLYSTATE.FowardIdle;
     }
+
+    protected override void Start()
+    {
+        base.Start();
+        aAnim.enabled = false;
+    }
+
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.K))
@@ -86,32 +82,33 @@ public class Player : Alliance
             MoveToPlayer();
         }
 
-            ChangeBattleSnece();
+        ChangeBattleSnece();
+
         switch (currentState)
         {
             case ALLYSTATE.FowardIdle:
-                playerAnim.enabled = false;
-                playerRenderer.sprite = sprites[1];
+                aAnim.enabled = false;
+                aRenderer.sprite = sprites[1];
                 break;
             case ALLYSTATE.LeftIdle:
-                playerAnim.enabled = false;
-                playerRenderer.sprite = sprites[2];
+                aAnim.enabled = false;
+                aRenderer.sprite = sprites[2];
                 break;
             case ALLYSTATE.RightIdle:
-                playerAnim.enabled = false;
-                playerRenderer.sprite = sprites[3];
+                aAnim.enabled = false;
+                aRenderer.sprite = sprites[3];
                 break;
             case ALLYSTATE.BackIdle:
-                playerAnim.enabled = false;
-                playerRenderer.sprite = sprites[0];
+                aAnim.enabled = false;
+                aRenderer.sprite = sprites[0];
                 break;
             case ALLYSTATE.Move:
                 TransAnimation();
                 ChangeSpeed();
                 break;
             case ALLYSTATE.Combat:
-                playerAnim.enabled = true;
-                playerAnim.SetBool("isCombat", true);
+                aAnim.enabled = true;
+                aAnim.SetBool("isCombat", true);
                 break;
         }
     }
@@ -123,8 +120,8 @@ public class Player : Alliance
 
         offset = 0.5f + Input.GetAxis("Sprint") * 0.5f;
 
-        playerAnim.SetFloat("DirectX", movement.x * offset);
-        playerAnim.SetFloat("DirectY", movement.y * offset);
+        aAnim.SetFloat("DirectX", movement.x * offset);
+        aAnim.SetFloat("DirectY", movement.y * offset);
 
         Vector3 Dir = new Vector3(movement.x, 0, movement.y).normalized;
 
@@ -134,7 +131,7 @@ public class Player : Alliance
             movement.y > 0 || movement.y < 0)
         {
             battleRandom++;
-            playerAnim.enabled = true;
+            aAnim.enabled = true;
 
             currentState = ALLYSTATE.Move;
         }
@@ -216,7 +213,6 @@ public class Player : Alliance
         return alliance;
     }
 
-
     void CreateColleague()
     {
         if (5 == alliance.Count)
@@ -224,9 +220,16 @@ public class Player : Alliance
             return;
         }
 
-        GameObject instante = Instantiate(Prefab, null);
+        GameObject instante = Instantiate(prefab[cIndex], null);
         DontDestroyOnLoad(instante);
         Colleague colleague = instante.GetComponent<Colleague>();
+        colleague.transform.position = alliance[alliance.Count - 1].transform.position;
+        colleague.transform.position += new Vector3(0.0f, 1.0f, 0.0f);
+
+        if (1 > cIndex)
+        {
+            ++cIndex;
+        }
 
         switch (alliance.Count)
         {
