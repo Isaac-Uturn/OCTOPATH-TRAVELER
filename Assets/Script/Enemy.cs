@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    int hp;
-    int maxHp;
-
     //약점 다섯개
     //속성 무기
 
@@ -14,14 +11,16 @@ public class Enemy : MonoBehaviour
     //브레이크포인트가 0이 되면 기절
     int braekPoint;
 
-    Animator enemyAnim;
-
+    Animator animator;
+    SpriteRenderer spriteRenderer;
+    AttributeSet attribute;
 
     void Start()
     {
-        enemyAnim = GetComponent<Animator>();
+        animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        attribute = GetComponent<AttributeSet>();
     }
-
 
     void Update()
     {
