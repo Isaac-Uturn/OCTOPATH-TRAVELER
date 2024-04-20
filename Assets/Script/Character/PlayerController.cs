@@ -78,7 +78,7 @@ public class PlayerController : Character
     {
         if ("Player" == collision.gameObject.tag)
         {
-            collider.isTrigger = true;
+            GetComponent<Collider>().isTrigger = true;
         }
     }
 
@@ -86,7 +86,7 @@ public class PlayerController : Character
     {
         if ("Player" != other.gameObject.tag)
         {
-            collider.isTrigger = false;
+            GetComponent<Collider>().isTrigger = false;
         }
     }
 

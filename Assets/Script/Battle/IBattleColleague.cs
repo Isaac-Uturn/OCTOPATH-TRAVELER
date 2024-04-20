@@ -6,8 +6,5 @@ public interface IBattleColleague
 {
     IBattleMediator BattleManager { get; set; }
 
-    float Attack(GameObject target);
-
-    void Hit(float damage);
+    IEnumerator Notify();
 }
-

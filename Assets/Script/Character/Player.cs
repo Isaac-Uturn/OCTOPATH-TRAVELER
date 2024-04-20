@@ -3,19 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public enum ALLYSTATE
+public class Player : PlayableCharacter
 {
-    FowardIdle,
-    LeftIdle,
-    RightIdle,
-    BackIdle,
-    Move,
-    Combat,
-}
-
-public class Player : Character
-{
-    protected ALLYSTATE currentState;
+    protected CharcterMoveState currentState;
 
     public List<Character> alliance;
     public GameObject[] prefab = new GameObject[2];
@@ -39,7 +29,7 @@ public class Player : Character
         alliance.Add(this);
 
         basicSpeed = walkSpeed;
-        currentState = ALLYSTATE.FowardIdle;
+        currentState = CharcterMoveState.ForwardIdle;
     }
 
     protected override void Start()
@@ -51,7 +41,7 @@ public class Player : Character
 
     //약점
     //고유 액션
-    public ALLYSTATE GetState()
+    public CharcterMoveState GetState()
     {
         return currentState;
     }
@@ -108,7 +98,7 @@ public class Player : Character
             battleRandom++;
             animator.enabled = true;
 
-            currentState = ALLYSTATE.Move;
+            currentState = CharcterMoveState.Move;
         }
 
         else
@@ -163,25 +153,25 @@ public class Player : Character
         if (Input.GetKeyUp(KeyCode.W)
             || Input.GetKeyUp(KeyCode.UpArrow))
         {
-            currentState = ALLYSTATE.BackIdle;
+            currentState = CharcterMoveState.BackIdle;
         }
 
         else if (Input.GetKeyUp(KeyCode.S)
             || Input.GetKeyUp(KeyCode.DownArrow))
         {
-            currentState = ALLYSTATE.FowardIdle;
+            currentState = CharcterMoveState.ForwardIdle;
         }
 
         else if (Input.GetKeyUp(KeyCode.A)
             || Input.GetKeyUp(KeyCode.LeftArrow))
         {
-            currentState = ALLYSTATE.LeftIdle;
+            currentState = CharcterMoveState.LeftIdle;
         }
 
         else if (Input.GetKeyUp(KeyCode.D)
             || Input.GetKeyUp(KeyCode.RightArrow))
         {
-            currentState = ALLYSTATE.RightIdle;
+            currentState = CharcterMoveState.RightIdle;
         }
     }
 
@@ -196,7 +186,7 @@ public class Player : Character
             randomValue = Random.Range(1000, 2500);
             SceneManager.LoadScene("Battle");
 
-            currentState = ALLYSTATE.Combat;
+            currentState = CharcterMoveState.Combat;
         }
 
         if (battleRandom == randomValue)

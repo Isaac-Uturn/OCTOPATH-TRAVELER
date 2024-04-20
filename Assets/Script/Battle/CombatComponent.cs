@@ -6,8 +6,27 @@ using UnityEngine;
 public class CombatComponent : MonoBehaviour, IBattleColleague
 {
     public IBattleMediator BattleManager { get; set; }
+    
     [HideInInspector]
     public AttributeSet attributeSet = null;
+
+    // Attack 시 공격 대상
+    public GameObject Target { get; set; } 
+
+    public ActionType actiontype;
+
+    public ActionType ActionType
+    {
+        get
+        {
+            return actiontype;
+        }
+
+        set
+        {
+            actiontype = value;
+        }
+    }
 
     bool isAttack = false;
 
@@ -16,45 +35,33 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
         BattleManager = battleManager;
     }
 
-    public float Attack(GameObject target)
+    public IEnumerator Notify()
     {
-        StartCoroutine(AttackMove(target));
-        return 10;
-    }
-
-    IEnumerator AttackMove(GameObject target)
-    {
-        Vector3 startPos = transform.position;
-        Vector3 endPos = target.transform.position;
-
-        float alpha = 0.0f;
-
-        while (true)
+        switch (actiontype)
         {
-            transform.position = Vector3.Lerp(startPos, endPos, alpha);
-            alpha += Time.deltaTime;
-
-            if (1.0f <= alpha)
-            {
+            case ActionType.Skill:
                 break;
-            }
-            
-            yield return null;
+            case ActionType.Attack:
+                yield return Attack();
+                break;
+            case ActionType.Defanse:
+                break;
+            case ActionType.Item:
+                break;
+            case ActionType.Run:
+                break;
+            default:
+                Debug.Log("해당 액션을 동작할 수 없습니다.");
+                break;
         }
 
-        BattleManager.Battle();
+        yield return null;
     }
 
-
-    public void AttackComback(Transform target)
-    {
-        StartCoroutine(AttackCombackMove(target));
-    }
-
-    IEnumerator AttackCombackMove(Transform target)
+    IEnumerator Attack()
     {
         Vector3 startPos = transform.position;
-        Vector3 endPos = target.transform.position;
+        Vector3 endPos = Vector3.zero;
 
         float alpha = 0.0f;
 
@@ -71,9 +78,29 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
             yield return null;
         }
 
-        BattleManager.Battle();
+        yield return AttackComback(startPos);
     }
 
+    IEnumerator AttackComback(Vector3 pos)
+    {
+        Vector3 startPos = transform.position;
+        Vector3 endPos = pos;
+
+        float alpha = 0.0f;
+
+        while (true)
+        {
+            transform.position = Vector3.Lerp(startPos, endPos, alpha);
+            alpha += Time.deltaTime;
+
+            if (1.0f <= alpha)
+            {
+                break;
+            }
+
+            yield return null;
+        }
+    }
 
     public void Hit(float damage)
     {

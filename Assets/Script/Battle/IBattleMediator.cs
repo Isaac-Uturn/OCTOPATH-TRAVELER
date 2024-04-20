@@ -4,8 +4,8 @@ using UnityEngine;
 
 public interface IBattleMediator
 {
-    void AddCharacter(GameObject character);
-    void AddEnemy(GameObject enemy);
+    void AddBattleColleague(IBattleColleague battleColleague);
 
-    public void Battle();
+    IEnumerator Battle();
 }
+    

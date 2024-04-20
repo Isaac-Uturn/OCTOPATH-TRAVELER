@@ -4,26 +4,39 @@ using UnityEngine;
 
 public class BattleStage : MonoBehaviour
 {
-    // Start is called before the first frame update
+    [SerializeField]
+    BattleManager battleManager;
+
+    [SerializeField]
+    BattleUI BattleUI;
+
+    [SerializeField]
+    Transform[] leftTrasforms = new Transform[5];
+    [SerializeField]
+    Transform[] rightTrasforms = new Transform[5];
+
+    //배틀 시작 전 초기화
     void Start()
     {
-        BattleManager battleManager = FindObjectOfType<BattleManager>();
+        CombatComponent[] combaters = FindObjectsOfType<CombatComponent>();
 
-        Character[] characters = FindObjectsByType<Character>(FindObjectsSortMode.InstanceID);
-        Enemy[] enemys = FindObjectsByType<Enemy>(FindObjectsSortMode.InstanceID);
-
-        for (int i = 0; i < characters.Length; ++i)
+        for (int i = 0; i < combaters.Length; ++i)
         {
-            characters[i].GetComponent<CombatComponent>().BattleManager = battleManager;
-            battleManager.AddCharacter(characters[i].gameObject);
-        }
+            combaters[i].BattleManager = battleManager;
+            //속도 빠른 순으로 넣어야 함.
+            //아니면 무작위나 특정 순서
+            battleManager.AddBattleColleague(combaters[i]);
 
-        for (int i = 0; i < enemys.Length; ++i)
-        {
-            battleManager.AddEnemy(enemys[i].gameObject);
+            if (null != combaters[i].GetComponent<PlayableCharacter>())
+            {
+                BattleUI.AddCombater(combaters[i]);
+            }
         }
+        
+        battleManager.Initialized();
 
-        battleManager.Battle();
+        //배틀 시작
+        StartCoroutine(battleManager.Battle());
     }
 
     // Update is called once per frame
