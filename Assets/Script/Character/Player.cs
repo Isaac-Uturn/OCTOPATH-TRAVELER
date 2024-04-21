@@ -103,8 +103,6 @@ public class Player : PlayableCharacter
 
         else
         {
-            int a = 0;
-
             switch (currentState)
             {
                 //case ALLYSTATE.FowardIdle:

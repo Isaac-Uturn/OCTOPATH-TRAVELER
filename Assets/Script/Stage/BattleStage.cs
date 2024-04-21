@@ -8,7 +8,7 @@ public class BattleStage : MonoBehaviour
     BattleManager battleManager;
 
     [SerializeField]
-    BattleUI BattleUI;
+    BattleUI battleUI;
 
     [SerializeField]
     Transform[] leftTrasforms = new Transform[5];
@@ -23,16 +23,25 @@ public class BattleStage : MonoBehaviour
         for (int i = 0; i < combaters.Length; ++i)
         {
             combaters[i].BattleManager = battleManager;
+
             //속도 빠른 순으로 넣어야 함.
             //아니면 무작위나 특정 순서
             battleManager.AddBattleColleague(combaters[i]);
 
             if (null != combaters[i].GetComponent<PlayableCharacter>())
             {
-                BattleUI.AddCombater(combaters[i]);
+                battleManager.AddCharacter(combaters[i]);
+                combaters[i].CombatStart();
+            }
+
+            else if (null != combaters[i].GetComponent<Enemy>())
+            {
+                battleManager.AddEnemy(combaters[i]);
             }
         }
-        
+
+        battleUI.BattleManager = battleManager;
+        battleManager.turnChanged += battleUI.OnTurnChanged;
         battleManager.Initialized();
 
         //배틀 시작

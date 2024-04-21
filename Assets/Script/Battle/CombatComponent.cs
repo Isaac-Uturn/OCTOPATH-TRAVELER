@@ -7,28 +7,32 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
 {
     public IBattleMediator BattleManager { get; set; }
     
-    [HideInInspector]
-    public AttributeSet attributeSet = null;
+    AttributeSet attributeSet = null;
+    public AttributeSet AttributeSet { get; set; }
 
-    // Attack 시 공격 대상
-    public GameObject Target { get; set; } 
+    // 상호작용 액션 시 대상
+    public CombatComponent Target { get; set; }
 
-    public ActionType actiontype;
+    Animator animator;
 
+    public ActionType actionType;
     public ActionType ActionType
     {
         get
         {
-            return actiontype;
+            return actionType;
         }
 
         set
         {
-            actiontype = value;
+            actionType = value;
         }
     }
 
-    bool isAttack = false;
+    void Start() 
+    {
+        animator= GetComponent<Animator>();
+    }
 
     public void SetBattleManager(IBattleMediator battleManager)
     {
@@ -37,14 +41,14 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
 
     public IEnumerator Notify()
     {
-        switch (actiontype)
+        switch (actionType)
         {
             case ActionType.Skill:
                 break;
             case ActionType.Attack:
                 yield return Attack();
                 break;
-            case ActionType.Defanse:
+            case ActionType.Defense:
                 break;
             case ActionType.Item:
                 break;
@@ -58,10 +62,16 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
         yield return null;
     }
 
+    public virtual void ChooseRandomAction()
+    {
+        ActionType[] availableActions = { ActionType.Attack, ActionType.Skill };
+        actionType = availableActions[UnityEngine.Random.Range(0, availableActions.Length)];
+    }
+
     IEnumerator Attack()
     {
         Vector3 startPos = transform.position;
-        Vector3 endPos = Vector3.zero;
+        Vector3 endPos = Target.transform.position;
 
         float alpha = 0.0f;
 
@@ -100,6 +110,11 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
 
             yield return null;
         }
+    }
+
+    public void CombatStart()
+    {
+        animator.SetBool("isCombat", true);
     }
 
     public void Hit(float damage)

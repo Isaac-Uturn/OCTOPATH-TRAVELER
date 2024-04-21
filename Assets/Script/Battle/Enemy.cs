@@ -4,17 +4,15 @@ using UnityEngine;
 
 public class Enemy : Character
 {
-    //약점 다섯개
-    //속성 무기
-
-    //브레이크(브레이크까지 남은 횟수
-    //브레이크포인트가 0이 되면 기절
-    int braekPoint;
-    AttributeSet attribute;
+    AttributeSet attributeSet;
+    protected CombatComponent combatComponent;
 
     void Start()
     {
-        attribute = GetComponent<AttributeSet>();
+        combatComponent = GetComponent<CombatComponent>();
+        attributeSet = GetComponent<AttributeSet>();
+
+        combatComponent.AttributeSet = attributeSet;
     }
 
     void Update()

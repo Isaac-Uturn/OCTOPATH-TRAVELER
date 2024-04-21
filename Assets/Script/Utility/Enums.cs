@@ -13,7 +13,7 @@ public enum ActionType
     None = 0,
     Skill,
     Attack,
-    Defanse,
+    Defense,
     Item,
     Run
 }

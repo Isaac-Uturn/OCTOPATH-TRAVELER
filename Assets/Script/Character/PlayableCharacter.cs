@@ -15,7 +15,7 @@ public class PlayableCharacter : Character
         combatComponent = GetComponent<CombatComponent>();
         attributeSet = GetComponent<AttributeSet>();
 
-        combatComponent.attributeSet = attributeSet;
+        combatComponent.AttributeSet = attributeSet;
 
         collider = GetComponent<BoxCollider>();
         rigidBody = GetComponent<Rigidbody>();
