@@ -1,102 +1,67 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.LowLevel;
 
-
-public class PlayerController : Character
+public class PlayerController : MonoBehaviour
 {
-    //public Character prevColleague;
+    PlayerInput _playerInput;
+    public InputActionAsset actions;
 
-    [SerializeField]
-    private float followSpeed;
+    PlayerInputActions _inputActions;
+    
+    public Vector2 inputVector;
 
-    float moveX;
-    float moveY;
+    public delegate void PressInputEvent();
+    public PressInputEvent PressSprint;
+
+    public delegate void ReleaseInputEvent();
+    public ReleaseInputEvent ReleaseSprint;
 
     void Awake()
     {
-        gameObject.layer = 7;
+        //?
+        //gameObject.layer = 7;
     }
 
-    protected override void Start()
+    void Start()
     {
-        base.Start();
+        _playerInput = gameObject.AddComponent<PlayerInput>();
+        actions.Enable();
+        _playerInput.actions = actions;
+
+        //Player Input Actions C#
+        _inputActions = new PlayerInputActions();
+
+        _inputActions.Enable();
+        _inputActions.Player.Sprint.performed += x => SprintPressed();
+        _inputActions.Player.Sprint.canceled += x => SprintReleased();
+    }
+
+    void OnMove(InputValue value)
+    {
+        inputVector = value.Get<Vector2>();
+    }
+
+    void SprintPressed()
+    {
+        PressSprint.Invoke();
+    }
+
+    void SprintReleased()
+    {
+        ReleaseSprint.Invoke();
     }
 
     void LateUpdate()
     {
-        //if (currentState == ALLYSTATE.Move)
-        //{
-        //    Vector3 offset = transform.position - prevColleague.transform.position;
-        //    float sqrLen = offset.sqrMagnitude;
 
-        //    if (sqrLen > 0.2f)
-        //    {
-        //        transform.position = Vector3.Lerp(transform.position, prevColleague.transform.position, followSpeed * Time.deltaTime);
-        //    }
-        //}
     }
-
+        
     private void Update()
     {
-        //currentState = prevColleague.GetState();
-
-        //switch (currentState)
-        //{
-        //    case ALLYSTATE.FowardIdle:
-        //        animator.enabled = false;
-        //        renderer.sprite = sprites[1];
-        //        break;
-        //    case ALLYSTATE.BackIdle:
-        //        animator.enabled = false;
-        //        renderer.sprite = sprites[0];
-        //        break;
-        //    case ALLYSTATE.LeftIdle:
-        //        animator.enabled = false;
-        //        renderer.sprite = sprites[2];
-        //        break;
-        //    case ALLYSTATE.RightIdle:
-        //        animator.enabled = false;
-        //        renderer.sprite = sprites[3];
-        //        break;
-        //    case ALLYSTATE.Move:
-        //        animator.enabled = true;
-        //        moveX = prevColleague.GetMoveX();
-        //        moveY = prevColleague.GetMoveY();
-
-        //        animator.SetFloat("DirectX", moveX);
-        //        animator.SetFloat("DirectY", moveY);
-        //        break;
-        //    case ALLYSTATE.Combat:
-        //        animator.enabled = true;
-        //        animator.SetBool("isCombat", true);
-        //        break;
-        //}
     }
-
-    private void OnCollisionEnter(Collision collision)
-    {
-        if ("Player" == collision.gameObject.tag)
-        {
-            GetComponent<Collider>().isTrigger = true;
-        }
-    }
-
-    private void OnTriggerEnter(Collider other)
-    {
-        if ("Player" != other.gameObject.tag)
-        {
-            GetComponent<Collider>().isTrigger = false;
-        }
-    }
-
-    //private void OnCollisionExit(Collision collision)
-    //{
-    //    if ("Player" == collision.gameObject.tag)
-    //    {
-    //        colleagueCollider.isTrigger = false;
-    //    }
-    //}
 }
 
 

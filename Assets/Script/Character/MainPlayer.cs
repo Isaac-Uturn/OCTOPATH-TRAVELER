@@ -1,40 +1,54 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
+using static UnityEngine.Rendering.DebugUI;
 
-public class Player : PlayableCharacter
+//게임 상 하나만 존재하며 유일하게 조작이 가능한 캐릭터.
+//TODO: 다른 플레이어블 캐릭터도 메인 캐릭터로 변경 가능해야 함.
+public class MainPlayer : PlayableCharacter
 {
     protected CharcterMoveState currentState;
 
-    public List<Character> alliance;
-    public GameObject[] prefab = new GameObject[2];
+    PlayerController _playerController;
 
-    Vector2 movement;
-    float offset;
+    Vector2 _movement;
+    float _offset;
 
-    float basicSpeed = 0;
+    float _basicSpeed = 0;
+
+    private const string _horizontal = "Horizontal";
+    private const string _vertical = "Vertical";
+
+    private const string _lastHorizontal = "LastHorizontal";
+    private const string _lastHVertical = "LastVertical";
+    
     [SerializeField]
-    private float walkSpeed;
+    private float walkSpeed = 1.5f;
     [SerializeField]
-    private float runSpeed;
+    private float runSpeed = 3.5f;
+
+    float value = 0.5f;
 
     int battleRandom;
     int randomValue;
 
     void Awake()
     {
-        gameObject.layer = 6;
+        //gameObject.layer = 6;
+        //alliance.Add(this);
 
-        alliance.Add(this);
-
-        basicSpeed = walkSpeed;
+        _basicSpeed = walkSpeed;
         currentState = CharcterMoveState.ForwardIdle;
     }
 
     protected override void Start()
     {
         base.Start();
+
+        _playerController = GetComponent<PlayerController>();
+        _playerController.PressSprint += OnSprint;
+        _playerController.ReleaseSprint += OnWalk;
+
         //animator.enabled = false;
         //collider.size = new Vector3(0.5f, 0.66f, 0.5f);
     }
@@ -46,104 +60,53 @@ public class Player : PlayableCharacter
         return currentState;
     }
 
-    public virtual float GetMoveX()
-    {
-        return movement.x * offset;
-    }
-
-    public virtual float GetMoveY()
-    {
-        return movement.y * offset;
-    }
-
-    private void Update()
+    private void FixedUpdate()
     {
         MoveToPlayer();
-
-        //if (Input.GetKeyDown(KeyCode.K))
-        //{
-        //    isDown = false;
-
-        //    SceneManager.LoadScene("World");
-        //}
-
-        //if (Input.GetKeyDown(KeyCode.C))
-        //{
-        //    CreateColleague();
-        //}
-
-        //if (ALLYSTATE.Combat != currentState)
-        //{
-        //    MoveToPlayer();
-        //}
     }
 
     void MoveToPlayer()
     {
-        movement.x = Input.GetAxisRaw("Horizontal");
-        movement.y = Input.GetAxisRaw("Vertical");
+        _movement = _playerController.inputVector;
+        _offset = value;
 
-        offset = 0.5f + Input.GetAxis("Sprint") * 0.5f;
+        float speed = _movement.x * _offset;
 
-        animator.SetFloat("DirectX", movement.x * offset);
-        animator.SetFloat("DirectY", movement.y * offset);
+        Debug.Log("Speed :" + speed);
 
-        Vector3 Dir = new Vector3(movement.x, 0, movement.y).normalized;
+        animator.SetFloat(_horizontal, _movement.x * _offset);
+        animator.SetFloat(_vertical, _movement.y * _offset);
 
-        transform.position += Dir * basicSpeed * Time.deltaTime;
+        Vector3 Dir = new Vector3(_movement.x, 0, _movement.y);
+        rigidBody.MovePosition(transform.position + (Dir * _basicSpeed * Time.deltaTime));
 
-        if (movement.x > 0 || movement.x < 0 ||
-            movement.y > 0 || movement.y < 0)
+        if (0 < _movement.x)
         {
-            battleRandom++;
-            animator.enabled = true;
-
-            currentState = CharcterMoveState.Move;
+            renderer.flipX = true;
         }
 
-        else
+        else if (0 > _movement.x)
         {
-            switch (currentState)
-            {
-                //case ALLYSTATE.FowardIdle:
-                //    animator.enabled = false;
-                //    renderer.sprite = sprites[0];
-                //    break;
-                //case ALLYSTATE.LeftIdle:
-                //    animator.enabled = false;
-                //    renderer.sprite = sprites[1];
-                //    break;
-                //case ALLYSTATE.RightIdle:
-                //    animator.enabled = false;
-                //    renderer.sprite = sprites[2];
-                //    break;
-                //case ALLYSTATE.BackIdle:
-                //    animator.enabled = false;
-                //    renderer.sprite = sprites[3];
-                //    break;
-                //case ALLYSTATE.Move:
-                //    TransAnimation();
-                //    ChangeSpeed();
-                //    break;
-                //case ALLYSTATE.Combat:
-                //    animator.enabled = true;
-                //    animator.SetBool("isCombat", true);
-                //    break;
-            }
+            renderer.flipX = false;
+        }
+
+        if (_movement != Vector2.zero)
+        {
+            animator.SetFloat(_lastHorizontal, _movement.x);
+            animator.SetFloat(_lastHVertical, _movement.y);
         }
     }
 
-    void ChangeSpeed()
+    void OnSprint()
     {
-        if (Input.GetKeyDown(KeyCode.LeftShift))
-        {
-            basicSpeed = runSpeed;
-        }
+        value = 1.0f;
+        _basicSpeed = runSpeed;
+    }
 
-        else if (Input.GetKeyUp(KeyCode.LeftShift))
-        {
-            basicSpeed = walkSpeed;
-        }
+    void OnWalk()
+    {
+        value = 0.5f;
+        _basicSpeed = walkSpeed;
     }
 
     void TransAnimation()
@@ -182,7 +145,7 @@ public class Player : PlayableCharacter
             isDown = true;
 
             randomValue = Random.Range(1000, 2500);
-            SceneManager.LoadScene("Battle");
+            //SceneManager.LoadScene("Battle");
 
             currentState = CharcterMoveState.Combat;
         }
@@ -193,17 +156,17 @@ public class Player : PlayableCharacter
         }
     }
 
-    public List<Character> GetAllianceList()
-    {
-        return alliance;
-    }
+    //public List<Character> GetAllianceList()
+    //{
+    //    return alliance;
+    //}
 
     void CreateColleague()
     {
-        if (5 == alliance.Count)
-        {
-            return;
-        }
+        //if (5 == alliance.Count)
+        //{
+        //    return;
+        //}
 
         //GameObject instante = Instantiate(prefab[characterIndex], null);
         //DontDestroyOnLoad(instante);
