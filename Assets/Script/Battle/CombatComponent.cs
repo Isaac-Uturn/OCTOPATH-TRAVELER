@@ -13,9 +13,11 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
     // 상호작용 액션 시 대상
     public CombatComponent Target { get; set; }
 
-    Animator animator;
+    Animator _animator;
 
-    public ActionType actionType;
+    public float attackOffset = 0.0f;
+
+    private ActionType actionType;
     public ActionType ActionType
     {
         get
@@ -29,9 +31,12 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
         }
     }
 
+    protected readonly int hashIsAttackPara = Animator.StringToHash("isAttack");
+    protected readonly int hashIsCombatPara = Animator.StringToHash("isComat");
+
     void Start() 
     {
-        animator= GetComponent<Animator>();
+        _animator= GetComponent<Animator>();
     }
 
     public void SetBattleManager(IBattleMediator battleManager)
@@ -44,18 +49,23 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
         switch (actionType)
         {
             case ActionType.Skill:
+                Debug.Log("Skill");
                 break;
             case ActionType.Attack:
+                Debug.Log("Attack");
                 yield return Attack();
                 break;
             case ActionType.Defense:
+                Debug.Log("Defense");
                 break;
             case ActionType.Item:
+                Debug.Log("Use item");
                 break;
             case ActionType.Run:
+                Debug.Log("Run");
                 break;
             default:
-                Debug.Log("해당 액션을 동작할 수 없습니다.");
+                Debug.LogError("해당 액션을 동작할 수 없습니다.");
                 break;
         }
 
@@ -72,7 +82,8 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
     {
         Vector3 startPos = transform.position;
         Vector3 endPos = Target.transform.position;
-
+        endPos.x += attackOffset;
+        
         float alpha = 0.0f;
 
         while (true)
@@ -87,6 +98,15 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
 
             yield return null;
         }
+
+        _animator.SetBool(hashIsAttackPara, true);
+
+        float animationTime = _animator.GetCurrentAnimatorStateInfo(0).length;
+        yield return new WaitForSeconds(animationTime);
+
+        _animator.SetBool(hashIsAttackPara, false);
+
+        yield return new WaitForSeconds(0.5f);
 
         yield return AttackComback(startPos);
     }
@@ -114,7 +134,12 @@ public class CombatComponent : MonoBehaviour, IBattleColleague
 
     public void CombatStart()
     {
-        animator.SetBool("isCombat", true);
+        _animator.SetBool(hashIsCombatPara, true);
+    }
+
+    public void CombatEnd()
+    {
+        _animator.SetBool(hashIsCombatPara, false);
     }
 
     public void Hit(float damage)

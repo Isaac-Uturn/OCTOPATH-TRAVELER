@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Character : MonoBehaviour
 {
-    protected Animator animator;
-    protected SpriteRenderer renderer;
+    protected Animator _animator;
+    protected SpriteRenderer _renderer;
 
     protected virtual void Start()
     {
-        animator = GetComponent<Animator>();
-        renderer = GetComponent<SpriteRenderer>();
+        _animator = GetComponent<Animator>();
+        _renderer = GetComponent<SpriteRenderer>();
     }
 }

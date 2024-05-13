@@ -5,7 +5,16 @@ using UnityEngine;
 //BattleManager는 Battle 씬에만 존재함.
 public class BattleManager : MonoBehaviour, IBattleMediator
 {
-    public BattleTurn currentTrun = BattleTurn.None;
+    BattleTurn _currentTrun = BattleTurn.None;
+    public BattleTurn CurrentTrun
+    {
+        get { return _currentTrun; }
+        set
+        {
+            turnChanged(_currentTrun);
+            _currentTrun = value;
+        }
+    }
 
     [SerializeField]
     BattleUI BattleUI;
@@ -23,8 +32,8 @@ public class BattleManager : MonoBehaviour, IBattleMediator
 
     public void Initialized()
     {
-        currentTrun = BattleTurn.SelectAction;
-        turnChanged(currentTrun);
+        _currentTrun = BattleTurn.SelectAction;
+        turnChanged(_currentTrun);
     }
 
     public void AddBattleColleague(IBattleColleague colleague)
@@ -46,7 +55,7 @@ public class BattleManager : MonoBehaviour, IBattleMediator
     {
         while (true)
         {
-            switch (currentTrun)
+            switch (CurrentTrun)
             {
                 //모든 플레이어블 캐릭터가 액션을 선택.
                 //적 캐릭터들도 AI에 따라 액션 선택
@@ -61,7 +70,7 @@ public class BattleManager : MonoBehaviour, IBattleMediator
 
                         yield return BattleUI.BattleUIEnable();
 
-                        currentTrun = BattleTurn.Action;
+                        CurrentTrun = BattleTurn.Action;
                     }
                     break;
 
@@ -70,8 +79,8 @@ public class BattleManager : MonoBehaviour, IBattleMediator
                 case BattleTurn.Action:
                     {
                         yield return battleColleagues[currentActionIndex].Notify();
-                        
-                        currentTrun = BattleTurn.ActionEnd;
+
+                        CurrentTrun = BattleTurn.ActionEnd;
                     }
                     break;
 
@@ -83,12 +92,12 @@ public class BattleManager : MonoBehaviour, IBattleMediator
                         //적 진영/플레이어 진영 중 둘 하나라도 살아남음
                         if (battleColleagues.Count == currentActionIndex)
                         {
-                            currentTrun = BattleTurn.SelectAction;
+                            CurrentTrun = BattleTurn.SelectAction;
                         }
 
                         else
                         {
-                            currentTrun = BattleTurn.Action;
+                            CurrentTrun = BattleTurn.Action;
                         }
                     }
                     break;
@@ -101,8 +110,6 @@ public class BattleManager : MonoBehaviour, IBattleMediator
                     Debug.Log("진행할 수 없는 턴입니다.");
                     break;
             }
-
-            turnChanged(currentTrun);
         }
     }
 }

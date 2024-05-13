@@ -2,51 +2,74 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Playables;
 using UnityEngine.Rendering;
+using UnityEngine.Rendering.PostProcessing;
 
 public class PlayableCharacter : Character
 {
     [SerializeField]
     InputActionAsset actions;
 
-    protected BoxCollider collider;
-    protected Rigidbody rigidBody;
-    protected AttributeSet attributeSet;
-    protected CombatComponent combatComponent;
+    protected BoxCollider _collider;
+    protected Rigidbody _rigidBody;
+    protected AttributeSet _attributeSet;
+    protected CombatComponent _combatComponent;
 
-    public bool isPlayer;
+    [SerializeField]
+    bool isPlayer;
 
-    // Start is called before the first frame update
+    //public Transform charcterTransform;
+
+    //private const string layerName = "Interactable";
+
+    // Start is called before the first frame upda  te
     protected virtual void Start()
     {
         base.Start();
 
-        combatComponent = GetComponent<CombatComponent>();
-        attributeSet = GetComponent<AttributeSet>();
+        _combatComponent = GetComponent<CombatComponent>();
+        _attributeSet = GetComponent<AttributeSet>();
 
-        combatComponent.AttributeSet = attributeSet;
+        _combatComponent.AttributeSet = _attributeSet;
 
-        collider = GetComponent<BoxCollider>();
+        _collider = GetComponent<BoxCollider>();
         //collider.isTrigger = true;
 
-        rigidBody = GetComponent<Rigidbody>();
-        rigidBody.freezeRotation = true;
-        rigidBody.useGravity = true;
+        _rigidBody = GetComponent<Rigidbody>();
+        _rigidBody.freezeRotation = true;
+        _rigidBody.useGravity = true;
 
         if (true == isPlayer)
         {
             SetPlayer();
         }
+
+        else
+        {
+            SetColleague();
+        }
     }
 
-    //Playable Character를 Player로 지정
-    public virtual void SetPlayer()
+    //Playable Character(Main Player)를 Player로 지정
+    protected virtual void SetPlayer()
     {
         gameObject.AddComponent<MainPlayer>();
+        
+        //Interable만 충돌 검사하도록 지정
+        Interactor interactor = gameObject.AddComponent<Interactor>();
+        interactor.layerMask = 1 << LayerMask.NameToLayer("Interactable");
+
         PlayerController controller = gameObject.AddComponent<PlayerController>();
         controller.actions = actions;
 
-        //collider.isTrigger = false;
-        enabled = false;
+        //MainPlayer가 PlayerableCharacter를 상속받았으나 상속 구조 제거
+        //enabled = false;
+    }
+
+    //Playable Character(Colleague)를 Colleague로 지정
+    protected virtual void SetColleague()
+    {
+        Peer peer = gameObject.AddComponent<Peer>();
     }
 }

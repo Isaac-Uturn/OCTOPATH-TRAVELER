@@ -9,21 +9,26 @@ public class CombatAttributeData : ScriptableObject
     private int maxHP;
     public int MaxHP { get { return maxHP; } }
 
+    [SerializeField]
+    private int maxMP;
+    public int MaxMP { get { return maxMP; } }
+
     //Striking Point
     [SerializeField]
-    private int maxSP;
-    public int MaxSP { get { return maxSP; } }
+    private int maxSTR;
+    public int MaxSTR { get { return maxSTR; } }
 
     //Defensive Point
     [SerializeField]
-    private int maxDP;
-    public int MaxDP { get { return maxDP; } }
-    
+    private int maxDEF;
+    public int MaxDEF { get { return maxDEF; } }
+
+    //Agility Point
     [SerializeField]
-    private int damage;
-    public int Damage { get { return damage; } }
+    private float maxAGI;
+    public float MaxAGI { get { return maxAGI; } }
 
     [SerializeField]
-    private float moveSpeed;
-    public float MoveSpeed { get { return moveSpeed; } }
+    private List<CombatSkillData> combatSkillDats = new List<CombatSkillData>(4);
+    public List<CombatSkillData> CombatSkillDats { get { return combatSkillDats; } }
 }
